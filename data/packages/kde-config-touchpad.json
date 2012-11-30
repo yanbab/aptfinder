@@ -1,0 +1,9 @@
+{"package":"kde-config-touchpad",
+ "description":"touchpad configuration tool (synaptiks)",
+ "details":" synaptiks touchpad configuration tool. this package contains a\n configuration  tool for touchpads. The package provides a kcm\n module (for systemsettings), as well as a plasma widget and kded\n module to help managing touchpads, especially in KDE environments.\n suite::kde, uitoolkit::qt, use::configuring\n",
+ "installedSize":"355",
+ "downloadSize":"108298",
+ "homepage":"http:\/\/kde-apps.org\/content\/show.php\/synaptiks?content=114270",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

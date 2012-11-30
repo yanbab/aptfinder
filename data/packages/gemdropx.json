@@ -1,0 +1,9 @@
+{"package":"gemdropx",
+ "description":"Gem Drop X is an interesting one-player puzzle game for X11",
+ "details":" The game is played with YOU at the bottom of the screen.  At the\n top is a random assortment of colored shapes (\"gems\").  As time\n goes on, more gems appear at the very top of the screen, pushing the\n rest downwards.  The game is over when the gems reach the bottom.\n\n It's your job to keep the screen from filling up.  You do this by\n \"grabbing\" gems from the top of the screen, carrying them around,\n if need be, and \"throwing\" them back up.\n\n If, when you throw some gems back up, you create a \"match\" of 3 or more\n gems in a vertical column, they disappear (with a cool little explosion).\n At this point, if there are any \"matches\" of the same gem to the left or\n right of this column, they disappear too!  And so on.  This is great for\n cool chain-reactions! You also get more points for the more gems that\n disappear in a match.  (Matching four gives as many points as matching\n three twice, for example.)\n use::gameplaying, x11::application\n",
+ "installedSize":"1772",
+ "downloadSize":"875302",
+ "homepage":"http:\/\/www.newbreedsoftware.com\/gemdropx",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

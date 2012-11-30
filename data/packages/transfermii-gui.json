@@ -1,0 +1,8 @@
+{"package":"transfermii-gui",
+ "description":"transfer your mii from and to your wiimotes -- GUI",
+ "details":" transfermii is a program based on cwiid framework for using\n the wiimote under Linux.\n\n It allows you to transfer your miis (the characters used\n in the wii) from your wiimote and vice-versa.\n\n This packages provides the GTK+ GUI program.\n",
+ "installedSize":"118",
+ "downloadSize":"32212",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

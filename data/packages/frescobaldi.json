@@ -1,0 +1,9 @@
+{"package":"frescobaldi",
+ "description":"Qt4 LilyPond sheet music editor",
+ "details":" Frescobaldi is a LilyPond sheet music editor, with the following features:\n  * Enter LilyPond scores, then build and preview them with a mouseclick\n  * Powerful text editor with syntax highlighting and automatic completion\n  * Point-and-click support: click on notes or on error messages to jump to the\n    corresponding position in the LilyPond file\n  * Midi player to proof-listen LilyPond-generated MIDI files\n  * Powerful Score Wizard to quickly setup a music score\n  * Snippet Manager to store and apply text snippets, templates or scripts\n  * Use multiple versions of LilyPond, automatically selects the correct version\n  * Built-in LilyPond documentation browser and built-in Frescobaldi User Guide\n  * Translated into Dutch, English, French, German, Italian, Czech, Russian,\n    Spanish, Galician, Turkish and Polish\n Frescobaldi also includes the following music functions:\n  * Transpose music\n  * Change music from relative to absolute and vice versa\n  * Change the language used for note names\n  * Change the rhythm (double, halve, add\/remove dots, copy, paste) etc\n  * Hyphenate lyrics using word-processor hyphenation dictionaries\n  * Add spanners, dynamics, articulation easily using the Quick Insert panel\n  * Update LilyPond syntax using convert-ly, with display of differences\n\n In order to use lyric hyphenation, please install your languages' appropriate\n hyphenation packages, e.g. hyphen-fr for French, hyphen-ca for Catalan, etc.\n\n Frescobaldi is the Qt4 successor of LilyKDE, a Kate plugin for KDE3.\n uitoolkit::qt, use::editing, works-with::music-notation,\n x11::application\n",
+ "installedSize":"4451",
+ "downloadSize":"1328614",
+ "homepage":"http:\/\/www.frescobaldi.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"elinks",
+ "description":"advanced text-mode WWW browser",
+ "details":" ELinks is a feature-rich program for browsing the web in text mode.  It is\n like enhanced Lynx and Links.  The most noteworthy features of ELinks are:\n\n  * Lots of protocols (local files, finger, HTTP(S), FTP, IPv4\/6 etc.)\n  * Internationalized domain names\n  * Persistent cookies, HTTP authentication and proxy authentication\n  * Tabbed browsing, good looking menus and dialogs, and key-binding manager\n  * History browsing and typeahead searches\n  * Forms history and completion, and history in commonly used input dialogs\n  * CSS support and support for browser scripting (Perl, Lua, Guile etc.)\n  * Tables and frames rendering, and configurable color support\n  * Compressed and background (non-blocking) downloads, and download resuming\n interface::text-mode, network::client, protocol::ftp, protocol::http,\n protocol::ipv6, protocol::nntp, protocol::ssl, role::program,\n scope::application, use::browsing, web::browser,\n works-with-format::html, works-with-format::plaintext, works-with::text\n",
+ "installedSize":"1376",
+ "downloadSize":"594032",
+ "homepage":"http:\/\/elinks.cz\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

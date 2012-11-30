@@ -1,0 +1,9 @@
+{"package":"radiotray",
+ "description":"online radio streaming player",
+ "details":" This is a simple music streaming player that lives on the system tray.\n By clicking on the RadioTray icon, you'll be presented with a list of\n pre-configured online radios. By selecting one of those radios, it will\n start playing.\n sound::player, uitoolkit::gtk, use::playing, works-with::audio\n",
+ "installedSize":"797",
+ "downloadSize":"115582",
+ "homepage":"http:\/\/radiotray.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

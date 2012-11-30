@@ -1,0 +1,9 @@
+{"package":"fqterm",
+ "description":"BBS client written in QT4",
+ "details":" FQTerm is one of the most widely used BBS client in China, it\n supports Telnet\/SSH1\/SSH2 protocols and can process ANSI control\n sequences. It can be used to login BBS sites or *NIX hosts.\n\n Almost all the BBSes in Greater China Region are in BIG5 or GBK\n encoding. So FQTerm only support these two encodings and ASCII.\n protocol::ssh, protocol::telnet, role::program, uitoolkit::qt,\n x11::application, x11::terminal\n",
+ "installedSize":"2433",
+ "downloadSize":"1047450",
+ "homepage":"http:\/\/code.google.com\/p\/fqterm",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

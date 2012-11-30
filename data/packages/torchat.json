@@ -1,0 +1,9 @@
+{"package":"torchat",
+ "description":"decentralized instant messenger built on top of the Tor Network",
+ "details":" TorChat is a peer to peer instant messenger with a completely decentralized\n design, built on top of Tor's location hidden services, providing strong\n anonymity while being very easy to use\n\n Top most relevant feature TorChat claims, above from text messaging and file\n sending, rest on the difficulty someone would experiment trying to find out\n where you are communicating from\n\n In the condition someone might be observing you and sniff your internet traffic\n connection, the person will find highly difficult to find out:\n  - Where your contacts are located\n  - To whom you are sending or receiving from\n  - What you send or receive, as everything is end-to-end encrypted\n",
+ "installedSize":"399",
+ "downloadSize":"138844",
+ "homepage":"http:\/\/code.google.com\/p\/torchat",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,8 @@
+{"package":"pterm",
+ "description":"PuTTY terminal emulator",
+ "details":" This is an X terminal emulator based on the popular Windows SSH client,\n PuTTY. It supports xterm escape sequences, plus some Linux console\n sequences for colour palette configuration and some DECterm sequences for\n title bar control, and with an appropriate font it supports the UTF-8\n encoding of Unicode. It also has some nifty features like rectangular\n selection and NetHack keypad mode.\n uitoolkit::gtk, x11::terminal\n",
+ "installedSize":"527",
+ "downloadSize":"201060",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"xyscan",
+ "description":"data thief for scientists",
+ "details":" xyscan is a tool for the scientist in the need to extract data points,\n i.e. numeric values, from a plot. It allows you to scan the plots and\n extract data points including the size of the error bars (both in x\n and y). It can handle plots with linear and logarithmic scales. In\n fact xyscan can be used for extracting numeric values from any kind\n of 2D technical drawings.\n science::data-acquisition, science::plotting, scope::application,\n uitoolkit::qt, use::converting, use::simulating,\n works-with-format::tiff, works-with::image, works-with::image:vector,\n x11::application\n",
+ "installedSize":"1532",
+ "downloadSize":"1052152",
+ "homepage":"http:\/\/star.physics.yale.edu\/~ullrich\/xyscanDistributionPage\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,8 @@
+{"package":"contacts",
+ "description":"lightweight addressbook",
+ "details":" Contacts is a small, lightweight addressbook that features advanced vCard field\n type handling and is designed for use on hand-held devices, such as the Nokia\n 770\/N800 or the Sharp Zaurus series of PDAs.\n suite::gnome, uitoolkit::gtk, works-with-format::TODO, works-with::pim\n",
+ "installedSize":"441",
+ "downloadSize":"88386",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

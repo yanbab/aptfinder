@@ -1,0 +1,9 @@
+{"package":"cheese",
+ "description":"tool to take pictures and videos from your webcam",
+ "details":" A webcam application that supports image and video capture. Makes\n it easy to take photos and videos of you, your friends, pets or whatever\n you want. Allows you to apply fancy visual effects, fine-control image\n settings and has features such as Multi-Burst mode, Countdown timer\n for photos.\n suite::gnome, uitoolkit::gtk, use::TODO, use::filtering, use::viewing,\n works-with-format::TODO, works-with-format::jpg, works-with::image,\n works-with::image:raster, works-with::video, x11::application\n",
+ "installedSize":"349",
+ "downloadSize":"207480",
+ "homepage":"http:\/\/projects.gnome.org\/cheese\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

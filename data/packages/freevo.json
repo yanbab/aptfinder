@@ -1,0 +1,9 @@
+{"package":"freevo",
+ "description":"home theater framework - binaries",
+ "details":" Freevo is a complete home theater framework. It can operate as a\n Personal Video Recorder system for saving television input to disk, but\n can also browse and play pictures, music, games, and movies either from\n the hard disk or from CDs and DVDs. Freevo can be used to build a\n dedicated home theater system with a TV (plus remote), or can simply be\n run on a regular desktop computer with a monitor, mouse, and keyboard.\n\n This package provides Freevo binaries and servers.\n works-with::audio, works-with::video, x11::application\n",
+ "installedSize":"5515",
+ "downloadSize":"1798856",
+ "homepage":"http:\/\/freevo.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

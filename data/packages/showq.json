@@ -1,0 +1,9 @@
+{"package":"showq",
+ "description":"MIDI controllable audio player",
+ "details":" Application that can play audio cues and trigger MIDI events\n primarily developed for theatre productions.\n\n Features:\n  * 8 channels per_cue routing.\n  * Playback through ALSA or JACK.\n  * Load\/Save cue list.\n  * Hot key for any cue.\n  * Application controllable by MIDI.\n works-with::audio\n",
+ "installedSize":"785",
+ "downloadSize":"225198",
+ "homepage":"https:\/\/developer.berlios.de\/projects\/showq\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"weka",
+ "description":"Machine learning algorithms for data mining tasks",
+ "details":" Weka is a collection of machine learning algorithms in Java that can\n either be used from the command-line, or called from your own Java\n code. Weka is also ideally suited for developing new machine learning\n schemes.\n\n Implemented schemes cover decision tree inducers, rule learners, model\n tree generators, support vector machines, locally weighted regression,\n instance-based learning, bagging, boosting, and stacking. Also included\n are clustering methods, and an association rule learner. Apart from\n actual learning schemes, Weka also contains a large variety of tools\n that can be used for pre-processing datasets.\n\n This package contains the binaries and examples.\n interface::x11, role::program, science::calculation, scope::utility,\n use::analysing, use::calculating, works-with-format::TODO,\n works-with::db, works-with::text, x11::application\n",
+ "installedSize":"7866",
+ "downloadSize":"7146044",
+ "homepage":"http:\/\/www.cs.waikato.ac.nz\/~ml\/weka\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

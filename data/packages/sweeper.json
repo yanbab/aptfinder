@@ -1,0 +1,9 @@
+{"package":"sweeper",
+ "description":"history and temporary file cleaner",
+ "details":" Sweeper can quickly remove temporary information, such as web page cookies,\n browser history, or the list of recently-opened documents.  It helps provide\n additional privacy on a system shared between multiple users.\n\n This package is part of the KDE SC utilities module.\n suite::kde, uitoolkit::qt, x11::application\n",
+ "installedSize":"216",
+ "downloadSize":"98570",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

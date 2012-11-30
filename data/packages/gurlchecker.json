@@ -1,0 +1,9 @@
+{"package":"gurlchecker",
+ "description":"graphical websites checker",
+ "details":" The graphical gURLChecker can\n\n  * check links\n  * determine bad, malformed or too slow links\n  * determine validity of each page\n\n on a whole website, a single local page, or a browser bookmarks file.\n",
+ "installedSize":"1178",
+ "downloadSize":"319818",
+ "homepage":"http:\/\/gurlchecker.labs.libre-entreprise.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"xfprint4",
+ "description":"Printer GUI for Xfce4",
+ "details":" xfprint4 is a printer manager for the Xfce4 desktop environment. It allows\n you to manage your print job or to print a file by drag'n'drop. You do not\n have to have this package installed, but if you are using xfce4 it is a\n nice GUI to manage your printer jobs.\n suite::xfce, uitoolkit::gtk, use::printing, x11::application\n",
+ "installedSize":"1763",
+ "downloadSize":"612570",
+ "homepage":"http:\/\/www.xfce.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

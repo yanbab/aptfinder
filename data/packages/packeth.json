@@ -1,0 +1,9 @@
+{"package":"packeth",
+ "description":"Ethernet packet generator",
+ "details":" packeth is a GUI packet generator tool for Ethernet.\n It allows you to create and send any possible packet\n or sequence of packets via Ethernet. It also\n supports the PCAP format, so you can load packets\n from any other program (i.e. wireshark).\n\n You can create and send any Ethernet packet. The\n supported protocols are: Ethernet II, Ethernet\n 802.3, 802.1q, QinQ, ARP, IPv4, UDP, TCP, ICMP,\n IGMP, RTP.\n protocol::ip, protocol::tcp, protocol::udp, role::program,\n scope::utility, uitoolkit::gtk, works-with::network-traffic,\n x11::application\n",
+ "installedSize":"508",
+ "downloadSize":"137972",
+ "homepage":"http:\/\/packeth.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"patchage",
+ "description":"modular patch bay for Jack audio and Alsa Midi",
+ "details":" Patchage provides a graphical interface to connect jack and midi inputs\n and outputs. Each application is represented as one box with inputs on\n the left and output on the right. Boxes can be moved around and\n arranged to have a clear display of the current setup.\n",
+ "installedSize":"643",
+ "downloadSize":"220706",
+ "homepage":"http:\/\/drobilla.net\/software\/patchage\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

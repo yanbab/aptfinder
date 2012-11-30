@@ -1,0 +1,8 @@
+{"package":"galternatives",
+ "description":"graphical setup tool for the alternatives system",
+ "details":" A GUI to help the system administrator to choose what program\n should provide a given service.\n\n This is a graphical front-end to the update-alternatives\n program shipped with dpkg.\n role::program, suite::debian, uitoolkit::gtk, use::configuring,\n x11::application\n",
+ "installedSize":"292",
+ "downloadSize":"30070",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

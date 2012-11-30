@@ -1,0 +1,8 @@
+{"package":"gpredict",
+ "description":"Satellite tracking program",
+ "details":" Gpredict is a real time satellite tracking program for GNOME, based on\n the tracking engine of John Magliacane's excellent satellite tracker Predict.\n\n Gpredict includes the following features:\n\n  * Tracking an infinite number of satellites limited only by the\n    physical memory and processing power of the computer.\n  * Display the tracking data in lists, maps, polar plots or any\n    combination of these.\n  * You can have many modules open at the same time, either in a\n    notebook or in their own windows. The module can also run in\n    full-screen mode.\n  * You can use many ground stations. Ground station coordinates\n    can be entered manually or you can get some approximate values\n    from a list with more than 2000 predefined locations worldwide.\n  * Predict upcoming passes for satellites, including passes where a\n    satellite may be visible and communication windows open.\n  * Very detailed information about both the real time data and the\n    predicted passes.\n  * Gpredict can run in real-time, simulated real-time (fast forward and\n    backward), and manual time control.\n  * Doppler tuning of radios via Hamlib rigctld.\n  * Antenna rotator control via Hamlib rotctld.\n role::program, scope::application, suite::gnome, uitoolkit::gtk,\n use::monitor, x11::application\n",
+ "installedSize":"5249",
+ "downloadSize":"4098516",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"konsolekalendar",
+ "description":"konsole personal organizer",
+ "details":" KonsoleKalendar is a command-line interface to KDE calendars.\n KonsoleKalendar complements KOrganizer by providing a console\n frontend to manage your calendars.\n\n This package is part of the KDE PIM module.\n scope::utility, suite::kde, uitoolkit::qt, use::organizing,\n use::timekeeping, works-with::pim\n",
+ "installedSize":"1627",
+ "downloadSize":"298912",
+ "homepage":"http:\/\/pim.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

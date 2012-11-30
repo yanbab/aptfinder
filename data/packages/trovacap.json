@@ -1,0 +1,9 @@
+{"package":"trovacap",
+ "description":"tool to find Italian ZIP codes",
+ "details":" TrovaCAP is a tool to find Italian ZIP codes (CAP - Codice Avviamento\n Postale) from a given address.\n",
+ "installedSize":"176",
+ "downloadSize":"42672",
+ "homepage":"http:\/\/www.digitazero.org\/?p=41",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

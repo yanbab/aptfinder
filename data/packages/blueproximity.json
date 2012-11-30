@@ -1,0 +1,9 @@
+{"package":"blueproximity",
+ "description":"locks\/unlocks your desktop tracking a bluetooth device",
+ "details":" blueproximity helps you adding a little more security to your desktop.\n It does so by detecting one of your bluetooth devices, most likely your\n mobile phone, and keeping track of its distance. If you move away from\n your computer and the distance is above a certain level (no measurement\n in meters is possible) for a given time, it automatically locks your\n desktop (or starts any other shell command you want).\n\n Once away, if you return nearer than a given level for a set time your\n computer unlocks magically without any interaction (or starts any other\n shell command you want).\n role::program, scope::utility, security::authentication,\n uitoolkit::gtk, use::login, x11::applet\n",
+ "installedSize":"855",
+ "downloadSize":"303636",
+ "homepage":"http:\/\/blueproximity.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

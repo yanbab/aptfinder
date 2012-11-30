@@ -1,0 +1,8 @@
+{"package":"gjiten",
+ "description":"Japanese dictionary for GNOME",
+ "details":" Gjiten is a Japanese dictionary for GNOME with advanced word and kanji lookup\n features. Requires dictionary files (edict, kanjidic) to function.\n See http:\/\/gjiten.sourceforge.net for more dictionary files and updates.\n suite::gnome, uitoolkit::gtk, works-with::dictionary, x11::application\n",
+ "installedSize":"452",
+ "downloadSize":"150254",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

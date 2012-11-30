@@ -1,0 +1,9 @@
+{"package":"distccmon-gnome",
+ "description":"GTK+ monitor for distcc a distributed client and server",
+ "details":" distcc is a program to distribute compilation of C or C++ code across\n several machines on a network. distcc should always generate the same\n results as a local compile, is simple to install and use, and is often\n significantly faster than a local compile.  distcc does not require all\n machines to share a filesystem, have synchronized clocks, or to have\n the same libraries or header files installed.\n\n this is the GTK+ monitor program.\n interface::x11, role::program, scope::utility, suite::gnome,\n uitoolkit::gtk, use::monitor, works-with::software:source,\n x11::application\n",
+ "installedSize":"82",
+ "downloadSize":"46592",
+ "homepage":"http:\/\/distcc.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

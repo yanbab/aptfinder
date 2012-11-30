@@ -1,0 +1,9 @@
+{"package":"pysycache",
+ "description":"Educational game to teach children to use the mouse",
+ "details":" A collection of activities based on simple objects, photographies,\n numbers and letters with their sounds in different languages.\n The activities make children practice on clicking, double-clicking, drag and\n drop, moving and identify the mouse buttons.\n From its website many packages can be downloaded to add new photos and text to\n the activities.\n junior::TODO, made-of::TODO, made-of::audio, role::app-data,\n role::program, uitoolkit::TODO, uitoolkit::gtk, uitoolkit::motif,\n use::gameplaying, use::learning, x11::application\n",
+ "installedSize":"4176",
+ "downloadSize":"3294400",
+ "homepage":"http:\/\/www.pysycache.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

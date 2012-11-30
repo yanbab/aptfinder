@@ -1,0 +1,9 @@
+{"package":"eclipse-platform",
+ "description":"Eclipse platform without development plug-ins",
+ "details":" The Eclipse Platform is an open and extensible platform for anything and yet\n nothing in particular. It provides a foundation for constructing and running\n integrated software-development tools. The Eclipse Platform allows tool\n builders to independently develop tools that integrate with other people's\n tools so seamlessly you can't tell where one tool ends and another starts.\n\n This package provides the Eclipse Platform and is the base for all Eclipse\n development plug-ins, but it does not include any. These are available in\n different packages, for example:\n\n  * eclipse-jdt Java Development Tools\n  * eclipse-pde Plug-in Development Tools\n  * eclipse-cdt C\/C++ Development Tools\n role::program, suite::eclipse, uitoolkit::TODO, uitoolkit::gtk,\n use::editing, works-with::software:source, x11::application\n",
+ "installedSize":"513",
+ "downloadSize":"175412",
+ "homepage":"http:\/\/www.eclipse.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

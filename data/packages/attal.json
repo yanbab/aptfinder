@@ -1,0 +1,9 @@
+{"package":"attal",
+ "description":"turn-based strategy game",
+ "details":" Attal is an turn-based strategy game that can be played alone (against\n AI) or against other through a network.\n\n You control Lords with armies and you have to fight against opponents\n and achieve quests.\n network::server, role::program, uitoolkit::qt, use::gameplaying,\n x11::application\n",
+ "installedSize":"3332",
+ "downloadSize":"1113180",
+ "homepage":"http:\/\/www.attal-thegame.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

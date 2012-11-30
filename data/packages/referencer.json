@@ -1,0 +1,9 @@
+{"package":"referencer",
+ "description":"GNOME Document Organiser",
+ "details":" Referencer is a GNOME application to organise documents or references, and\n ultimately generate a BibTeX bibliography file. Referencer includes a number\n of features to make this process easier:\n\n  * Automatic metadata retrieval from PubMed, CrossRef and ArXiv\n  * Smart web links\n  * Import from BibTeX, Reference Manager and EndNote\n  * Tagging\n use::organizing, x11::application\n",
+ "installedSize":"2423",
+ "downloadSize":"724346",
+ "homepage":"http:\/\/icculus.org\/referencer\/index.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

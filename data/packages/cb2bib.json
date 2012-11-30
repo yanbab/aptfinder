@@ -1,0 +1,9 @@
+{"package":"cb2bib",
+ "description":"extract bibliographic references from various sources",
+ "details":" cb2bib is a program to extract bibliographic references from\n unformatted and non standard sources, like:\n  - email alerts;\n  - journal Web pages;\n  - and most interestingly PDF files.\n\n Output references are written to BibTeX-formatted files. Other\n features include:\n  - article files can be linked and renamed by dragging them onto the\n    cb2Bib window;\n  - editing and browsing BibTeX files;\n  - citing references, searching references and the full contents of the\n    referenced documents;\n  - inserting bibliographic metadata to documents;\n  - writing short notes that interrelate several references.\n science::bibliography, uitoolkit::qt, use::organizing,\n use::text-formatting, use::typesetting, works-with-format::bib,\n works-with-format::tex, works-with::text, x11::application\n",
+ "installedSize":"3746",
+ "downloadSize":"1559444",
+ "homepage":"http:\/\/www.molspaces.com\/cb2bib\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

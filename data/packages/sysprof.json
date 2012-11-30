@@ -1,0 +1,9 @@
+{"package":"sysprof",
+ "description":"system-wide Linux profiler",
+ "details":" Sysprof is a sampling CPU profiler that uses a ptrace in Linux kernel to\n profile the entire system, not just a single application. Sysprof handles\n shared libraries and applications do not need to be recompiled. In fact they\n don't even have to be restarted.\n\n It has the following features:\n  - profiles all running processes, not just a single application\n  - has a simple graphical interface\n  - shows the time spent in each branch of the call tree\n  - profiles can be loaded and saved\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"460",
+ "downloadSize":"184196",
+ "homepage":"http:\/\/www.daimi.au.dk\/~sandmann\/sysprof\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

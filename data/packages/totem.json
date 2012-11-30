@@ -1,0 +1,9 @@
+{"package":"totem",
+ "description":"Simple media player for the GNOME desktop based on GStreamer",
+ "details":" Totem is a simple yet featureful media player for GNOME which can read\n a large number of file formats. It features :\n\n    * Shoutcast, m3u, asx, SMIL and ra playlists support\n    * DVD (with menus), VCD and Digital CD (with CDDB) playback\n    * TV-Out configuration with optional resolution switching\n    * 4.0, 5.0, 5.1 and stereo audio output\n    * Full-screen mode (move your mouse and you get nice controls) with\n      Xinerama, dual-head and RandR support\n    * Aspect ratio toggling, scaling based on the video's original size\n    * Full keyboard control\n    * Simple playlist with repeat mode and saving feature\n    * GNOME, Nautilus and GIO integration\n    * Screenshot of the current movie\n    * Brightness and Contrast control\n    * Visualisation plugin when playing audio-only files\n    * Video thumbnailer for nautilus\n    * Nautilus properties page\n    * Works on remote displays\n    * DVD, VCD and OGG\/OGM subtitles with automatic language selection\n    * Extensible with plugins\n sound::player, suite::gnome, uitoolkit::gtk, use::playing,\n works-with-format::mp3, works-with-format::oggtheora,\n works-with-format::oggvorbis, works-with-format::wav,\n works-with::audio, works-with::video, x11::application\n",
+ "installedSize":"1274",
+ "downloadSize":"594650",
+ "homepage":"http:\/\/www.gnome.org\/projects\/totem\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

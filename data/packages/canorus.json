@@ -1,0 +1,9 @@
+{"package":"canorus",
+ "description":"graphical music score editor",
+ "details":" Canorus is a graphical music score editor written for the Qt4 toolkit.\n It is a sequel of the well-known music score editor for Linux, NoteEdit.\n Canorus uses LilyPond for music engraving to achieve a very high quality\n in the resulting documents.\n\n Canorus offers a number of import and export filters for LilyPond,\n MusicXML, Midi, NoteEdit and others.\n x11::application\n",
+ "installedSize":"2292",
+ "downloadSize":"890010",
+ "homepage":"http:\/\/www.canorus.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

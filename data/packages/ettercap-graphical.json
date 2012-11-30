@@ -1,0 +1,9 @@
+{"package":"ettercap-graphical",
+ "description":"Ettercap GUI-enabled executable",
+ "details":" Ettercap supports active and passive dissection of many protocols\n (even encrypted ones) and includes many feature for network and host\n analysis.\n\n Data injection in an established connection and filtering (substitute\n or drop a packet) on the fly is also possible, keeping the connection\n synchronized.\n\n Many sniffing modes are implemented, for a powerful and complete\n sniffing suite. It is possible to sniff in four modes: IP Based, MAC Based,\n ARP Based (full-duplex) and PublicARP Based (half-duplex).\n\n Ettercap also has the ability to detect a switched LAN, and to use OS\n fingerprints (active or passive) to find the geometry of the LAN.\n\n This package contains the ettercap GUI-enabled executable.\n",
+ "installedSize":"560",
+ "downloadSize":"230604",
+ "homepage":"http:\/\/ettercap.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

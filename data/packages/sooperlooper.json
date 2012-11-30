@@ -1,0 +1,9 @@
+{"package":"sooperlooper",
+ "description":"Looping Sampler",
+ "details":" SooperLooper is a live looping sampler capable of immediate loop recording,\n overdubbing, multiplying, reversing and more. It allows for multiple\n simultaneous multi-channel loops limited only by your computer's available\n memory.\n\n The application is a standalone JACK client with an engine controllable via\n OSC and MIDI. It also includes a GUI which communicates with the engine via\n OSC (even over a network) for user-friendly control on a desktop.\n",
+ "installedSize":"1154",
+ "downloadSize":"421972",
+ "homepage":"http:\/\/www.essej.net\/sooperlooper\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

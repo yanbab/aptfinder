@@ -1,0 +1,9 @@
+{"package":"logisim",
+ "description":"graphical tool for designing and simulating logic circuits",
+ "details":" Logisim is an educational tool for designing and simulating digital logic\n circuits. With its simple toolbar interface and simulation of circuits as\n you build them, it is simple enough to facilitate learning the most basic\n concepts related to logic circuits. With the capacity to build larger circuits\n from smaller subcircuits, and to draw bundles of wires with a single mouse\n drag, Logisim can be used (and is used) to design and simulate entire CPUs\n for educational purposes.\n",
+ "installedSize":"5306",
+ "downloadSize":"4926738",
+ "homepage":"http:\/\/ozark.hendrix.edu\/~burch\/logisim\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"dwb",
+ "description":"lightweight webkit browser",
+ "details":" Highly customizable browser that can be easily configured through a web\n interface. Intends to be mostly keyboard driven.\n\n Features:\n  - vi like shortcuts\n  - Link followed by keyboard hints\n  - Bookmarks\n  - Quickmarks\n  - Cookie support\n  - Proxy support\n  - Userscript support\n  - Tab completion for histroy, bookmarks, userscripts\n  - Custom CSS Stylesheets\n  - Tiling layouts\n  - and more...\n",
+ "installedSize":"606",
+ "downloadSize":"198434",
+ "homepage":"http:\/\/portix.bitbucket.org\/dwb\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

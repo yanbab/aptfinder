@@ -1,0 +1,9 @@
+{"package":"mnemosyne",
+ "description":"spaced repetition flash-card program",
+ "details":" The Mnemosyne software resembles a traditional flash-card program to help you\n memorise question\/answer pairs, but with an important twist: it uses a\n sophisticated algorithm to schedule the best time for an item to come up for\n review. Difficult items that you tend to forget quickly will be scheduled more\n often, while Mnemosyne won't waste your time on things you remember well.\n x11::application\n",
+ "installedSize":"1577",
+ "downloadSize":"336022",
+ "homepage":"http:\/\/www.mnemosyne-proj.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

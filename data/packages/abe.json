@@ -1,0 +1,9 @@
+{"package":"abe",
+ "description":"Side-scrolling game named \"Abe's Amazing Adventure\"",
+ "details":" A scrolling, platform-jumping, key-collecting, ancient pyramid exploring game,\n vaguely in the style of similar games for the Commodore+4. The game is\n intended to show young people all the cool games they missed.\n use::entertaining, use::gameplaying\n",
+ "installedSize":"141",
+ "downloadSize":"39320",
+ "homepage":"http:\/\/abe.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

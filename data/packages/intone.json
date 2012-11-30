@@ -1,0 +1,9 @@
+{"package":"intone",
+ "description":"Elementary based mplayer frontend for audio files",
+ "details":" Intone is an elementary based front end for mplayer written in C.\n\n It has been written for Openmoko Freerunner, but will run on\n other systems, too. Apart from common things supported by most\n audio players intone supports A2DP headsets (audio via bluetooth)\n and interacts with FSO for call detection (pause music on call).\n uitoolkit::TODO, use::playing, works-with::audio, x11::application\n",
+ "installedSize":"281",
+ "downloadSize":"175132",
+ "homepage":"http:\/\/intone.googlecode.com",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

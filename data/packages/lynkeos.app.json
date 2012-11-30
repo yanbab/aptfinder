@@ -1,0 +1,9 @@
+{"package":"lynkeos.app",
+ "description":"Tool to process planetary astronomical images for GNUstep",
+ "details":" This is an application dedicated to the processing of astronomical\n (mainly planetary) images taken with a webcam through a telescope.\n It was created on Mac OS X.\n interface::x11, role::program, suite::gnustep, uitoolkit::gnustep\n",
+ "installedSize":"430",
+ "downloadSize":"124074",
+ "homepage":"http:\/\/christophe.jalady.free.Fr\/lynkeos\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

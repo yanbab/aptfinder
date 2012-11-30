@@ -1,0 +1,9 @@
+{"package":"gcu-bin",
+ "description":"GNOME chemistry utils (helper applications)",
+ "details":" The GNOME Chemistry Utils provide C++ classes and Gtk+-2 widgets\n related to chemistry. They will be used in future versions of both\n gcrystal and gchempaint.\n\n This package provides 4 applications:\n\n  * a molecular structures viewer (GChem3D)\n  * a molar mass calculator (GChemCalc)\n  * a periodic table of the elements (GChemTable)\n  * a spectra viewer (GSpectrum)\n",
+ "installedSize":"1699",
+ "downloadSize":"1195798",
+ "homepage":"http:\/\/www.nongnu.org\/gchemutils\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

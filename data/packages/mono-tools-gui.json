@@ -1,0 +1,8 @@
+{"package":"mono-tools-gui",
+ "description":"Various GUI tools for mono",
+ "details":" This package contains various GUI tools for use with Mono:\n  - gasnview\n  - ilcontrast\n  - gui-compare\n  - mperfmon\n  - gsharp\n",
+ "installedSize":"455",
+ "downloadSize":"165590",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

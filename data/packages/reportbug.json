@@ -1,0 +1,9 @@
+{"package":"reportbug",
+ "description":"reports bugs in the Debian distribution",
+ "details":" reportbug is a tool designed to make the reporting of bugs in Debian\n and derived distributions relatively painless.  Its features include:\n\n  * Integration with mutt and mh\/nmh mail readers.\n  * Access to outstanding bug reports to make it easier to identify\n    whether problems have already been reported.\n  * Automatic checking for newer versions of packages.\n  * Optional automatic verification of integrity of packages via debsums.\n  * Support for following-up on outstanding reports.\n  * Optional PGP\/GnuPG integration.\n\n reportbug is designed to be used on systems with an installed mail\n transport agent, like exim or sendmail; however, you can edit the\n configuration file and send reports using any available mail server.\n\n This package also includes the \"querybts\" script for browsing the\n Debian bug tracking system.\n mail::smtp, network::client, protocol::http, protocol::smtp,\n role::program, scope::utility, suite::debian, use::TODO,\n works-with-format::plaintext, works-with::bugs\n",
+ "installedSize":"219",
+ "downloadSize":"126204",
+ "homepage":"http:\/\/alioth.debian.org\/projects\/reportbug\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

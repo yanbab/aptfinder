@@ -1,0 +1,9 @@
+{"package":"icecc-monitor",
+ "description":"icecc monitor for KDE",
+ "details":" icecc-monitor is an icecc (distributed compiler) monitor for KDE. It provides\n a view on the distributed compile network, which jobs run where and details\n about jobs and nodes (statistics and overview information).\n\n See the 'icecc' package for more informations.\n scope::utility, suite::kde, uitoolkit::qt, use::monitor,\n x11::application\n",
+ "installedSize":"504",
+ "downloadSize":"154952",
+ "homepage":"http:\/\/en.opensuse.org\/Icecream",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

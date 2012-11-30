@@ -1,0 +1,9 @@
+{"package":"qasmixer",
+ "description":"ALSA mixer for the desktop",
+ "details":" QasTools is a collection of desktop applications for the\n Linux sound system ALSA.\n\n The applications included are:\n  - QasConfig - browser for the ALSA configuration tree\n  - QasHctl - mixer for ALSA's High level Control Interface\n  - QasMixer - desktop mixer with features similar to alsamixer\n\n QasMixer is a desktop mixer application for ALSA's\n \"Simple Mixer Interface\" and offers features similar to alsamixer.\n It also features a sytem tray icon with basic mixer functionality.\n uitoolkit::qt, x11::application\n",
+ "installedSize":"876",
+ "downloadSize":"317980",
+ "homepage":"http:\/\/xwmw.org\/qastools",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

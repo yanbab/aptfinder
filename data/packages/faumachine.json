@@ -1,0 +1,9 @@
+{"package":"faumachine",
+ "description":"Virtual machine running in user mode",
+ "details":" FAUmachine is a virtual machine that can simulate PC hardware like QEMU.\n Its main focus is to simulate the real hardware as close as possible.\n\n FAUmachine comes with the ability to inject faults to different hardware\n simulators, e.g. to inject intermittent or transient faults to the simulated\n disk or the simulated memory.\n\n FAUmachine also comes with an experiment controller, with which automated\n tests, like installing an operating system from an iso image, can be run.\n",
+ "installedSize":"3971",
+ "downloadSize":"1162198",
+ "homepage":"http:\/\/www.faumachine.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

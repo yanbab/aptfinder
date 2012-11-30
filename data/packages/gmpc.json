@@ -1,0 +1,9 @@
+{"package":"gmpc",
+ "description":"Gnome Music Player Client (graphical interface to MPD)",
+ "details":" A GNOME\/GTK2.2 client for Music Player Daemon, it began life as traymp,\n a simple tray notification client and has grown into much more.\n Current features include:\n  * Support for loading\/saving playlists\n  * File Browser\n  * Browser based on ID3 information\n  * Search\n  * Current playlist viewer with search\n  * ID3 Information\n  * Cover art (via plugins)\n suite::gnome, uitoolkit::gtk, use::playing, works-with::audio,\n x11::application\n",
+ "installedSize":"1087",
+ "downloadSize":"498882",
+ "homepage":"http:\/\/gmpc.wikia.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

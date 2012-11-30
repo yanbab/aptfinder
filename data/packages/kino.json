@@ -1,0 +1,9 @@
+{"package":"kino",
+ "description":"Non-linear editor for Digital Video data",
+ "details":" Kino allows you to record, create, edit, and play movies recorded with DV\n camcorders. This program uses many keyboard commands for fast navigating and\n editing inside the movie.\n\n The kino-timfx, kino-dvtitler and kinoplus sets of plugins, formerly\n distributed as separate packages, are now provided with Kino.\n interface::x11, role::program, scope::application, suite::gnome,\n uitoolkit::gtk, use::editing, works-with::video, x11::application\n",
+ "installedSize":"8262",
+ "downloadSize":"4720512",
+ "homepage":"http:\/\/www.kinodv.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

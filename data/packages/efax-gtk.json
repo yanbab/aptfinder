@@ -1,0 +1,9 @@
+{"package":"efax-gtk",
+ "description":"front end in GTK+ for the efax program",
+ "details":" efax-gtk is a GTK+ front end for the efax program. It can\n be used to send and receive faxes with a fax modem, and to\n view, print and manage faxes received.\n\n It also has a socket interface to provide a \"virtual\n printer\" for sending faxes from word processors and\n similar programs, and can automatically e-mail a received\n fax to a designated user, and automatically print a\n received fax.\n use::transmission, works-with::fax, x11::application\n",
+ "installedSize":"1814",
+ "downloadSize":"681958",
+ "homepage":"http:\/\/efax-gtk.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

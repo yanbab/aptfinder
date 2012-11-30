@@ -1,0 +1,9 @@
+{"package":"orage",
+ "description":"Calendar for Xfce Desktop Environment",
+ "details":" This package contains a calendar for the Xfce4 desktop environment.\n It integrates itself nicely into the desktop environment, is highly\n configurable and supports alerts based on dates. If you are looking\n for a good graphical calendar, you will probably want to try out\n orage. It stores its data in iCal format.\n suite::xfce, uitoolkit::gtk, use::organizing, use::timekeeping,\n works-with-format::TODO, works-with::pim, x11::applet\n",
+ "installedSize":"5022",
+ "downloadSize":"2340518",
+ "homepage":"http:\/\/www.xfce.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

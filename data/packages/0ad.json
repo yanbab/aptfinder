@@ -1,0 +1,9 @@
+{"package":"0ad",
+ "description":"Real-time strategy game of ancient warfare",
+ "details":" 0 A.D. (pronounced \"zero ey-dee\") is a free, open-source, cross-platform\n real-time strategy (RTS) game of ancient warfare. In short, it is a\n historically-based war\/economy game that allows players to relive or rewrite\n the history of Western civilizations, focusing on the years between 500 B.C.\n and 500 A.D. The project is highly ambitious, involving state-of-the-art 3D\n graphics, detailed artwork, sound, and a flexible and powerful custom-built\n game engine.\n uitoolkit::sdl, uitoolkit::wxwidgets, use::gameplaying,\n x11::application\n",
+ "installedSize":"8022",
+ "downloadSize":"2295000",
+ "homepage":"http:\/\/www.wildfiregames.com\/0ad\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

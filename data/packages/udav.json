@@ -1,0 +1,9 @@
+{"package":"udav",
+ "description":"application for data visualization based on MathGL",
+ "details":" UDAV provides a graphical environment for Data Array\n Visualization based on the MathGL library. It allows easy\n viewing, manipulation and plotting of datasets, and supports\n a wide range of graphical effects with a simple scripting\n language, MGL. It can also execute MGL scripts. Features\n include:\n\n  * Simple and fast plotting of data and formulas;\n  * One-click interface - just open the datafile in UDAV;\n  * Scripts and graphical output both shown at the same time;\n  * Rotate, pan, and zoom controls (via buttons or mouse);\n  * Toggleable lighting and transparency;\n  * GIF animation;\n  * Support for smoothed lighting, transparency, arbitrary\n    curvilinear coordinates, and TeX symbols and formulas;\n  * Tables for data editing, with support for 3-dimensional\n    arrays;\n  * Basic toolset for data handling (smoothing, resizing,\n    cropping, filling by formula, summation, differentiation,\n    histogram creation, and so on);\n  * Export to bitmap and vector formats (PNG, JPEG, EPS, or\n    SVG).\n scope::utility, uitoolkit::qt, x11::application\n",
+ "installedSize":"790",
+ "downloadSize":"309082",
+ "homepage":"http:\/\/udav.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"pixelize",
+ "description":"Create an image consisting of many small images",
+ "details":" Pixelize is a program that will use many scaled down images to\n try to duplicate, as closely as possible, another image.\n\n Pixelize works by splitting up the image you want rendered (or\n duplicated) into a grid of small rectangular areas. Each area\n is analyzed, and replaced with an image chosen from a large\n database of images. Pixelize tries to pick images that best\n match each area.\n works-with::image, works-with::image:raster, x11::application\n",
+ "installedSize":"148",
+ "downloadSize":"29544",
+ "homepage":"http:\/\/lashwhip.com\/pixelize.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

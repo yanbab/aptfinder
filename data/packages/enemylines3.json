@@ -1,0 +1,9 @@
+{"package":"enemylines3",
+ "description":"semi-abstract first person 3d-shooter game",
+ "details":" single-player game. You have to shoot evil robots before they get too\n close, you can use your jetpack to  escape.\n The robos can't jump but they tear down walls.\n use::gameplaying, x11::application\n",
+ "installedSize":"784",
+ "downloadSize":"473908",
+ "homepage":"http:\/\/proj.phk.at\/el\/3\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

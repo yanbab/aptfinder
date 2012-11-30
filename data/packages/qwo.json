@@ -1,0 +1,9 @@
+{"package":"qwo",
+ "description":"An efficient input method for touch screens",
+ "details":" Qwo is an implementation of quikwriting, an input method to continuously\n enter text on a touchscreen, without picking up the finger or stylus.\n",
+ "installedSize":"121",
+ "downloadSize":"48824",
+ "homepage":"http:\/\/www.nongnu.org\/qwo\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

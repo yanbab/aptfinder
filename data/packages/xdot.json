@@ -1,0 +1,9 @@
+{"package":"xdot",
+ "description":"interactive viewer for Graphviz dot files",
+ "details":" xdot is an interactive viewer for graphs written in Graphviz's dot language.\n It uses internally the graphviz's xdot output format as an intermediate\n format, and PyGTK and Cairo for rendering. xdot can be used either as a\n standalone application from command line, or as a library embedded in your\n Python application.\n\n Features:\n  * Since it doesn't use bitmaps it is fast and has a small memory footprint.\n  * Arbitrary zoom.\n  * Keyboard\/mouse navigation.\n  * Supports events on the nodes with URLs.\n  * Animated jumping between nodes.\n  * Highlights node\/edge under mouse.\n science::visualisation, scope::utility, uitoolkit::gtk, use::viewing\n",
+ "installedSize":"117",
+ "downloadSize":"16398",
+ "homepage":"http:\/\/code.google.com\/p\/jrfonseca\/wiki\/XDot",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

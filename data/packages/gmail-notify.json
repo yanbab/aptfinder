@@ -1,0 +1,9 @@
+{"package":"gmail-notify",
+ "description":"Notify the arrival of new mail on Gmail",
+ "details":" Gmail Notifier is a Linux alternative for the notifier program released\n by Google, it is written in Python and provides an attractive and\n simple way to check for new mail messages.\n network::client, protocol::http, role::program, scope::utility,\n uitoolkit::gtk, use::monitor, works-with::mail, x11::applet\n",
+ "installedSize":"73",
+ "downloadSize":"31038",
+ "homepage":"http:\/\/gmail-notify.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

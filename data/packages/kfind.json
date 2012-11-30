@@ -1,0 +1,9 @@
+{"package":"kfind",
+ "description":"file search utility",
+ "details":" KFind can be used to find files and directories on your system.\n\n This package is part of the KDE base applications module.\n suite::kde, uitoolkit::qt, works-with::file, x11::application\n",
+ "installedSize":"370",
+ "downloadSize":"101846",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"pychess",
+ "description":"chess graphical user interface for several chess engines",
+ "details":" The goal of pychess, is to provide a fully featured, nice looking,\n easy to use chess client for the gnome-desktop.\n\n The client should be usable both to those totally new to chess, and\n those who want to use a computer to further enchance their play.\n\n Features include:\n  Tabbed interface\n  pgn+epd read\/write support\n  Hints and spymode\n  xboard\/cecp engine support\n  Builtin Python based engine\n  Openingbook using sqlite\n  Clean interface and dialogs\n  Builtin move validator\n  Legal move highlighting\n  Supports drag'n'drop.\n role::program, uitoolkit::gtk, use::gameplaying, x11::application\n",
+ "installedSize":"4674",
+ "downloadSize":"1545240",
+ "homepage":"http:\/\/pychess.googlepages.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

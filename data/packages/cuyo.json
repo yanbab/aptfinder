@@ -1,0 +1,9 @@
+{"package":"cuyo",
+ "description":"Tetris-like game with very impressive effects",
+ "details":" Cuyo, named after a Spanish relative adjective, shares\n with tetris that things fall down and how to navigate them.\n When enough \"of the same type\" come \"together\", they explode.\n The goal of each level is to blow special \"stones\" away, you\n start with. But what \"of the same type\" and \"together\" means,\n varies with the levels.\n role::program, scope::application, uitoolkit::qt, use::gameplaying,\n x11::application\n",
+ "installedSize":"475",
+ "downloadSize":"190938",
+ "homepage":"http:\/\/www.karimmi.de\/cuyo\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

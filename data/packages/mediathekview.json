@@ -1,0 +1,9 @@
+{"package":"mediathekview",
+ "description":"View streams from German public television stations",
+ "details":" This application searches for various media center video content of the German\n television program (ARD, ZDF, Arte, 3Sat, MDR, SF and many more).\n You can watch, download and even subscribe to an offered show.\n use::downloading, use::entertaining, use::playing, x11::application\n",
+ "installedSize":"1467",
+ "downloadSize":"1099590",
+ "homepage":"http:\/\/zdfmediathk.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

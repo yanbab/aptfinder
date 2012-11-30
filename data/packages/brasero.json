@@ -1,0 +1,9 @@
+{"package":"brasero",
+ "description":"CD\/DVD burning application for GNOME",
+ "details":" Brasero is a simple application to burn, copy and erase CD and DVD\n media: audio, video or data. It features among other things:\n  * On-the-fly burning\n  * Multisession support\n  * On-the-fly conversion of music playlists in all formats supported by\n    GStreamer\n\n This package contains the main binary, the burning plugins and the\n nautilus extension.\n\n The following packages, if installed, will provide Brasero with added\n functionality:\n  * cdrdao to burn combined data\/audio CDs and for byte-to-byte copy\n  * GStreamer backends to support more audio formats\n  * vcdimager to create VCDs or SVCDs\n  * libdvdcss2 to copy encrypted DVDs\n  * tracker to search for video, audio, image and document files\n interface::x11, role::program, scope::application, suite::gnome,\n uitoolkit::gtk, use::storing, works-with-format::iso9660,\n works-with-format::mp3, works-with-format::oggvorbis,\n works-with::audio, x11::application\n",
+ "installedSize":"1062",
+ "downloadSize":"673014",
+ "homepage":"http:\/\/www.gnome.org\/projects\/brasero\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"fatrat",
+ "description":"multi-protocol download manager, feature rich and extensible via plugin",
+ "details":" FatRat is a feature rich download manager written in C++ and built on top of\n Qt4 library. It supports a lot of download and file exchange protocols and is\n continuously extended. It also includes a plugin system.\n Most relevant features are:\n\n  * HTTP(S)\/FTP downloads\n  * FTP uploads\n  * RSS feed support + special functions for TV shows and podcasts\n  * BitTorrent support (including torrent creating, DHT, UPnP,\n    encryption etc.)\n  * Torrent search\n  * Support for SOCKS5 and HTTP proxies\n  * RapidShare.com FREE downloads\n  * RapidShare.com uploads\n  * RapidShare.com link verification and folder extraction\n  * RapidSafe link decoding\n  * MD4\/MD5\/SHA1 hash computing\n  * Remote control via Jabber\n  * Remote control via a web interface\n  * YouTube video downloading\n protocol::bittorrent, protocol::ftp, protocol::ip, protocol::jabber,\n protocol::ssl, protocol::tcp, role::program, scope::application,\n uitoolkit::qt, use::downloading, use::searching, x11::application\n",
+ "installedSize":"2263",
+ "downloadSize":"1058358",
+ "homepage":"http:\/\/fatrat.dolezel.info",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

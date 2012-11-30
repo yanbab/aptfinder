@@ -1,0 +1,9 @@
+{"package":"rawtherapee",
+ "description":"Free RAW converter and digital photo processing software",
+ "details":" RawTherapee is used to adjust some of the most often changed parameters when\n optimizing digital images. A normal user often just wants to adjust the white\n balance or brightness of a photo he took. Instead of using a big and expensive\n image editor you could use a small and fast tool like RawTherapee.\n More and more cameras also support RAW formats. RAW files usually offer higher\n color depth than JPGs. So the adjustments are done with the high color depth\n and then afterwards converted to or saved as JPGs. RawTherapee supports JPG,\n PNG and TIFF. All image processing is done in 16 bit\/channel mode.\n Different to other RAW converters it can use EAHD as demosaicing algorithm.\n The raw loading engine of RawTherapee is based on dcraw.\n scope::utility, uitoolkit::gtk, use::converting,\n works-with-format::jpg, works-with-format::png,\n works-with-format::tiff, works-with::image, works-with::image:raster,\n x11::application\n",
+ "installedSize":"6806",
+ "downloadSize":"2561132",
+ "homepage":"http:\/\/www.rawtherapee.com",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

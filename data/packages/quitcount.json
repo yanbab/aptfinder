@@ -1,0 +1,9 @@
+{"package":"quitcount",
+ "description":"Small tool which may help yourself quit smoking",
+ "details":" QuitCount is a simple counter that shows what you spared since\n you quit smoking. Once you tell it the date you quit, how much\n you smoked, and how much it cost, it'll tell you how many\n cigarettes you didn't smoke since, and how much it makes in\n terms of money, tar, and life expectancy.\n role::program, scope::application, uitoolkit::gtk, use::measuring,\n works-with::people, x11::application\n",
+ "installedSize":"247",
+ "downloadSize":"32748",
+ "homepage":"http:\/\/quitcount.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

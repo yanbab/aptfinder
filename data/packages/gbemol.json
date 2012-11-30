@@ -1,0 +1,9 @@
+{"package":"gbemol",
+ "description":"Graphical frontend for the Music Player Daemon (MPD)",
+ "details":" gbemol allows you to use MPD with a userfriendly interface. Features include\n an easy-to-use, tag-oriented library browser, a two mode playlist, cover art\n support (APIC tag only, for now), system tray icon docking, song, album and\n artist information.\n\n Music Player Daemon is a server that allows remote access for playing audio\n files, streams and managing playlists. The daemon is controlled through a\n client which need not run on the same computer mpd runs on.\n x11::application\n",
+ "installedSize":"236",
+ "downloadSize":"68366",
+ "homepage":"http:\/\/gbemol.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

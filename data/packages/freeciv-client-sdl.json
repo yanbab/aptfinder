@@ -1,0 +1,9 @@
+{"package":"freeciv-client-sdl",
+ "description":"Civilization turn based strategy game (SDL client)",
+ "details":" Freeciv is a free clone of the turn based strategy game Civilization.\n In this game, each player becomes leader of a civilisation, fighting to\n obtain the ultimate goal: the extinction of all other civilisations.\n\n This is the SDL version of the Freeciv client.\n use::gameplaying, x11::application\n",
+ "installedSize":"1982",
+ "downloadSize":"750454",
+ "homepage":"http:\/\/www.freeciv.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

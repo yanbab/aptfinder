@@ -1,0 +1,9 @@
+{"package":"bpython",
+ "description":"fancy interface to the Python interpreter - Curses frontend",
+ "details":" bpython is a fancy interface to the Python interpreter, and has the\n following features:\n\n   * In-line syntax highlighting.\n   * Readline-like autocomplete with suggestions displayed as you type\n   * Expected parameter list for any Python function. Uses pydoc to attempt to\n     divine params for C functions.\n   * \"Rewind\" function to pop the last line of code from memory and re-evaluate.\n     Note: this is only really useful when laying out classes and functions,\n     since a true \"undo\" function is impossible, so be careful when using this.\n   * Send the code you've entered off to a pastebin and display the pastebin URL\n     for copying, etc.\n   * Save the code you've entered to a file.\n   * Auto-indentation.\n   * Anti-Crash Mode.\n\n This package contains the Curses frontend to bpython.\n implemented-in::python, role::program, uitoolkit::ncurses\n",
+ "installedSize":"294",
+ "downloadSize":"62768",
+ "homepage":"http:\/\/bpython-interpreter.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

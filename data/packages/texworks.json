@@ -1,0 +1,9 @@
+{"package":"texworks",
+ "description":"Environment for authoring TeX (LaTeX, ConTeXt, etc) documents",
+ "details":" An environment for authoring TeX (LaTeX, ConTeXt, etc) documents, with\n a Unicode-based, TeX-aware editor, integrated PDF viewer, and a clean,\n simple interface accessible to casual and non-technical users.\n\n TeXworks is inspired by Dick Koch's award-winning TeXShop program for\n Mac OS X, which has made quality typesetting through TeX accessible to\n a wider community of users, without a technical or intimidating face.\n The goal of TeXworks is to deliver a similarly integrated, easy-to-use\n environment for users on other platforms, especially GNU\/Linux and Windows.\n use::editing, works-with-format::pdf, works-with-format::tex,\n x11::application\n",
+ "installedSize":"3612",
+ "downloadSize":"2430194",
+ "homepage":"http:\/\/www.tug.org\/texworks\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

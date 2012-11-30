@@ -1,0 +1,9 @@
+{"package":"tcos-configurator",
+ "description":"PyGTK tool to configure some needed services to get a TCOS server",
+ "details":" This tool configure dnsmasq or isc-dhcp-server to boot TCOS thin clients.\n\n You can create users, configure autologin or launch TcosConfig too.\n",
+ "installedSize":"280",
+ "downloadSize":"42764",
+ "homepage":"http:\/\/www.tcosproject.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"galculator",
+ "description":"A GTK+ 2.0 based calculator",
+ "details":" galculator is a scientific calculator. It supports different number\n bases (DEC\/HEX\/OCT\/BIN) and angles bases (DEG\/RAD\/GRAD) and features\n a wide range of mathematical (basic arithmetic operations, trigonometric\n functions, etc) and other useful functions (memory, etc) at the moment.\n galculator can be used in algebraic mode as well as in Reverse Polish Notation.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"892",
+ "downloadSize":"131152",
+ "homepage":"http:\/\/galculator.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"freeplane",
+ "description":"Java program to create and edit mind maps.",
+ "details":" Freeplane is a free, open source software application for creating mind maps\n (diagrams of connections between ideas), and electronic outlines.\n\n New features of Freeplane include:\n\n  * Export to PNG, JPEG, SVG (in addition to HTML \/ XHTML and PDF)\n  * Find \/ Replace in all open maps\n  * Paste HTML as node structure\n  * Outline mode\n  * Scripting via Groovy\n  * Spell Checker\n x11::application\n",
+ "installedSize":"9626",
+ "downloadSize":"7205630",
+ "homepage":"http:\/\/freeplane.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

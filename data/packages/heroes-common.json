@@ -1,0 +1,8 @@
+{"package":"heroes-common",
+ "description":"Collect powerups and avoid your opponents' trails",
+ "details":" Heroes is similar to the \"Tron\" and \"Nibbles\" games of yore, but includes\n many graphical improvements and new game features.  In it, you must maneuver\n a small vehicle around a world and collect powerups while avoiding obstacles,\n your opponents' trails, and even your own trail.\n\n Several styles of play are available, including \"get-all-the-bonuses\",\n deathmatch, and \"squish-the-pedestrians\".  All game styles can be played\n in both single-player and two-player (split-screen) modes.\n\n You should install the heroes-sound-effects package if you want sound effects,\n and the heroes-sound-tracks package if you want background music in the game.\n\n This package contains a small number of common files for heroes.\n",
+ "installedSize":"388",
+ "downloadSize":"135850",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

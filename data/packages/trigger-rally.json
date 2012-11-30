@@ -1,0 +1,9 @@
+{"package":"trigger-rally",
+ "description":"free 3D rally racing car game",
+ "details":" Trigger is a free 3D rally car racing game. Fun for all the family!\n\n Trigger comes with a number of challenges where you have to race several\n tracks to finish each challenge.\n\n When racing a track, you have to reach several locations marked by pulsating\n rings in sequence. You win a race if you reach the last location in time.\n\n Trigger is highly customisable, and it's easy to add new levels and vehicles.\n\n System Requirements consist of an OpenGL accelerated video card.\n interface::x11, role::program, uitoolkit::sdl, use::gameplaying,\n x11::application\n",
+ "installedSize":"523",
+ "downloadSize":"215060",
+ "homepage":"http:\/\/sourceforge.net\/projects\/trigger-rally",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"gmorgan",
+ "description":"MIDI rhythm station emulator software",
+ "details":" A modern organ for play in real time or sequence, full midi configurable, can\n export live or sequence performances to MIDI file format. Maintain 500\n patterns, 100 Styles, 100  Sound Combiantion in memory. Style Library Pattern\n BD allows easy new pattern creation, can import MIDI files as patterns, input\n chords can be controlled by mouse, PC keyboard or MIDI keyboard. Sound\n edition, chord song sequencer, guided playback and extensive documentation.\n",
+ "installedSize":"2231",
+ "downloadSize":"873534",
+ "homepage":"http:\/\/gmorgan.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

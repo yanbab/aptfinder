@@ -1,0 +1,9 @@
+{"package":"rasmol",
+ "description":"Visualize biological macromolecules",
+ "details":" RasMol is a molecular graphics program intended for the visualisation of\n proteins, nucleic acids and small molecules. The program is aimed at\n display, teaching and generation of publication quality images.\n\n The program reads in a molecule coordinate file and interactively displays\n the molecule on the screen in a variety of colour schemes and molecule\n representations. Currently available representations include depth-cued\n wireframes, 'Dreiding' sticks, spacefilling (CPK) spheres, ball and stick,\n solid and strand biomolecular ribbons, atom labels and dot surfaces.\n\n Supported input file formats include Protein Data Bank (PDB), Tripos\n Associates' Alchemy and Sybyl Mol2 formats, Molecular Design Limited's\n (MDL) Mol file format, Minnesota Supercomputer Center's (MSC) XYZ (XMol)\n format, CHARMm format, CIF format and mmCIF format files.\n\n This package installs two versions of RasMol, rasmol-gtk has a modern\n GTK-based user interface and rasmol-classic is the version with the old\n Xlib GUI.\n uitoolkit::gtk, use::learning, use::viewing, x11::application\n",
+ "installedSize":"3427",
+ "downloadSize":"1493400",
+ "homepage":"http:\/\/rasmol.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

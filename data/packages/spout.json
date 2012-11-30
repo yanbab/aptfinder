@@ -1,0 +1,8 @@
+{"package":"spout",
+ "description":"Tiny abstract black and white 2D cave-shooter",
+ "details":" This is a small, abstract shooting game from Japanese developer Kuni.\n It is a 'caveflier' in which the exhaust from the engine serves also as\n a tool to erode the cave walls.\n\n Your goal is to fly upwards as long as you possibly can, without\n crashing against the cave walls and the window borders.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"100",
+ "downloadSize":"14750",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"gofigure2",
+ "description":"Tool for visualizing, processing and analysing of bioimages",
+ "details":" Main objectives of GoFigure2 are to provide\n  * interaction\/visualization\/navigation into 4D multichannels bio-images;\n  * save\/retrieve information related to the imaging process, analysis results;\n  * extracting objects from bio-images (e.g. nucleii, cell-membranes...);\n  * tracking sub-cellular structure, cells;\n  * detecting and tracking cell-division through time;\n  * generating and visualizing cell-lineage.\n",
+ "installedSize":"1198",
+ "downloadSize":"971582",
+ "homepage":"http:\/\/gofigure2.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

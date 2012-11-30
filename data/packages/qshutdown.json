@@ -1,0 +1,9 @@
+{"package":"qshutdown",
+ "description":"Qt program to shutdown\/reboot\/suspend\/hibernate the system",
+ "details":" qshutdown is a Qt program to shutdown\/reboot\/suspend\/hibernate the\n computer at a given time or after a certain number of minutes. It shows\n the time until the corresponding request is send to either the Gnome- or\n KDE-session-manager, to HAL or to DeviceKit and if none of these works\n the command 'sudo shutdown -P now' is used. This program may be useful\n for people who want to work with the computer only for a certain time.\n implemented-in::c++, interface::x11, role::program, scope::utility,\n uitoolkit::qt, use::monitor, x11::application\n",
+ "installedSize":"736",
+ "downloadSize":"234488",
+ "homepage":"https:\/\/launchpad.net\/~hakaishi",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

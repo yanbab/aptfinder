@@ -1,0 +1,9 @@
+{"package":"slimevolley",
+ "description":"unrealistic 2D volleyball simulation",
+ "details":" Slime Volley is a 2D arcade-oriented volleyball simulation, in the spirit of\n some Java games of the same name.\n Two teams, 1-3 players each, try to be the first to get 10 points. This happens\n when the one ball touches the floor on the other side of the net.\n There can be 1 to 8 balls in game.\n Each player use 4 keys, 2 direction keys, one for jump and one for changing its\n skin.\n use::gameplaying, x11::application\n",
+ "installedSize":"252",
+ "downloadSize":"57836",
+ "homepage":"http:\/\/slime.tuxfamily.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

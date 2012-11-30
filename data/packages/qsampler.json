@@ -1,0 +1,9 @@
+{"package":"qsampler",
+ "description":"LinuxSampler GUI frontend based on the Qt toolkit",
+ "details":" QSampler is a LinuxSampler GUI front-end application written in C++ around\n the Qt3 toolkit using Qt Designer. At the moment it just wraps as a client\n reference interface for the LinuxSampler Control Protocol (LSCP).\n x11::application\n",
+ "installedSize":"796",
+ "downloadSize":"288688",
+ "homepage":"http:\/\/qsampler.sf.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

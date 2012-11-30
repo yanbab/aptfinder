@@ -1,0 +1,9 @@
+{"package":"treeline",
+ "description":"versatile tree-like structured custom data manager",
+ "details":" TreeLine is a versatile tool for working with all kind of information\n that fits into a tree-like structure.\n\n It can be used to edit bookmark files, create mini-databases (e.g., for\n addresses, tasks, records, CDs, etc.), outline documents, or just\n collect ideas. It can also be used as a generic editor for XML files.\n\n The data schemas for any node in the data tree can be customized and\n new types of nodes can be defined. The way data is presented on the\n screen, exported to HTML, or printed can be defined with HTML-like\n templates. Plug-ins can be written to load and save data from and to\n custom file formats or external data sources and extend the\n functionality of TreeLine.\n works-with::text, x11::application\n",
+ "installedSize":"1762",
+ "downloadSize":"602144",
+ "homepage":"http:\/\/treeline.bellz.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

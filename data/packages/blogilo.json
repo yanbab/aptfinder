@@ -1,0 +1,9 @@
+{"package":"blogilo",
+ "description":"graphical blogging client",
+ "details":" Blogilo is a Free\/Open Source Blogging client, focused on simplicity and\n usability. Currently featured:\n\n  * A full featured WYSIWYG editor and an HTML editor.\n  * Previewing your post with your blog style, like when you are visiting it at\n    your blog.\n  * Support for Blogger1.0, MetaWeblog, MovableType (Wordpress supports all of\n    these) and Google GData (used on Blogspot.com blogs) APIs.\n  * Support for creating\/modifying\/deleting posts.\n  * Support for creating drafts and scheduled posts.\n  * Support for uploading media files to your blog (only on supported APIs e.g.\n    MetaWeblog and MovableType).\n  * Support for fetching your recent blog entries.\n  * Support for adding images to post from your system. It will upload them on\n    Submitting post to blog (only on supported APIs e.g. MetaWeblog and\n    MovableType).\n  * Support for saving local entries before publishing.\n  * Saving your writing copy to prevent data loss, at configurable intervals.\n  * Internal auto spell checker. (KDE spell checker used so most of languages\n    are supported.)\n\n This package is part of the KDE PIM module.\n uitoolkit::qt, web::blog, x11::application\n",
+ "installedSize":"2435",
+ "downloadSize":"733590",
+ "homepage":"http:\/\/pim.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

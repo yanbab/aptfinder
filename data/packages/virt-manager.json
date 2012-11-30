@@ -1,0 +1,9 @@
+{"package":"virt-manager",
+ "description":"desktop application for managing virtual machines",
+ "details":" It presents a summary view of running domains and their live performance &\n resource utilization statistics. A detailed view presents graphs showing\n performance & utilization over time. Ultimately it will allow creation of new\n domains, and configuration & adjustment of a domain's resource allocation &\n virtual hardware.  Finally an embedded VNC client viewer presents a full\n graphical console to the guest domain.\n\n NOTE: the GUI is still considered experimental.\n interface::x11, role::program, scope::utility, uitoolkit::gtk\n",
+ "installedSize":"6132",
+ "downloadSize":"691224",
+ "homepage":"http:\/\/virt-manager.et.redhat.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

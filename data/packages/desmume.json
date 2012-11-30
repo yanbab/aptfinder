@@ -1,0 +1,9 @@
+{"package":"desmume",
+ "description":"Nintendo DS emulator",
+ "details":" DeSmuME is a Nintendo DS emulator running homebrew demos and commercial games.\n\n This package includes all three binaries:\n   * desmume: gtk user interface;\n   * desmume-glade: gtk-glade user interface;\n   * desmume-cli: command line user interface.\n interface::x11, role::program, uitoolkit::gtk, uitoolkit::sdl,\n use::gameplaying, x11::application\n",
+ "installedSize":"4712",
+ "downloadSize":"1490066",
+ "homepage":"http:\/\/desmume.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

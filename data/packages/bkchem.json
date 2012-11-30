@@ -1,0 +1,9 @@
+{"package":"bkchem",
+ "description":"Chemical structures editor",
+ "details":" BKchem is a free chemical drawing program, which is written in Python.\n\n Some of the features, you can expect:\n  * Drawing (bond-by-bond drawing; templates for common rings; expanding of\n    common-groups; draws radicals, charges, arrows; color support ...)\n  * Editing (unlimited undo and redo capabilities; aligning; scaling;\n    rotation (2D, 3D) ...)\n  * Export\/Import (fully supported SVG-, OpenOffice.org-Draw-, EPS-export;\n    basic support for CML1 and CML2 import and export)\n",
+ "installedSize":"3284",
+ "downloadSize":"840262",
+ "homepage":"http:\/\/bkchem.zirael.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

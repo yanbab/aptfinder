@@ -1,0 +1,9 @@
+{"package":"tkcvs",
+ "description":"Graphical front-end to CVS and Subversion",
+ "details":" TkCVS is a Tk based graphical interface to the CVS and Subversion\n version control systems.  For CVS, it includes facilities for providing\n \"user friendly\" names to modules and directories within the repository,\n and provides a facility to interactively browse the repository looking for\n modules and directories.\n\n Some of the features of TkCVS include:\n\n File and directory browser, with optional display of hidden\n files, and display of the current directory's location within\n the CVS tree.\n\n Push-button based check-in \/ check-out of CVS modules.  Ability\n to add and delete files from the repository also using push\n buttons.\n\n Module tree browser, and reports showing the structure of the\n CVS modules tree.  Individual modules or entire directory trees\n may be checked out using the browser.\n\n Updating of files from the repository when they change.\n\n Tagging and branching of files from the file browser, and tagging\n and branching of modules from the module browser.\n\n Exporting a CVS module or directory from the repository for\n delivery off-site.\n\n Creation of patch files between two releases of a module, or\n between a release and the current (head) version.\n\n Viewing of diff and status listings for currently checked out\n modules.\n role::program, uitoolkit::tk, use::synchronizing, x11::application\n",
+ "installedSize":"1400",
+ "downloadSize":"454864",
+ "homepage":"http:\/\/www.twobarleycorns.net\/tkcvs.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

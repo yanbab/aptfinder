@@ -1,0 +1,9 @@
+{"package":"jaaa",
+ "description":"audio signal generator and spectrum analyser",
+ "details":" Jaaa (JACK and ALSA Audio Analyser) is an audio signal generator and\n spectrum analyser designed to make accurate measurements.\n",
+ "installedSize":"168",
+ "downloadSize":"38786",
+ "homepage":"http:\/\/kokkinizita.linuxaudio.org\/linuxaudio\/index.html#jaaa",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

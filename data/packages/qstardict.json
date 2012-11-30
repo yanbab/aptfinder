@@ -1,0 +1,9 @@
+{"package":"qstardict",
+ "description":"International dictionary written using Qt4",
+ "details":" QStarDict is a modern international dictionary written using Qt4.\n\n Main features\n  * Full support of StarDict dictionaries\n  * Fuzzy search\n  * Support for hyper links in translations\n  * Working from the system tray\n  * Scanning mouse selection and showing pop-up windows with translation of\n    selected words\n  * Translations reformatting\n  * Pronouncing of the translated words\n  * Plugins support\n uitoolkit::qt, use::learning, use::searching, works-with::dictionary,\n x11::application\n",
+ "installedSize":"984",
+ "downloadSize":"488214",
+ "homepage":"http:\/\/qstardict.ylsoftware.com",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

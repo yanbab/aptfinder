@@ -1,0 +1,9 @@
+{"package":"controlaula",
+ "description":"classroom management tool",
+ "details":" ControlAula assists teachers in the management of a classroom with\n computers on the students' desktops. It also gives the students tools\n to share files, work in groups, and send messages to the teacher or to\n classmates.\n\n This version is designed to be set up on the teacher's PC and the\n students' workstations (compare the package ltsp-controlaula).\n",
+ "installedSize":"2014",
+ "downloadSize":"693002",
+ "homepage":"http:\/\/controlaula.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

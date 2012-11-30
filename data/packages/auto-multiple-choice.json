@@ -1,0 +1,9 @@
+{"package":"auto-multiple-choice",
+ "description":"Auto Multiple Choice - multiple choice papers management",
+ "details":" Utility to manage multiple choice questionnaires, with optionnaly\n mixed questions and answers. AMC provides automatic marking from papers'\n scans. Annotated papers are produced. Marks can be exported as a\n OpenOffice.org sheet file.\n interface::commandline, interface::x11, made-of::tex, role::program,\n scope::utility, uitoolkit::gtk, use::learning, use::scanning,\n use::typesetting, use::viewing, works-with-format::tex,\n works-with::text, x11::application\n",
+ "installedSize":"84",
+ "downloadSize":"25116",
+ "homepage":"http:\/\/home.gna.org\/auto-qcm\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

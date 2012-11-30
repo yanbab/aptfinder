@@ -1,0 +1,9 @@
+{"package":"3depict",
+ "description":"visualisation and analysis for single valued point data",
+ "details":" This program provides a graphical interface for the scientific analysis\n of real valued point data (x,y,z,value). This is primarily targeted\n towards Atom probe tomography applications, but may prove useful to\n other applications as well.\n x11::application\n",
+ "installedSize":"3377",
+ "downloadSize":"2124198",
+ "homepage":"http:\/\/threedepict.sourceforge.net\/index.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

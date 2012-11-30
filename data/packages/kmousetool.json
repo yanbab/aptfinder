@@ -1,0 +1,9 @@
+{"package":"kmousetool",
+ "description":"mouse manipulation tool for the disabled",
+ "details":" KMouseTool clicks the mouse whenever the mouse cursor pauses briefly. It was\n designed to help those with repetitive strain injuries, for whom pressing\n buttons hurts.\n\n This package is part of the KDE accessibility module.\n implemented-in::c++, interface::x11, role::program, scope::utility,\n suite::kde, uitoolkit::qt, x11::application\n",
+ "installedSize":"226",
+ "downloadSize":"56678",
+ "homepage":"http:\/\/www.kde.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

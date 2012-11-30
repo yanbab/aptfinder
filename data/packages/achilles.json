@@ -1,0 +1,8 @@
+{"package":"achilles",
+ "description":"An artificial life and evolution simulator",
+ "details":" Achilles is an artificial life and evolution simulator that uses Hebbian\n neural networks and OpenGL\/SDL to simulate life in a simplified environment.\n It is based on Larry Yaeger's PolyWorld.\n uitoolkit::sdl, x11::application\n",
+ "installedSize":"160",
+ "downloadSize":"38252",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

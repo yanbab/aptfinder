@@ -1,0 +1,9 @@
+{"package":"zynaddsubfx",
+ "description":"Realtime software synthesizer for Linux",
+ "details":" A real-time software synthesizer for Linux and Windows with many\n features, including polyphony, multi-timbral and microtonal\n capabilities. It includes randomness of some parameters, which\n makes warm sounds, like analogue synthesizers.\n It has system\/insertion effects too, and much more.\n uitoolkit::fltk, use::playing, works-with::audio\n",
+ "installedSize":"2100",
+ "downloadSize":"1398588",
+ "homepage":"http:\/\/zynaddsubfx.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

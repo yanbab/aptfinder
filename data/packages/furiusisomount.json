@@ -1,0 +1,9 @@
+{"package":"furiusisomount",
+ "description":"ISO, IMG, BIN, MDF and NRG image management utility",
+ "details":" Furius ISO Mount is a simple application for mounting ISO, IMG,\n BIN, MDF and NG image files even without burning them to disk.\n\n It provides the following features:\n  - Automatically Mounts ISO, IMG, BIN, MDF and NRG image files.\n  - Automatically creates a mount point in your home directory.\n  - Automatically Unmounts the Image files.\n  - Automatically removes the mount directory to return your home\n    directory to its previous state.\n  - Automatically saves the history of the last 10 images mounted.\n  - Mounts multiple images.\n  - Burn ISO and IMG Files to optical disk.\n  - Generate Md5 and SHA1 checksums.\n  - Automatically retrieves any previously unmounted images.\n  - Automatically generates a log file of all commands needed to\n    mount and unmount images manually.\n",
+ "installedSize":"548",
+ "downloadSize":"68056",
+ "homepage":"https:\/\/launchpad.net\/furiusisomount",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"sineshaper",
+ "description":"Monophonic synth plugin with two oscillators and waveshapers",
+ "details":" A monophonic synth plugin that sends the sound from two sine oscillators\n through two sine waveshapers in series. You can control the vibrato, tremolo,\n portamento, the tuning of both oscillators, the oscillator mix, and the shape\n amount (total and split over both shapers). There is also an ADSR envelope\n generator that can control the total shape amount and the amplification (with\n controllable sensitivity for both), an LFO for the total shape amount, and a\n feedback delay. The shape amount and amplification is velocity sensitive, and\n the \"Mod Wheel\" MIDI controller is bound to the total shape amount.\n\n This is a development version, so things will probably change - don't use this\n plugin in a patch or song and expect later versions to work in the same way.\n role::plugin, sound::midi, uitoolkit::gtk, use::playing,\n works-with::audio\n",
+ "installedSize":"712",
+ "downloadSize":"312178",
+ "homepage":"http:\/\/www.student.nada.kth.se\/~d00-llu\/music_dssi.php",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

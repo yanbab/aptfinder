@@ -1,0 +1,9 @@
+{"package":"freecad",
+ "description":"Extensible Open Source CAx program (alpha)",
+ "details":" FreeCAD is an Open Source CAx RAD based on OpenCasCade, Qt and Python.\n It features some key concepts like macro recording, workbenches, ability\n to run as a server and dynamically loadable application extensions and\n it is designed to be platform independent.\n\n Currently, FreeCAD can import and display CAD models in IGES, STEP, and\n BRep formats and meshes in STL, BMS, AST and Wavefront OBJ formats.\n Editing and modeling features are currently somewhat limited.\n uitoolkit::qt, x11::application\n",
+ "installedSize":"32014",
+ "downloadSize":"12841890",
+ "homepage":"http:\/\/sourceforge.net\/apps\/mediawiki\/free-cad",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

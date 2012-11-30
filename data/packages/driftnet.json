@@ -1,0 +1,9 @@
+{"package":"driftnet",
+ "description":"picks out and displays images from network traffic",
+ "details":" Inspired by EtherPEG, Driftnet is a program which listens to network\n traffic and picks out images from TCP streams it observes. It is\n interesting to run it on a host which sees a lot of web traffic.\n\n (Obviously, this is an invasion of privacy of a fairly blatant sort.\n Also, if you are possessed of Victorian sensibilities, and share an\n unswitched network with others who are not, you should probably not\n use it.)\n network::scanner, protocol::ethernet, role::program,\n scope::application, uitoolkit::gtk, use::monitor,\n works-with-format::gif, works-with-format::jpg, works-with-format::png,\n works-with::image, works-with::image:raster,\n works-with::network-traffic, x11::application\n",
+ "installedSize":"104",
+ "downloadSize":"32616",
+ "homepage":"http:\/\/www.ex-parrot.com\/~chris\/driftnet\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

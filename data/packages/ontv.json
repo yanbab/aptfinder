@@ -1,0 +1,9 @@
+{"package":"ontv",
+ "description":"GNOME Applet for monitoring current and upcoming TV programs",
+ "details":" OnTV is a GNOME Applet written in Python using PyGTK, it uses XMLTV files\n to monitor current and upcoming TV programs. Features include:\n  * Program descriptions as tooltips.\n  * Remaining time of\/until current and upcoming programs.\n  * Program search dialog with incremental search.\n  * Global keybindings for most common actions.\n  * Program reminders.\n  * and more...\n x11::applet\n",
+ "installedSize":"960",
+ "downloadSize":"178218",
+ "homepage":"http:\/\/live.gnome.org\/OnTV",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

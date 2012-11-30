@@ -1,0 +1,9 @@
+{"package":"gucharmap",
+ "description":"Unicode character picker and font browser",
+ "details":" This program allows you to browse through all the available Unicode\n characters and categories for the installed fonts, and to examine\n their detailed properties.  It is an easy way to find the character\n you might only know by its Unicode name or code point.\n uitoolkit::gtk, use::browsing, works-with::font, works-with::text,\n works-with::unicode, x11::application\n",
+ "installedSize":"4366",
+ "downloadSize":"1390650",
+ "homepage":"http:\/\/live.gnome.org\/Gucharmap",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"mkvtoolnix-gui",
+ "description":"Set of tools to work with Matroska files - GUI frontend",
+ "details":" Matroska is a new multimedia container format, based on EBML (Extensible\n Binary Meta Language), which is a kind of binary XML.\n\n The mmg tool is a graphical user interface for the mkvmerge program, which\n allows one to create Matroska files from other formats.\n\n This package also contains a graphical version of the mkvinfo tool, which\n allows one to get information about a Matroska file.\n works-with::audio, works-with::video\n",
+ "installedSize":"5242",
+ "downloadSize":"2347008",
+ "homepage":"http:\/\/www.bunkus.org\/videotools\/mkvtoolnix\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

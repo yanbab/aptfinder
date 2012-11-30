@@ -1,0 +1,9 @@
+{"package":"tilda",
+ "description":"terminal emulator with first person shooter console likeness",
+ "details":" Terminal taking after the likeness of many classic terminals from first\n person shooter games, Quake, Doom and Half-Life (to name a few), where\n the terminal has no border and is hidden from the desktop until a key\n is pressed.\n x11::application, x11::terminal\n",
+ "installedSize":"584",
+ "downloadSize":"80888",
+ "homepage":"http:\/\/tilda.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"krfb",
+ "description":"Desktop Sharing utility",
+ "details":" KDE Desktop Sharing is a manager for easily sharing a desktop session with\n another system.  The desktop session can be viewed or controlled remotely by\n any VNC or RFB client, such as the KDE Remote Desktop Connection client.\n\n KDE Desktop Sharing can restrict access to only users who are explicitly\n invited, and will ask for confirmation when a user attempts to connect.\n\n This package is part of the KDE networking module.\n suite::kde, uitoolkit::qt, x11::application\n",
+ "installedSize":"912",
+ "downloadSize":"443958",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

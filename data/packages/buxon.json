@@ -1,0 +1,9 @@
+{"package":"buxon",
+ "description":"SIOC forums browser",
+ "details":" Buxon, which was created as a part of the SWAML (Semantic Web\n Archive of Mailing Lists) project, provides a graphical user\n interface which helps you to browse SIOC forums.\n\n This GUI only needs a URL to an RDF file storing SIOC forums\n information to start browsing and searching into it.\n uitoolkit::gtk, use::browsing, works-with-format::xml, works-with::file\n",
+ "installedSize":"272",
+ "downloadSize":"20100",
+ "homepage":"http:\/\/swaml.berlios.de",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

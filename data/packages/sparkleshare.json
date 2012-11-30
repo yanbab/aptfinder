@@ -1,0 +1,9 @@
+{"package":"sparkleshare",
+ "description":"distributed collaboration and sharing tool",
+ "details":" SparkleShare is a collaboration and sharing tool that is designed to keep\n things simple and to stay out of your way. It allows you to instantly sync\n with any Git repository you have access to.\n\n SparkleShare can be used as a rough alternative to web services such as\n Dropbox or Ubuntu One.\n\n Though SparkleShare is not made to be a graphical frontend for git or a backup\n tool, it may be useful for other kinds of purposes as well, like backing up\n small files or monitoring your favourite project.\n protocol::TODO, role::program, uitoolkit::gtk, use::storing,\n use::synchronizing, works-with::file, works-with::vcs, x11::application\n",
+ "installedSize":"598",
+ "downloadSize":"468304",
+ "homepage":"http:\/\/sparkleshare.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

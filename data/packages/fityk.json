@@ -1,0 +1,9 @@
+{"package":"fityk",
+ "description":"general-purpose nonlinear curve fitting and data analysis",
+ "details":" Fityk is a flexible and portable program for nonlinear fitting of analytical\n functions (especially peak-shaped) to data (usually experimental data). In\n other words, for nonlinear peak separation and analysis.\n\n It was developed for analyzing diffraction patterns, but can be also used in\n other fields, since concepts and operations specific for crystallography are\n separated from the rest of the program.\n\n Fityk offers various nonlinear fitting methods, subtracting background,\n calibrating data, easy placement of peaks and changing peak parameters,\n automation of common tasks with scripts, and much more. The main advantage\n of the program is flexibility - parameters of peaks can be arbitrarily\n bound to each other, eg. the width of a peak can be an independent\n variable, can be the same as the width of another peak or can be given\n by a complicated - common to all peaks - formula.\n role::program, science::calculation, science::modelling,\n science::plotting, scope::utility, uitoolkit::ncurses,\n uitoolkit::wxwidgets, x11::application\n",
+ "installedSize":"3779",
+ "downloadSize":"1654172",
+ "homepage":"http:\/\/fityk.nieto.pl\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

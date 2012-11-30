@@ -1,0 +1,9 @@
+{"package":"krb5-auth-dialog",
+ "description":"tray applet for reauthenticating kerberos tickets",
+ "details":" krb5-auth-dialog is a simple tray applet that monitors kerberos tickets. It\n pops up reminders when the ticket is about to expire. Tickets can be refreshed\n at any time by clicking on the tray icon. It can also operate in \"classic\n mode\" as a simple dialog without any trayicon.\n\n It features ticket autorenewal and supports pkinit.\n",
+ "installedSize":"1275",
+ "downloadSize":"378944",
+ "homepage":"https:\/\/honk.sigxcpu.org\/piki\/projects\/krb5-auth-dialog",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

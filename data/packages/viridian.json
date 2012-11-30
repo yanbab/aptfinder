@@ -1,0 +1,9 @@
+{"package":"viridian",
+ "description":"play audio streams from an Ampache server",
+ "details":" Viridian Player is a front-end for the Ampache server.  Viridian utilizes\n Ampache's XML API to send and receive meta-data and stream information from\n the Ampache server.  Viridian is written in Python and is very small and\n feature rich, which makes it great for minimalistic setups where a heavier,\n bloated player won't due.\n",
+ "installedSize":"777",
+ "downloadSize":"408986",
+ "homepage":"http:\/\/www.daveeddy.com",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"xscreensaver-screensaver-bsod",
+ "description":"BSOD hack from XScreenSaver",
+ "details":" This package ships the hack BSOD that shows the popular Blue Screens of Death\n from several OSes including BSD, Windows, Linux, Solaris, Apple and much more.\n\n WARNING: This screensaver could be confused with a real BSOD and could lead an\n user to reboot the machine with consequences like data loss.\n x11::screensaver\n",
+ "installedSize":"497",
+ "downloadSize":"165108",
+ "homepage":"http:\/\/www.jwz.org\/xscreensaver\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

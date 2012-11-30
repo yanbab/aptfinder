@@ -1,0 +1,9 @@
+{"package":"nekobee",
+ "description":"Simple single-oscillator DSSI plugin",
+ "details":" Recreate those squelchy acid sounds with nekobee, a simple\n single-oscillator synth based on the Roland TB-303.\n\n DSSI is an API for audio processing plugins, particularly useful for\n software synthesis plugins with user interfaces (see http:\/\/dssi.sf.net\/).\n",
+ "installedSize":"356",
+ "downloadSize":"231880",
+ "homepage":"http:\/\/www.nekosynth.co.uk\/wiki\/nekobee",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

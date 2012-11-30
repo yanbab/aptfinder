@@ -1,0 +1,9 @@
+{"package":"ebumeter",
+ "description":"Loudness measurement according to EBU-R128",
+ "details":" These tools help controlling loudness of audio material aimed\n primarily for broadcasting, but they can be useful in other\n situation.\n\n ebumeter and ebur158 allow users to measure Momentary (400 ms),\n Short term (3s) and Integrated Loudness (from start to stop).\n They can be used on audio files and signals through JACK.\n\n This package contains two programs:\n   * ebumeter - interactive meter working via jackd\n   * ebur158 - the command line app to measure sound files\n",
+ "installedSize":"147",
+ "downloadSize":"51574",
+ "homepage":"http:\/\/kokkinizita.linuxaudio.org\/linuxaudio\/downloads\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

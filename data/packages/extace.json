@@ -1,0 +1,9 @@
+{"package":"extace",
+ "description":"waveform viewer",
+ "details":" This is the extace waveform viewer. It plugs itself in as an EsounD monitor\n and samples and displays the output from the EsounD daemon.\n use::viewing, works-with::audio, x11::application\n",
+ "installedSize":"228",
+ "downloadSize":"70420",
+ "homepage":"http:\/\/extace.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

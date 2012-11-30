@@ -1,0 +1,9 @@
+{"package":"aranym",
+ "description":"Atari Running on Any Machine",
+ "details":" Virtual Machine for running Atari 32-bit operating systems and applications\n uitoolkit::sdl, x11::application\n",
+ "installedSize":"5694",
+ "downloadSize":"1924322",
+ "homepage":"http:\/\/aranym.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

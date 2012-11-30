@@ -1,0 +1,9 @@
+{"package":"sawfish",
+ "description":"a window manager for X11",
+ "details":" Sawfish is an extensible window manager using an Emacs Lisp-like scripting\n language. All window decorations are configurable, the basic idea is to\n have as much user-interface policy as possible controlled through the Lisp\n language.\n uitoolkit::gtk, x11::window-manager\n",
+ "installedSize":"949",
+ "downloadSize":"298360",
+ "homepage":"http:\/\/sawfish.wikia.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

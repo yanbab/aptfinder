@@ -1,0 +1,9 @@
+{"package":"gtkatlantic",
+ "description":"Game like Monopoly",
+ "details":" GtkAtlantic is a game, like monopoly.\n This is a network client which work with the monopd server\n (see http:\/\/unixcode.org\/monopd\/).\n uitoolkit::gtk, use::gameplaying, x11::application\n",
+ "installedSize":"672",
+ "downloadSize":"374730",
+ "homepage":"http:\/\/gtkatlantic.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

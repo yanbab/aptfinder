@@ -1,0 +1,9 @@
+{"package":"timemachine",
+ "description":"JACK audio recorder for spontaneous and conservatory use",
+ "details":" Timemachine writes the last 10 seconds of audio _before_ the button press\n and everything from now on up to the next button press into a WAV-file.\n\n The idea is that you doodle away with whatever is kicking around in your\n studio and when you heard an interesting noise, you'd press record and\n capture it, without having to try and recreate it.\n\n It uses the JACK audio connection kit, an API that lets audio application\n communicate with each other and share audio data in realtime.\n uitoolkit::gtk, uitoolkit::ncurses, x11::application\n",
+ "installedSize":"200",
+ "downloadSize":"86562",
+ "homepage":"http:\/\/plugin.org.uk\/timemachine\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

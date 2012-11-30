@@ -1,0 +1,9 @@
+{"package":"gtkpod",
+ "description":"manage songs and playlists on an Apple iPod",
+ "details":" gtkpod is a platform independent GUI for Apple's iPod using GTK3.\n It allows you to upload songs and playlists to your iPod. It supports ID3\n tag editing, multiple charsets for ID3 tags, detects duplicate songs,\n allows offline modification of the database with later synchronisation,\n and more.\n interface::x11, network::client, role::program, scope::application,\n sound::player, uitoolkit::gtk, use::playing, use::synchronizing,\n works-with-format::mp3, works-with::audio, x11::application\n",
+ "installedSize":"1063",
+ "downloadSize":"487460",
+ "homepage":"http:\/\/www.gtkpod.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

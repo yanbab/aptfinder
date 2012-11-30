@@ -1,0 +1,9 @@
+{"package":"searchmonkey",
+ "description":"search files using regular expressions aiming to replace find\/grep tools",
+ "details":" SearchMonkey is a light-weight Gtk application that aims to replace the\n cumbersome find\/grep with a slick user interface that quickly provides a\n mark-up showing locations and quantity of text matches.\n The goal is to provide a simple to use and accessible search tool for\n end-users, and software developers alike.\n uitoolkit::gtk, use::searching, x11::application\n",
+ "installedSize":"499",
+ "downloadSize":"244372",
+ "homepage":"http:\/\/sourceforge.net\/projects\/searchmonkey\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

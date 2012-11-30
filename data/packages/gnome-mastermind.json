@@ -1,0 +1,9 @@
+{"package":"gnome-mastermind",
+ "description":"Mastermind (TM) clone for GNOME Desktop",
+ "details":" The goal of this board game is to break a code using obscure hints.\n uitoolkit::gtk, use::gameplaying, x11::application\n",
+ "installedSize":"1565",
+ "downloadSize":"542846",
+ "homepage":"http:\/\/www.autistici.org\/gnome-mastermind\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

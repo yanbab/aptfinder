@@ -1,0 +1,9 @@
+{"package":"expeyes",
+ "description":"hardware & software framework for developing science experiments",
+ "details":" This package provides high level interfaces for making science experiments\n with an ExpEYES box.\n\n ExpEYES is from the PHOENIX project of Inter-University Accelerator\n Centre, New Delhi. It is a hardware & software framework for\n developing science experiments, demonstrations and projects and learn\n science and engineering by exploration. Capable of doing real time\n measurements and analysing the data in different ways. Analog\n voltages are measured with 0.025% resolution and time intervals with\n one microsecond. This project is based on Free and Open Source\n software, mostly written in Python programming language. The hardware\n design is also open.\n science::data-acquisition, science::modelling, science::plotting,\n uitoolkit::qt, use::learning, use::measuring, use::simulating,\n x11::application\n",
+ "installedSize":"989",
+ "downloadSize":"615884",
+ "homepage":"http:\/\/expeyes.in\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

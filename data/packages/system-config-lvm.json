@@ -1,0 +1,9 @@
+{"package":"system-config-lvm",
+ "description":"utility for graphically configuring Logical Volumes",
+ "details":" System-config-lvm provides a graphical interface to the LVM tools (and related\n utilities, including fsck and resize2fs) which is good for non-emergency\n storage administration. It enables you to manage your logical volume and\n filesystem configuration with a few mouse clicks, and it prevents potentially-\n disasterous command-line mistakes such as reducing a logical volume size before\n reducing the filesystem contained within that volume.\n\n (One word of warning: system-config-lvm does not recognize RAID elements as\n being in use, and therefore lists them as \"Unitnitialized Entities\". If you are\n using a LVM-on-RAID configuration, system-config-lvm will let you wipe out RAID\n elements by making them into PVs. Be careful!)\n",
+ "installedSize":"3356",
+ "downloadSize":"679928",
+ "homepage":"http:\/\/www.redhat.com",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

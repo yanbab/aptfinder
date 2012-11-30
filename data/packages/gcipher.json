@@ -1,0 +1,9 @@
+{"package":"gcipher",
+ "description":"A simple \"encryption\" tool",
+ "details":" This is a simple \"encryption\" tool to work with common simple encryption\n algorithms (ROT13, Caesar, Vigen\u00e8re, ...)\n\n Gcipher does not provide any strong encryption and should not be used to\n encrypt any private data.\n\n Gcipher can run as either a GUI, a command-line application, or a network\n proxy.\n network::service, role::program, scope::utility,\n security::cryptography, security::privacy, suite::gnome,\n uitoolkit::gtk, use::proxying, works-with::text, x11::application\n",
+ "installedSize":"0",
+ "downloadSize":"22052",
+ "homepage":"http:\/\/gcipher.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

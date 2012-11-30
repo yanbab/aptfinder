@@ -1,0 +1,9 @@
+{"package":"bangarang",
+ "description":"Multimedia player with a lightweight interface for KDE",
+ "details":" Offers a media\u2014audio and video\u2014player with a lightweight interface. Integrates\n with the Nepomuk Social Semantic Desktop, supports command line arguments, can\n play CDs and DVDs and audio streams. It also has basic keyboard shortcuts and\n allows users to manually manage playlists.\n suite::kde, uitoolkit::qt, use::organizing, use::playing,\n works-with::audio, x11::application\n",
+ "installedSize":"2738",
+ "downloadSize":"851788",
+ "homepage":"http:\/\/gitorious.org\/bangarang",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

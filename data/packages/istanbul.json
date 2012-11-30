@@ -1,0 +1,9 @@
+{"package":"istanbul",
+ "description":"Desktop session recorder producing Ogg Theora video",
+ "details":" Istanbul is a desktop session recorder for the Free Desktop.\n It records your session into an Ogg Theora video file.\n To start the recording, you click on its icon in the\n notification area. To stop you click its icon again.\n It can make a screencast of the full screen or just of an\n area of the screen. It is even capable of recording audio\n from the default input channel.\n\n It works on GNOME, KDE, Xfce and others.\n role::program, scope::application, scope::utility, sound::player,\n sound::recorder, uitoolkit::gtk, works-with-format::oggtheora,\n works-with-format::oggvorbis, works-with::audio, works-with::video,\n x11::applet\n",
+ "installedSize":"488",
+ "downloadSize":"76358",
+ "homepage":"http:\/\/live.gnome.org\/Istanbul",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

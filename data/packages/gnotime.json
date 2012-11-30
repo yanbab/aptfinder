@@ -1,0 +1,8 @@
+{"package":"gnotime",
+ "description":"utility for tracking and invoicing time spent on projects",
+ "details":" GnoTime is the GNOME Time Tracker, a program which allows you to track the\n time you spend on any number of tasks and projects. GnoTime also allows you\n to generate customised reports and annotated logs of these times.\n\n Tasks within GnoTime can be marked as billable, non-billable, on hold, or\n free of charge, and invoices can be generated based on these data.\n\n GnoTime also includes various features such as sub-projects, project\n planning, scheme extensions and automatic merging and clean-up of short\n intervals of time.\n role::program, scope::utility, suite::gnome, uitoolkit::gtk,\n use::organizing, use::timekeeping, works-with::pim, x11::application\n",
+ "installedSize":"2386",
+ "downloadSize":"1234288",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

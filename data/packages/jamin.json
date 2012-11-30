@@ -1,0 +1,9 @@
+{"package":"jamin",
+ "description":"Audio mastering from a mixed down multitrack source with JACK",
+ "details":" JAM is a tool for producing audio masters from a mixed down multitrack source.\n It runs in the JACK Audio Connection Kit, and uses LADSPA for its backend DSP\n work, specifically the swh plugins created by Steve Harris, JAM's main author.\n\n Features:\n  * Linear filters\n  * JACK I\/O\n  * 30 band graphic EQ\n  * 1023 band hand drawn EQ with parametric controls\n  * Spectrum analyser\n  * 3 band peak compressor\n  * Lookahead brickwall limiter\n  * Multiband stereo processing\n  * Presets and scenes\n  * Loudness maximiser\n sound::mixer, uitoolkit::gtk, use::editing, works-with::audio,\n x11::application\n",
+ "installedSize":"1164",
+ "downloadSize":"616468",
+ "homepage":"http:\/\/jamin.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

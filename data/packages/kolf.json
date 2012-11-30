@@ -1,0 +1,9 @@
+{"package":"kolf",
+ "description":"miniature golf game",
+ "details":" Kolf is a miniature golf game for one to ten players.  A variety of courses\n are included, as well as an editor to create new courses.\n\n This package is part of the KDE games module.\n suite::kde, uitoolkit::qt, use::editing, use::gameplaying,\n x11::application\n",
+ "installedSize":"2072",
+ "downloadSize":"831600",
+ "homepage":"http:\/\/games.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

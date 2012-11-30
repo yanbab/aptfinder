@@ -1,0 +1,9 @@
+{"package":"miro",
+ "description":"GTK+ based RSS video aggregator",
+ "details":" Miro (previously known as Democracy Player) is a platform for Internet\n television and video.\n It allows you to download and watch videos from RSS feeds (including\n podcasts, video blogs, and BitTorrent feeds).\n",
+ "installedSize":"3864",
+ "downloadSize":"868632",
+ "homepage":"http:\/\/www.getmiro.com",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

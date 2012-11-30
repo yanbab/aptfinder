@@ -1,0 +1,9 @@
+{"package":"krecipes",
+ "description":"recipes manager for KDE",
+ "details":" Krecipes is a KDE application designed to manage recipes. It can help you to\n do your shopping list, search through your recipes to find what you can do\n with available ingredients and a diet helper. It can also import or export\n recipes from files in various format (eg RecipeML or Meal-Master) or from\n databases.\n suite::kde, uitoolkit::qt, use::organizing, works-with::db,\n x11::application\n",
+ "installedSize":"1896",
+ "downloadSize":"675732",
+ "homepage":"http:\/\/krecipes.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

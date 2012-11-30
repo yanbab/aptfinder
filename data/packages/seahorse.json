@@ -1,0 +1,9 @@
+{"package":"seahorse",
+ "description":"GNOME front end for GnuPG",
+ "details":" Seahorse is a front end for GnuPG - the GNU Privacy Guard program -\n that integrates to the GNOME desktop. It is a tool for secure\n communications and data storage.  Data encryption and digital signature\n creation can easily be performed through a GUI and Key Management\n operations can easily be carried out through an intuitive interface.\n security::cryptography, suite::gnome, uitoolkit::gtk, x11::application\n",
+ "installedSize":"7447",
+ "downloadSize":"2412396",
+ "homepage":"http:\/\/live.gnome.org\/Seahorse",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

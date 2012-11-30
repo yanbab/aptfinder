@@ -1,0 +1,9 @@
+{"package":"stella",
+ "description":"Atari 2600 Emulator for SDL & the X Window System",
+ "details":" Stella is a portable emulator of the old Atari 2600 video-game\n console. You can play most Atari 2600 games with it.\n\n Stella's features include:\n  * emulation of Atari 2600 joysticks, keyboards, paddles and driving\n    controllers using the host system's input peripherals;\n  * emulation of trackballs, joysticks, booster grips, driving\n    controllers and the Amiga Mouse using the host system's mouse;\n  * support for real Atari 2600 controllers using the Stelladaptor,\n    2600-daptor or 2600-daptor II;\n  * support for real Atari 7800 controllers using the 2600-daptor II;\n  * support for the speech portion of a real AtariVox device;\n  * support for Supercharger single-load and multi-load games;\n  * emulation of CRT TV features, including texturing, colour bleed,\n    RF noise and phosphor burn-off (requires OpenGL).\n\n An extensive debugger is included, with the Distella disassembler.\n\n Note that this is not isee systems' STELLA modeling, simulation and\n analysis tool.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"3091",
+ "downloadSize":"1412428",
+ "homepage":"http:\/\/stella.sf.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

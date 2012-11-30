@@ -1,0 +1,9 @@
+{"package":"between",
+ "description":"game about consciousness and isolation",
+ "details":" Between is a pixelated art game for two players by Jason Rohrer.\n\n You know exactly what you need to do -- you can see it shimmering\n right there in front of you. You can see it while dreaming, too, and\n the difference has become subtle. Dreams wake into dreams, and people\n blend in and out: real characters and dream characters, all woven into\n the same script. Finally, they fade completely, and you're alone in the\n expanse with the construction. With time, you feel something growing,\n a pinhole that eventually yawns into a deep ravine of longing. The\n construction languishes, though the expanse seems indifferent.\n\n One night, in a dream, they appear: things that you clearly could not\n have conjured on your own. Not snowflakes. Not the self-similar forms\n of leaves. Not distant planets' erosion networks as viewed through\n telescopes. Not those things that are beautifully external but lack\n the signatures of consciousness. These things that appear are ugly and\n non-procedural: indecipherable transmissions bubbling up through static,\n faded messages floating in bottles, and charcoal handprints on cave\n walls. Evidence has reached you through time of unknown duration and\n distance of unknown magnitude, but stale evidence is still evidence.\n\n Somewhere, across whatever barriers stand between, is an \"other\".\n role::program, uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"716",
+ "downloadSize":"119098",
+ "homepage":"http:\/\/www.esquire.com\/features\/best-and-brightest-2008\/rohrer-game",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

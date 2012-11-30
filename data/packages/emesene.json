@@ -1,0 +1,9 @@
+{"package":"emesene",
+ "description":"instant messaging client",
+ "details":" emesene tries to be a simple but feature complete program that allows one to\n chat using MSN and Jabber based networks.\n\n From it's roots emesene 2 provides a UI that is easy to use by users coming\n from Windows Live Messenger but doing special focus on consistency and\n simplicity.\n protocol::msn-messenger, role::program, scope::application,\n uitoolkit::gtk, use::chatting, works-with::im, x11::application\n",
+ "installedSize":"8371",
+ "downloadSize":"2477772",
+ "homepage":"http:\/\/www.emesene.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

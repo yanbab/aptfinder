@@ -1,0 +1,9 @@
+{"package":"gopchop",
+ "description":"fast, lossless cuts-only editor for MPEG2 video files",
+ "details":" gopchop cuts and merges MPEG2 video streams. gopchop uses\n a method to cut streams that does not require re-encoding,\n and therefore is fast and not prone to the artifacts\n and degradation of quality inherent in re-encoding.\n However, cuts are limited to I-frames or\n group-of-picture (GOP) boundaries. These frames occur\n frequently enough, and often times at scene transitions,\n so that gopchop's method is adequate for many applications.\n\n The typical use is manually editing commercials out of\n recorded television programs.\n\n Another application is splitting .VOB files from\n dual-layer DVD rips so that the content can be\n re-authored such that each half will fit on one\n single-layer DVD recordable.\n interface::x11, role::program, uitoolkit::gtk, use::editing,\n works-with::audio, works-with::video, x11::application\n",
+ "installedSize":"411",
+ "downloadSize":"148582",
+ "homepage":"http:\/\/gopchop.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

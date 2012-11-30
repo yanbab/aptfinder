@@ -1,0 +1,9 @@
+{"package":"mplayer-gui",
+ "description":"movie player for Unix-like systems",
+ "details":" MPlayer plays most MPEG, VOB, AVI, Ogg\/OGM, VIVO,\n ASF\/WMA\/WMV, QT\/MOV\/MP4, FLI, RM, NuppelVideo, yuv4mpeg, FILM, RoQ, PVA files,\n supported by many native, XAnim, RealPlayer, and Win32 DLL codecs. It can\n also play VideoCD, SVCD, DVD, 3ivx, RealMedia, and DivX movies.\n\n Another big feature of MPlayer is the wide range of supported output\n drivers. It works with X11, Xv, DGA, OpenGL, SVGAlib, fbdev,\n DirectFB, but also SDL.\n\n This package includes the gui variant of mplayer.\n works-with::video, x11::application\n",
+ "installedSize":"4731",
+ "downloadSize":"1930426",
+ "homepage":"http:\/\/www.mplayerhq.hu\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

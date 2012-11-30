@@ -1,0 +1,9 @@
+{"package":"wine-bin",
+ "description":"Windows API implementation - binary loader",
+ "details":" Wine is a free MS-Windows API implementation.\n This is still a work in progress and many applications may still not work.\n\n This package provides the binary loader program for running Windows\n executables.\n scope::application, uitoolkit::xlib, use::converting, use::gameplaying,\n use::simulating, x11::application\n",
+ "installedSize":"341",
+ "downloadSize":"49412",
+ "homepage":"http:\/\/www.winehq.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

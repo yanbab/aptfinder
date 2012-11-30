@@ -1,0 +1,9 @@
+{"package":"rekonq",
+ "description":"KDE web browser based on Webkit",
+ "details":" rekonq is a web browser based on WebKit and the KDE technologies.\n Its aim is to integrate nicely in the KDE desktop while providing\n a lightweight experience.\n\n Non-exhaustive list of features :\n  - shares bookmarks and network settings with konqueror\n  - uses the kwallet password manager\n  - integrates with the kget download manager\n  - anonymous browsing mode\n use::browsing, web::browser, x11::application\n",
+ "installedSize":"4815",
+ "downloadSize":"2586424",
+ "homepage":"http:\/\/rekonq.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

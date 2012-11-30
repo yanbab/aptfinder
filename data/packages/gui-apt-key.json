@@ -1,0 +1,9 @@
+{"package":"gui-apt-key",
+ "description":"Graphical Key Manager for APT",
+ "details":" The graphical frontend to the apt-key utility (gak) provides an easy\n to use interface to maintain digital keys for APT.  They are required\n to authenticate Debian archives and prevent malicious packages to\n creep in.\n\n uitoolkit::gtk\n",
+ "installedSize":"512",
+ "downloadSize":"34078",
+ "homepage":"http:\/\/www.infodrom.org\/projects\/gui-apt-key\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

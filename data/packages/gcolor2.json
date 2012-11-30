@@ -1,0 +1,8 @@
+{"package":"gcolor2",
+ "description":"Simple GTK2 color selector and picker",
+ "details":" Gcolor2 is a simple GTK2 color selector to provide a quick and easy\n way to find colors for whatever task is at hand.\n Colors can be saved and deleted as well.\n\n Homepage: http:\/\/gcolor2.sourceforge.net\/\n uitoolkit::gtk, works-with::image, x11::application\n",
+ "installedSize":"103",
+ "downloadSize":"25902",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"devhelp",
+ "description":"GNOME developers help program",
+ "details":" Devhelp's primary goal is to be an API documentation browser for GNOME.\n It is able to scan for .devhelp files generated automatically for\n packages that use gtk-doc-tools to generate documentation for libraries\n and programs.\n\n Devhelp provides some integration capabilities, which is used to allow\n command-line searches, emacs integration and embedding in applications like\n the Anjuta IDE.\n protocol::ssl, role::documentation, role::program, scope::application,\n suite::gnome, uitoolkit::gtk, use::browsing, works-with-format::html,\n works-with::text, x11::application\n",
+ "installedSize":"128",
+ "downloadSize":"42078",
+ "homepage":"http:\/\/live.gnome.org\/devhelp",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

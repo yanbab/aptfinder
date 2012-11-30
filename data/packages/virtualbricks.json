@@ -1,0 +1,9 @@
+{"package":"virtualbricks",
+ "description":"is a Virtualization suite for qemu\/kvm VMs and vde2 networks",
+ "details":" Virtualbricks is a fully featured virtualization suite and a complete GUI to\n manage Qemu\/KVM and Virtual Distributed Ethernet. It provides easy but\n detailed device configuration interface, programmable control of the running\n processes and a graphical interactive view of the virtual network topology.\n",
+ "installedSize":"1504",
+ "downloadSize":"174516",
+ "homepage":"http:\/\/virtualbricks.eu\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

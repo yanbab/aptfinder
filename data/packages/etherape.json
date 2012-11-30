@@ -1,0 +1,9 @@
+{"package":"etherape",
+ "description":"graphical network monitor",
+ "details":" EtherApe is a graphical network monitor modeled after etherman. it displays\n network activity graphically, showing active hosts as circles of varying\n size, and traffic among them as lines of varying width.\n\n It features link layer, ip and TCP modes, color-color coded protocols\n display, Ethernet, FDDI, Token Ring, ISDN, PPP and SLIP devices. It can\n filter traffic to be shown, and can read traffic from a file as well as\n live from the network.\n suite::gnome, uitoolkit::gtk, use::monitor,\n works-with::network-traffic, x11::application\n",
+ "installedSize":"3125",
+ "downloadSize":"893928",
+ "homepage":"http:\/\/etherape.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

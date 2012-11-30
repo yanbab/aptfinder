@@ -1,0 +1,9 @@
+{"package":"kgoldrunner",
+ "description":"Lode Runner arcade game",
+ "details":" KGoldrunner is a fast-paced platform game where the player must navigate a\n maze while collecting gold nuggets and avoiding enemies.  A variety of level\n packs are included, as well as an editor to create new levels.\n\n This package is part of the KDE games module.\n suite::kde, uitoolkit::qt, use::editing, use::gameplaying,\n x11::application\n",
+ "installedSize":"8577",
+ "downloadSize":"4794606",
+ "homepage":"http:\/\/games.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

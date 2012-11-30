@@ -1,0 +1,9 @@
+{"package":"freedroidrpg",
+ "description":"Isometric RPG influenced by Paradroid",
+ "details":" Freedroid RPG is an RPG with isometric graphics. In it, the player\n is Tux, who must fight rebelling robots in order to restore peace to\n humankind. To do so,Tux may take over robots in a minigame based off the\n classic game Paradroid, or may simply blast them to pieces with a weapon.\n\n Note that this is not the same game as Freedroid, also available in Debian.\n use::gameplaying\n",
+ "installedSize":"1051",
+ "downloadSize":"515590",
+ "homepage":"http:\/\/freedroid.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

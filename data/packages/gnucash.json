@@ -1,0 +1,9 @@
+{"package":"gnucash",
+ "description":"personal and small-business financial-accounting software",
+ "details":" Gnucash provides accounting functions suitable for use by small businesses and\n individuals. It can track finances in multiple accounts, keeping running and\n reconciled balances. There is support for customer, vendor and employee\n processing. It has an X based graphical user interface, double entry, a\n hierarchy of accounts, expense accounts (categories), and can import Quicken\n QIF files and OFX files.\n role::program, scope::application, suite::gnome, suite::gnu,\n uitoolkit::gtk, works-with::pim, works-with::spreadsheet,\n x11::application\n",
+ "installedSize":"6482",
+ "downloadSize":"2747836",
+ "homepage":"http:\/\/www.gnucash.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

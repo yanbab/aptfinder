@@ -1,0 +1,9 @@
+{"package":"wammu",
+ "description":"GTK application to control your mobile phone",
+ "details":" Mobile phone manager using Gammu as its backend.\n\n It works with any phone that Gammu supports, including many models from\n Nokia, Siemens, and Alcatel. It has complete support (read, edit,\n delete, copy) for contacts, todo, and calendar. It can read, save, and\n send SMS. It includes an SMS composer for multi-part SMS messages, and\n it can display SMS messages that include pictures. Currently, only text\n and predefined bitmaps or sounds can be edited in the SMS composer. It\n can export messages to an IMAP4 server (or other email storage).\n\n This program does not support browsing files in phone, use gMobileMedia\n instead.\n hardware::usb, implemented-in::python, interface::x11, role::program,\n scope::application, suite::gnome, uitoolkit::gtk, uitoolkit::wxwidgets,\n use::organizing, use::synchronizing, use::transmission,\n works-with::pim, x11::application\n",
+ "installedSize":"2421",
+ "downloadSize":"714434",
+ "homepage":"http:\/\/wammu.eu\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

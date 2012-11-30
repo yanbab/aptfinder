@@ -1,0 +1,9 @@
+{"package":"ebview",
+ "description":"EPWING dictionary viewer",
+ "details":" This tool can read multiple dictionaries at the same time and\n provides a search facility supporting the X11 cut-and-paste buffer.\n scope::utility, uitoolkit::gtk, use::searching, works-with::dictionary,\n x11::application\n",
+ "installedSize":"644",
+ "downloadSize":"214698",
+ "homepage":"http:\/\/ebview.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"geda-xgsch2pcb",
+ "description":"GPL EDA -- Electronics design software -- gschem -> PCB workflow GUI",
+ "details":" ``xgsch2pcb`` provides an intuitive, user-friendly graphical interface to\n the ``gsch2pcb`` command-line tool, part of the gEDA suite, which is used\n to generate and update a PCB layout.  It works with schematics created\n by ``gschem``, part of the gEDA suite, and layouts created by ``pcb``, a\n PCB layout system commonly used with gEDA.\n interface::x11, role::program, uitoolkit::gtk, x11::application\n",
+ "installedSize":"348",
+ "downloadSize":"47882",
+ "homepage":"http:\/\/gpleda.org\/tools\/xgsch2pcb\/index.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

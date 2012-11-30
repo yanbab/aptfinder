@@ -1,0 +1,9 @@
+{"package":"hv3",
+ "description":"Lightweight web browser",
+ "details":" Hv3 is a cross-platform web browser with support for modern web\n standards like HTML, CSS, HTTP.\n\n ECMAScript (a.k.a. javascript) is not supported since the corresponding\n library (SEE) is installed (not available in Debian yet).\n",
+ "installedSize":"822",
+ "downloadSize":"227934",
+ "homepage":"http:\/\/tkhtml.tcl.tk\/index.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

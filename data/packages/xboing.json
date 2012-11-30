@@ -1,0 +1,9 @@
+{"package":"xboing",
+ "description":"blockout game for X",
+ "details":" XBoing is a blockout type game where you have a paddle which\n you control to bounce a proton ball around the game zone\n destroying blocks.\n\n Each block carries a different point value. The more blocks\n you destroy, the better your score. The person with the\n highest score wins.\n\n The arena is filled with blocks and other objects. You have\n a paddle that can move from left to right at the bottom of\n the arena. You control the paddle so that the proton ball\n bounces around blowing up blocks and that it does not go\n past the paddle and out the bottom, much like a pinball game.\n use::gameplaying, x11::application\n",
+ "installedSize":"1512",
+ "downloadSize":"512472",
+ "homepage":"http:\/\/xboing.techrescue.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

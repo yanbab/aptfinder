@@ -1,0 +1,9 @@
+{"package":"pypar2",
+ "description":"graphical frontend for the par2 utility",
+ "details":" Par2 files create redundant data that can be used later in case parts\n of the original data is lost or corrupted.\n\n PyPar2 is a graphical frontend for the par2 command line utility, it is\n designed to be very easy to use. For this reason:\n  * Advanced settings are present, but hidden by default.\n  * There is no preferences dialog, all selected options are automatically\n    saved and restored.\n uitoolkit::gtk, works-with::file, x11::application\n",
+ "installedSize":"252",
+ "downloadSize":"48686",
+ "homepage":"http:\/\/pypar2.silent-blade.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

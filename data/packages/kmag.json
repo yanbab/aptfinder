@@ -1,0 +1,9 @@
+{"package":"kmag",
+ "description":"screen magnifier tool",
+ "details":" KDE's screen magnifier tool.\n\n You can use KMagnifier to magnify a part of the screen just as you would use\n a lens to magnify a newspaper fine-print or a photograph.  This application is\n useful for a variety of people: from researchers to artists to web-designers to\n people with low vision.\n\n This package is part of the KDE accessibility module.\n role::program, suite::kde, uitoolkit::qt, use::viewing,\n x11::application\n",
+ "installedSize":"298",
+ "downloadSize":"112774",
+ "homepage":"http:\/\/www.kde.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

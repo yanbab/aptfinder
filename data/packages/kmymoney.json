@@ -1,0 +1,9 @@
+{"package":"kmymoney",
+ "description":"personal finance manager for KDE",
+ "details":" KMyMoney is the Personal Finance Manager for KDE. It operates similar to\n MS-Money and Quicken, supports different account types, categorisation of\n expenses, QIF import\/export, multiple currencies and initial online banking\n support.\n role::program, suite::kde, uitoolkit::qt, x11::application\n",
+ "installedSize":"9469",
+ "downloadSize":"3913532",
+ "homepage":"http:\/\/kmymoney2.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

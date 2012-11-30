@@ -1,0 +1,9 @@
+{"package":"pyrenamer",
+ "description":"mass file renamer written in PyGTK",
+ "details":" You can rename files using patterns, search and replace,\n substitutions, insert or delete text, or even rename\n files manually.\n You can also rename images using their EXIF tags\n and music using their internal tags.\n",
+ "installedSize":"732",
+ "downloadSize":"117110",
+ "homepage":"http:\/\/www.infinicode.org\/code\/pyrenamer\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,8 @@
+{"package":"gdebi",
+ "description":"simple tool to install deb files - GNOME GUI",
+ "details":" gdebi lets you install local deb packages resolving and installing\n its dependencies. apt does the same, but only for remote (http, ftp)\n located packages.\n\n This package contains the graphical user interface.\n protocol::ftp, protocol::http, role::program, scope::utility,\n suite::debian, uitoolkit::gtk, use::downloading,\n works-with::software:package, x11::application\n",
+ "installedSize":"196",
+ "downloadSize":"40928",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"ayttm",
+ "description":"Universal instant messaging client",
+ "details":" Ayttm is an instant messaging (aka chat) client that provides all-in-one chat\n functionality for several major instant messaging services from one simple\n program. Ayttm \"Contacts\" allow you to refer to several accounts of the same\n person from a single contact name, making it one of the cleanest and simplest\n clients to use.\n\n Ayttm is the heir of the Everybuddy project, and aims to continue improving\n the program and addressing its shortcomings. The primary goal is to provide a\n messenger which is:\n\n  * simple: Ayttm should work nicely without having to first go through a\n    complicated configuration procedure. The preferences should be simple and\n    minimal.\n  * stable: Ayttm should not crash when you use it.\n  * intuitive: Ayttm should be almost instantly usable by your mother ;)\n  * flexible: Ayttm supports multiple protocols and they should be supported in\n    an integrated manner (common interface, for example), without limiting\n    protocol-specific features support. Ayttm currently handles Yahoo!, MSN,\n    Jabber, IRC, AIM and ICQ.\n\n It also features support for file transfers, group chat, MSN GnomeMeeting\n integration, tabbed chat, smiley themes, status tooltips, conversation\n logging, automatic translation, GPG signing\/encryption, typing notifications,\n spell checking and import of contacts from other clients.\n protocol::irc, protocol::jabber, protocol::msn-messenger,\n protocol::oscar, protocol::yahoo-messenger, role::program,\n uitoolkit::gtk, use::chatting, x11::application\n",
+ "installedSize":"2196",
+ "downloadSize":"916030",
+ "homepage":"http:\/\/ayttm.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

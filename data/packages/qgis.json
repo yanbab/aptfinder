@@ -1,0 +1,9 @@
+{"package":"qgis",
+ "description":"Geographic Information System (GIS)",
+ "details":" A Geographic Information System (GIS) manages, analyzes, and displays\n databases of geographic information. Quantum GIS (QGIS) supports shape file\n viewing and editing, spatial data storage with PostgreSQL\/PostGIS, projection\n on-the-fly, map composition, and a number of other features via a plugin\n interface. QGIS also supports display of various georeferenced raster and\n Digital Elevation Model (DEM) formats including GeoTIFF, Arc\/Info ASCII Grid,\n and USGS ASCII DEM.\n scope::utility, uitoolkit::qt, use::organizing, use::viewing,\n works-with-format::TODO, works-with::image, works-with::image:vector,\n works-with::text, x11::application\n",
+ "installedSize":"10034",
+ "downloadSize":"4069302",
+ "homepage":"http:\/\/qgis.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

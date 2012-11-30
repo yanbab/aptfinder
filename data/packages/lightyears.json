@@ -1,0 +1,9 @@
+{"package":"lightyears",
+ "description":"single player real-time strategy game with steampunk sci-fi",
+ "details":" You have to build and maintain a steam distribution network on an alien\n planet, while under attack from aliens and other hazards. The game has\n three difficulty levels, an interactive tutorial, and a scoring system.\n\n \"20.000 Light Years Into Space\" is written in Python using pygame.\n It was rewarded with the second place in the Pyweek March 2006 Individual\n Entries category.\n",
+ "installedSize":"1176",
+ "downloadSize":"652424",
+ "homepage":"http:\/\/www.jwhitham.org.uk\/20kly\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

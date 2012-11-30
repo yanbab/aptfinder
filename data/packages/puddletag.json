@@ -1,0 +1,9 @@
+{"package":"puddletag",
+ "description":"simple, powerful audio tag editor",
+ "details":" puddletag is an audio tag editor (primarily created) for GNU\/Linux\n similar to the Windows program, Mp3tag. Unlike most taggers for\n GNU\/Linux, it uses a spreadsheet-like layout so that all the tags you\n want to edit by hand are visible and easily editable.\n\n The usual tag editor features are supported like extracting tag\n information from filenames, renaming files based on their tags by\n using patterns and basic tag editing.\n\n Then there're Functions, which can do things like replace text, trim\n it, do case conversions, etc. Actions can automate repetitive\n tasks. You can import your QuodLibet library, lookup tags using\n Amazon (including cover art), Discogs (does cover art too!), FreeDB\n and MusicBrainz (and more).\n\n Supported formats: ID3v1, ID3v2 (mp3), MP4 (mp4, m4a, etc.),\n VorbisComments (ogg, flac), Musepack (mpc), Monkey's Audio (ape) and\n WavPack (wv).\n x11::application\n",
+ "installedSize":"2754",
+ "downloadSize":"1491320",
+ "homepage":"http:\/\/puddletag.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"nip2",
+ "description":"spreadsheet-like graphical image manipulation tool",
+ "details":" nip2 is a graphical front end to the VIPS package.\n\n VIPS is an image processing system designed with efficiency in mind.\n It is good with large images (images larger than the amount of RAM in\n your machine), and for working with colour.  It can perform many\n image manipulation tasks much faster than other packages such as\n ImageMagick and the GIMP and includes some special features such as\n creating single \"mosaic\" images from multiple parts.\n\n VIPS consists of two main components: an image processing library\n with some command-line tools and a spreadsheet-like graphical user\n interface.  This package supplies the graphical interface.\n\n With nip2, rather than directly editing images, you build\n relationships between objects in a spreadsheet-like fashion.  When\n you make a change somewhere, nip2 recalculates the objects affected by\n that change.  Since it is demand-driven this update is very fast,\n even for very, very large images.  nip2 is very good at creating\n pipelines of image manipulation operations.  It is not very good for\n image editing tasks like touching up photographs.  For that, a tool\n like the GIMP should be used instead.\n works-with::image, works-with::image:raster, x11::application\n",
+ "installedSize":"11292",
+ "downloadSize":"6360114",
+ "homepage":"http:\/\/www.vips.ecs.soton.ac.uk",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

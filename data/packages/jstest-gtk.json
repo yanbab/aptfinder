@@ -1,0 +1,9 @@
+{"package":"jstest-gtk",
+ "description":"joystick testing and configuration tool",
+ "details":" jstest-gtk is a simple graphical joystick tester. It provides a list\n of attached joysticks, and for each one can display which buttons and\n axes are pressed, remap axes and buttons, and calibrate the device.\n\n Even when your joystick is working mostly fine, you might want to\n give it a try, as the calibration lets you get rid of overlarge\n default deadzones that many joysticks use and which are a noticeable\n problem in some games.\n\n Installing the joystick package in addition to this one will allow\n you to store your calibration settings and mappings and have the\n automatically restored.\n role::program, scope::utility, uitoolkit::gtk, x11::application\n",
+ "installedSize":"457",
+ "downloadSize":"176918",
+ "homepage":"http:\/\/pingus.seul.org\/~grumbel\/jstest-gtk\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

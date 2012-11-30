@@ -1,0 +1,9 @@
+{"package":"cutecom",
+ "description":"Graphical serial terminal, like minicom",
+ "details":" Cutecom is a graphical serial terminal, like minicom.\n It is aimed mainly at hardware developers or other people who need a\n terminal to talk to their devices. It features lineoriented interface\n instead of character-oriented, xmodem, ymodem, zmodem support\n (requires the lrzsz package) and hexadecimal input and output among\n other things.\n It is written using the Qt library by Trolltech (www.trolltech.com).\n",
+ "installedSize":"204",
+ "downloadSize":"53726",
+ "homepage":"http:\/\/cutecom.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

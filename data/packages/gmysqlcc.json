@@ -1,0 +1,9 @@
+{"package":"gmysqlcc",
+ "description":"graphical client for managing MySQL databases",
+ "details":" GTK+ based client for MySQL which allows to make queries and performs\n administrative jobs such as manage users, process, structures, data dumps\n and more.\n scope::utility, uitoolkit::gtk, works-with::db, x11::application\n",
+ "installedSize":"244",
+ "downloadSize":"73148",
+ "homepage":"http:\/\/gmysqlcc.thepozer.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

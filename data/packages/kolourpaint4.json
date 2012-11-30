@@ -1,0 +1,9 @@
+{"package":"kolourpaint4",
+ "description":"simple image editor and drawing application",
+ "details":" KolourPaint is a simple drawing and image editing application for KDE.\n It aims to be easy to use, providing a level of functionality targeted towards\n the average user. It is ideal for common tasks such as drawing simple graphics\n and touching-up photos.\n\n This package is part of the KDE graphics module.\n scope::application, suite::kde, uitoolkit::qt, use::editing,\n works-with::image, x11::application\n",
+ "installedSize":"2027",
+ "downloadSize":"1281070",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

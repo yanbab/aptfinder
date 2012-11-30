@@ -1,0 +1,9 @@
+{"package":"nedit",
+ "description":"powerful, customizable, Motif based text editor",
+ "details":" NEdit is a multi-purpose text editor for the X Window System, which\n combines a standard, easy to use, graphical user interface with the\n thorough functionality and stability required by users who edit text\n eight hours a day. It provides intensive support for development in\n a wide variety of languages, text processors, and other tools, but\n at the same time can be used productively by just about anyone who\n needs to edit text. Users of Macintosh and MS Windows based text\n editors will find NEdit a familiar and comfortable environment.\n scope::application, uitoolkit::motif, use::editing, works-with::text,\n x11::application\n",
+ "installedSize":"2144",
+ "downloadSize":"879192",
+ "homepage":"http:\/\/www.nedit.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

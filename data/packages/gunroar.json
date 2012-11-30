@@ -1,0 +1,9 @@
+{"package":"gunroar",
+ "description":"360-degree gunboat shooter",
+ "details":" Gunroar is an excellent shooter in which the game environment turns to be\n the sea and our spaceship an armed boat. The player moves around in a\n level generated randomly, and containing enemy islands, turrets and\n enemy boats) and that never ends. Each enemy killed increments your\n points according to the time it took you to destroy it and its size.\n\n Gunroar is another gem among many by Kenta Cho.\n role::program, uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"1041",
+ "downloadSize":"227576",
+ "homepage":"http:\/\/www.asahi-net.or.jp\/~cs8k-cyu\/windows\/gr_e.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

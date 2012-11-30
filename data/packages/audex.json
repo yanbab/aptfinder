@@ -1,0 +1,9 @@
+{"package":"audex",
+ "description":"Audio grabber tool for KDE",
+ "details":" Audex is a new audio grabber tool for CD-ROM drives for the KDE desktop.\n\n The assistant is able to create profiles for LAME, OGG Vorbis (oggenc),\n FLAC, FAAC (AAC\/MP4) and RIFF WAVE. Please install your favorite encoder.\n Of course for WAVE no external encoder is needed!\n Beyond the assistant you can define your own profile, which means, that\n audex works together with commmand line encoders in general.\n\n Some features are:\n  * Extracting with CDDA Paranoia. So you have quite perfect audio quality.\n  * Extracting and encoding run parallel.\n  * Filename editing with local and remote CDDB\/FreeDB database.\n  * Submit new entries to CDDB\/FreeDB database.\n  * Metadata correction tools like capitalize etc.\n  * Multi-profile extraction (with one commandline-encoder per profile).\n  * Fetch covers from the internet and store them in the database.\n  * Create playlists, cover and template-based-info files in target directory.\n  * Creates extraction and encoding protocols.\n  * Transfer files to a FTP-server.\n role::program, scope::utility, uitoolkit::qt, use::converting,\n works-with-format::mp3, works-with-format::oggvorbis,\n works-with::audio, x11::application\n",
+ "installedSize":"1620",
+ "downloadSize":"477286",
+ "homepage":"http:\/\/kde.maniatek.com\/audex\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

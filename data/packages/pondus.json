@@ -1,0 +1,9 @@
+{"package":"pondus",
+ "description":"personal weight manager for GTK+2",
+ "details":" Pondus keeps track of your body weight and, optionally, the percentage of\n bodyfat, muscle and water. It aims to be simple to use, lightweight and\n fast. All data can be plotted to get a quick overview of the history of\n your weight. A simple weight planner allows one to define \"target weights\"\n and this plan can be compared with the actual measurements in a plot.\n role::program, scope::utility, uitoolkit::gtk, use::monitor,\n x11::application\n",
+ "installedSize":"656",
+ "downloadSize":"62290",
+ "homepage":"http:\/\/bitbucket.org\/eike\/pondus\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

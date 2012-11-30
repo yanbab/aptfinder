@@ -1,0 +1,9 @@
+{"package":"talksoup.app",
+ "description":"IRC client for GNUstep",
+ "details":" TalkSoup is a GNUstep IRC client built on the extensibility of the\n Objective-C language. The entire IRC client is implemented by plugins,\n so one can pick and choose what they want to use.\n role::program, suite::gnustep, uitoolkit::gnustep, use::chatting,\n x11::applet\n",
+ "installedSize":"1726",
+ "downloadSize":"448154",
+ "homepage":"http:\/\/aeruder.gnustep.us\/talksoup\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

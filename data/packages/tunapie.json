@@ -1,0 +1,9 @@
+{"package":"tunapie",
+ "description":"Lists audio and video streams from Shoutcast and Icecast",
+ "details":" A GUI based program for displaying Shoutcast or Icecast video and radio\n streams. It gives information about streams including bitrate, IP and current\n number of listeners. Streams can then be played using an appropriate media\n player, defined in preferences. Tunapie also allows streams to be recorded\n using streamripper. Recordings can be set to start and stop at specified times.\n scope::utility, uitoolkit::gtk, use::entertaining, use::playing,\n works-with::audio, works-with::video, x11::application\n",
+ "installedSize":"174",
+ "downloadSize":"48158",
+ "homepage":"http:\/\/tunapie.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

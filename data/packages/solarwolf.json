@@ -1,0 +1,8 @@
+{"package":"solarwolf",
+ "description":"Collect the boxes and don't become mad",
+ "details":" Solarwolf is an action\/arcade game written entirely in Python,\n featuring amazing graphics and cool music.\n It is is originally based on the SolarFox game on the Atari 2600.\n\n All this, yet the best feature of all is; it is a hecka lotta fun!\n The point of the game is to scramble through 48 levels of patterns,\n collecting all the boxes. The part that makes it tricky is avoiding\n the relentless hailstorm of fire coming at you from all directions.\n\n URL: http:\/\/www.pygame.org\/shredwheat\/solarwolf\/\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"2984",
+ "downloadSize":"2010986",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

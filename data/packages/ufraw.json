@@ -1,0 +1,9 @@
+{"package":"ufraw",
+ "description":"standalone importer for raw camera images",
+ "details":" This is a standalone tool to import raw data from high-end digital cameras.\n\n The Unidentified Flying Raw (UFRaw) is a utility for converting and\n manipulating raw images from digital cameras. It can be used as a\n stand-alone tool or as a Gimp plug-in, and images can be batch\n processed using the command-line interface. UFRaw reads most existing\n raw formats using Dave Coffin's raw conversion utility DCRaw, and it\n supports basic color management using Little CMS, allowing the user to\n apply color profiles.\n uitoolkit::gtk, use::converting, works-with::image, x11::application\n",
+ "installedSize":"2079",
+ "downloadSize":"738336",
+ "homepage":"http:\/\/ufraw.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

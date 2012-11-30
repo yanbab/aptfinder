@@ -1,0 +1,8 @@
+{"package":"3dchess",
+ "description":"Play chess across 3 boards!",
+ "details":" There are three boards, stacked vertically; 96 pieces of which most are\n the traditional chess pieces with just a couple of additions; 26\n possible directions in which to move. Provides a challenging enough\n game to all but the most highly skilled players.\n interface::x11, role::program, uitoolkit::xlib, use::gameplaying,\n x11::application\n",
+ "installedSize":"152",
+ "downloadSize":"35086",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

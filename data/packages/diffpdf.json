@@ -1,0 +1,9 @@
+{"package":"diffpdf",
+ "description":"compare two PDF files textually or visually",
+ "details":" DiffPDF is used to compare two PDF files.\n By default the comparison is of the text on each pair of pages, but\n comparing the appearance of pages is also supported (for example, if\n a diagram is changed or a paragraph reformatted). It is also possible\n to compare particular pages or page ranges. For example, if there are\n two versions of a PDF file, one with pages 1-12 and the other with\n pages 1-13 because of an extra page having been added as page 4, they\n can be compared by specifying two page ranges, 1-12 for the first and 1-3,\n 5-13 for the second. This will make DiffPDF compare pages in the pairs\n (1, 1), (2, 2), (3, 3), (4, 5), (5, 6), and so on, to (12, 13).\n uitoolkit::qt, use::comparing, works-with-format::pdf, x11::application\n",
+ "installedSize":"507",
+ "downloadSize":"180390",
+ "homepage":"http:\/\/www.qtrac.eu\/diffpdf.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

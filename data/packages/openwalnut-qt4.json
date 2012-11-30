@@ -1,0 +1,9 @@
+{"package":"openwalnut-qt4",
+ "description":"Multi-modal medical and brain data visualization tool.",
+ "details":" OpenWalnut is a tool for multi-modal medical and brain data visualization. Its\n universality allows it to be easily extended and used in a large variety of\n application cases. It is both, a tool for the scientific user and a powerful\n framework for the visualization researcher. Besides others, it is able to load\n NIfTI data, VTK line data and RIFF-format CNT\/AVR-files. OpenWalnut provides\n many standard visualization tools like line integral convolution (LIC),\n isosurface-extraction, glyph-rendering or interactive fiber-data exploration.\n The powerful framework of OpenWalnut allows researchers and power-users to\n easily extend the functionality to their specific needs.\n\n This package contains the QT4 GUI for OpenWalnut.\n",
+ "installedSize":"1647",
+ "downloadSize":"623030",
+ "homepage":"http:\/\/www.openwalnut.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

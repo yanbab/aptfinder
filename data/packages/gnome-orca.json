@@ -1,0 +1,9 @@
+{"package":"gnome-orca",
+ "description":"Scriptable screen reader",
+ "details":" A flexible, extensible, and powerful assistive technology that\n provides end-user access to applications and toolkits that support the\n AT-SPI (e.g., the GNOME desktop).\n\n Orca defines a set of default behaviors (reactions to application events) and\n key bindings (reaction to user key presses). These default behaviors and key\n bindings can be overwritten on a per-application basis. Orca creates a script\n object for each running application, which merges both the default behaviors\n and key bindings, and the application specific ones. Orca provides the\n infrastructure to activate and deactivate scripts, as well as a host of\n services accessible from within the scripts.\n\n Note: gnome-orca works without gnome-mag, you just need it for magnification.\n accessibility::speech, implemented-in::python, role::program,\n sound::speech, suite::gnome, uitoolkit::gtk, works-with::text\n",
+ "installedSize":"12215",
+ "downloadSize":"4656128",
+ "homepage":"http:\/\/live.gnome.org\/Orca",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

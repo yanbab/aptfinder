@@ -1,0 +1,9 @@
+{"package":"kdiff3",
+ "description":"compares and merges 2 or 3 files or directories",
+ "details":" KDiff3 compares two or three input files and shows the differences\n line by line and character by character. It provides an automatic\n merge facility and an integrated editor for comfortable solving of\n merge conflicts. KDiff3 allows recursive directory comparison and\n merging as well.\n\n This is the standard version of KDiff3, highly integrated into KDE.\n It has got KIO support (allowing for remote access of files and\n direct access to files in compressed archives) and integration into\n konqueror's context menu. There's also a stripped-down version called\n kdiff3-qt not depending on the KDE libraries.\n suite::kde, uitoolkit::qt, use::comparing, works-with::software:source,\n works-with::text, x11::application\n",
+ "installedSize":"4079",
+ "downloadSize":"1356552",
+ "homepage":"http:\/\/kdiff3.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

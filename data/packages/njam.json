@@ -1,0 +1,9 @@
+{"package":"njam",
+ "description":"pacman-like game with multiplayer support",
+ "details":" Njam is a pacman-like game with many features, including networked\n multiplayer mode.  It is available on many platforms.\n\n Features:\n o Single and multiplayer mode (local or network)\n o Cooperative and competetive multiplayer modes\n o Customizable level skins\n o Many different levels\n o Integrated level editor\n o Great music and sound effects\n role::program, uitoolkit::sdl, use::editing, use::gameplaying,\n x11::application\n",
+ "installedSize":"3816",
+ "downloadSize":"1442670",
+ "homepage":"http:\/\/njam.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

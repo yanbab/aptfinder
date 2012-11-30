@@ -1,0 +1,9 @@
+{"package":"tint2",
+ "description":"lightweight taskbar",
+ "details":" Tint is a simple panel\/taskbar intentionally made for openbox3, but should\n also work with other window managers. The taskbar includes transparency and\n color settings for the font, icons, border, and background. It also supports\n multihead setups, customized mouse actions, and a built-in clock. Tint was\n originally based on ttm code. Since then, support has also been added\n for a battery monitor and system tray.\n\n The goal is to keep a clean and unintrusive look with lightweight code and\n compliance with freedesktop specification.\n",
+ "installedSize":"385",
+ "downloadSize":"154388",
+ "homepage":"http:\/\/code.google.com\/p\/tint2\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

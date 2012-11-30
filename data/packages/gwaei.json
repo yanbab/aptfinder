@@ -1,0 +1,9 @@
+{"package":"gwaei",
+ "description":"Japanese-English Dictionary for GNOME",
+ "details":" gWaei is an easy to use and yet powerful full-featured\n dictionary program for Japanese to English translation.\n It organizes results by relevance, supports regex searches,\n tabs, spell checking, kanji handwriting recognition and\n an accompanying console version for searches through\n the terminal.\n uitoolkit::ncurses, use::checking, use::learning,\n works-with::dictionary, x11::application\n",
+ "installedSize":"1102",
+ "downloadSize":"272058",
+ "homepage":"http:\/\/gwaei.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

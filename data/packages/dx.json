@@ -1,0 +1,9 @@
+{"package":"dx",
+ "description":"OpenDX (IBM Visualization Data Explorer) - main package",
+ "details":" Data Explorer is a system of tools and user interfaces for visualizing data.\n In general terms the visualization of data can be considered a 3-stage\n process:\n    1. Describing and importing data\n    2. Processing the data through a visualization program\n    3. Presenting the resulting image.\n This is the main package.\n use::viewing, works-with::image, x11::application\n",
+ "installedSize":"12690",
+ "downloadSize":"4239068",
+ "homepage":"http:\/\/www.opendx.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

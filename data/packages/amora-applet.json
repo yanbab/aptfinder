@@ -1,0 +1,9 @@
+{"package":"amora-applet",
+ "description":"use a bluetooth device as X remote control (systray applet)",
+ "details":" Amora (A mobile remote assistant) is an application that enables you\n to control your desktop using your mobile phone. It uses bluetooth to\n send mouse and keyboard events to the X session. With it, you can\n control your presentations, movies or any other application which\n mainly uses mouse and cursor keys.\n\n Amora also has a screenshot feature, where you can see a thumbnail of\n the currently focused window on the mobile phone.\n\n Currently only Symbian Series 60 mobile phones are supported. A Java\n client implementation is under development. A proof of concept client\n for Linux based mobile device like the Nokia Internet Tablets and the\n OpenMoko FreeRunner is available.\n\n This package contains the Qt-based system tray applet version of the\n daemon running on the to be remote controlled computer. The client\n has to be installed on the mobile phone and is not contained in the\n package. It can be downloaded from the home page of the project.\n hardware::input:mouse, implemented-in::c, interface::x11,\n network::client, office::presentation, role::program, system::mobile,\n uitoolkit::qt, use::TODO, use::playing, use::transmission,\n use::viewing, works-with::TODO, x11::applet\n",
+ "installedSize":"142",
+ "downloadSize":"55508",
+ "homepage":"http:\/\/amora.googlecode.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

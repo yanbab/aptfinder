@@ -1,0 +1,9 @@
+{"package":"gnome-search-tool",
+ "description":"GNOME tool to search files",
+ "details":" This application can search for files in a given directory, matching\n their names or contents.\n\n It doesn't require any indexation tool, and as such is lightweight but\n slow.\n",
+ "installedSize":"4502",
+ "downloadSize":"623274",
+ "homepage":"http:\/\/live.gnome.org\/GnomeUtils",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

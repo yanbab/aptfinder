@@ -1,0 +1,9 @@
+{"package":"fillets-ng",
+ "description":"puzzle game about witty fish saving the world sokoban-style",
+ "details":" Fish Fillets is strictly a puzzle game. The goal in every of the seventy\n levels is always the same: find a safe way out. The fish utter witty remarks\n about their surroundings, the various inhabitants of their underwater realm\n quarrel among themselves or comment on the efforts of your fish. The whole\n game is accompanied by quiet, comforting music.\n role::program, uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"612",
+ "downloadSize":"265998",
+ "homepage":"http:\/\/fillets.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

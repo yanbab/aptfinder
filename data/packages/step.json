@@ -1,0 +1,9 @@
+{"package":"step",
+ "description":"interactive physical simulator for KDE",
+ "details":" With Step you can not only learn but feel how physics works. You place some\n bodies on the scene, add some forces such as gravity or springs, then click\n \"Simulate\" and Step shows you how your scene will evolve according to the\n laws of physics. You can change every property of bodies\/forces in your\n experiment (even during simulation) and see how this will change evolution\n of the experiment.\n\n This package is part of the KDE education module.\n suite::kde, uitoolkit::qt, use::learning, use::simulating,\n x11::application\n",
+ "installedSize":"1765",
+ "downloadSize":"675944",
+ "homepage":"http:\/\/edu.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"kapman",
+ "description":"Pac-Man clone",
+ "details":" Kapman is a clone of the well known game Pac-Man. You must go through the\n levels escaping ghosts in a maze. You lose a life when a ghost eats you, but\n you can eat the ghosts for a few seconds when eating an energizer. You win\n points when eating pills, energizers, and bonus, and you win one life for\n each 10,000 points.  When you have eaten all the pills and energizers of a\n level, you go to the next level, and the player and ghost speeds increase.\n\n This package is part of the KDE games module.\n suite::kde, uitoolkit::qt, use::gameplaying, x11::application\n",
+ "installedSize":"1858",
+ "downloadSize":"1579190",
+ "homepage":"http:\/\/games.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

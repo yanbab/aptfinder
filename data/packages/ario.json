@@ -1,0 +1,9 @@
+{"package":"ario",
+ "description":"GTK+ client for the Music Player Daemon (MPD)",
+ "details":" Ario is a full featured client for MPD (Music Player Daemon).\n The interface used to browse the library is inspired by Rhythmbox but Ario\n aims to be much lighter and faster.\n It uses GTK2, avahi for MPD server detection and curl to download remote\n files (like cover arts and lyrics).\n Various plugins are provided like audioscrobbler\/last.fm submission or\n multimedia keys support.\n",
+ "installedSize":"652",
+ "downloadSize":"210354",
+ "homepage":"http:\/\/ario-player.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

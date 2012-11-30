@@ -1,0 +1,9 @@
+{"package":"freedm",
+ "description":"multiplayer-oriented maps for Doom",
+ "details":" Freedoom is a project to create a complete Doom II-compatible IWAD file\n which is Free Software.\n\n FreeDM is a sub-project to create a set of levels designed for deathmatch\n play.\n\n FreeDM does not require Freedoom to play and can be used in conjunction\n with a boom-engine. Please note that this is designed for multiplayer and\n will not be of much use for single player.\n",
+ "installedSize":"16277",
+ "downloadSize":"4320408",
+ "homepage":"http:\/\/freedoom.nongnu.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

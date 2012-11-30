@@ -1,0 +1,9 @@
+{"package":"epigrass",
+ "description":"scientific tool for simulations and scenario analysis in network epidemiology",
+ "details":" Epigrass is a software for visualizing, analyzing and simulating of\n epidemic processes on geo-referenced networks.\n\n EpiGrass can interact with the GRASS GIS from which it can obtain\n maps and other geo-referenced information. However, EpiGrass does not\n require an installation of the GRASS GIS for most of its features.\n scope::application, uitoolkit::qt, use::TODO, use::analysing,\n use::viewing, works-with-format::TODO, works-with::db, x11::application\n",
+ "installedSize":"1568",
+ "downloadSize":"318946",
+ "homepage":"http:\/\/pypi.python.org\/pypi\/epigrass\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

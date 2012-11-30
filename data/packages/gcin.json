@@ -1,0 +1,9 @@
+{"package":"gcin",
+ "description":"GTK+ based input method for Chinese users",
+ "details":" gcin is a GTK+ based input method which focused mainly on Traditional\n Chinese. However, it is also very useful for Simplified Chinese, Japanese,\n and many other languages.\n\n This package contains only GTK2 immodule. For GTK3 and Qt4 immodule,\n please install correspondence packages.\n implemented-in::c, interface::x11, role::program, uitoolkit::gtk,\n x11::application\n",
+ "installedSize":"955",
+ "downloadSize":"414444",
+ "homepage":"http:\/\/hyperrate.com\/dir.php?eid=67",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"mudlet",
+ "description":"Graphical MUD client with fast lua scripting support",
+ "details":" A completely redesigned MUD (Multi User Dungeon) client that is easy to\n use and customise.  Both power users and plain gamers alike will feel at\n home with Mudlet, without having to waste too much timer figuring out\n how to do something.\n\n Mudlet is designed to be very fast and efficient right from the start.\n It's scripting engine is designed to handle thousands of lines under\n one second. The scripting framework uses Lua - a small, fast and\n efficient scripting language.\n use::gameplaying\n",
+ "installedSize":"7008",
+ "downloadSize":"3640506",
+ "homepage":"http:\/\/www.mudlet.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

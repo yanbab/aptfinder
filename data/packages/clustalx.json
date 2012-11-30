@@ -1,0 +1,9 @@
+{"package":"clustalx",
+ "description":"Multiple alignment of nucleic acid and protein sequences (graphical interface)",
+ "details":" This package offers a GUI interface for the Clustal multiple sequence\n alignment program. It provides an integrated environment for performing\n multiple sequence- and profile-alignments to analyse the results.\n The sequence alignment is displayed in a window on the screen.\n A versatile coloring scheme has been incorporated to highlight conserved\n features in the alignment. For professional presentations, one should\n use the texshade LaTeX package or boxshade.\n\n The pull-down menus at the top of the window allow you to select all the\n options required for traditional multiple sequence and profile alignment.\n You can cut-and-paste sequences to change the order of the alignment; you can\n select a subset of sequences to be aligned; you can select a sub-range of the\n alignment to be realigned and inserted back into the original alignment.\n\n An alignment quality analysis can be performed and low-scoring segments or\n exceptional residues can be highlighted.\n field::biology, field::biology:bioinformatics, implemented-in::c,\n interface::x11, role::program, scope::utility, uitoolkit::motif,\n use::analysing, use::comparing, use::viewing,\n works-with-format::plaintext, works-with::TODO, x11::application\n",
+ "installedSize":"1373",
+ "downloadSize":"559138",
+ "homepage":"http:\/\/www.clustal.org\/clustal2\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

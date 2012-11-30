@@ -1,0 +1,8 @@
+{"package":"filler",
+ "description":"simple game where two players try to capture half the board",
+ "details":" Filler is a simple game where two players try to capture half of the board.\n Players take turns selecting colours to capture all adjacent hexes of the\n same colour.\n",
+ "installedSize":"324",
+ "downloadSize":"196548",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

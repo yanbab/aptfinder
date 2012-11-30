@@ -1,0 +1,9 @@
+{"package":"qmpdclient",
+ "description":"Qt4 client for the Music Player Daemon (MPD)",
+ "details":" QMPDClient is a GUI client for MPD with Qt4 interface and such features as\n covers display, skins, tray notifications and last.fm track submission.\n\n MPD (Music Player Daemon) is a server that allows remote access for\n playing audio files, streams and managing playlists. It can be used together\n with different clients, including this one, and clients are not required to be\n run on the same machine as the server.\n\n The Music Player Daemon resides in the mpd package.\n scope::application, uitoolkit::qt, use::playing, works-with::audio,\n x11::application\n",
+ "installedSize":"1751",
+ "downloadSize":"644102",
+ "homepage":"http:\/\/bitcheese.net\/wiki\/QMPDClient",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

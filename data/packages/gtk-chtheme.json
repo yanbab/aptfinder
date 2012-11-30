@@ -1,0 +1,9 @@
+{"package":"gtk-chtheme",
+ "description":"GTK+ 2.0 theme changer and previewer utility",
+ "details":" 'Gtk Theme Switch' based utility that aims to make themes previews and\n selections as slick as possible. Themes installed on the system are\n presented for selection and previewed on the fly.\n\n This utility was develop only to work for GTK+ 2.x themes. For GTK+ 1.x themes\n use 'gtk-theme-switch' package\n",
+ "installedSize":"112",
+ "downloadSize":"17958",
+ "homepage":"http:\/\/plasmasturm.org\/code\/gtk-chtheme\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

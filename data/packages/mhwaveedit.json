@@ -1,0 +1,9 @@
+{"package":"mhwaveedit",
+ "description":"Simple and fast GTK2 sound editor",
+ "details":" mhWaveEdit is a graphical program for editing sound files. It is\n intended to be user-friendly and robust. It does not require\n a fast computer.\n\n Supports JACK, ALSA, OSS and PulseAudio.\n x11::application\n",
+ "installedSize":"1116",
+ "downloadSize":"444672",
+ "homepage":"http:\/\/gna.org\/projects\/mhwaveedit\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

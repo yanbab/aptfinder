@@ -1,0 +1,9 @@
+{"package":"warmux",
+ "description":"turn-based artillery game on 2D maps",
+ "details":" WarMUX is a free game in the genre of \"turn-based artillery games\"\n like Scorched Earth or Worms.\n Several players can play together, either locally or over the network.\n It is also possible to compete against computer-driven teams.\n The teams are styled after the mascots of various free software projects.\n role::program, scope::application, uitoolkit::sdl, use::gameplaying,\n x11::application\n",
+ "installedSize":"2119",
+ "downloadSize":"922220",
+ "homepage":"http:\/\/www.wormux.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

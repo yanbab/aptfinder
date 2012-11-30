@@ -1,0 +1,9 @@
+{"package":"hdate-applet",
+ "description":"Hebrew calendar applet",
+ "details":" A GNOME desktop applet providing an Hebrew calendar that gives the user easy\n access to the Jewish calendar (including Hebrew date, parasha, sunset and\n sunrise times, holydays and moon phase).\n x11::applet\n",
+ "installedSize":"296",
+ "downloadSize":"210888",
+ "homepage":"http:\/\/hdateapplet.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

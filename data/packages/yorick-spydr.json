@@ -1,0 +1,9 @@
+{"package":"yorick-spydr",
+ "description":"FITS image display and simple analysis",
+ "details":" Spydr (pronounced like spider) basically is an FITS image viewer. It\n can work as a stand-alone application but is best integrated in a\n Yorick-based data-analysis work-flow (Yorick is an interpreted\n language specialized in numerical computations and scientific\n graphics). It includes tools to zoom, produce cuts, histograms,\n Gaussian\/Moffat fits, PSF fits (inc. FWHM and Strehl). Can work on\n single images, sequences of images or data cubes.\n",
+ "installedSize":"446",
+ "downloadSize":"74462",
+ "homepage":"http:\/\/www.maumae.net\/yorick\/doc\/spydr_intro.php",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

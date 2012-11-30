@@ -1,0 +1,9 @@
+{"package":"plasma-scriptengine-superkaramba",
+ "description":"SuperKaramba theme support for the Plasma Workspaces",
+ "details":" This package provides SuperKaramba scriptengine for Plasma. It brings\n support for the SuperKaramba interactive desktop applets, called \"themes\", to\n the Plasma desktop.\n\n This package is part of the KDE SC utilities module.\n",
+ "installedSize":"1079",
+ "downloadSize":"370344",
+ "homepage":"http:\/\/www.kde.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"vitables",
+ "description":"graphical tool to browse and edit PyTables and HDF5 files",
+ "details":" ViTables is a component of the PyTables family. It is a graphical\n tool for browsing and editing files in both PyTables and HDF5\n formats.\n\n ViTables capabilities include easy navigation through the data\n hierarchy, displaying of real data and its associated metadata, a\n simple, yet powerful, browsing of multidimensional data and much\n more.\n\n One of the greatest strengths of ViTables is its ability to display\n very large tables. Tables with one thousand millions of rows (and\n beyond) are navigated stunningly fast and with very low memory\n requirements. So, if you ever need to browse very large tables, don't\n hesitate, ViTables is your choice.\n",
+ "installedSize":"2120",
+ "downloadSize":"890178",
+ "homepage":"http:\/\/vitables.berlios.de",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

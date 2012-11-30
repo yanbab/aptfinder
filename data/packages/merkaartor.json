@@ -1,0 +1,9 @@
+{"package":"merkaartor",
+ "description":"map editor for OpenStreetMap.org",
+ "details":" Merkaartor is a map editor for OpenStreetMap.org, the free editable map of the\n whole world.\n\n Features:\n  * download from and upload to the OpenStreetMap server\n  * open .osm and .gpx files\n  * create and move trackpoints, ways, and areas\n  * add tags, delete features\n  * reverse, split and join ways\n  * visualize some leisure\/landuse areas and road types\n  * displaying GPS information\n uitoolkit::qt, works-with-format::xml:gpx, x11::application\n",
+ "installedSize":"7354",
+ "downloadSize":"3291900",
+ "homepage":"http:\/\/www.merkaartor.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

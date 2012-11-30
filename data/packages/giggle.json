@@ -1,0 +1,9 @@
+{"package":"giggle",
+ "description":"Gtk+ frontend for the git directory tracker",
+ "details":" Giggle is a Gtk frontend to the git directory tracker.\n With Giggle you will be able to visualize and browse easily\n the revision tree, view changed files and differences between\n revisions, visualize summarized info for the project, commit\n changes and other useful tasks for any git projects contributor.\n",
+ "installedSize":"2514",
+ "downloadSize":"1618080",
+ "homepage":"http:\/\/live.gnome.org\/giggle",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

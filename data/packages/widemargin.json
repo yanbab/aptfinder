@@ -1,0 +1,9 @@
+{"package":"widemargin",
+ "description":"bible reading and study application",
+ "details":" Wide Margin is a bible reading and study application. It has a focus on\n speed and simplicity. Features include, as you type searching and passage\n navigation, familiar browser based interface, full navigation history and\n a built in reading planner which will have you read the old testament\n once and the new testament twice every year.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"4544",
+ "downloadSize":"1454732",
+ "homepage":"https:\/\/bitbucket.org\/trampster\/widemargin",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

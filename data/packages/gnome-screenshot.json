@@ -1,0 +1,9 @@
+{"package":"gnome-screenshot",
+ "description":"screenshot application for GNOME",
+ "details":" This tool takes a picture of the desktop or of a window and saves it\n into a file.\n",
+ "installedSize":"1375",
+ "downloadSize":"173794",
+ "homepage":"http:\/\/live.gnome.org\/GnomeUtils",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

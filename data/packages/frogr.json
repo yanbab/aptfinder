@@ -1,0 +1,9 @@
+{"package":"frogr",
+ "description":"Flickr Remote Organizer for GNOME",
+ "details":" Frogr is a small application for the GNOME desktop that allows users\n to manage their accounts in the Flickr image hosting website.\n It supports all the basic tasks, including uploading pictures, adding\n descriptions, setting tags and managing sets.\n",
+ "installedSize":"398",
+ "downloadSize":"220486",
+ "homepage":"http:\/\/live.gnome.org\/Frogr",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

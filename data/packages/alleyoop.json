@@ -1,0 +1,9 @@
+{"package":"alleyoop",
+ "description":"Front-end to the Valgrind memory checker",
+ "details":" Alleyoop is a GNOME front-end to the Valgrind memory checker, including\n features like intelligently suppressing errors and launching editors at\n the error position in the source code.\n\n Valgrind helps you to find memory-management problems in your programs.\n When a program is run under Valgrind's supervision, all reads and\n writes of memory are checked, and calls to malloc\/new\/free\/delete are\n intercepted.\n role::program, scope::application, suite::gnome, uitoolkit::gtk,\n use::checking, use::editing, works-with::software:running,\n x11::application\n",
+ "installedSize":"937",
+ "downloadSize":"172316",
+ "homepage":"http:\/\/alleyoop.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

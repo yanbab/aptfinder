@@ -1,0 +1,8 @@
+{"package":"carmetal",
+ "description":"dynamic geometry software with highly ergonomic UI",
+ "details":" Based on the C.a.R. (Compass and Ruler) project, CaRMetal includes\n all of its functionalities - or almost. It propose a different approach\n from the graphical interface point of view.\n\n  - Ruler and compass constructions can be changed by dragging one of the\n basic construction points. The construction follows immediately. The\n student can check the correctness of the construction and gain new\n insight.\n  - Tracks of points and animated constructions can help to understand\n geometric relations. Tracks can be used as new objects to explore.\n  - With the macros of C.a.R. very complicated constructions become\n possible. Macros are also a way to organize the geometric thinking.\n  - Hiding construction details and using colors make constructions\n clearer to read. In C.a.R. lines and circles can also be reduced to the\n relevant points.\n  - Arithmetic computations, numerical solutions, curves and functions\n go beyond classical constructions. It is even possible to construct in 3D\n using advanced macros.\n  - Other geometries, hyperbolic or elliptic, can be explored.\n  - Scripting (javascript based) of figures.\n",
+ "installedSize":"3980",
+ "downloadSize":"2513940",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

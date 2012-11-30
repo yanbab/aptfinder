@@ -1,0 +1,9 @@
+{"package":"a7xpg",
+ "description":"chase action game",
+ "details":" The goal of the game is to collect all the gold bullions found in each level\n and avoid crashing into any of the enemies. As you progress through the\n levels you will encounter harder enemies, and you can gain a short period of\n invincibility if you gather gold at high speeds.\n\n A7Xpg is another gem among many by Kenta Cho.\n role::program, uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"1476",
+ "downloadSize":"166156",
+ "homepage":"http:\/\/www.asahi-net.or.jp\/~cs8k-cyu\/windows\/a7xpg_e.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"mlterm",
+ "description":"MultiLingual TERMinal",
+ "details":" This is a terminal emulator for X Window System, which supports\n various encodings including ISO-8859-[1-11,13-16], TCVN5712, VISCII,\n TIS-620 (same as ISO-8859-11), KOI8-{R,U,T}, CP{1251,1255}, GEORGEAN-PS,\n EUC-JP, EUC-JISX0213, ISO-2022-JP{,1,2,3}, Shift_JIS, Shift_JISX0213,\n ISO-2022-KR, EUC-KR, UHC, JOHAB, EUC-CN (aka GB2312), GBK, ISO-2022-CN,\n Big5, EUC-TW, HZ, UTF-8, and GB18030.\n\n Doublewidth characters for east Asian, combining characters for\n Thai, Vietnamese, and other diacritics, BiDi (bi-directionality)\n for Arabic and Hebrew as well as Arabic shaping are all supported.\n Though mlterm supports Indic complex languages such as Hindi, this\n Debian package is not compiled with Indic support.\n\n Since mlterm checks the current locale and selects appropriate encoding,\n you don't need to configure mlterm to display your language and\n encoding.\n\n mlterm also supports unique features such as scrollbar API,\n multiple windows, multiple XIM, anti-alias using FreeType and Xft,\n and so on.\n uitoolkit::gtk, x11::application, x11::terminal\n",
+ "installedSize":"400",
+ "downloadSize":"181998",
+ "homepage":"http:\/\/mlterm.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

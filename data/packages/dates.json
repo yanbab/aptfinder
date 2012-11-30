@@ -1,0 +1,9 @@
+{"package":"dates",
+ "description":"calendar optimised for embedded devices",
+ "details":" Dates is a small, lightweight calendar.  Dates features an innovative, unified,\n zooming view and is designed for use on hand-held devices, such as the Nokia\n 770 or the Sharp Zaurus series of PDAs.\n\n This flavour is suitable for desktop systems such as GNOME; for the Hildon\n flavour of Dates, see the dates-hildon package.\n suite::gnome, uitoolkit::gtk, use::timekeeping,\n works-with-format::TODO, works-with::pim\n",
+ "installedSize":"580",
+ "downloadSize":"143164",
+ "homepage":"http:\/\/www.pimlico-project.org\/dates.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

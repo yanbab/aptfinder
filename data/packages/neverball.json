@@ -1,0 +1,9 @@
+{"package":"neverball",
+ "description":"3D floor-tilting game",
+ "details":" In the grand tradition of Marble Madness and Super Monkey Ball, Neverball\n has you guide a rolling ball through dangerous territory. Balance on narrow\n bridges, navigate mazes, ride moving platforms, and dodge pushers and\n shovers to get to the goal. Race against the clock to collect coins to earn\n extra balls.\n interface::x11, role::program, uitoolkit::sdl, use::gameplaying,\n x11::application\n",
+ "installedSize":"381",
+ "downloadSize":"171764",
+ "homepage":"http:\/\/neverball.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

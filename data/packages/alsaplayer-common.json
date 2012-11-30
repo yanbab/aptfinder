@@ -1,0 +1,9 @@
+{"package":"alsaplayer-common",
+ "description":"PCM player designed for ALSA (common files)",
+ "details":" Alsaplayer is a PCM player designed specifically for use with ALSA, but\n works great with OSS or EsounD.  It's heavily threaded which cuts down on\n skipping, offers optional and even simultaneous visual scopes, plays\n mp3, mp2, ogg, cdda, audiofs, and lots more.\n\n This package contains the main alsaplayer program, and needs one interface\n plugin and one output plugin. By default, GTK+ interface and alsa output will\n be installed.\n works-with-format::mp3, works-with-format::oggvorbis,\n works-with-format::wav, works-with::audio, x11::application\n",
+ "installedSize":"463",
+ "downloadSize":"191418",
+ "homepage":"http:\/\/www.alsaplayer.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

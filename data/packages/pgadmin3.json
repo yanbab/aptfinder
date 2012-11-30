@@ -1,0 +1,9 @@
+{"package":"pgadmin3",
+ "description":"graphical administration tool for PostgreSQL",
+ "details":" pgAdmin III is a database design and management application for use with\n PostgreSQL. The application can be used to manage PostgreSQL 7.3 and above\n running on any platform.\n\n pgAdmin III is designed to answer the needs of all users, from writing\n simple SQL queries to developing complex databases. The graphical\n interface supports all PostgreSQL features and makes administration\n easy. The application also includes a syntax highlighting SQL editor, a\n server-side code editor, an SQL\/batch\/shell job scheduling agent,\n support for the Slony-I replication engine and much more. Server\n connection may be made using TCP\/IP or Unix Domain Sockets (on *nix\n platforms), and may be SSL encrypted for security. No additional\n drivers are required to communicate with the database server.\n uitoolkit::gtk, uitoolkit::wxwidgets, use::configuring,\n use::organizing, use::viewing, works-with::db\n",
+ "installedSize":"7295",
+ "downloadSize":"2394932",
+ "homepage":"http:\/\/www.pgadmin.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

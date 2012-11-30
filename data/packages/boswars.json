@@ -1,0 +1,9 @@
+{"package":"boswars",
+ "description":"futuristic real-time strategy game",
+ "details":" Bos Wars is a futuristic real-time strategy game. It is possible to play\n against human opponents over local network (LAN), internet, or against the\n computer.\n\n OpenGL support is available as a run-time configuration option.\n interface::x11, network::server, role::program, uitoolkit::sdl,\n use::gameplaying, x11::application\n",
+ "installedSize":"1832",
+ "downloadSize":"644028",
+ "homepage":"http:\/\/www.boswars.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

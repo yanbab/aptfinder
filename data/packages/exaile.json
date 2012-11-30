@@ -1,0 +1,9 @@
+{"package":"exaile",
+ "description":"flexible, full-featured audio player",
+ "details":" Exaile is a media player which incorporates many of the cool things from\n Amarok (and other media players) like automatic fetching of album art,\n handling of large libraries, lyrics fetching, artist\/album information via\n Wikipedia, last.fm support, and optional iPod support (assuming you have\n python-gpod installed).\n\n In addition, Exaile also includes a built-in shoutcast directory\n browser, tabbed playlists (so you can have more than one playlist open\n at a time), blacklisting of tracks (so they don't get scanned into your\n library), downloading of guitar tablature from fretplay.com, and\n submitting played tracks on your iPod to last.fm.\n\n Exaile aims to be similar to AmaroK, but uses Python and GTK+.\n scope::application, sound::player, uitoolkit::gtk, use::playing,\n works-with-format::mp3, works-with-format::mpc,\n works-with-format::oggvorbis, works-with::audio, x11::application\n",
+ "installedSize":"6104",
+ "downloadSize":"1589990",
+ "homepage":"http:\/\/www.exaile.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

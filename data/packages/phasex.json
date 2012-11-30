@@ -1,0 +1,9 @@
+{"package":"phasex",
+ "description":"Phase Harmonic Advanced Synthesis EXperiment",
+ "details":" PHASEX is an experimental JACK audio \/ ALSA MIDI softsynth for Linux\n with a synth engine built around flexible phase modulation and\n flexible oscillator\/LFO sourcing.\n\n Modulations include AM, FM, offset PM, and wave select.\n PHASEX comes equipped with a 12db\/octave filter with two distortion\n curves, a stereo crossover delay and chorus with phaser, ADSR envelopes\n for amplifier and filter, realtime audio input processing capabilities,\n velocity\/aftertouch sensitivity, and more.\n",
+ "installedSize":"870",
+ "downloadSize":"328030",
+ "homepage":"http:\/\/disabled.github.com\/phasex-dev\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"icedtea-netx",
+ "description":"NetX - implementation of the Java Network Launching Protocol (JNLP)",
+ "details":" NetX provides a drop-in replacement for javaws (Java Web Start). Since\n upstream NetX is dormant, IcedTea is hosting and modifying the sources\n in the IcedTea-Web directory.\n\n IcedTea's NetX currently supports verification of signed jars, trusted\n certificate storing, system certificate store checking, and provides\n the services specified by the jnlp API.\n",
+ "installedSize":"136",
+ "downloadSize":"18740",
+ "homepage":"http:\/\/icedtea.classpath.org\/wiki\/IcedTea-Web",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

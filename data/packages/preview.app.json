@@ -1,0 +1,9 @@
+{"package":"preview.app",
+ "description":"General purpose image viewer for GNUstep",
+ "details":" Preview is an application that can be used to display images. It is\n designed to be easy to use and will support all GNUstep features (images\n design support, pasteboard\/services, printing and layout...). It tries to\n follow the NeXTSTEP spirit.\n uitoolkit::gnustep, use::viewing, works-with::image, x11::application\n",
+ "installedSize":"340",
+ "downloadSize":"80982",
+ "homepage":"http:\/\/home.gna.org\/gsimageapps\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

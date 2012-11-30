@@ -1,0 +1,9 @@
+{"package":"spatialite-gui",
+ "description":"user-friendly graphical user interface for SpatiaLite",
+ "details":" spatialite-gui is a Graphical User Interface (GUI) for SpatiaLite.\n\n SpatiaLite is a SQLite extension that enables support of spatial (geometry)\n data in a way conformant to OpenGis specifications, with both WKT and WKB\n formats.\n\n Spatialite also includes Virtualshape and Virtualtext to enable accessing\n shapefiles and csv\/text files as virtual tables.\n",
+ "installedSize":"1575",
+ "downloadSize":"373244",
+ "homepage":"http:\/\/www.gaia-gis.it\/spatialite\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

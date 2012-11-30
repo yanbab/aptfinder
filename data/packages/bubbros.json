@@ -1,0 +1,9 @@
+{"package":"bubbros",
+ "description":"multiplayer clone of the famous Bubble Bobble game",
+ "details":" The objective of this game is to obtain points by destroying enemies\n (capturing them into bubbles and smashing those) and collecting items.\n It supports up to 10 players and is network-capable.\n",
+ "installedSize":"36588",
+ "downloadSize":"11825174",
+ "homepage":"http:\/\/bub-n-bros.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

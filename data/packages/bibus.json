@@ -1,0 +1,9 @@
+{"package":"bibus",
+ "description":"bibliographic database",
+ "details":" Bibus is a bibliographic database which has been developed with LibreOffice\/\n OpenOffice.org in mind. It can directly insert citations and format the\n bibliographic index in an open OpenOffice.org Writer document. The main\n features are\n  * hierarchical organization of the references with user-defined keys\n  * designed for multiuser-environments (share databases between users)\n  * a search engine supporting live queries\n  * on-line PubMed access\n  * import of PubMed (Medline), EndNote\/Refer, RIS and BibTeX records.\n\n Bibus will use an SQLite-database by default for storage (via the SQLite3\n module available in Python >2.5). But it also supports MySQL-databases.\n If you want to use a MySQL-database, make sure, that you have the\n python-mysqldb package installed.\n science::bibliography, science::publishing, uitoolkit::wxwidgets,\n use::organizing, use::typesetting, works-with-format::bib,\n works-with-format::odf, x11::application\n",
+ "installedSize":"4429",
+ "downloadSize":"1423048",
+ "homepage":"http:\/\/bibus-biblio.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

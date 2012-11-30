@@ -1,0 +1,9 @@
+{"package":"kwave",
+ "description":"sound editor for KDE",
+ "details":" Kwave is a sound editor designed for the KDE Desktop Environment.\n\n With Kwave you can record, play back, import and edit many sorts of audio\n files including multi-channel files.\n\n Kwave includes some plugins to transform audio files in several ways and\n presents a graphical view with a complete zoom- and scroll capability.\n\n Its features include:\n  * 24 Bit Support\n  * Undo\/Redo\n  * Use of multicore CPUs (SMP, hyperthreading)\n  * Simple Drag & Drop\n  * Realtime Pre-Listen for some effects\n  * Support for multi-track files\n  * Playback and recording via native ALSA (or OSS, deprecated)\n  * Playback via PulseAudio and Phonon\n  * Load and edit-capability for large files (can use virtual memory)\n  * Reading and auto-repair of damaged wav-files\n  * Supports multiple windows\n  * Extendable Plugin interface\n  * a nice splashscreen\n  * some label handling\n suite::kde, uitoolkit::qt, use::editing, works-with-format::wav,\n works-with::audio, x11::application\n",
+ "installedSize":"6435",
+ "downloadSize":"4353320",
+ "homepage":"http:\/\/kwave.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

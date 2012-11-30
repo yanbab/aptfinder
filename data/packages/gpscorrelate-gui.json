@@ -1,0 +1,9 @@
+{"package":"gpscorrelate-gui",
+ "description":"correlates digital photos with GPS data filling EXIF fields (GUI)",
+ "details":" gpscorrelate fills EXIF (Exchangeable Image File Format) fields of\n digital photos related to GPS (Global Positioning System) information\n (e.g.: GPSLatitude, GPSLongitude, GPSAltitude, ...). The act of filling\n those fields is referred to as \"correlation\".\n\n Inputs of the correlation process are a set of JPEG images and GPS data\n encoded in GPX (GPS Exchange Format) format.\n\n If GPS data are available at the precise moment the photo was taken\n (with a 1-second granularity) the GPS data are stored unmodified in\n EXIF fields. If they are not linear interpolation of GPS data\n available at moments before and after the photo was taken can be used.\n\n Both a command line tool (package gpscorrelate) and a GTK+ graphical\n user interface for it (package gpscorrelate-gui) are provided.\n\n This package contains the GTK+ graphical user interface.\n role::program, uitoolkit::gtk, use::organizing,\n works-with-format::TODO, works-with-format::jpg, works-with::image,\n works-with::image:raster, x11::application\n",
+ "installedSize":"238",
+ "downloadSize":"51334",
+ "homepage":"http:\/\/freefoote.dview.net\/linux_gpscorr.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"micropolis",
+ "description":"real-time city management simulator",
+ "details":" This games simulates building and managing a whole city. The goal of the\n game is to build and design a city. The player can mark land as being\n zoned as commercial, industrial, or residential, add buildings, change\n the tax rate, build a power grid, build transportation systems and many\n other actions, in order to enhance the city.\n\n Micropolis is the GPL-licensed version of SimCity.\n",
+ "installedSize":"804",
+ "downloadSize":"351038",
+ "homepage":"http:\/\/www.donhopkins.com\/home\/micropolis\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

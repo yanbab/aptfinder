@@ -1,0 +1,9 @@
+{"package":"kdepasswd",
+ "description":"graphical password changing utility",
+ "details":" kdepasswd allows users to change their password, user icon, and other\n information.  A variety of user icons are included.\n\n This package is part of the KDE base applications module.\n security::authentication, suite::kde, uitoolkit::qt, x11::application\n",
+ "installedSize":"297",
+ "downloadSize":"101626",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

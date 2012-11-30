@@ -1,0 +1,9 @@
+{"package":"gdevilspie",
+ "description":"User friendly interface for devilspie",
+ "details":" gDevilspie is a graphical front-end for editing the Devilspie configuration\n file which allows you to run a particular application within a particular\n workspace in the GNOME panner in a particular manner.\n\n gDevilspie also allows you to start and stop the Devilspie daemon.\n",
+ "installedSize":"148",
+ "downloadSize":"23172",
+ "homepage":"http:\/\/code.google.com\/p\/gdevilspie\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

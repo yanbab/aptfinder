@@ -1,0 +1,9 @@
+{"package":"klinkstatus",
+ "description":"web link validity checker",
+ "details":" KLinkStatus is KDE's web link validity checker. It allows you to\n search internal and external links throughout your web site. Simply\n point it to a single page and choose the depth to search.\n\n You can also check local files, or files over ftp:, fish: or any other\n KIO protocols. For performance, links can be checked simultaneously.\n\n This package is part of KDE web development module.\n suite::kde, uitoolkit::qt, use::checking, works-with-format::html,\n works-with::text, x11::application\n",
+ "installedSize":"1303",
+ "downloadSize":"648934",
+ "homepage":"http:\/\/kdewebdev.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

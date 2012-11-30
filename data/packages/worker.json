@@ -1,0 +1,9 @@
+{"package":"worker",
+ "description":"highly configurable two-paned file manager for X",
+ "details":" Worker is a file manager much like the Amiga's DirOpus.  It can be\n controlled with mouse or keyboard.  There is no restriction on the number\n or type of button functions.  Files are recognized by both extension and\n content, content by recognizing common bytes in the sample files you show\n it.  Drag & Drop is supported.\n\n If xli or imagemagick is installed, it quickly previews pictures in the\n opposite pane.  If x11-utils is installed, xmessage is used to display\n some informative messages.\n uitoolkit::xlib, use::browsing, works-with::file, x11::application\n",
+ "installedSize":"2360",
+ "downloadSize":"1002898",
+ "homepage":"http:\/\/www.boomerangsworld.de\/worker",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

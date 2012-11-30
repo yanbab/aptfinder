@@ -1,0 +1,9 @@
+{"package":"qalculate-gtk",
+ "description":"Powerful and easy to use desktop calculator - GTK+ version",
+ "details":" Qalculate! is small and simple to use but with much power and versatility\n underneath.  Features include customizable functions, units, arbitrary\n precision, plotting, and a graphical interface that uses a one-line\n fault-tolerant expression entry (although it supports optional traditional\n buttons).\n\n This package contains the GTK+ user interface of qalculate.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"2934",
+ "downloadSize":"1306928",
+ "homepage":"http:\/\/qalculate.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

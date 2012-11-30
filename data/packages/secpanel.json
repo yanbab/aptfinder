@@ -1,0 +1,9 @@
+{"package":"secpanel",
+ "description":"graphical user interface for SSH and SCP",
+ "details":" SecPanel is a graphical user interface for managining\n and running secure shell (ssh) and secure network copy\n (scp) connections via OpenSSH. It eases key distribution\n and other tasks related to using these programs.\n security::authentication, uitoolkit::tk, use::login, x11::application\n",
+ "installedSize":"388",
+ "downloadSize":"54196",
+ "homepage":"http:\/\/themediahost.de\/secpanel",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

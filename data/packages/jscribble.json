@@ -1,0 +1,9 @@
+{"package":"jscribble",
+ "description":"graphical notepad for use with a pen tablet",
+ "details":" `jscribble` is a graphical notepad with as many pages as you want. You can\n organize your notes within notepads. Best used with a graphics tablet or\n touchscreen.\n\n Taking notes on paper allow you to draw and write whatever you want. Some\n people are fast enough in LaTeX to set complicated formulas while in a lecture.\n Some prefer to draw these by hand but do not like carrying lots of paper with\n me.\n\n `jscribble` offers screen based note taking with as many pages as you want.\n `Xournal` offers more features but is paper size oriented which does not make\n sense on a 10\" netbook screen where one wants to use the whole screen for\n taking notes.\n\n Another focus was set to avoid any mouse navigation. All you can do with your\n mouse (or pen) is draw, therefore you cannot click anything accidentially.\n Navigation is done with the keyboard.\n x11::application\n",
+ "installedSize":"230",
+ "downloadSize":"169754",
+ "homepage":"http:\/\/martin-ueding.de\/jscribble\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

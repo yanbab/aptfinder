@@ -1,0 +1,9 @@
+{"package":"kmail",
+ "description":"full featured graphical email client",
+ "details":" KMail is a fully-featured email client that fits nicely into the KDE\n desktop. It has features such as support for IMAP, POP3, multiple accounts,\n mail filtering and sorting, PGP\/GnuPG privacy, and inline attachments.\n\n This package also contains Nepomuk EMail Feeder Akonadi Agent.\n\n This package is part of the KDE PIM module.\n mail::user-agent, network::client, protocol::imap, protocol::ipv6,\n protocol::pop3, protocol::smtp, protocol::ssl, role::program,\n scope::application, suite::kde, uitoolkit::qt, works-with::mail,\n x11::application\n",
+ "installedSize":"29407",
+ "downloadSize":"5831658",
+ "homepage":"http:\/\/kontact.kde.org\/kmail\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"geany",
+ "description":"fast and lightweight IDE",
+ "details":" Geany is a small and lightweight integrated development environment.\n It was developed to provide a small and fast IDE, which has only a\n few dependencies from other packages. It is using only the GTK2 toolkit\n and therefore you need only the GTK2 runtime libraries to run Geany.\n\n The basic features of Geany are:\n  - syntax highlighting\n  - code completion\n  - auto completion of constructs like if, for and while, XML and HTML\n  - call tips\n  - folding\n  - many supported filetypes like C, Java, PHP, HTML, Python, Perl, Pascal\n  - symbol lists\n  - embedded terminal emulation\n role::program, uitoolkit::gtk, use::editing,\n works-with::software:source, works-with::text, works-with::unicode,\n x11::application\n",
+ "installedSize":"2629",
+ "downloadSize":"1160084",
+ "homepage":"http:\/\/www.geany.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

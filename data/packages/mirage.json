@@ -1,0 +1,9 @@
+{"package":"mirage",
+ "description":"fast and simple GTK+ image viewer",
+ "details":" Mirage is ideal for users who wish to keep their computers\n lean while still having a clean image viewer.\n\n Features:\n  * Supports png, jpg, svg, xpm, gif, bmp, tiff, and others\n  * Preloading to navigate faster through images (optional)\n  * Thumbnail pane for quick navigation\n  * Slideshow and fullscreen mode\n  * Rotating, zooming, flipping, resizing, and cropping\n  * Custom user actions\n  * Screenshot\n scope::application, uitoolkit::gtk, use::browsing, use::editing,\n use::organizing, use::viewing, works-with-format::gif,\n works-with-format::jpg, works-with-format::png, works-with-format::svg,\n works-with-format::tiff, works-with::image, works-with::image:raster,\n x11::application\n",
+ "installedSize":"544",
+ "downloadSize":"114630",
+ "homepage":"http:\/\/mirageiv.berlios.de\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

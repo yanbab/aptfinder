@@ -1,0 +1,9 @@
+{"package":"objcryst-fox",
+ "description":"Free Objects for Xtallography",
+ "details":" FOX is a program for the ab initio structure determination from powder\n diffraction (neutrons, X-Ray). The crystal structure can be described as any\n combination of atoms, molecules or polyhedras, without a priori information\n about the connectivity of these 'building block'. Fox can make multi-pattern\n global optimizations, and automatically correct special positions.\n\n FOX could also be used for educational purposes, to display Crystal\n Structures in 3D with the associated powder diffraction pattern.\n",
+ "installedSize":"6172",
+ "downloadSize":"2352062",
+ "homepage":"http:\/\/vincefn.net\/Fox\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

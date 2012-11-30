@@ -1,0 +1,9 @@
+{"package":"aeolus",
+ "description":"Synthesised pipe organ emulator",
+ "details":" Aeolus is a synthesised (i.e. not sampled) pipe organ emulator that\n should be good enough to make an organist enjoy playing it. It is a\n software synthesiser optimised for this job, with possibly hundreds\n of controls for each stop, that enable the user to \"voice\" his\n instrument.\n\n Main features of the default instrument: three manuals and one pedal,\n five different temperaments, variable tuning, MIDI control of course,\n stereo, surround or Ambisonics output, flexible audio controls\n including a large church reverb.\n\n Aeolus is not very CPU-hungry, and should run without problems on a\n e.g. a 1GHz, 256Mb machine.\n",
+ "installedSize":"392",
+ "downloadSize":"127984",
+ "homepage":"http:\/\/kokkinizita.linuxaudio.org\/linuxaudio\/aeolus\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

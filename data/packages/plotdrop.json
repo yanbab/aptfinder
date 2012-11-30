@@ -1,0 +1,9 @@
+{"package":"plotdrop",
+ "description":"A minimal GNOME frontend to GNUPlot",
+ "details":" PlotDrop is designed for quick simple visualisation of 2D data series.\n It is intended to be used in tandem with an external filesystem browser\n such as GNOME's nautilus or KDE's konqueror. Files containing data are added\n by dragging them from the browser to the file list.\n",
+ "installedSize":"196",
+ "downloadSize":"30612",
+ "homepage":"http:\/\/icculus.org\/~jcspray\/plotdrop\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"spe",
+ "description":"Stani's Python Editor",
+ "details":" Spe is a Python IDE with auto-indentation, auto completion, call\n tips, syntax coloring, syntax highlighting, UML viewer, class\n explorer, source index, auto todo list, sticky notes, integrated\n pycrust shell, Python file browser, recent file browser, drag&drop,\n context help, ... Special is its Blender support with a Blender 3d\n object browser and its ability to run interactively inside\n blender. Spe ships with wxGlade & XRCed (gui designers), PyChecker\n (source code doctor) and Kiki (regular expression console). Spe is\n extensible with wxGlade.\n",
+ "installedSize":"1556",
+ "downloadSize":"340468",
+ "homepage":"http:\/\/pythonide.stani.be\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

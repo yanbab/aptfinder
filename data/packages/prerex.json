@@ -1,0 +1,9 @@
+{"package":"prerex",
+ "description":"course prerequisite chart editor for LaTeX\/TikZ",
+ "details":" prerex is an editor for creating esthetically pleasing course prerequisite\n charts using the TikZ LaTeX package.\n\n The editor supports add, remove, cut-and-paste, and edit operations on\n diagram elements, and shifts of a list of specified elements or the\n entire diagram. The edited diagram may be saved, re-processed, and viewed in\n a PDF viewer, without exiting the editor.\n\n Course prerequisite charts allow students to easily determine which\n prerequisites, corequisites and recommended prerequisites they need for a\n given course and their time slots. Course prerequisite charts also highlight\n the courses required by a degree.\n\n prerex is used by departments in several universities, including Queen's\n University and Suffolk University.\n",
+ "installedSize":"715",
+ "downloadSize":"567170",
+ "homepage":"http:\/\/www.ctan.org\/tex-archive\/graphics\/prerex",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

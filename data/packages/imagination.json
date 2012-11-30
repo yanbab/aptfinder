@@ -1,0 +1,9 @@
+{"package":"imagination",
+ "description":"DVD slide show maker",
+ "details":" Imagination is a lightweight and user-friendly DVD slide show maker with\n a clean interface and few dependencies. It only requires the ffmpeg encoder\n to produce a movie to be burned with another application.\n\n It currently features over 50 transition effects. Exporting of the slideshow\n in FLV format is supported as well.\n uitoolkit::gtk, use::editing, works-with-format::oggtheora,\n works-with::image, works-with::video, x11::application\n",
+ "installedSize":"426",
+ "downloadSize":"117568",
+ "homepage":"http:\/\/imagination.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

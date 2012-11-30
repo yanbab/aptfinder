@@ -1,0 +1,31 @@
+#!/usr/bin/gjs
+
+const Gtk = imports.gi.Gtk;
+const WebKit = imports.gi.WebKit;
+
+Gtk.init(null);
+
+let win = new Gtk.Window();
+win.title = "Apps";
+
+
+let sw = new Gtk.ScrolledWindow({});
+win.add(sw);
+
+let view = new WebKit.WebView();
+view.load_uri("http://localhost/apps/html");
+sw.add(view);
+
+
+view.connect("load-finished", function(webview, frame) {
+	js = 'alert("a");'
+	view.execute_script(js);
+win.show_all();		
+});
+
+win.set_size_request(640, 480);
+//win.show_all();
+
+Gtk.main();
+
+

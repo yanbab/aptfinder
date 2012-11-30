@@ -1,0 +1,9 @@
+{"package":"gnurobbo",
+ "description":"logic game ported from ATARI XE\/XL",
+ "details":" GNU Robbo is very addictive logic game. You must help a little robot to\n get out of an unfriendly planet, collecting parts of an emergency capsule.\n\n Originally written for Atari XE\/XL by Janusz Pelc from \"LK. Avalon\".\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"2376",
+ "downloadSize":"984242",
+ "homepage":"http:\/\/gnurobbo.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

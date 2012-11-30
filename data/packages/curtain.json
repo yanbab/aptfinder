@@ -1,0 +1,9 @@
+{"package":"curtain",
+ "description":"handy curtain for the desktop",
+ "details":" Curtain is a tool that shows a movable and resizable curtain\n on the desktop. This is especially useful when making\n presentations to hide and unhide things.\n\n Curtain is XInput-Aware, so you can use it\n with a graphic tablet or a whiteboard.\n\n This program has been implemented for educational purposes.\n",
+ "installedSize":"892",
+ "downloadSize":"797766",
+ "homepage":"http:\/\/code.google.com\/p\/ardesia\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

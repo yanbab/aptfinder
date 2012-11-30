@@ -1,0 +1,9 @@
+{"package":"yabause-qt",
+ "description":"beautiful and under-rated Saturn emulator - Qt port",
+ "details":" Yabause is a Sega Saturn emulator. It has the following features:\n  * booting games from CD-ROM and ISO files\n  * booting games with either an emulated or original BIOS\n  * screenshot support\n  * savegame backups\n  * cheat system\n  * fullscreen playing\n  * multiple debugging options\n  * joystick support\n  * region select\n\n This package contains the Qt version of Yabause.\n interface::x11, role::program, scope::utility, uitoolkit::qt,\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"2105",
+ "downloadSize":"740698",
+ "homepage":"http:\/\/yabause.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

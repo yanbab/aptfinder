@@ -1,0 +1,9 @@
+{"package":"klash",
+ "description":"GNU Shockwave Flash (SWF) player - Standalone player for KDE",
+ "details":" GNU Gnash is a free GPL'd SWF player. It runs as a standalone application\n on either the desktop or embedded devices, or may be used as a plugin\n for several popular browsers. It supports playing media from a disk or\n streaming over a network connection.\n\n GNU Gnash is based on GameSWF and supports most SWF v7 features and some\n SWF v8 and v9. SWF v10 is not supported by GNU Gnash.\n\n Included in the Gnash is an XML based messaging system, as specified in\n the SWF specification. This lets a SWF animation communicate over a TCP\/IP\n socket, and parse the incoming XML message. This lets an animation be a remote\n control for other devices or applications.\n\n Klash is a free standalone SWF movie player for KDE that use AGG\n as the rendering backend.\n suite::kde, uitoolkit::ncurses, uitoolkit::qt, use::playing,\n works-with-format::swf, works-with::audio, works-with::video,\n x11::application\n",
+ "installedSize":"617",
+ "downloadSize":"225508",
+ "homepage":"http:\/\/www.gnu.org\/software\/gnash\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

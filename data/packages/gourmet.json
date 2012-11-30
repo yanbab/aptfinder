@@ -1,0 +1,9 @@
+{"package":"gourmet",
+ "description":"A gtk-based recipe organizer and shopping list generator",
+ "details":" Gourmet Recipe Manager is a gtk-based recipe organizer and shopping list\n generator intended for the GNOME desktop environment (though it does not\n need all the GNOME libraries). Gourmet can import Mealmaster(tm) files and\n can export recipes in a number of formats, including text, RTF and web\n pages. Gourmet also can calculate nutritional information for recipes.\n scope::application, uitoolkit::gtk, use::organizing, x11::application\n",
+ "installedSize":"9324",
+ "downloadSize":"2310958",
+ "homepage":"http:\/\/grecipe-manager.sf.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

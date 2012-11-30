@@ -1,0 +1,9 @@
+{"package":"gadmin-rsync",
+ "description":"GTK+ configuration tool for rsync",
+ "details":" gadmin-rsync is an easy to use GTK+ frontend for the rsync server.\n\n Feature:\n  - Multiple backup sets that can be scheduled to run at specific times via\n    cron.\n  - Each of these backup sets can contain multiple remote or local data\n    backups.\n  - Backup sets that are started via cron schedules will generate log files\n    for each of the data backups in the backup sets.\n  - The backup logfiles will have the same names as the individual backup sets.\n  - Individual backup sets can be run manually and the progress can be viewed\n    in the progress tab.\n  - Remote backups are fully automatic, differential and encrypted.\n  - Keys are created for each host, uploaded and then installed on the remote\n    hosts using a combination of ssh-keygen\/scp and ssh.\n  - Makes remote synchronizations scheduleable.\n",
+ "installedSize":"240",
+ "downloadSize":"69568",
+ "homepage":"http:\/\/www.gadmintools.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

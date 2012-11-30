@@ -1,0 +1,9 @@
+{"package":"kdesvn",
+ "description":"Subversion client with tight KDE integration",
+ "details":" KDESvn is a graphical client for the Subversion revision control\n system (svn).\n\n Besides offering common and advanced svn operations, it features\n a tight integration into KDE and can be embedded into other KDE\n applications like konqueror via the KDE component technology KParts.\n role::program, suite::kde, uitoolkit::qt, works-with::vcs,\n x11::application\n",
+ "installedSize":"3792",
+ "downloadSize":"2156194",
+ "homepage":"http:\/\/kdesvn.alwins-world.de\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

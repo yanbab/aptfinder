@@ -1,0 +1,9 @@
+{"package":"kbackup",
+ "description":"Easy to use backup program",
+ "details":" Kbackup is a program that lets you back up any directories or files. It uses\n an easy to use directory tree to select the things to back up and lets you\n save your settings in \"profile\" files. These are simple textfiles containing\n definitions for directories and files to be included or excluded from the\n backup process.\n uitoolkit::qt, use::storing, x11::application\n",
+ "installedSize":"1071",
+ "downloadSize":"588952",
+ "homepage":"http:\/\/kde-apps.org\/content\/show.php\/KBackup?content=44998",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

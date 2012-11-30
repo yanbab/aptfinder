@@ -1,0 +1,9 @@
+{"package":"liquidwar",
+ "description":"truly original multiplayer wargame",
+ "details":" Liquid War is an original multiplayer wargame. There are no weapons, the only\n thing you have to do is to move a cursor in a 2-D battlefield. This cursor is\n followed by your army, which is composed by a  great many little fighters,\n represented by small colored squares. When fighters from different teams meet,\n they eat each other, it is as simple as that.\n\n A single player mode is available, but the game is definitely designed to be\n multiplayer, and has network support.\n use::gameplaying, x11::application\n",
+ "installedSize":"356",
+ "downloadSize":"141750",
+ "homepage":"http:\/\/www.ufoot.org\/liquidwar\/v5",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

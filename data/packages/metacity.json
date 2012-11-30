@@ -1,0 +1,8 @@
+{"package":"metacity",
+ "description":"lightweight GTK+ window manager",
+ "details":" Metacity is a small window manager, using GTK+ to do everything.\n\n As the author says, metacity is a \"Boring window manager for the adult in\n you. Many window managers are like Marshmallow Froot Loops; Metacity is\n like Cheerios.\"\n\n This package contains the core binaries.\n uitoolkit::gtk, x11::window-manager\n",
+ "installedSize":"847",
+ "downloadSize":"432160",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

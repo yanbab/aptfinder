@@ -1,0 +1,9 @@
+{"package":"jumpnbump",
+ "description":"cute multiplayer platform game with bunnies",
+ "details":" You, as a bunny, have to jump on your opponents to make them\n explode.  It's a true multiplayer game, you can't play this alone.\n It has network support.\n\n This program is a unix port of the old DOS game by brainchilddesign.\n role::program, uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"708",
+ "downloadSize":"309844",
+ "homepage":"http:\/\/jumpbump.mine.nu\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

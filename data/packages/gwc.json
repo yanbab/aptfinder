@@ -1,0 +1,9 @@
+{"package":"gwc",
+ "description":"Audio file denoiser",
+ "details":" The GNOME Wave Cleaner (gwc) is an application that helps you in\n getting rid of noise and clicks in audio files. This is most\n commonly used when translating your old vinyl or old tapes to\n a digital format, but it can be applied to every soundfile that\n has a more or less constant noise level.\n works-with::audio, x11::application\n",
+ "installedSize":"471",
+ "downloadSize":"177332",
+ "homepage":"http:\/\/gwc.sf.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

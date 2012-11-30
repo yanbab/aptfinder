@@ -1,0 +1,9 @@
+{"package":"docky",
+ "description":"Elegant, powerful, clean dock",
+ "details":" A full fledged dock application that makes opening common applications and\n managing windows easier and quicker. Docky is fully integrated into the GNOME\n Desktop and features a no nonsense approach to configuration and usage.\n It just works.\n\n Docky provides an application launcher, running application management, and\n various \"docklets\" including a CPU monitor, weather report and clock.  It is\n similar to other docks such as AWN and cairo-dock.\n\n Applications can integrate with Docky to add extra items to their context\n menus or modify their icons to display more information.  This package\n includes integration helpers for a number of applications, including Banshee,\n Rhythmbox, Deluge, Tomboy and Zeitgeist.\n\n Docky is derived from the GNOME Do \"docky\" interface.\n use::monitor\n",
+ "installedSize":"3329",
+ "downloadSize":"859394",
+ "homepage":"https:\/\/launchpad.net\/docky",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

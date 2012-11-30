@@ -1,0 +1,9 @@
+{"package":"murmur",
+ "description":"PyGTK2 client for Museekd, the P2P Soulseek Daemon",
+ "details":" Museek+ is a file-sharing application for the Soulseek peer-to-peer network.\n It's a fork of Museek which now includes nearly all features supported by\n the official closed-source Soulseek client (Room Searching, Buddy-only\n shares, Interests, Banlists, Ignorelists, Icon Themes, Font\/Color selecting,\n etc.)\n\n This package contains a Python\/GTK2 based client which looks like nicotine.\n",
+ "installedSize":"687",
+ "downloadSize":"162062",
+ "homepage":"http:\/\/www.museek-plus.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

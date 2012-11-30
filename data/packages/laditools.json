@@ -1,0 +1,9 @@
+{"package":"laditools",
+ "description":"Linux Audio Desktop Integration Tools",
+ "details":" LADI Tools is a set of tools aiming to achieve the goals of the LADI\n project to improve desktop integration and user workflow of Linux\n audio system based on JACK and ladish. Those tools take advantage of\n the D-Bus interfaces recently added to JACK and ladish to ease the\n configuration and use of those two great softwares.\n\n The following tools are included:\n  * g15ladi             - a JACK monitor for g15 keyboards\n  * ladi-control-center - graphical configuration tool to setup JACK's\n                          configuration\n  * ladi-player         - convenient VLC-style application to control\n                          JACK and manage studios\n  * ladi-system-log     - JACK, ladish and a2jmidid log viewer\n  * ladi-system-tray    - system indicator that allows users to start,\n                          stop and monitor JACK, as well as start some\n                          JACK related applications\n\n This package includes basic set of tools to control and monitor the LADI\n system, that is JACK and ladish in a D-Bus environment.\n",
+ "installedSize":"559",
+ "downloadSize":"203374",
+ "homepage":"https:\/\/launchpad.net\/laditools",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"posterazor",
+ "description":"splits an image across multiple pages for assembly into a poster",
+ "details":" The PosteRazor splits an image to form a multi-page PDF document. When\n printed, the sheets can be arranged to form a large poster of the original\n image.\n use::printing, works-with::image\n",
+ "installedSize":"452",
+ "downloadSize":"126180",
+ "homepage":"http:\/\/posterazor.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

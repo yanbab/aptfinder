@@ -1,0 +1,8 @@
+{"package":"cdcat",
+ "description":"media catalog program",
+ "details":" CDCat is a graphical, multiplatform media catalog program which scans the\n directories\/drives you specify and makes a list of the filesystem\n contents (including the tags of MP3 files) and stores the result in a\n gzipped XML file.\n use::organizing, works-with::file, x11::application\n",
+ "installedSize":"1888",
+ "downloadSize":"464440",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

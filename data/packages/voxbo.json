@@ -1,0 +1,9 @@
+{"package":"voxbo",
+ "description":"processing, statistical analysis, and display of brain imaging data",
+ "details":" This is a toolkit for analysis of functional neuroimaging (chiefly\n fMRI) experiments and voxel-based lesion-behavior mapping. VoxBo\n supports the modified GLM (for autocorrelated data), as well as the\n standard GLM for non-autocorrelated data. The toolkit is designed to be\n interoperable with AFNI, FSL, SPM and others.\n",
+ "installedSize":"18575",
+ "downloadSize":"5990098",
+ "homepage":"http:\/\/www.voxbo.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

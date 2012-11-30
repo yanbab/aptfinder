@@ -1,0 +1,9 @@
+{"package":"gdpc",
+ "description":"visualiser of molecular dynamic simulations",
+ "details":" gpdc is a graphical program for visualising output data from\n molecular dynamics simulations. It reads input in the standard xyz\n format, as well as other custom formats, and can output pictures of\n each frame in JPG or PNG format.\n field::physics, implemented-in::c, interface::x11, role::program,\n scope::application, uitoolkit::gtk, use::viewing,\n works-with-format::jpg, works-with-format::png, works-with::3dmodel,\n works-with::image, works-with::video, x11::application\n",
+ "installedSize":"136",
+ "downloadSize":"34944",
+ "homepage":"http:\/\/www.frantz.fi\/software\/gdpc.php",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

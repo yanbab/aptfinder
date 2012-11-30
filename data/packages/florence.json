@@ -1,0 +1,9 @@
+{"package":"florence",
+ "description":"extensible and scalable virtual keyboard for GNOME",
+ "details":" Florence is an extensible scalable virtual keyboard for GNOME.\n\n It is useful when a real keyboard is unusable either because of a handicap,\n disease, broken keyboard or tablet PC; but when a pointing device is usable.\n\n Florence stays out of your way: it appears on the screen only when needed.\n An auto-click functionality also help people having difficulties to click\n buttons.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"1355",
+ "downloadSize":"520090",
+ "homepage":"http:\/\/florence.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

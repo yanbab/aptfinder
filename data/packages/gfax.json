@@ -1,0 +1,9 @@
+{"package":"gfax",
+ "description":"GNOME frontend for fax programs",
+ "details":" The GFAX project aims to provide a free front end to the various facsimile\n programs available for Linux and other operating systems that use the GNOME\n project.\n This is a GNOME-2.x port of GFAX and is written in C# using Mono and Gtk#.\n\n GFAX provides the familiar \"pop up\" window and phone book support when one\n \"prints\" to a \"fax\" printer.\n network::client, role::program, scope::application, suite::gnome,\n uitoolkit::gtk, use::transmission, works-with::fax, x11::application\n",
+ "installedSize":"604",
+ "downloadSize":"170398",
+ "homepage":"http:\/\/www.cowlug.org\/gfax\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

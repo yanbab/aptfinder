@@ -1,0 +1,9 @@
+{"package":"luckybackup",
+ "description":"rsync-based GUI data backup utility",
+ "details":" luckyBackup is an application that backs-up and\/or synchronizes any\n directories with the power of rsync.\n Its main features are: backup, safety, synchronization, exclude\/only include\n options, allows custom rsync options, remote connections, restore and dry-run\n operations, scheduling, profiles and command line mode.\n\n It is simple to use, fast (transfers over only changes made and not all data),\n safe (keeps your data safe by checking all declared directories before\n proceeding in any data manipulation ), reliable and fully customizable.\n uitoolkit::qt, x11::application\n",
+ "installedSize":"1344",
+ "downloadSize":"633300",
+ "homepage":"http:\/\/luckybackup.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

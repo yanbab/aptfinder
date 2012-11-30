@@ -1,0 +1,9 @@
+{"package":"qt4-dev-tools",
+ "description":"Qt 4 development tools",
+ "details":" Qt is a cross-platform C++ application framework. Qt's primary feature\n is its rich set of widgets that provide standard GUI functionality.\n\n This package contains tools used to assist in Qt 4 development, including:\n  - assistant-qt4 -- Qt Assistant\n  - lconvert -- Convert and filter translation data files\n  - linguist-qt4 -- Qt Linguist\n  - pixeltool -- Pixel Tool\n  - qcollectiongenerator -- Qt Collection Generator\n  - qdbusviewer -- D-Bus Viewer\n  - qhelpconverter -- Help Conversion Wizard\n  - qhelpgenerator -- Qt Compressed Help Generator\n  - qmlplugindump -- QML Plugin Dump application\n  - qvfb -- Virtual Framebuffer\n role::program, uitoolkit::qt, x11::application\n",
+ "installedSize":"8570",
+ "downloadSize":"3924724",
+ "homepage":"http:\/\/qt-project.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"billard-gl",
+ "description":"3D billiards game",
+ "details":" Play a game of 8-ball or 9-ball, either in training mode or against a\n friend. For beginners, the game features a tutorial, introducing them to\n the user-interface and controls. Help is also available for those who do\n not know the rules for an 8-ball or 9-ball game.\n interface::x11, role::program, uitoolkit::xlib, use::gameplaying,\n x11::application\n",
+ "installedSize":"288",
+ "downloadSize":"87144",
+ "homepage":"http:\/\/www.billardgl.de\/index-en.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"graphthing",
+ "description":"tool to create, manipulate and study graphs",
+ "details":" Some of the features of GraphThing are:\n\n  * Adding, deleting and moving of vertices and edges.\n  * Loading and saving of graphs.\n  * Graph complements, induced subgraphs and line graphs.\n  * Quick creation of many common graphs (complete, cycle, null, star, etc.).\n  * Determination of shortest path, connectivity and Eulericity.\n  * BFS, DFS and Minimum Spanning Tree.\n  * Adjacency matrix (including exponents) and degree sequence.\n  * Chromatic polynomial and chromatic number.\n  * Network algorithms: Maximum network flow.\n\n These `graphs' are mathematical objects that describe relationships between\n sets; they are not 2D plots, charts, or anything similar to that.\n\n At the moment, only simple graphs and digraphs are supported; that is,\n no multiple edges or loops.  Other than this, GraphThing can handle\n every type of graph.\n",
+ "installedSize":"452",
+ "downloadSize":"164162",
+ "homepage":"http:\/\/graph.seul.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

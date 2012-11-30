@@ -1,0 +1,9 @@
+{"package":"photoprint",
+ "description":"Image printing utility",
+ "details":" PhotoPrint is a utility offering special features for printing digital\n photographs and other images.  It can print multiple images on a\n single page, create posters split over several pages, arrange images\n into a sort of carousel when printing on CDs, adding fading or\n decorative borders to images, etc.  It also supports use of ICC colour\n profiles and sending 16-bit data to the printer.\n works-with::image\n",
+ "installedSize":"1953",
+ "downloadSize":"1143228",
+ "homepage":"http:\/\/blackfiveimaging.co.uk\/index.php?article=02Software%2F01PhotoPrint",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

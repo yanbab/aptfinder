@@ -1,0 +1,9 @@
+{"package":"ttb",
+ "description":"(Dutch) teletekst browser for the desktop",
+ "details":" Teletekst Browser (ttb) is a small browser for the Teletekst system as used in\n The Netherlands, and provides a convenient way to stay up to date with news,\n sports, weather, stock exchange and what not.\n scope::utility, uitoolkit::gtk, use::browsing, x11::application\n",
+ "installedSize":"51",
+ "downloadSize":"16378",
+ "homepage":"http:\/\/www.djcbsoftware.nl\/code\/ttb\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

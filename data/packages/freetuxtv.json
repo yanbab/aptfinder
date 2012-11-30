@@ -1,0 +1,9 @@
+{"package":"freetuxtv",
+ "description":"Internet television and radio player",
+ "details":" FreetuxTV is a video player based on LibVLC allowing you to watch and record\n TV on your PC. A large database (growing daily) of free WebTV\/WebRadio\/WebCam\n channels in more than 20 languages is accessible. You can also play streams\n from ISP television service if it provides this feature. Moreover, it is also\n possible to easily program your recording on each channel with differents\n transcoding formats.\n\n The vlc package provides all multimedia codecs required by freetuxtv.\n",
+ "installedSize":"991",
+ "downloadSize":"268184",
+ "homepage":"http:\/\/code.google.com\/p\/freetuxtv\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

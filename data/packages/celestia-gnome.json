@@ -1,0 +1,9 @@
+{"package":"celestia-gnome",
+ "description":"real-time visual space simulation (GNOME frontend)",
+ "details":" Celestia is a free 3D astronomy program. Based on the Hipparcos\n Catalogue, it allows users to display objects ranging in scale from\n artificial satellites to entire galaxies in three dimensions using\n OpenGL. Unlike most planetarium software, the user is free to travel\n about the Universe.\n\n This package contains the GTK+ frontend for Celestia, and integrates\n with GNOME.\n role::program, scope::application, suite::gnome, uitoolkit::gtk,\n use::gameplaying, use::learning, use::viewing, x11::application\n",
+ "installedSize":"2376",
+ "downloadSize":"1110112",
+ "homepage":"http:\/\/www.shatters.net\/celestia\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

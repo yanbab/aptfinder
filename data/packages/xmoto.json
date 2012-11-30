@@ -1,0 +1,9 @@
+{"package":"xmoto",
+ "description":"2D motocross platform game",
+ "details":" X-Moto is a challenging 2D motocross platform game, where physics play\n an all important role in the gameplay. You need to control your bike to\n its limit, if you want to have a chance finishing the more difficult of\n the challenges.\n scope::application, uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"5280",
+ "downloadSize":"1850164",
+ "homepage":"http:\/\/xmoto.tuxfamily.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

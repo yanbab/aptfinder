@@ -1,0 +1,9 @@
+{"package":"usermode",
+ "description":"Graphical tools for certain user account management tasks",
+ "details":" The usermode package contains several graphical tools for users:\n userinfo, usermount and userpasswd.  Userinfo allows users to change\n their finger information.  Usermount lets users mount, unmount, and\n format filesystems.  Userpasswd allows users to change their\n passwords.\n\n Install the usermode package if you would like to provide users with\n graphical tools for certain account management tasks.\n role::program\n",
+ "installedSize":"1517",
+ "downloadSize":"254624",
+ "homepage":"https:\/\/fedorahosted.org\/usermode\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

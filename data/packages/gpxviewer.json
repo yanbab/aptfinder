@@ -1,0 +1,9 @@
+{"package":"gpxviewer",
+ "description":"views GPS traces collected in the GPX format",
+ "details":" This application allows the user to load a GPS trace, in the GPX file format,\n and read it in a presentable way. You are shown a few statistics, such as the\n duration or maximum speed. You are also shown the trace on an openstreetmap\n map, where you can scroll around and zoom.\n interface::x11, role::program, uitoolkit::gtk, use::viewing,\n works-with-format::xml:gpx, x11::application\n",
+ "installedSize":"612",
+ "downloadSize":"89294",
+ "homepage":"http:\/\/andrewgee.org\/blog\/gpxviewer",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

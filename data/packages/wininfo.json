@@ -1,0 +1,9 @@
+{"package":"wininfo",
+ "description":"dynamic window information viewer",
+ "details":" This package provides a window information utility for developers of\n applications, toolkits, and window managers. wininfo follows your\n pointer providing information about the windows below. The information\n presented includes:\n  - a detailed description of the window hierarchy below the pointer;\n  - parsed interpretations of standard properties from both the\n    application window and the window manager;\n  - information about X server resources used by the application.\n x11::application\n",
+ "installedSize":"102",
+ "downloadSize":"31560",
+ "homepage":"http:\/\/www.freedesktop.org\/wiki\/Software\/wininfo",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

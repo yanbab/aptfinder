@@ -1,0 +1,9 @@
+{"package":"knights",
+ "description":"chess interface for the KDE Platform",
+ "details":" Knights aims to be the ultimate chess resource on your computer.\n It's designed to be both friendly to new chess players and functional for\n Grand Masters. At the moment you can play either against other human or\n against the machine using an engine like gnuchess.\n role::program, suite::kde, uitoolkit::qt, use::gameplaying,\n x11::application\n",
+ "installedSize":"4016",
+ "downloadSize":"2792536",
+ "homepage":"http:\/\/kde-apps.org\/content\/show.php\/Knights?content=122046",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"mtpaint",
+ "description":"painting program to create pixel art and manipulate digital photos",
+ "details":" mtPaint is a free, open source graphic editing program which uses the GTK+\n toolkit.\n It is geared towards creating indexed palette images and pixel art.\n\n Due to its efficient design it can run on older PC hardware (e.g. a 200MHz CPU\n and 32MB of RAM). It can edit indexed palette or 24 bit RGB images and offers\n basic painting and palette manipulation tools.\n\n It is aimed to be simple and easy to use. it also can handle JPEG, GIF, TIFF,\n BMP, XPM, and XBM files.\n uitoolkit::gtk, use::editing, works-with-format::TODO,\n works-with-format::gif, works-with-format::jpg,\n works-with-format::tiff, works-with::image, x11::application\n",
+ "installedSize":"1846",
+ "downloadSize":"698462",
+ "homepage":"http:\/\/mtpaint.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

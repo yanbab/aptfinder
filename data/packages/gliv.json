@@ -1,0 +1,9 @@
+{"package":"gliv",
+ "description":"image viewer using gdk-pixbuf and OpenGL",
+ "details":" GLiv is an image viewer that uses gdk-pixbuf to load images, and OpenGL to\n render them. Moving and zooming is very fast and smooth if you have an\n OpenGL board.\n uitoolkit::gtk, use::viewing, works-with::image,\n works-with::image:raster, x11::library\n",
+ "installedSize":"840",
+ "downloadSize":"229062",
+ "homepage":"http:\/\/guichaz.free.fr\/gliv\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

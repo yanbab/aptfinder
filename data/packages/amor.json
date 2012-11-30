@@ -1,0 +1,9 @@
+{"package":"amor",
+ "description":"desktop companion",
+ "details":" AMOR, or Amusing Misuse Of Resources, displays an animated character who\n wanders about the screen, doing tricks and giving the occasional hint.\n\n This package is part of the KDE toys module.\n suite::kde, uitoolkit::qt, use::gameplaying, x11::application\n",
+ "installedSize":"591",
+ "downloadSize":"230606",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

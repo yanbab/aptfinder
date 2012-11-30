@@ -1,0 +1,9 @@
+{"package":"pan",
+ "description":"newsreader based on GTK2, which looks like Forte Agent",
+ "details":" Pan is a newsreader, loosely based on Agent and Gravity, which attempts to be\n  pleasant to use for new and advanced users alike. It has all the typical\n  features found in newsreaders and also supports offline newsreading,\n  sophisticated filtering, multiple connections, and a number of extra features\n  for power users and alt.binaries fans.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"3711",
+ "downloadSize":"1285034",
+ "homepage":"http:\/\/pan.rebelbase.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

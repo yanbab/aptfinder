@@ -1,0 +1,9 @@
+{"package":"freepops-updater-gnome",
+ "description":"GNOME interface for the freepops updater engine",
+ "details":" This package provides a click-and-update program to download the latest updates\n from the freepops website.\n\n The user interface is based on zenity, thus this package is recommended\n for GTK+ desktop environments like GNOME.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"103",
+ "downloadSize":"37088",
+ "homepage":"http:\/\/www.freepops.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

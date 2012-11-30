@@ -1,0 +1,9 @@
+{"package":"system-config-cluster",
+ "description":"graphical configuration and management tool for Red Hat Cluster Suite",
+ "details":" This GUI allows to create, modify and distribute the RHCS cluster.conf file,\n the key configuration for any RHCS setup.\n Furthermore it provides cluster management abilities like displaying cluster\n nodes and their status as well as starting, stopping and restarting services.\n",
+ "installedSize":"1416",
+ "downloadSize":"116442",
+ "homepage":"http:\/\/www.redhat.com",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

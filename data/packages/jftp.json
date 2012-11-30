@@ -1,0 +1,9 @@
+{"package":"jftp",
+ "description":"Java GUI client for FTP, SMB, SFTP and NFS",
+ "details":" JFtp is a graphical Java network and file transfer client. It\n supports FTP using its own FTP API and various other protocols like\n SMB, SFTP, NFS, HTTP, and file I\/O using third party APIs. It\n includes many advanced features such as recursive directory\n up\/download, browsing FTP servers while transferring files, FTP\n resuming and queueing, browsing the LAN for Windows shares, and\n more. Multiple connections can open at a time in a Mozilla-style\n tabbed browsing environment.\n protocol::http, protocol::nfs, protocol::sftp, protocol::smb,\n role::program, uitoolkit::TODO, use::transmission, works-with::file,\n x11::application\n",
+ "installedSize":"513",
+ "downloadSize":"468872",
+ "homepage":"http:\/\/j-ftp.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

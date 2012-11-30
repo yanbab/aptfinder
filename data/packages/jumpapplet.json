@@ -1,0 +1,9 @@
+{"package":"jumpapplet",
+ "description":"autojump notification icon, to jump to frequently used directories",
+ "details":" jumpapplet is an applet that provides a notification icon based on autojump.\n It allows you to open a shell or a file manager window for frequently used\n directories.\n uitoolkit::gtk\n",
+ "installedSize":"86",
+ "downloadSize":"9906",
+ "homepage":"http:\/\/wiki.github.com\/joelthelion\/autojump\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

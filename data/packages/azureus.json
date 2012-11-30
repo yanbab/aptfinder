@@ -1,0 +1,9 @@
+{"package":"azureus",
+ "description":"BitTorrent client",
+ "details":" BitTorrent is a peer-to-peer file distribution tool.\n\n Azureus offers multiple torrent downloads, queuing\/priority systems\n (on torrents and files), start\/stop seeding options and instant\n access to numerous pieces of information about your torrents. Azureus\n now features an embedded tracker easily set up and ready to use.\n protocol::bittorrent, role::program, uitoolkit::TODO, use::downloading,\n works-with::file\n",
+ "installedSize":"12895",
+ "downloadSize":"11848238",
+ "homepage":"http:\/\/azureus.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

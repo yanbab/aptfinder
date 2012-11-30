@@ -1,0 +1,9 @@
+{"package":"threadscope",
+ "description":"graphical thread profiler for Haskell programs",
+ "details":" Threadscope is a graphical thread profiler for Haskell programs.\n It parses and displays the content of .eventlog files emitted by the\n GHC 6.12.1 and later runtimes, showing a timeline of spark creation,\n spark-to-thread promotions and garbage collections.\n\n This helps debugging the parallel performance of Haskell programs,\n making easier to check that work is well balanced across the available\n processors and spot performance issues relating to garbage collection\n or poor load balancing.\n",
+ "installedSize":"5448",
+ "downloadSize":"1293854",
+ "homepage":"http:\/\/hackage.haskell.org\/package\/threadscope",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

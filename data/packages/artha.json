@@ -1,0 +1,9 @@
+{"package":"artha",
+ "description":"Handy off-line thesaurus based on WordNet",
+ "details":" Artha is a off-line English thesaurus with distinct features like:\n   * hot-key press word look-up (select text on any window and press\n     a preset hot-key for look-up)\n   * regular expressions based search (broaden search using wild-cards\n     like *, ?, etc.)\n   * passive desktop notifications (of word definitions for\n     uninterrupted work-flow)\n   * spelling suggestions (when the exact spelling is vague\/not known)\n\n Once launched, it monitors for a preset hot-key combination. When\n some text is selected on any window and the hot-key is pressed, it\n pops-up with the word looked-up. Should the user prefer passive\n notifications, this can be done by enabling the notifications option.\n\n When the term looked for is vague\/not known, then either the search\n can be broadened with the use of regular expressions (*, ?, etc.) in\n the search string or spelling suggestions when a term is incorrect.\n\n For regular expressions based search to work, wordnet-sense-index\n package is required.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"252",
+ "downloadSize":"72214",
+ "homepage":"http:\/\/artha.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

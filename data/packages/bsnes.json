@@ -1,0 +1,9 @@
+{"package":"bsnes",
+ "description":"Accurate SNES\/SuperFamicom emulator",
+ "details":" bsnes is an emulator that focuses on accuracy, debugging functionality, and\n clean code. bsnes does not include speed and game-specific hacks for\n compatibility, and as a result the minimum system requirements are very high.\n\n There are three profiles that differ in the amount of accuracy and required\n system resources. Which profile to use can be set with:\n\n # update-alternatives --config bsnes-bin\n\n Although not as polished as the SNES emulation (yet), there is also support\n for NES, Gameboy, Gameboy Color and Gameboy Advance games.\n\n This package also contains bsnes-purify, a command line tool for preparing\n ROMs for usage with bsnes.\n uitoolkit::gtk, use::gameplaying, works-with::software:running,\n x11::application\n",
+ "installedSize":"10397",
+ "downloadSize":"2864808",
+ "homepage":"http:\/\/byuu.org\/bsnes\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

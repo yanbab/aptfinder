@@ -1,0 +1,9 @@
+{"package":"kdenlive",
+ "description":"non-linear video editor",
+ "details":" Kdenlive is a non-linear video editing suite, which supports DV, HDC and much\n more formats.\n It main features are:\n  * Guides and marker for organizing timelines\n  * Copy and paste support for clips, effects and transitions\n  * Real time changes\n  * Firewire and Video4Linux capture\n  * Screen grabbing\n  * Exporting to any by FFMPEG supported format\n suite::kde, uitoolkit::qt, use::editing, works-with::video,\n x11::application\n",
+ "installedSize":"4708",
+ "downloadSize":"1744826",
+ "homepage":"http:\/\/www.kdenlive.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

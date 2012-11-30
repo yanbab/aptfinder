@@ -1,0 +1,8 @@
+{"package":"madbomber",
+ "description":"Kaboom! clone",
+ "details":" \"Mad Bomber\" is a clone of Activision's classic Atari 2600 console\n game, \"Kaboom!,\" by Larry Kaplan, with spruced-up graphics and\n sound effects, and music.\n\n The Mad Bomber is loose in the city and he's dropping bombs everywhere!\n It's your job to catch them before they hit the ground and explode.\n Luckily, you have a set of trusty buckets to extinguish the bombs with.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"111",
+ "downloadSize":"30540",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

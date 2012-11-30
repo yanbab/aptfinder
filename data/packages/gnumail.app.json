@@ -1,0 +1,9 @@
+{"package":"gnumail.app",
+ "description":"Mail client for GNUstep",
+ "details":" GNUMail is a clone of NeXT\/Apple's Mail.app application. It uses the\n GNUstep development framework (or Apple Cocoa, which is based on the\n OpenStep specification provided by NeXT, Inc.).\n protocol::smtp, role::plugin, role::program, suite::gnustep,\n uitoolkit::gnustep, use::editing, works-with::mail, x11::application\n",
+ "installedSize":"6892",
+ "downloadSize":"1560202",
+ "homepage":"http:\/\/collaboration-world.com\/gnumail",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"fritzing",
+ "description":"Easy-to-use electronic design software",
+ "details":" Fritzing is an open source project designed to help one transition from a\n prototype to a finished project. Aimed at users who want to produce or document\n circuits and experiments, one starts by building a physical prototype, then\n recreating it with Fritzing\u2019s graphical editor. From there one can generate a\n schematic, PCB artwork, and PCB production files.\n uitoolkit::qt, x11::application\n",
+ "installedSize":"7294",
+ "downloadSize":"3949960",
+ "homepage":"http:\/\/fritzing.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

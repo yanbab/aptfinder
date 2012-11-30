@@ -1,0 +1,9 @@
+{"package":"webissues",
+ "description":"network system supporting team collaboration",
+ "details":" Webissues is a system supporting team collaboration\n accross the Internet. It can be used for storing bugs\n and other information with customizable attributes,\n comments and file attachements.\n x11::application\n",
+ "installedSize":"4938",
+ "downloadSize":"2571034",
+ "homepage":"http:\/\/webissues.mimec.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

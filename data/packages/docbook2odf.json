@@ -1,0 +1,8 @@
+{"package":"docbook2odf",
+ "description":"XSLT based conversions from docbook to Oasis Open Document (openoffice.org)",
+ "details":" toolkit that automaticaly converts DocBook to OASIS OpenDocument (ODF, the ISO\n standardized format used for texts, spreadsheets and presentations).\n Conversion is based on a XSLT which makes it easy to convert DocBook->ODF,\n ODT, ODS and ODP as all these documents are XML based.\n works-with-format::docbook, works-with-format::odf,\n works-with-format::xml, works-with::file\n",
+ "installedSize":"420",
+ "downloadSize":"49152",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

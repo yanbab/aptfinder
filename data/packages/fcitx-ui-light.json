@@ -1,0 +1,9 @@
+{"package":"fcitx-ui-light",
+ "description":"light weight xlibs and xft based UI for Fcitx",
+ "details":" fcitx-ui-light is a very light weight UI for Fcitx, using only xlibs\n and xft. It is directly inherited from the UI code base of Fcitx 3.x\n series.\n\n This UI is intended to work on all X11 environment with minimal\n dependencies, so it can scale to more situations where none of Cairo,\n Pango or QT is available.\n",
+ "installedSize":"154",
+ "downloadSize":"34282",
+ "homepage":"http:\/\/code.google.com\/p\/fcitx",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

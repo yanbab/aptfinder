@@ -1,0 +1,9 @@
+{"package":"byobu",
+ "description":"powerful command line \"window manager\" and shell multiplexer",
+ "details":" Byobu is Ubuntu's session-managing wrapper around tmux or GNU Screen.\n Using Byobu, you can quickly create and move between different windows\n over a single SSH connection or TTY terminal, monitor dozens of important\n statistics about your system, or detach and reattach to sessions later\n while your programs continue to run in the background.\n",
+ "installedSize":"423",
+ "downloadSize":"135706",
+ "homepage":"http:\/\/launchpad.net\/byobu",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

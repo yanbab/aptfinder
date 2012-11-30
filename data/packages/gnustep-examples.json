@@ -1,0 +1,9 @@
+{"package":"gnustep-examples",
+ "description":"GNUstep example applications",
+ "details":" A collection of examples for the GNUstep libraries.  Some of them are\n useful applications on their own, others are intended only for\n testing purposes.\n",
+ "installedSize":"1077",
+ "downloadSize":"218280",
+ "homepage":"http:\/\/www.gnustep.org\/experience\/examples.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

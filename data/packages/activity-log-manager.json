@@ -1,0 +1,9 @@
+{"package":"activity-log-manager",
+ "description":"blacklist configuration user interface for Zeitgeist",
+ "details":" Zeitgeist is a service which logs the user's activities and events (files\n opened, websites visited, conversations held with other people, etc.) and\n makes the relevant information available to other applications.\n\n It serves as a comprehensive activity log and also makes it possible to\n determine relationships between items based on usage patterns.\n\n This package contains Activity Log Manager, a graphical user interface which\n lets you control what gets logged by Zeitgeist. It supports setting up\n blacklists according to several criteria (such as application or file types),\n temporarily stopping all logging as well as deleting recent events.\n",
+ "installedSize":"168",
+ "downloadSize":"16738",
+ "homepage":"https:\/\/launchpad.net\/history-manager",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

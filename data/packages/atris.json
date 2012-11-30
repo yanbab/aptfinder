@@ -1,0 +1,9 @@
+{"package":"atris",
+ "description":"tetris-like game with a twist for Unix",
+ "details":" Alizarin Tetris includes multi-player support, user-extensible color, shape\n and sound styles, can use TCP\/IP networking and features a few different AI\n opponents.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"531",
+ "downloadSize":"323060",
+ "homepage":"http:\/\/www.wkiri.com\/projects\/atris",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

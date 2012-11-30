@@ -1,0 +1,8 @@
+{"package":"regexxer",
+ "description":"A visual search and replace tool",
+ "details":" Regexxer is a nifty GUI search\/replace tool featuring Perl-style\n regular expressions. If you need project-wide substitution and you're\n tired of hacking sed command lines together, then you should\n definitely give it a try.\n uitoolkit::gtk, use::searching, use::viewing, x11::application\n",
+ "installedSize":"1056",
+ "downloadSize":"260750",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

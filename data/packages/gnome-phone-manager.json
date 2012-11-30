@@ -1,0 +1,9 @@
+{"package":"gnome-phone-manager",
+ "description":"control aspects of your mobile phone from your GNOME 2 desktop",
+ "details":" Phone Manager is a program created to allow you to control aspects of your\n mobile phone from your GNOME 2 desktop.\n\n  Current features include:\n\n  - Runs in the background; indicates status on the panel notification area.\n  - Display on-screen alert when text message (SMS) arrives\n  - Text message (SMS) sending facility\n  - Evolution Addressbook integration\n uitoolkit::gtk, use::transmission, works-with::pim, x11::application\n",
+ "installedSize":"1066",
+ "downloadSize":"216956",
+ "homepage":"http:\/\/live.gnome.org\/PhoneManager",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

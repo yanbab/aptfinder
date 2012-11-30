@@ -1,0 +1,9 @@
+{"package":"jack-keyboard",
+ "description":"Virtual MIDI keyboard for JACK MIDI",
+ "details":" JACK keyboard is a program that allows you to send JACK MIDI\n events (play ;-) using your PC keyboard. It's somewhat similar to\n vkeybd, except it uses JACK MIDI instead of ALSA, and the default\n keyboard mapping is much better - it uses the same layout as\n trackers (like Impulse Tracker) did, so you have two and half\n octaves under your fingers.\n",
+ "installedSize":"118",
+ "downloadSize":"41272",
+ "homepage":"http:\/\/jack-keyboard.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

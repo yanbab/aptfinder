@@ -1,0 +1,9 @@
+{"package":"kile",
+ "description":"KDE Integrated LaTeX Environment",
+ "details":" Kile is a user-friendly LaTeX source editor and TeX shell for KDE.\n\n The source editor is a multi-document editor designed for .tex and .bib\n files.  Menus, wizards and auto-completion are provided to assist with\n tag insertion and code generation.  A structural view of the document\n assists with navigation within source files.\n\n The TeX shell integrates the various tools required for TeX processing.\n It assists with LaTeX compilation, DVI and postscript document viewing,\n generation of bibliographies and indices and other common tasks.\n\n Kile can support large projects consisting of several smaller files.\n suite::kde, uitoolkit::qt, use::editing, works-with-format::tex,\n works-with::text, x11::application\n",
+ "installedSize":"9496",
+ "downloadSize":"1835614",
+ "homepage":"http:\/\/kile.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

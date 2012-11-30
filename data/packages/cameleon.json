@@ -1,0 +1,9 @@
+{"package":"cameleon",
+ "description":"integrated development environment for OCaml",
+ "details":" Cameleon is a set of tools and libraries put together to create an\n integrated development environment for the OCaml programming language.\n\n Its main features are :\n  - graphical user interface,\n  - configuration management based on CVS,\n  - easy access to and browsing of documentation,\n  - various editors, according to customizable file types,\n  - use of plug-ins to define new features,\n  - highly customizable interface (menus, toolbar, keyboard shortcuts).\n\n Tools shipped are :\n  - Chamo, a source code editor based on the GtkSourceView widget with some\n    emacs-like functionality,\n  - DBforge, a tool to describe database schemas and generate OCaml code to\n    access these databases,\n  - OCamlCVS, a graphical front end for the CVS configuration management\n    utility,\n  - Report, a tool aims to make generation of XML documents from OCaml\n    applications easier,\n interface::x11, role::devel-lib, role::program, scope::utility,\n uitoolkit::gtk, uitoolkit::ncurses\n",
+ "installedSize":"23131",
+ "downloadSize":"5845480",
+ "homepage":"http:\/\/home.gna.org\/cameleon\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

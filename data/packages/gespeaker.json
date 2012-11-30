@@ -1,0 +1,9 @@
+{"package":"gespeaker",
+ "description":"GTK+ front-end for eSpeak and mbrola",
+ "details":" Gespeaker is a GTK+ frontend for eSpeak and mbrola.\n It allows to play a text in many languages with settings\n for voice, pitch, volume, speed and word gap.\n\n Since version 0.6 it can use mbrola package and voices to\n obtain a more realistic text reading experience.\n role::program, scope::application, sound::speech, uitoolkit::gtk,\n use::entertaining, works-with::audio, works-with::text,\n x11::application\n",
+ "installedSize":"460",
+ "downloadSize":"89780",
+ "homepage":"http:\/\/code.google.com\/p\/gespeaker\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

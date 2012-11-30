@@ -1,0 +1,9 @@
+{"package":"gmtp",
+ "description":"simple MP3 player client for MTP based devices",
+ "details":" gMTP is a simple and light-weight interface to the features provided\n by libmtp, which allows users to manage the files stored on any MTP\n music player supported by the libraries, including those with\n multiple storage devices (e.g. mobile phones).\n\n It doesn't provide complex features such as playlist management,\n it just makes transferring files from and to devices easy, by\n allowing users to upload, download and remove files on the device\n with a fast and easy-to-use graphical interface.\n works-with-format::mp3, works-with::audio, works-with::file,\n x11::application\n",
+ "installedSize":"402",
+ "downloadSize":"129042",
+ "homepage":"http:\/\/gmtp.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"dvdisaster",
+ "description":"data loss\/scratch\/aging protection for CD\/DVD media",
+ "details":" dvdisaster provides a margin of safety against data loss on CD and DVD media\n caused by scratches or aging media. It creates error correction data which is\n used to recover unreadable sectors if the disc becomes damaged at a later time.\n role::program, uitoolkit::gtk, use::checking, use::storing,\n works-with-format::iso9660, works-with::TODO, x11::application\n",
+ "installedSize":"1636",
+ "downloadSize":"563014",
+ "homepage":"http:\/\/dvdisaster.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

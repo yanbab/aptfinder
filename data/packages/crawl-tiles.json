@@ -1,0 +1,9 @@
+{"package":"crawl-tiles",
+ "description":"Dungeon Crawl, a roguelike game, tiles version",
+ "details":" Crawl is a fun game in the grand tradition of games like Rogue, Hack, and\n Moria. Your objective is to travel deep into a subterranean cave complex and\n retrieve the Orb of Zot, which is guarded by many horrible and hideous\n creatures.\n\n This is the graphical (tiles) version.\n\n This is the Stone Soup version of Dungeon Crawl.\n interface::x11, role::program, uitoolkit::sdl, use::gameplaying,\n x11::application\n",
+ "installedSize":"10602",
+ "downloadSize":"5773346",
+ "homepage":"http:\/\/crawl.develz.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

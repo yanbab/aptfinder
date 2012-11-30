@@ -1,0 +1,9 @@
+{"package":"numptyphysics",
+ "description":"crayon based physics puzzle game",
+ "details":" Numpty Physics is a drawing puzzle game in the spirit (and style?) of\n Crayon Physics using the same excellent Box2D engine.  It melds cute\n schoolbook-style graphics with a kind of realistic physics engine.\n\n It includes a built-in editor so that you may build (and submit) your\n own levels.\n use::gameplaying, x11::application\n",
+ "installedSize":"490",
+ "downloadSize":"293682",
+ "homepage":"http:\/\/numptyphysics.garage.maemo.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"kjumpingcube",
+ "description":"simple tactical game",
+ "details":" KJumpingcube is a simple tactical game for one or two players, played on a\n grid of numbered squares.  Each turn, players compete for control of the board\n by capturing or adding to one square.\n\n This package is part of the KDE games module.\n suite::kde, uitoolkit::qt, use::gameplaying, x11::application\n",
+ "installedSize":"457",
+ "downloadSize":"117236",
+ "homepage":"http:\/\/games.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

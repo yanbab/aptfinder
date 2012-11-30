@@ -1,0 +1,9 @@
+{"package":"nfoview",
+ "description":"a simple viewer for NFO files",
+ "details":" NFO Viewer is a simple viewer for NFO files, which are \"ASCII\" art in\n the CP437 codepage. The advantages of using NFO Viewer instead of a\n text editor are preset font and encoding settings, automatic window\n size and clickable hyperlinks.\n",
+ "installedSize":"480",
+ "downloadSize":"44612",
+ "homepage":"http:\/\/home.gna.org\/nfoview\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

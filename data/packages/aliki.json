@@ -1,0 +1,9 @@
+{"package":"aliki",
+ "description":"Measurement tool for Impulse Responses",
+ "details":" Measure Impulse Responses using a sine sweep and deconvolution.\n For more complete introduction to this method, see\n http:\/\/kokkinizita.linuxaudio.org\/linuxaudio\/downloads\/aliki-manual.pdf\n",
+ "installedSize":"288",
+ "downloadSize":"88044",
+ "homepage":"http:\/\/kokkinizita.linuxaudio.org\/linuxaudio\/downloads\/index.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

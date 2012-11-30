@@ -1,0 +1,9 @@
+{"package":"xhtml2ps",
+ "description":"HTML to PostScript converter (Tcl\/Tk GUI frontend)",
+ "details":" This program converts HTML directly to PostScript. The HTML code can be\n retrieved from one or more URLs or local files, specified as parameters\n on the command line. A comprehensive level of HTML is supported,\n including inline images, CSS 1.0, and some features of HTML 4.0.\n\n This package provides an (outdated) GUI frontend to the html2ps\n converter.\n\n This is our justification for the suggests list:\n\n We suggest weblint-perl because it is the default method for checking\n HTML syntax (see Operations | Preferences).\n\n We suggest lpr because it is the default printing command (see\n Operations | Preferences).\n\n We suggest mime-support because see is the default command used to open\n the postscript viewer (see Operations | Preferences).\n\n We suggest postscript-viewer because this package generates postscripts\n which can be viewed with postscript-viewer (see Operations |\n Preferences).\n uitoolkit::tk, use::converting, works-with-format::html,\n works-with::text, x11::application\n",
+ "installedSize":"172",
+ "downloadSize":"23362",
+ "homepage":"http:\/\/user.it.uu.se\/~jan\/html2ps.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

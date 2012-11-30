@@ -1,0 +1,9 @@
+{"package":"ksysguard",
+ "description":"process monitor and system statistics",
+ "details":" System Guard allows you to monitor various statistics about your system.\n\n In addition to monitoring the local system, it can connect to remote systems\n running the System Guard Daemon, which is in the 'ksysguardd' package.\n\n This package is part of the KDE base workspace module.\n role::program, suite::kde, uitoolkit::qt, use::monitor,\n x11::application\n",
+ "installedSize":"915",
+ "downloadSize":"242124",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

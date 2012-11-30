@@ -1,0 +1,9 @@
+{"package":"openmcdf",
+ "description":"Structured Storage Explorer",
+ "details":" OpenMCDF is a 100% managed CLI component that allows client applications to\n manipulate COM structured storage files, also known as Microsoft Compound\n Document Format files.\n\n This file format is used under the hood by a lot of applications: the files\n created by Microsoft Office until the 2007 product release are all structured\n storage files. They include multiple streams of information (document summary,\n user data) in a single physical container (the file). Also the omnipresent\n Thumbs.db, used by Windows as thumbnails cache, is a structured storage file.\n\n OpenMCDF makes available to the developer an easy interface to read, write, add\n and remove structured storage primitives. Structured storage items are\n organized in a hierarchical tree where 'storage' nodes act like a directory and\n 'stream' nodes like a file. Developers can use OpenMCDF to view storages and\n streams, traverse hierarchical trees of items, explore existing compound file\n and modify them or create a new compound file from scratch.\n",
+ "installedSize":"236",
+ "downloadSize":"181256",
+ "homepage":"http:\/\/openmcdf.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

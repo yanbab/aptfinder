@@ -1,0 +1,9 @@
+{"package":"promoe",
+ "description":"GUI client for XMMS2",
+ "details":" Promoe is a client for the XMMS2 music daemon. Promoe\u2019s interface is modeled\n after XMMS\/WinAMP classic and supports Winamp 2 skins. It's written in C++ and\n uses the Qt4 toolkit.\n x11::application\n",
+ "installedSize":"962",
+ "downloadSize":"428656",
+ "homepage":"http:\/\/wiki.xmms2.xmms.se\/wiki\/Client:Promoe",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

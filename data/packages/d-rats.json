@@ -1,0 +1,9 @@
+{"package":"d-rats",
+ "description":"Communications tool for D-STAR amateur radio",
+ "details":" D-RATS is a communications tool for D-STAR amateur radio low-speed data\n (DV mode).\n It provides:\n   Multi-user chat capabilities;\n   File transfers\n   Structured data transport (forms); and\n   Position tracking and mapping.\n",
+ "installedSize":"1588",
+ "downloadSize":"283778",
+ "homepage":"http:\/\/www.d-rats.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"evince",
+ "description":"Document (PostScript, PDF) viewer",
+ "details":" Evince is a simple multi-page document viewer.  It can display and print\n PostScript (PS), Encapsulated PostScript (EPS), DjVu, DVI, Portable\n Document Format (PDF) and XML Paper Specification (XPS) files.\n When supported by the document, it also allows searching for text,\n copying text to the clipboard, hypertext navigation, and\n table-of-contents bookmarks.\n suite::gnome, uitoolkit::gtk, use::viewing, works-with-format::TODO,\n works-with-format::djvu, works-with-format::dvi,\n works-with-format::pdf, works-with-format::postscript,\n works-with::text, x11::application\n",
+ "installedSize":"1083",
+ "downloadSize":"633684",
+ "homepage":"http:\/\/www.gnome.org\/projects\/evince\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

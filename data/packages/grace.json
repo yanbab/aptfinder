@@ -1,0 +1,9 @@
+{"package":"grace",
+ "description":"XY graphing and plotting tool",
+ "details":" Grace is a point-and-click tool that allows the user to draw X-Y plots.\n This is the program formerly known as Xmgr.\n\n A few of its features are: User defined scaling, tick marks, labels,\n symbols, line styles, colors, polynomial regression, splines, running\n averages, DFT\/FFT, cross\/auto-correlation, batch mode for unattended\n plotting, and hardcopy support for PostScript, FrameMaker and several image\n formats.\n role::program, scope::application, uitoolkit::motif, use::editing,\n use::printing, works-with-format::postscript, works-with::image,\n works-with::image:vector, works-with::text, x11::application\n",
+ "installedSize":"3333",
+ "downloadSize":"957404",
+ "homepage":"http:\/\/plasma-gate.weizmann.ac.il\/Grace",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

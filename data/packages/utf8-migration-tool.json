@@ -1,0 +1,8 @@
+{"package":"utf8-migration-tool",
+ "description":"Debian UTF-8 migration wizard",
+ "details":" This wizard upgrades legacy system locales to their UTF-8\n equivalent. It also informs users whenever files in their\n home directory still utilize legacy encodings.\n interface::x11, role::program, scope::utility, uitoolkit::gtk,\n use::converting, works-with::text, works-with::unicode,\n x11::application\n",
+ "installedSize":"149",
+ "downloadSize":"19474",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

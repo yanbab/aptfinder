@@ -1,0 +1,9 @@
+{"package":"mmass",
+ "description":"Mass spectrometry tool for proteomics",
+ "details":" mMass is a free mass spectrum viewer\/analyzer in which the\n following proteomics-related tasks can be performed:\n\n  - Open raw text, mzXML and mzData mass spectra;\n  - Define peak lists;\n  - Powerful mass spectrum viewer (zoom, cursor...);\n  - Data recalibration;\n  - Protein-only simulations;\n  - Online Mascot searches.\n\n The software can be easily extended by additional Python modules.\n This package contains the platform-independent parts of the software.\n interface::x11, role::program, science::plotting,\n science::visualisation, scope::application, uitoolkit::gtk,\n uitoolkit::wxwidgets, use::analysing, works-with-format::xml,\n x11::application\n",
+ "installedSize":"8082",
+ "downloadSize":"3731850",
+ "homepage":"http:\/\/www.mmass.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

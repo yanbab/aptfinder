@@ -1,0 +1,9 @@
+{"package":"angband",
+ "description":"Single-player, text-based, dungeon simulation game",
+ "details":" Angband is a single-player, text-based, dungeon simulation derived\n from the game Moria, which was in turn based on Rogue. It is\n often described as a \"roguelike\" game because the look and feel of\n the game is still quite similar to Rogue (though there are now graphical\n tiles available if you dislike ASCII gaming). Angband has been in more or\n less continuous development since the early 1990s.\n\n The ultimate goal of the game is to develop a character strong enough\n to defeat Morgoth, who resides on dungeon level 100. Upon doing so,\n you will receive the exalted status of \"winner\" and your character may\n retire. To achieve this you will need to explore numerous dungeon levels,\n defeat many foes and sift through a great deal of treasure.\n\n Angband is a reference to Morgoth's \"prison of iron\" in the world of\n Middle-Earth, created by J.R.R. Tolkein.\n interface::x11, role::program, uitoolkit::ncurses, uitoolkit::xlib,\n use::gameplaying, x11::application\n",
+ "installedSize":"2341",
+ "downloadSize":"1070280",
+ "homepage":"http:\/\/rephial.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

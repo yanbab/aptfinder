@@ -1,0 +1,9 @@
+{"package":"gamazons",
+ "description":"Amazons boardgame for GNOME",
+ "details":" Amazons is a game played on a 10x10 chess board. Each side has four pieces\n (amazons) that move like chess queens (in a straight line in any direction).\n Instead of capturing pieces like in chess, the game is determined based on who\n moves last.\n\n Each move consists of two parts. First an amazon moves to a new square and\n then fires an arrow to another square (the arrow is fired in a straight line\n in any direction from the square the amazon landed on). The square the arrow\n lands on becomes a permenant block for the rest of the game. No one can move\n over it, or fire an arrow over it. Every turn an amazon must move and fire an\n arrow, so every turn there is one less square available on the board. Try and\n block in your opponent or section off a good chunk of the board for yourself.\n use::gameplaying, x11::application\n",
+ "installedSize":"332",
+ "downloadSize":"80688",
+ "homepage":"http:\/\/www.yorgalily.org\/gamazons\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

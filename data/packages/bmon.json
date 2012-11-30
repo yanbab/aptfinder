@@ -1,0 +1,8 @@
+{"package":"bmon",
+ "description":"portable bandwidth monitor and rate estimator",
+ "details":" bmon is a commandline bandwidth monitor which supports various output\n methods including an interactive curses interface, lightweight HTML output but\n also simple ASCII output.\n\n Statistics may be distributed over a network using multicast or unicast and\n collected at some point to generate a summary of statistics for a set of\n nodes.\n\n Homepage: http:\/\/suug.ch\/~tgr\/bmon\/\n role::program, scope::utility, uitoolkit::ncurses, use::monitor,\n works-with::network-traffic\n",
+ "installedSize":"184",
+ "downloadSize":"45350",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

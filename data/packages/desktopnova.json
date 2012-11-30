@@ -1,0 +1,9 @@
+{"package":"desktopnova",
+ "description":"utility that changes the wallpaper automatically",
+ "details":" DesktopNova changes the desktop background image after an adjustable time.\n It can choose the images from single files and folders (with or without\n subfolders). An autostart feature is also implemented.\n\n This package contains the graphical user interface and background daemon.\n\n There is at least one module needed. Without a module this package will not\n work as expected! See packages desktopnova-module-*.\n\n There is also an additional tray icon available. See package desktopnova-tray.\n",
+ "installedSize":"406",
+ "downloadSize":"82378",
+ "homepage":"http:\/\/launchpad.net\/desktopnova",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

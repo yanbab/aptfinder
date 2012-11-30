@@ -1,0 +1,9 @@
+{"package":"scribes",
+ "description":"simple, slim and sleek, yet powerful text editor for GNOME",
+ "details":" Scribes focuses on streamlining your workflow. It does so by ensuring\n that common and repetitive operations are intelligently automated and also\n by eliminating factors that prevent you from focusing on your tasks.\n\n The result is a text editor that provides a fluid user experience,\n that is easy and fun to use and that ensures the safety of your\n documents at all times.\n scope::application, suite::gnome, uitoolkit::gtk, use::editing,\n works-with-format::plaintext, works-with::software:source,\n works-with::text, x11::application\n",
+ "installedSize":"4920",
+ "downloadSize":"729510",
+ "homepage":"http:\/\/scribes.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

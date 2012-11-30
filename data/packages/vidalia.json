@@ -1,0 +1,9 @@
+{"package":"vidalia",
+ "description":"controller GUI for Tor",
+ "details":" Vidalia offers a graphical user interface to start and stop Tor, view\n its status at a glance, and monitor its bandwidth usage.\n\n Vidalia also makes it easy to contribute to\n the Tor network by helping you set up a Tor server.\n\n Tor protects privacy in communications via a distributed network of\n relays run by volunteers all around the world: it prevents anybody\n watching Internet connections from learning what sites you visit,\n and it prevents the visited sites from learning your physical\n location. Tor works with web browsers, instant messaging programs,\n remote login clients, and many other TCP-based applications.\n x11::application\n",
+ "installedSize":"5978",
+ "downloadSize":"3097522",
+ "homepage":"https:\/\/www.torproject.org\/projects\/vidalia",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

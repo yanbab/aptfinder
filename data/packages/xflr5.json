@@ -1,0 +1,9 @@
+{"package":"xflr5",
+ "description":"analysis tool for airfoils",
+ "details":" XFLR5 is an analysis tool for airfoils, wings and planes operating at low\n Reynolds Numbers.\n It includes:\n\n  1. XFoil's Direct and Inverse analysis capabilities\n  2. Wing design analysis based on the Lifiting Line Theory and the Vortex\n    Lattice Method\n science::calculation, science::plotting, science::visualisation,\n uitoolkit::qt, use::viewing, x11::application\n",
+ "installedSize":"3860",
+ "downloadSize":"1512958",
+ "homepage":"http:\/\/www.xflr5.com\/xflr5.htm",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

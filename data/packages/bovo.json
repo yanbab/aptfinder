@@ -1,0 +1,9 @@
+{"package":"bovo",
+ "description":"gomoku (five in line) board game",
+ "details":" Bovo is a game where two players take turns placing markers on the board,\n the winner being the first to complete a line of five markers.\n\n This package is part of the KDE games module.\n suite::kde, uitoolkit::qt, use::gameplaying, x11::application\n",
+ "installedSize":"469",
+ "downloadSize":"144080",
+ "homepage":"http:\/\/games.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

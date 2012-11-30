@@ -1,0 +1,9 @@
+{"package":"pybridge",
+ "description":"An online contract bridge game. Gtk client",
+ "details":" PyBridge lets you play the card game of contract bridge, with human\n players, over the Internet or a local network. The PyBridge project aims\n to provide a featureful cross-platform alternative to existing online bridge\n services.\n\n This package provides a PyGTK \/ Glade front-end user interface through which\n games are played\n uitoolkit::gtk, use::gameplaying, x11::application\n",
+ "installedSize":"492",
+ "downloadSize":"134392",
+ "homepage":"http:\/\/pybridge.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

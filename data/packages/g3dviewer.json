@@ -1,0 +1,9 @@
+{"package":"g3dviewer",
+ "description":"3D model viewer for GTK+",
+ "details":" G3DViewer is a 3D file viewer for GTK+ supporting a variety of file types by\n using the LibG3D plugin facility. Models can be inspected and rendered using\n OpenGL. Rendering options includes wireframe rendering, shadows, isometric\n view, specular lightning, and textures.\n\n See 'libg3d-plugin*' for supported formats.\n uitoolkit::gtk, use::viewing, x11::application\n",
+ "installedSize":"284",
+ "downloadSize":"52632",
+ "homepage":"http:\/\/automagically.de\/g3dviewer\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

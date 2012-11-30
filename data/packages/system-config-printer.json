@@ -1,0 +1,9 @@
+{"package":"system-config-printer",
+ "description":"graphical interface to configure the printing system",
+ "details":" System-config-printer is a GUI written in Python using GTK+ to\n configure a CUPS server. Its primary use is to configure the printing\n system on the local host, but can also be used to setup a remote\n printer.\n\n In terms of features, it aims to be as complete as the CUPS web\n administration tool, while being integrated to the desktop.\n interface::x11, role::program, scope::utility, uitoolkit::gtk,\n use::configuring\n",
+ "installedSize":"4812",
+ "downloadSize":"1259154",
+ "homepage":"http:\/\/cyberelk.net\/tim\/software\/system-config-printer\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

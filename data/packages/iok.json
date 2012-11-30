@@ -1,0 +1,9 @@
+{"package":"iok",
+ "description":"Indic Onscreen Keyboard",
+ "details":" It shows onscreen keyboard for 12 Indian languages. The languages are -\n Assamese, Bengali, Gujarati, Hindi, Kannada, Marathi, Malayalam, Punjabi,\n Oriya, Sindhi, Tamil, Telugu.\n\n Using drop down menu you can select any of above supported Indian language.\n Drop down menu listing depends on available inscript keymaps at location\n \/usr\/share\/m17n\/. You can then start directly clicking on keys appearing in\n iok graphical interface. It will not only show you keyvalues (characters) for\n English keys on your QWERTY keyboard from selected inscript keymap but also\n allows you to send those characters to currently active window.\n",
+ "installedSize":"822",
+ "downloadSize":"110648",
+ "homepage":"https:\/\/fedorahosted.org\/iok\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

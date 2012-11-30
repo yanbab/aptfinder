@@ -1,0 +1,9 @@
+{"package":"boa-constructor",
+ "description":"RAD tool for Python and wxWindows application",
+ "details":" Boa-constructor is an IDE oriented towards creating cross-platform\n applications built on top of the Python language and the wxWindows GUI\n toolkit.\n\n It features:\n  - visual wxWindows frame design,\n  - object inspector and explorer,\n  - syntax highlighting editor with code completion, call tips and code\n    browsing for Python code,\n  - syntax highlighting editor for C, C++, HTML, XML, config files (INI\n    style),\n  - documentation generation,\n  - an integrated Python debugger,\n  - integrated help,\n  - a Python Shell,\n  - an explorer able to browse, open\/edit, inspect and interact with\n    various data sources including files, CVS, Zope, FTP, DAV and SSH,\n  - an UML view generator.\n role::program, scope::application, uitoolkit::wxwidgets,\n works-with::software:source, x11::application\n",
+ "installedSize":"17814",
+ "downloadSize":"13522594",
+ "homepage":"http:\/\/boa-constructor.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

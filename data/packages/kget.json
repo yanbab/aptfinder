@@ -1,0 +1,9 @@
+{"package":"kget",
+ "description":"download manager",
+ "details":" KGet is an advanced download manager with support for Metalink and Bittorrent.\n Downloads are added to the list, where they can be paused, queued, or\n scheduled for later.\n\n This package is part of the KDE networking module.\n suite::kde, uitoolkit::qt, use::downloading, x11::application\n",
+ "installedSize":"4220",
+ "downloadSize":"1588712",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"crack-attack",
+ "description":"multiplayer OpenGL puzzle game like \"Tetris Attack\"",
+ "details":" Crack Attack is an OpenGL puzzle game similar to the Super Nintendo\n game \"Tetris Attack\".  Slowly, your stack of colored blocks grows\n from the bottom, and you've got to make sure it never reaches the\n top. If it does, you lose. To eliminate blocks from the stack, line\n up at least three of one color, horizontally or vertically. Once you\n do, those blocks disappear, and put off slightly your inevitable\n demise.\n\n Crack Attack is very slow without hardware acceleration.  For Xorg\n users, this means you want DRI.\n\n More information can be found at http:\/\/www.nongnu.org\/crack-attack\/\n interface::x11, network::client, network::server, role::program,\n uitoolkit::gtk, use::gameplaying, x11::application\n",
+ "installedSize":"4375",
+ "downloadSize":"783648",
+ "homepage":"http:\/\/www.nongnu.org\/crack-attack\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

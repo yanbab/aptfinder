@@ -1,0 +1,9 @@
+{"package":"l2tp-ipsec-vpn",
+ "description":"control your L2TP IPsec VPN connections",
+ "details":" This GUI provides a system tray icon in the notification area from which a non\n privileged user can establish and bring down L2TP over IPsec VPN connections.\n\n There is also a configuration editor that allows configuring various options\n for IPsec, L2TP and PPP.\n uitoolkit::qt, use::dialing, x11::application\n",
+ "installedSize":"673",
+ "downloadSize":"264022",
+ "homepage":"https:\/\/launchpad.net\/l2tp-ipsec-vpn",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

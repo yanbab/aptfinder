@@ -1,0 +1,9 @@
+{"package":"gwave",
+ "description":"waveform viewer eg for spice simulators",
+ "details":" Gwave is a tool for viewing analog data, such as the output of Spice\n simulations.\n\n Gwave can read \"raw\" files from spice2G6, spice3F5 or ngspice, and a tabular\n ASCII format suitable for use with GnuCAP or homegrown tools. It can also read\n several binary and ascii files written by commercial spice-type simulators\n such as hspice, tspice, and nanosim.\n\n It supports multiple \"panels\" (graticules) with multiple variables displayed\n in each. Two vertical-bar cursors are available for time-difference\n measurements. Multiple files can be loaded, for comparing results of several\n simulations.\n interface::text-mode, interface::x11, role::program,\n scope::application, uitoolkit::gtk, uitoolkit::ncurses, use::viewing,\n x11::application\n",
+ "installedSize":"1408",
+ "downloadSize":"275592",
+ "homepage":"http:\/\/gwave.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

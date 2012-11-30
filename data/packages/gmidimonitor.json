@@ -1,0 +1,9 @@
+{"package":"gmidimonitor",
+ "description":"GTK+ application that shows MIDI events",
+ "details":" GMIDImonitor is GTK+ application that shows MIDI events.\n\n You need to connect desired source of MIDI events to gmidimonitor\n input using some kind of patchbay like qjackctl, patchage. For\n restoring  connections (not connecting every time) you can use LASH.\n x11::application\n",
+ "installedSize":"126",
+ "downloadSize":"33650",
+ "homepage":"http:\/\/home.gna.org\/gmidimonitor\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

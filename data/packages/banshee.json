@@ -1,0 +1,9 @@
+{"package":"banshee",
+ "description":"Media Management and Playback application",
+ "details":" Banshee is a media management and playback application for the GNOME\n desktop, allowing users to import audio from CDs, search their library,\n create playlists of selections of their library, sync music to\/from iPods\n and other media devices, play and manage video files and burn selections\n to a CD.\n scope::application, sound::player, suite::gnome, uitoolkit::gtk,\n use::playing, works-with-format::iso9660, works-with-format::mp3,\n works-with-format::oggvorbis, works-with::audio, works-with::video,\n x11::application\n",
+ "installedSize":"13447",
+ "downloadSize":"4589552",
+ "homepage":"http:\/\/www.banshee.fm",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

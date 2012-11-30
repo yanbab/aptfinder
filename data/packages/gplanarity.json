@@ -1,0 +1,9 @@
+{"package":"gplanarity",
+ "description":"simple puzzle game involving untangling planar graphs",
+ "details":" gPlanarity is a puzzle game with the goal to untangle planar graphs for\n fun and prizes. If you tend to get addicted to cute little math  puzzles,\n this one is a doozy.\n\n gPlanarity is a super-clone of the flash Planarity game written by John\n Tantalo. The original Planarity ran well in IE and Firefox on other\n platforms, but was slow and liked to lock up or abort under Linux\n browsers.\n\n gPlanarity implements gameplay identical to the original Planarity but\n adds some UI and game extras around the basic game such as multiple\n board generation algorithms, puzzle boards, complete backing state,\n group select\/drag and so on.\n uitoolkit::gtk, use::gameplaying, x11::application\n",
+ "installedSize":"281",
+ "downloadSize":"92552",
+ "homepage":"http:\/\/web.mit.edu\/xiphmont\/Public\/gPlanarity.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

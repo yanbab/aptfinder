@@ -1,0 +1,9 @@
+{"package":"gdis",
+ "description":"molecular and crystal model viewer",
+ "details":" A GTK+ based program for the display and manipulation of\n isolated molecules, periodic systems and crystalline habits.\n It is in development, but is nonetheless fairly functional.\n It has the following features:\n\n  * Support for several file types (CIF, BIOSYM, XYZ,\n    XTL, MARVIN, and GULP)\n  * A simple molecular creation and manipulation tool\n  * A dialogue for creating starting configurations for\n    molecular dynamics simulations\n  * Assorted tools for visualization (geometry information,\n    region highlighting, etc.)\n  * Animation of BIOSYM files (also rendered animations,\n    see below)\n\n GDIS also allows you to perform the following functions\n through other packages:\n\n  * Model rendering (courtesy of POVRay)\n  * Energy minimization (courtesy of GULP)\n  * Morphology calculation (courtesy of cdd)\n  * Space group processing (courtesy of SgInfo)\n  * View the Periodic Table (courtesy of GPeriodic)\n  * Load additional filetypes, such as PDB (courtesy of Babel)\n uitoolkit::gtk, use::editing, works-with::3dmodel, x11::application\n",
+ "installedSize":"1507",
+ "downloadSize":"812654",
+ "homepage":"http:\/\/gdis.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

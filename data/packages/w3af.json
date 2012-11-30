@@ -1,0 +1,9 @@
+{"package":"w3af",
+ "description":"framework to find and exploit web application vulnerabilities",
+ "details":" w3af is a Web Application Attack and Audit Framework which aims\n to identify and exploit all web application vulnerabilities.\n\n This package provides a graphical user interface (GUI) for the framework.  If\n you want a command-line application only, install w3af-console.\n\n The framework has been called the \"metasploit for the web\", but it's actually\n much more than that, because it also discovers the web application\n vulnerabilities using black-box scanning techniques!\n\n The w3af core and it's plugins are fully written in Python. The project has\n more than 130 plugins, which identify and exploit SQL injection, cross site\n scripting (XSS), remote file inclusion and more.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"1096",
+ "downloadSize":"387892",
+ "homepage":"http:\/\/w3af.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

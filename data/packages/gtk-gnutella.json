@@ -1,0 +1,9 @@
+{"package":"gtk-gnutella",
+ "description":"shares files in a peer to peer network",
+ "details":" Gtk-Gnutella is a reliable and efficient Gnutella client, supporting the\n latest Gnutella protocol, bandwidth limitation (both incoming and outgoing)\n traffic compression, and advanced search filters among other features.\n\n Gnutella is a peer-based file-sharing protocol that allows a user\n running a Gnutella client to search for and download files from other\n Gnutella users, as well as share some files of his\/her own.\n\n Gtk-Gnutella offers all the extra features you expect from a modern client:\n persistent downloads, searches and filters, intuitive interface, upload\n statistics, queuing, and of course total control over many configuration\n parameters.\n network::client, role::program, scope::application, uitoolkit::gtk,\n use::downloading, works-with::file, x11::application\n",
+ "installedSize":"30120",
+ "downloadSize":"16582780",
+ "homepage":"http:\/\/gtk-gnutella.sf.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

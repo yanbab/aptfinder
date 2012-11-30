@@ -1,0 +1,9 @@
+{"package":"titanion",
+ "description":"strike down super high-velocity swooping insects",
+ "details":" Titanion is an abstract shooter game. While we fire with one button, the\n other one acts as a tractor ray to attract the enemies and take them to\n the combat line. The game in itself is quite simple, but with such\n graphics and playability that it's worth a try.\n\n Titanion is another gem among many by Kenta Cho.\n role::program, uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"675",
+ "downloadSize":"199960",
+ "homepage":"http:\/\/www.asahi-net.or.jp\/~cs8k-cyu\/windows\/ttn_e.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

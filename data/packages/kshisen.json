@@ -1,0 +1,9 @@
+{"package":"kshisen",
+ "description":"Shisen-Sho solitaire game",
+ "details":" KShisen is a Shisen-Sho game where the player removes adjascent pairs of\n Mahjongg tiles to clear the board.\n\n This package is part of the KDE games module.\n suite::kde, uitoolkit::qt, use::gameplaying, x11::application\n",
+ "installedSize":"432",
+ "downloadSize":"156700",
+ "homepage":"http:\/\/games.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"gpick",
+ "description":"advanced GTK+ color picker",
+ "details":" gpick is an advanced color picker used to pick colors from anywhere\n on the screen, mix them to  get new colors, generate shades and tints,\n and export palettes to common file formats or simply copy them\n to the clipboard.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"857",
+ "downloadSize":"342310",
+ "homepage":"http:\/\/code.google.com\/p\/gpick\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"logjam",
+ "description":"Client for LiveJournal-based sites",
+ "details":" LogJam is a GUI client for LiveJournal.com and sites based on LiveJournal.\n It lets you post, edit old entries, manage your friends, save your journal\n to a local offline copy, and whatever other useful LiveJournal-related\n features we can think of.\n uitoolkit::gtk, use::editing, use::organizing, x11::application\n",
+ "installedSize":"891",
+ "downloadSize":"318784",
+ "homepage":"http:\/\/logjam.danga.com",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

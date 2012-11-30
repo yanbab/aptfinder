@@ -1,0 +1,8 @@
+{"package":"aconnectgui",
+ "description":"graphical ALSA sequencer connection manager",
+ "details":" aconnectgui is a graphical utility to connect and disconnect two existing\n ports on ALSA sequencer system. The ports with the arbitrary subscription\n permission, such as created by aseqview, can be connected to any (MIDI) device\n ports.\n\n aconnectgui is a frontend for aconnect, written directly on top of the\n aconnect source, leaving the original source intact, only adding a couple of\n ifdefs, and some calls to the gui part. It provides exactly the same\n functionality, but with a graphical user interface.\n\n Homepage: http:\/\/www.iua.upf.es\/~mdeboer\/projects\/aconnectgui\/\n works-with::audio, x11::application\n",
+ "installedSize":"88",
+ "downloadSize":"26154",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

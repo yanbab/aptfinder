@@ -1,0 +1,9 @@
+{"package":"eboard",
+ "description":"GTK+ chessboard program",
+ "details":" eboard is a graphical chess program which can function as an interface to\n Internet chess servers such as FICS and to chess engines such as Crafty.\n\n eboard has a themeable and freely resizable board, a tabbed or multi-window\n display, and supports multiple simultaneous boards.\n\n This package contains a chess interface, which means that you can play against\n another human on the same computer, or play on an Internet server.  If you\n would like to play against a computer, you should install a chess engine such\n as gnuchess in addition.\n uitoolkit::gtk, use::gameplaying, x11::application\n",
+ "installedSize":"1208",
+ "downloadSize":"535754",
+ "homepage":"http:\/\/www.bergo.eng.br\/eboard\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

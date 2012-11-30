@@ -1,0 +1,8 @@
+{"package":"ygraph",
+ "description":"plot and animate data sets",
+ "details":" The ygraph tool graphs one-dimensional data or displays a time-series of\n one-dimensional data sets. It is an enhanced alternative to the xgraph\n utility and supports the same input format as xgraph.  Additionally,\n ygraph features:\n\n  * animating multiple plots simultaneously and synchronously;\n  * stepping back and forth through animations one frame at a time;\n  * zooming, similar to xgraph but without opening a lot of new windows;\n  * plotting derivatives;\n  * subtracting plots;\n  * convergence tests;\n  * reading compressed files;\n  * exporting images and animations.\n uitoolkit::gtk, use::viewing, works-with::image,\n works-with::image:vector, x11::application\n",
+ "installedSize":"167",
+ "downloadSize":"75242",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

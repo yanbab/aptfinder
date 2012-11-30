@@ -1,0 +1,9 @@
+{"package":"eficas",
+ "description":"Graphical editor for Code Aster command files",
+ "details":" This package provides an application to help the creation of Code Aster\n command files. Thanks to this graphical user interface, a user\n can intuitively create a Aster command file without knowing the\n syntax.\n\n Code Aster is all-purpose Finite Element Method (FEM) simulation\n software for structural analysis.\n",
+ "installedSize":"12317",
+ "downloadSize":"2086096",
+ "homepage":"http:\/\/www.code-aster.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

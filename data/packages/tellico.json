@@ -1,0 +1,9 @@
+{"package":"tellico",
+ "description":"Collection manager for books, videos, music, etc",
+ "details":" Tellico is a collection manager for KDE. It includes default collections for\n books, bibliographies, comic books, videos, music, coins, stamps, trading\n cards, and wines.\n\n Tellico capabilities include:\n\n   * creation of user-defined custom collections with unlimited fields,\n   * automatically formatted names,\n   * sorting and filtering by any field or property,\n   * ISBN validation,\n   * full customization for printing or display through XSLT files,\n   * import and export of CSV, RIS, BibTeX and BibTeXML files,\n   * import data from Amazon, IMDb, CDDB or any US-MARC compliant z39.50 server.\n\n Tellico files are stored in XML format, avoiding the need for a database\n server, and allowing other software applications to use the data.\n uitoolkit::qt, use::organizing, works-with-format::xml,\n works-with-format::xml:xslt, works-with::pim, x11::application\n",
+ "installedSize":"3129",
+ "downloadSize":"1179044",
+ "homepage":"http:\/\/tellico-project.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

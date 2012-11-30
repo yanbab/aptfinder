@@ -1,0 +1,9 @@
+{"package":"blockattack",
+ "description":"puzzle game inspired by Tetris",
+ "details":" Block Attack is a puzzle\/blockfall game inspired by Nintendo's Tetris Attack\n for the Super Nintendo. The game is pretty action packed for a puzzle game :-)\n\n Features:\n  * Based on the classic \"Tetris Attack\" for the SNES\n  * 5 single player modes: Endless, Time Trial, Puzzle Mode, Stage Clear and\n  Vs. Mode\n  * 2 two player options: Time Trial and Vs. Mode\n  * Puzzle mode has 20+ puzzles\n  * Players can use a custom key setup\n  * Handicap in multiplayer\n  * Highscores are saved\n  * Joypad support\n  * Music and sound effects\n  * Animations\n  * Select puzzle file from a list in the game\n\n System requirements:\n  * Screen resolution: 1024x768 (cannot be changed, but it can run in a window)\n  * Keyboard\n  * Mouse (optional)\n  * Processor: Decent (tested on 733 MHz)\n  * Memory: at least 64 MB\n network::client, network::server, role::program, uitoolkit::sdl,\n use::editing, use::gameplaying, x11::application\n",
+ "installedSize":"5747",
+ "downloadSize":"5619642",
+ "homepage":"http:\/\/blockattack.sf.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,8 @@
+{"package":"xvile",
+ "description":"VI Like Emacs - vi work-alike (X11)",
+ "details":" vile is a text editor which is extremely compatible with vi in terms of\n ``finger feel''.  In addition, it has extended capabilities in many areas,\n notably multi-file editing and viewing, syntax highlighting, key rebinding,\n an optional embedded perl interpreter, and real X window system support.\n\n This package contains the X11 binary.  Required support files are\n contained in vile-common.  Source code highlighting filters are in\n vile-filters.  A character-mode binary is in the vile package.\n works-with::text\n",
+ "installedSize":"1033",
+ "downloadSize":"446014",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

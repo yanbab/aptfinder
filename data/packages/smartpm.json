@@ -1,0 +1,8 @@
+{"package":"smartpm",
+ "description":"An alternative package manager that works with dpkg\/rpm",
+ "details":" The Smart Package Manager project has the ambitious objective of\n creating smart and portable algorithms for solving adequately the\n problem of managing software upgrading and installation. This tool\n works in all major distributions (APT, APT-RPM, YUM, URPMI, etc).\n\n This package contains the GTK2 frontend for Smart.\n works-with::software:package\n",
+ "installedSize":"808",
+ "downloadSize":"145342",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

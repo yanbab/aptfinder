@@ -1,0 +1,9 @@
+{"package":"bitstormlite",
+ "description":"BitTorrent Client based on C++\/Gtk+2.0",
+ "details":" This application based on the C++ language integrated\n with a Gtk+2.0 user-friendly gui has a great feature,\n which is the possibility to download a huge amount of\n data from any .torrent file taken from trackers around\n the web.\n protocol::bittorrent, role::program, scope::application,\n uitoolkit::gtk, use::downloading, x11::application\n",
+ "installedSize":"276",
+ "downloadSize":"101904",
+ "homepage":"http:\/\/sourceforge.net\/projects\/bbom\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"gnome-power-manager",
+ "description":"power management tool for the GNOME desktop",
+ "details":" GNOME Power Manager is a session daemon for the GNOME desktop\n that takes care of system or desktop events related to power, and\n triggers actions accordingly. Its philosophy is to completely hide\n these complex tasks and only show some settings important to the user.\n\n GNOME power manager displays and manages battery status, power plug\n events, display brightness, CPU, graphics card and hard disk drive\n power saving, and can trigger suspend-to-RAM, hibernate or shutdown\n events, all integrated to other components of the GNOME desktop.\n hardware::power:acpi, implemented-in::c, role::program, suite::gnome,\n uitoolkit::gtk\n",
+ "installedSize":"2647",
+ "downloadSize":"632930",
+ "homepage":"http:\/\/www.gnome.org\/projects\/gnome-power-manager\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

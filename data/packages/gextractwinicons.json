@@ -1,0 +1,9 @@
+{"package":"gextractwinicons",
+ "description":"extracts cursors and icons from MS Windows compatible resource files",
+ "details":" gExtractWinIcons can extract cursors, and icons from MS Windows compatible\n resource files (like .exe, .dll, .ocx, .cpl).\n\n Both icons, cursors and PNG images can be extracted from resources files with\n different resolution and color depth.\n The extracted icon files can be also used for \"favicon.ico\" website icon.\n",
+ "installedSize":"368",
+ "downloadSize":"19722",
+ "homepage":"http:\/\/code.google.com\/p\/gextractwinicons\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

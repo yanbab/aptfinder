@@ -1,0 +1,9 @@
+{"package":"python-guidata",
+ "description":"dataset manipulation GUI generator",
+ "details":" Based on the Qt Python binding module PyQt4, guidata is a Python library\n generating graphical user interfaces for easy dataset editing and display.\n It also provides helpers and application development tools for PyQt4.\n",
+ "installedSize":"1422",
+ "downloadSize":"419322",
+ "homepage":"http:\/\/code.google.com\/p\/guidata\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

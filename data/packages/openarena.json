@@ -1,0 +1,9 @@
+{"package":"openarena",
+ "description":"fast-paced 3D first-person shooter",
+ "details":" OpenArena is an open-source content package for ioQuake3 licensed under the\n GPL, effectively creating a free stand-alone game. Though OpenArena is a free\n replacement for id Software Inc.'s Quake 3 Arena, it is NOT compatible with\n the proprietary game!\n\n OpenArena might be considered unsuitable for children.\n\n This package installs the OpenArena client.\n interface::x11, network::client, role::program, uitoolkit::sdl,\n use::gameplaying, x11::application\n",
+ "installedSize":"5074",
+ "downloadSize":"2234970",
+ "homepage":"http:\/\/openarena.ws\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

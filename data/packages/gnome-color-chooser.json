@@ -1,0 +1,9 @@
+{"package":"gnome-color-chooser",
+ "description":"GTK+\/GNOME desktop appearance customization tool",
+ "details":" This is an application for customizing the appearance of the\n GNOME desktop.\n\n Features:\n  * change most important colors (e.g. background, window decoration, tooltips)\n  * change colors and sizes of GTK+ widgets\n  * colorize desktop icons\n  * configure installed GTK+ engines and let your current theme be drawn\n    by an installed GTK+ engine of your choice\n scope::utility, suite::gnome, uitoolkit::gtk, use::configuring,\n works-with::software:running, x11::application, x11::theme\n",
+ "installedSize":"1320",
+ "downloadSize":"218998",
+ "homepage":"http:\/\/gnomecc.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

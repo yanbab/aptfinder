@@ -1,0 +1,9 @@
+{"package":"letodms",
+ "description":"document management system based on PHP and MySQL",
+ "details":" LetoDMS combines all these features with a nice-looking web interface\n which makes it possible to access your documents not only via intranet\n in your office but worldwide via the Internet.\n\n In detail LetoDMS offers you these features:\n  * Upload files through web interface\n  * Create folders to group your documents\n  * Edit document and folder properties online\n  * Detailed information on uploaded documents\n  * Lock and unlock documents\n  * Update documents - old versions are saved\n  * Individual icons for different MIME types\n  * Set expiration date for documents\n  * Users are notified about new, updated or expired documents via email\n  * Download documents or view them online within your browser\n  * Control access via detailed ACLs (access control lists)\n  * User and Group management\n  * Powerful search engine\n  * Multi language support\n  * Template system\n  * User can choose language and theme on login\n  * Intuitive user interface\n  * Should work with every browser\n  * Automatic conversion of various document formats to HTML for online viewing\n  * Supports multiple instances.\n",
+ "installedSize":"2640",
+ "downloadSize":"408638",
+ "homepage":"http:\/\/www.letodms.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

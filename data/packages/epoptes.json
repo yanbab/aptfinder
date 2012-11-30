@@ -1,0 +1,9 @@
+{"package":"epoptes",
+ "description":"Computer lab management tool",
+ "details":" Epoptes is an open source\u00a0computer lab management and monitoring tool. It\n allows for screen broadcasting and monitoring, remote command execution,\n message sending, imposing restrictions like screen locking or sound muting\n the clients and much more!\n\n Contains the server daemon and a GUI for controlling client PCs.\n\n It supports LTSP installations, but it also works without LTSP.\n",
+ "installedSize":"1485",
+ "downloadSize":"253624",
+ "homepage":"http:\/\/www.epoptes.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

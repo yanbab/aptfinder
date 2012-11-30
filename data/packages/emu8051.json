@@ -1,0 +1,9 @@
+{"package":"emu8051",
+ "description":"Emulator and simulator for 8051 microcontrollers",
+ "details":" Emu8051 is a simulator\/emulator for the Intel 8051 family of\n microcontrollers. It allows the developers to simulate 8051\n microcontrollers to test their code and debug it.\n The program can load Intel HEX files.\n",
+ "installedSize":"176",
+ "downloadSize":"36928",
+ "homepage":"http:\/\/www.hugovil.com\/fr\/emu8051\/index.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

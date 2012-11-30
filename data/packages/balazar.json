@@ -1,0 +1,9 @@
+{"package":"balazar",
+ "description":"adventure\/action game Balazar -- Arkanae II, reforged scepters",
+ "details":" Balazar is a solo or multiplayer adventure\/action game, taking place in\n a 3D fantasy world, with RPG-like dialogs, puzzles, and fights.\n\n This game is the continuation of Arkanae, a small 3D MMORPG.\n (https:\/\/arkanae.dev.java.net\/)\n\n Plot:\n   More than a thousand years ago, the three Gods that have created the\n   world became too powerful for the poor mortals. Then the Elves forged\n   three magical scepters to control the Gods, and the Gods were\n   imprisoned in the magical crystal of Arkanae (during Arkanae I).\n\n   Though the secret of the Elven blacksmiths has not been lost as time\n   goes on, monsters and powers are coming back. New scepters have been\n   reforged, giving birth to new Gods. But who can find the scepters and\n   imprison them in the Arkanae, or free them for ever by dropping the\n   scepters in the Abyss ? Who can judge the Gods ?\n\n   You'll have to find your way through the 7 worlds : the Echassian\n   village, the Pompon forest, the great cathedral, the ice desert, the\n   Arkanae citadel, the Abyss swamp and finally the Elven Forge, to find\n   the scepters and write a new destiny for the Universe !\n network::client, network::server, role::program, uitoolkit::sdl,\n use::gameplaying, x11::application\n",
+ "installedSize":"28848",
+ "downloadSize":"12870980",
+ "homepage":"http:\/\/home.gna.org\/oomadness\/en\/balazar\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

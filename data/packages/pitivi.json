@@ -1,0 +1,8 @@
+{"package":"pitivi",
+ "description":"non-linear audio\/video editor using GStreamer",
+ "details":" GStreamer is a streaming media framework, based on graphs of filters\n which operate on media data.  Applications using this library can do\n anything from real-time sound processing to playing videos, and just\n about anything else media-related.  Its plugin-based architecture means\n that new data types or processing capabilities can be added simply by\n installing new plug-ins.\n\n PiTiVi allows users to easily edit audio\/video projects based on the\n GStreamer framework.  PiTIVi provides several ways of creating and\n modifying a timeline.  Ranging from a simple synopsis view (a-la\n iMovie) to the full-blown editing view (aka Complex View) which puts\n you in complete control of your editing.\n use::editing, works-with-format::mp3, works-with-format::oggtheora,\n works-with-format::oggvorbis, works-with-format::wav,\n works-with::audio, works-with::video, x11::application\n",
+ "installedSize":"5247",
+ "downloadSize":"2305128",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"fwbuilder",
+ "description":"Firewall administration tool GUI",
+ "details":" Firewall Builder consists of an object-oriented GUI and a set of policy\n compilers for various firewall platforms. In Firewall Builder, firewall\n policy is a set of rules, each rule consists of abstract objects which\n represent real network objects and services (hosts, routers, firewalls,\n networks, protocols). Firewall Builder helps the user maintain a database\n of objects and allows policy editing using simple drag-and-drop operations.\n\n This is the GUI part of fwbuilder\n security::firewall, uitoolkit::gtk, uitoolkit::qt, use::configuring,\n x11::application\n",
+ "installedSize":"34431",
+ "downloadSize":"12073916",
+ "homepage":"http:\/\/www.fwbuilder.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

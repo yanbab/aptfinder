@@ -1,0 +1,9 @@
+{"package":"ketm",
+ "description":"old school 2D-scrolling shooter",
+ "details":" Ketm is a hicolor\/hiresolution classical game that has similarities with\n Raptor, Tyrian and Galaga. You are a spacepilot controlling your secret\n prototype ship. At regular interval's you get attacked by the bad guys. You\n have a mission to clean this sector from them (i.e. Kill Everything That\n Moves). Be sure to pick up some weapon and ship upgrades on the way.\n interface::x11, role::program, uitoolkit::sdl, use::gameplaying,\n x11::application\n",
+ "installedSize":"240",
+ "downloadSize":"68816",
+ "homepage":"http:\/\/sourceforge.net\/projects\/ketm-gg",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

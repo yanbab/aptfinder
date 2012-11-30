@@ -1,0 +1,9 @@
+{"package":"bluefish",
+ "description":"advanced Gtk+ HTML editor",
+ "details":" Bluefish is a GTK+ HTML editor for the experienced web designer.\n Its features include nice wizards for startup, tables and frames; a\n fully featured image insert dialog; thumbnail creation and automatically\n linking of the thumbnail with the original image; and configurable HTML\n syntax highlighting.\n\n For validation to work you need weblint and xmllint. For preview to work,\n you need a web browser that can view local files given to it\n on the command line.\n uitoolkit::gtk, use::editing, works-with-format::html,\n works-with::text, x11::application\n",
+ "installedSize":"693",
+ "downloadSize":"284468",
+ "homepage":"http:\/\/bluefish.openoffice.nl",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

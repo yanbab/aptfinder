@@ -1,0 +1,9 @@
+{"package":"xmms2tray",
+ "description":"System tray integration for XMMS2",
+ "details":" XMMS2tray is a small XMMS 2 client that displays an icon in a X11 system\n tray with a customizable popup menu and notification bubbles.\n\n It is not (yet) a complete client by itself but provides an unobtrusive\n and simple way of controlling current playlist.\n suite::xmms2, uitoolkit::gtk, use::playing, x11::applet\n",
+ "installedSize":"276",
+ "downloadSize":"106408",
+ "homepage":"https:\/\/code.jollybox.de\/wiki\/Software\/Xmms2tray",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

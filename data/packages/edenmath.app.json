@@ -1,0 +1,9 @@
+{"package":"edenmath.app",
+ "description":"Scientific calculator for GNUstep",
+ "details":" EdenMath is a scientific calculator. It does standard arithmetic,\n probability, and trigonometric functions.\n suite::gnustep, uitoolkit::gnustep, x11::applet\n",
+ "installedSize":"248",
+ "downloadSize":"34318",
+ "homepage":"http:\/\/www.eskimo.com\/~pburns\/EdenMath\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

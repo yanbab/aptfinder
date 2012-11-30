@@ -1,0 +1,9 @@
+{"package":"tulip",
+ "description":"System dedicated to the visualization of huge graphs",
+ "details":" Tulip is capable of managing graphs with up to 500,000 nodes and edges\n on relatively modest hardware (eg. 600MHz Pentium III, 256MB RAM).\n It includes the following features:\n\n  * 3D visualizations\n  * 3D modifications\n  * Plug-in support for easy evolution\n  * Building of clusters and navigation into them\n  * Automatic drawing of graphs\n  * Automatic clustering of graphs\n  * Automatic selection of elements\n  * Automatic metric coloration of graphs\n works-with::graphs\n",
+ "installedSize":"13980",
+ "downloadSize":"5362052",
+ "homepage":"http:\/\/tulip-software.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

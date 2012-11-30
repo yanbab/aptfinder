@@ -1,0 +1,9 @@
+{"package":"hedgewars",
+ "description":"Worms style game",
+ "details":" Each player controls a team of several hedgehogs. During the\n course of the game, players take turns with one of their\n hedgehogs. They then use whatever tools and weapons are\n available to attack and kill the opponents' hedgehogs, thereby\n winning the game. Hedgehogs may move around the terrain in a\n variety of ways, normally by walking and jumping but also by\n using particular tools such as the \"Rope\" or \"Parachute\", to\n move to otherwise inaccessible areas. Each turn is time-limited\n to ensure that players do not hold up the game with excessive\n thinking or moving.\n\n A large variety of tools and weapons are available for players\n during the game: Grenade, Cluster Bomb, Bazooka, UFO, Homing Bee,\n Shotgun, Desert Eagle, Fire Punch, Baseball Bat, Dynamite, Mine,\n Rope, Pneumatic pick, Parachute. Most weapons, when used, cause\n explosions that deform the terrain, removing circular chunks.\n The landscape is an island floating on a body of water, or a\n restricted cave with water at the bottom. A hedgehog dies when\n it enters the water (either by falling off the island, or\n through a hole in the bottom of it), it is thrown off either\n side of the arena or when its health is reduced, typically from\n contact with explosions, to zero (the damage dealt to the\n attacked hedgehog or hedgehogs after a player's or CPU turn is\n shown only when all movement on the battlefield has ceased).\n uitoolkit::qt, uitoolkit::sdl, use::gameplaying\n",
+ "installedSize":"6725",
+ "downloadSize":"2929024",
+ "homepage":"http:\/\/hedgewars.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

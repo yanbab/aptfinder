@@ -1,0 +1,9 @@
+{"package":"supertux",
+ "description":"Classic 2D jump 'n run sidescroller with Tux",
+ "details":" SuperTux is a classic 2D jump 'n run sidescroller game in a similar\n style like the original SuperMario games. You play the role of Tux the\n Penguin, who must rescue Penny from the hands of the evil Nolok.\n implemented-in::c, interface::x11, role::program, uitoolkit::sdl,\n use::gameplaying, x11::application\n",
+ "installedSize":"477",
+ "downloadSize":"221012",
+ "homepage":"http:\/\/supertux.lethargik.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

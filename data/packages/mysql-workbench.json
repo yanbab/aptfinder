@@ -1,0 +1,9 @@
+{"package":"mysql-workbench",
+ "description":"MySQL Workbench - a visual database modeling, administration and queuing tool",
+ "details":" MySQL Workbench is a modeling tool that allow to design\n and generate MySQL databases graphically. It also has administration\n and query development modules where you can manage MySQL server instances\n and execute SQL queries.\n interface::x11, network::client, protocol::db:mysql, role::program,\n uitoolkit::gtk, works-with::db, x11::application\n",
+ "installedSize":"41315",
+ "downloadSize":"7976950",
+ "homepage":"http:\/\/dev.mysql.com\/workbench\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

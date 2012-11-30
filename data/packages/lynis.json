@@ -1,0 +1,9 @@
+{"package":"lynis",
+ "description":"security auditing tool for Unix based systems",
+ "details":" Lynis is an auditing tool for Unix. It scans the system\n configuration and creates an overview of system information\n and security issues usable by professional auditors.\n It can assist in automated audits.\n\n Lynis can be used in addition to other software, like security\n scanners, system benchmarking and fine-tuning tools.\n security::integrity, security::log-analyzer, use::checking,\n use::monitor\n",
+ "installedSize":"740",
+ "downloadSize":"113146",
+ "homepage":"http:\/\/www.rootkit.nl\/projects\/lynis.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

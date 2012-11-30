@@ -1,0 +1,8 @@
+{"package":"sm",
+ "description":"Displays a short text fullscreen",
+ "details":" Screen Message will display a given multi-line message as large as\n possible, fullscreen and black on white. You can specify the text either\n when launching sm, or edit it while the program is running.\n\n It is useful to send messages across a room, e.g. during an university\n lecture. For fast startup, it is recommended to bind it to a key in your\n Desktop Environment.\n use::viewing, x11::application\n",
+ "installedSize":"120",
+ "downloadSize":"15974",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

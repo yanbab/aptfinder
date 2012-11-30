@@ -1,0 +1,9 @@
+{"package":"qxw",
+ "description":"advanced interactive crossword construction tool",
+ "details":" Qxw is a program to help you create and publish crosswords,\n from the simplest blocked grid to sophisticated thematic\n puzzles. It can make rectangular-, hexagonal- or\n circular-format grids with blocks, bars or both. It\n has an automatic grid-filling facility that can handle a\n wide range of answer treatments and you can even add your\n own answer treatment methods. Grids can be filled using\n letters, digits, or a mixture of both. Qxw can produce\n output in a range of formats ready for publication.\n\n Qxw is written in C and has a GUI based on GTK+.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"305",
+ "downloadSize":"121004",
+ "homepage":"http:\/\/www.quinapalus.com\/qxw.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

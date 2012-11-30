@@ -1,0 +1,9 @@
+{"package":"mangler",
+ "description":"Ventrilo compatible client for Linux",
+ "details":" Mangler is an open source VOIP client capable of connecting to Ventrilo 3.x\n servers. It is capable of performing almost all standard user functionality\n found in a Windows Ventrilo client.\n uitoolkit::gtk, works-with::audio, x11::application\n",
+ "installedSize":"2038",
+ "downloadSize":"720482",
+ "homepage":"http:\/\/www.mangler.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

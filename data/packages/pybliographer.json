@@ -1,0 +1,9 @@
+{"package":"pybliographer",
+ "description":"tool for manipulating bibliographic databases",
+ "details":" It currently supports BibTeX, Medline, Ovid and Refer files. It is useful\n for viewing, editing and searching, but also to convert bibliographic\n databases into HTML pages for example.\n\n Yelp (part of GNOME) is required to view the Pybliographic manual\n from within the GUI.\n science::bibliography, scope::application, suite::gnome,\n uitoolkit::gtk, use::converting, use::editing, use::searching,\n use::viewing, works-with-format::bib, works-with-format::tex,\n works-with::text, x11::application\n",
+ "installedSize":"2080",
+ "downloadSize":"664722",
+ "homepage":"http:\/\/www.pybliographer.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

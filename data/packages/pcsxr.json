@@ -1,0 +1,9 @@
+{"package":"pcsxr",
+ "description":"Sony PlayStation emulator",
+ "details":" PCSX is an advanced PlayStation (PSX) emulator, which uses a plugin\n architecture to provide full support for all components of the PSX.\n It has full emulation support for gamepads, videos, sound, memory cards,\n and other important PSX components, and is able to play many games\n without problems.\n\n This package contains PCSX-Reloaded, which is based on PCSX-df 1.9 which\n is in turn based on the original PCSX.\n hardware::input:mouse, implemented-in::c, interface::3d,\n interface::x11, role::program, scope::application, uitoolkit::gtk,\n uitoolkit::sdl, use::gameplaying, works-with::audio, x11::application\n",
+ "installedSize":"2335",
+ "downloadSize":"874818",
+ "homepage":"http:\/\/pcsxr.codeplex.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

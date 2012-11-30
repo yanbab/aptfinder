@@ -1,0 +1,9 @@
+{"package":"qtcreator",
+ "description":"lightweight integrated development environment (IDE) for Qt",
+ "details":" Qt Creator is a new, lightweight, cross-platform integrated development\n environment (IDE) designed to make development with the Qt application\n framework even faster and easier.\n\n It includes:\n  * An advanced C++ code editor\n  * Integrated GUI layout and forms designer\n  * Project and build management tools\n  * Integrated, context-sensitive help system\n  * Visual debugger\n  * Rapid code navigation tools\n  * Supports multiple platforms\n role::program, uitoolkit::qt, x11::application\n",
+ "installedSize":"48260",
+ "downloadSize":"17758636",
+ "homepage":"http:\/\/qt.nokia.com\/products\/developer-tools\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

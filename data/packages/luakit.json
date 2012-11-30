@@ -1,0 +1,9 @@
+{"package":"luakit",
+ "description":"A fast and small web browser extensible by Lua",
+ "details":" Luakit is a small web browser created by binding Lua to WebKitGTK.\n protocol::http, role::program, scope::application, uitoolkit::gtk,\n use::browsing, web::browser, works-with-format::html, x11::application\n",
+ "installedSize":"521",
+ "downloadSize":"136780",
+ "homepage":"http:\/\/www.luakit.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

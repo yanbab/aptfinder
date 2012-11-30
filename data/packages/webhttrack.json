@@ -1,0 +1,9 @@
+{"package":"webhttrack",
+ "description":"Copy websites to your computer, httrack with a Web interface",
+ "details":" WebHTTrack is an offline browser utility, allowing you to download a World\n Wide website from the Internet to a local directory, building recursively\n all directories, getting html, images, and other files from the server to\n your computer, using a step-by-step web interface.\n\n WebHTTrack arranges the original site's relative link-structure. Simply\n open a page of the \"mirrored\" website in your browser, and you can\n browse the site from link to link, as if you were viewing it online.\n HTTrack can also update an existing mirrored site, and resume\n interrupted downloads. WebHTTrack is fully configurable, and has an\n integrated help system.\n\n  Snapshots: http:\/\/www.httrack.com\/page\/21\/\n use::browsing, use::downloading, use::synchronizing,\n works-with-format::html, works-with::text\n",
+ "installedSize":"155",
+ "downloadSize":"58014",
+ "homepage":"http:\/\/www.httrack.com",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"email-reminder",
+ "description":"Send event reminders by email",
+ "details":" Email-reminder allows users to define events that they want to be reminded of\n by email.  Possible events include birthdays, anniversaries and yearly events.\n Reminders can be sent on the day of the event and\/or a few days beforehand.\n\n This package includes the cron job that checks for events and send reminders\n once a day, and a simple GUI allowing users to edit the reminders they want to\n receive.\n\n Make sure you install the anacron package if your computer is turned off at\n night or the reminders will never get sent.\n role::program, scope::application, uitoolkit::gtk, use::timekeeping,\n works-with::mail, x11::application\n",
+ "installedSize":"205",
+ "downloadSize":"51470",
+ "homepage":"http:\/\/www.email-reminder.org.nz",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

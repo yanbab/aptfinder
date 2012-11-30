@@ -1,0 +1,9 @@
+{"package":"glade",
+ "description":"GTK+ User Interface Builder",
+ "details":" Glade is a RAD tool to enable quick and easy development of user\n interfaces for the GTK+ toolkit.\n\n The user interfaces designed in Glade are stored in the well-known\n XML format, enabling easy integration with external tools. You will\n probably want to use it with tools such as libglade, which can load\n the XML files and create the interfaces at runtime.\n\n This version is more modular than previous ones, so you can install\n modules to add additional widgets for Glade to use.\n devel::ui-builder, interface::x11, role::program, scope::application,\n uitoolkit::gtk, use::editing, works-with-format::xml,\n works-with::software:source, x11::application\n",
+ "installedSize":"1745",
+ "downloadSize":"973944",
+ "homepage":"http:\/\/glade.gnome.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

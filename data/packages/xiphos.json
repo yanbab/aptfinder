@@ -1,0 +1,9 @@
+{"package":"xiphos",
+ "description":"environment for Bible reading, study, and research",
+ "details":" Xiphos is a Bible study program for the GNOME desktop environment, based on The\n SWORD Project by the CrossWire Bible Society, a framework for developing Bible\n study tools and of associated texts such as commentaries and dictionaries.\n\n This package provides the main Xiphos program, a digital text reader with\n bookmarks and full-text search. It allows viewing multiple versions of the same\n text, for parallel reading of alternatives or translations. It also supports\n personal verse-specific notes and a rich-text study pad, both of which have\n spell checking and full-text search.\n\n Xiphos has a built-in facility to browse and install freely-distributed content\n from CrossWire repositories.\n use::learning, x11::application\n",
+ "installedSize":"1108",
+ "downloadSize":"396424",
+ "homepage":"http:\/\/xiphos.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

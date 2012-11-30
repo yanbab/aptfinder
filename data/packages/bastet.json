@@ -1,0 +1,9 @@
+{"package":"bastet",
+ "description":"ncurses Tetris clone with a bastard algorithm",
+ "details":" Bastet (\"bastard Tetris\") is a free clone of Tetris which tries to\n compute how useful blocks are and gives you the worst possible brick.\n Playing bastet can be a painful experience, especially if you usually\n make \"canyons\" and wait for the long I-shaped block.\n use::gameplaying\n",
+ "installedSize":"272",
+ "downloadSize":"90952",
+ "homepage":"http:\/\/fph.altervista.org\/prog\/bastet.shtml",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

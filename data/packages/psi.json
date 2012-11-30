@@ -1,0 +1,8 @@
+{"package":"psi",
+ "description":"Jabber client using Qt",
+ "details":" Psi is a free instant messaging application designed for the Jabber\n (XMPP) IM network (including Google Talk). It has full Unicode support,\n and supports most important XMPP features like file transfer, group chat,\n encryption etc.\n\n Psi relies on the qca2 library for its encryption features. Therefore,\n it's necessary to install libqca2-plugin-ossl for SSL (client-to-server)\n encryption and libqca2-plugin-gnupg for PGP (end-to-end) encryption.\n protocol::ssl, role::program, uitoolkit::qt, use::chatting,\n x11::application\n",
+ "installedSize":"7776",
+ "downloadSize":"3623884",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

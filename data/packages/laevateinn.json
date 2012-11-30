@@ -1,0 +1,9 @@
+{"package":"laevateinn",
+ "description":"bsnes SNES\/SuperFamicom debugger",
+ "details":" laevateinn is a debugger for SNES\/SuperFamicom games based on the bsnes\n emulator. It is intended for developers creating or modifying SNES games.\n",
+ "installedSize":"1658",
+ "downloadSize":"620922",
+ "homepage":"http:\/\/byuu.org\/bsnes\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

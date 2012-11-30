@@ -1,0 +1,9 @@
+{"package":"sludge-devkit",
+ "description":"Development tools for creating SLUDGE adventure games",
+ "details":" SLUDGE is an open source adventure game engine. It combines a scripting\n language with IDE tools.\n\n This package contains the development kit needed to create SLUDGE games.\n role::program, uitoolkit::gtk, use::editing,\n works-with::software:source, x11::application\n",
+ "installedSize":"1835",
+ "downloadSize":"1210472",
+ "homepage":"http:\/\/opensludge.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

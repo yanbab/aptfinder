@@ -1,0 +1,9 @@
+{"package":"slingshot",
+ "description":"simple 2D shooting strategy game set in space, with gravity",
+ "details":" Slingshot is a two dimensional, turn based simulation-strategy game\n set in the gravity fields of several planets. It is a highly\n addictive game, and never the same from round to round due to its\n randomly generated playing fields.\n\n It is a deceptively simple game, the goal is to shoot the other\n spacecraft through the field of planets, but their gravity makes it\n tricky. The effects of the gravity mean that although it is easy to\n learn how to play, and to enjoy playing, it could take a lifetime to\n thoroughly master.\n use::gameplaying, x11::application\n",
+ "installedSize":"1954",
+ "downloadSize":"1858548",
+ "homepage":"http:\/\/github.com\/ryanakca\/slingshot",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

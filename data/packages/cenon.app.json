@@ -1,0 +1,9 @@
+{"package":"cenon.app",
+ "description":"Vector graphics tool for GNUstep",
+ "details":" Cenon is a graphical tool of a special kind. Build upon a modular graphical\n core, Cenon offers a wide variety of possibilities and applications - not\n only Desktop Publishing. The best of all, Cenon is free software, available\n with full source codes, and at home on many computer platforms.\n\n Convert, import and export DXF, PostScript, Adobe Illustrator, DIN formats,\n HPGL, Gerber and PDF.\n uitoolkit::gnustep, use::converting, works-with-format::pdf,\n works-with-format::postscript, works-with::image,\n works-with::image:vector, works-with::text, x11::applet\n",
+ "installedSize":"9966",
+ "downloadSize":"1787162",
+ "homepage":"http:\/\/www.cenon.info\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

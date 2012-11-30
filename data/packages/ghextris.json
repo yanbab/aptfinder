@@ -1,0 +1,9 @@
+{"package":"ghextris",
+ "description":"A Tetris-like game on a hexagonal grid",
+ "details":" The object of the game is basically the same as in Tetris; use the\n pieces that fall down from the top of the game area to construct\n fully filled lines, which will then disappear to make room for more\n pieces. The twist is that the pieces are composed of hexagonal\n blocks, so your visualization skills will get an extra workout.\n suite::gnome, uitoolkit::gtk, use::gameplaying, x11::application\n",
+ "installedSize":"168",
+ "downloadSize":"13934",
+ "homepage":"http:\/\/mjr.iki.fi\/software\/ghextris",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

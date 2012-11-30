@@ -1,0 +1,9 @@
+{"package":"racket",
+ "description":"extensible programming language in the Scheme family",
+ "details":" Racket (previously PLT Scheme) is a programming language suitable for\n scripting and application development, including GUIs and web\n services.\n\n It supports the creation of new programming languages through a rich,\n expressive syntax system. Supplied languages include Typed Racket,\n ACL2, FrTime, and Lazy Racket, and R6RS Scheme.\n\n Racket includes the DrRacket programming environment, a virtual\n machine with a just-in-time compiler, tools for creating stand-alone\n executables, the Racket web server, extensive libraries, and\n documentation for both beginners and experts.\n",
+ "installedSize":"9583",
+ "downloadSize":"1424400",
+ "homepage":"http:\/\/www.racket-lang.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

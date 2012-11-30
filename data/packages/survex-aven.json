@@ -1,0 +1,9 @@
+{"package":"survex-aven",
+ "description":"sophisticated cave survey viewer for Survex",
+ "details":" An advanced cave survey data viewer for Survex, written using the wxWidgets\n library, and using OpenGL for rendering.  Aven allows searching for stations,\n highlighting categories of stations such entrances or fixed points, measuring\n the distance between stations, showing passage walls, and supports\n presentations (pre-recorded fly-throughs).\n interface::commandline, interface::x11, role::program,\n uitoolkit::wxwidgets, use::viewing, works-with::image, x11::application\n",
+ "installedSize":"2634",
+ "downloadSize":"1249676",
+ "homepage":"http:\/\/survex.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

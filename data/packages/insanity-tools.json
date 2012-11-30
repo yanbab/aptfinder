@@ -1,0 +1,9 @@
+{"package":"insanity-tools",
+ "description":"GStreamer QA system (Insanity) tools",
+ "details":" Insanity is a testing tool for GStreamer. It is able to perform a lot of test\n cases by this system. And then store the result to database.\n\n This package provides tools to perform the test and the program to dump the\n results. It also provides the deprecated gst-media-test utility for people\n who are used to its interface.\n",
+ "installedSize":"147",
+ "downloadSize":"38050",
+ "homepage":"http:\/\/cgit.freedesktop.org\/gstreamer\/gst-qa-system\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

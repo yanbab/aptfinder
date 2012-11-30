@@ -1,0 +1,9 @@
+{"package":"xqf",
+ "description":"X-based Quake Server Browser",
+ "details":" XQF is a GTK+ frontend for Qstat, a tool for querying first-person\n action game servers like Quake, Unreal Tournament, etc. It displays\n information about the servers and allows configuring and launching some\n of the games from it.\n role::program, scope::utility, uitoolkit::gtk, uitoolkit::ncurses,\n use::browsing, use::gameplaying, x11::application\n",
+ "installedSize":"1780",
+ "downloadSize":"438892",
+ "homepage":"http:\/\/www.linuxgames.com\/xqf\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

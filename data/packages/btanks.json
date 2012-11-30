@@ -1,0 +1,9 @@
+{"package":"btanks",
+ "description":"fast 2D tank arcade game with multiplayer and split-screen modes",
+ "details":" Battle Tanks is a funny battle on your desk, where you can choose one of\n three vehicles and eliminate your enemy using the whole arsenal of\n weapons. has original cartoon-like graphics and cool music, it is fun\n and dynamic, it has several network modes for deathmatch and\n cooperative.\n network::server, role::program, uitoolkit::sdl, use::gameplaying,\n x11::application\n",
+ "installedSize":"6119",
+ "downloadSize":"2105318",
+ "homepage":"http:\/\/btanks.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

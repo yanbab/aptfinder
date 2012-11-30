@@ -1,0 +1,9 @@
+{"package":"fotoxx",
+ "description":"easy-to-use digital photo editor",
+ "details":" Fotoxx is a program for improving digital photos. It allows you to navigate\n through large image directories using a window of thumbnail images, create HDR\n (high dynamic range) images by combining bright and dark images to improve\n details visible in both bright and dark areas, create panoramas by joining\n overlapped images, adjust brightness and color intensity independently for\n different underlying brightness levels, reduce fog or haze by removing\n \"whiteness\" and intensifying colors, rotate an image (level a tilted image or\n turn 90 degrees), remove red-eyes from electronic flash photos, sharpen,\n resize, or crop images, reduce noise in low-light photos, change color depth,\n and stretch an image by dragging the mouse.\n use::editing, works-with::image, x11::application\n",
+ "installedSize":"3036",
+ "downloadSize":"1474822",
+ "homepage":"http:\/\/kornelix.squarespace.com\/downloads\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

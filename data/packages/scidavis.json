@@ -1,0 +1,9 @@
+{"package":"scidavis",
+ "description":"application for scientific data analysis and visualization",
+ "details":" SciDAVis is a free interactive application aimed at data analysis and\n publication-quality plotting. It combines a shallow learning curve and\n an intuitive, easy-to-use graphical user interface with powerful\n features such as scriptability and extensibility.\n\n SciDAVis is similar in its field of application to proprietary Windows\n applications like Origin and SigmaPlot as well as free applications like\n QtiPlot, Labplot and Gnuplot.\n\n What sets SciDAVis apart from the above is its emphasis on providing a\n friendly and open environment for new and experienced users alike.\n",
+ "installedSize":"6595",
+ "downloadSize":"2377992",
+ "homepage":"http:\/\/scidavis.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

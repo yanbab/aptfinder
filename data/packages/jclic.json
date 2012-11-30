@@ -1,0 +1,9 @@
+{"package":"jclic",
+ "description":"Tool for the development & use of multimedia educational activities",
+ "details":" JClic is formed by a set of computer applications that are used for\n carrying out different types of educational activities: puzzles,\n associations, text exercises, crosswords...\n\n The activities are not usually used alone, but packed in projects. A\n project is formed by a set of activities and one or more sequences,\n which indicate the order in which they have to be shown.\n\n Its community (http:\/\/clic.xtec.net\/db\/listact_en.jsp) has developed a web\n site with more than 1.000 activities available in several languages.\n\n This package contains JClic-author to create and modify activity\n projects, JClic standalone player to play the activities and\n JClic-reports that allows the management of a database to track\n students work and results.\n",
+ "installedSize":"2456",
+ "downloadSize":"2175016",
+ "homepage":"http:\/\/clic.xtec.net\/en\/jclic\/index.htm",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

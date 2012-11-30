@@ -1,0 +1,9 @@
+{"package":"gmobilemedia",
+ "description":"GTK+ application used to browse a mobile phone filesystem",
+ "details":" gMobileMedia is a simple GTK+ application used to browse and handle a mobile\n phone filesystem. It can handle phones with more than one memory area (thanks\n to Gammu). It lets you easily upload and download images, ringtones, photos,\n and applications to\/from your mobile phone. All you need is a data cable or\n any other connection method supported by Gammu.\n scope::application, uitoolkit::gtk, use::downloading,\n use::transmission, works-with::audio, works-with::file,\n works-with::image, x11::application\n",
+ "installedSize":"904",
+ "downloadSize":"116124",
+ "homepage":"http:\/\/gmobilebrowser.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

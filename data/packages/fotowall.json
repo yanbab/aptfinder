@@ -1,0 +1,9 @@
+{"package":"fotowall",
+ "description":"simple application for creating collages and compositions",
+ "details":" FotoWall is a creative tool that allows you to layout your photos or\n pictures in a personal way.\n\n You can add pictues, then resize, move, change colors, text, shadows,\n etc. to create your composition or collage.\n\n The focus of this application is on simplicity.\n use::editing, works-with::image, x11::application\n",
+ "installedSize":"2036",
+ "downloadSize":"877490",
+ "homepage":"http:\/\/www.enricoros.com\/opensource\/fotowall\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

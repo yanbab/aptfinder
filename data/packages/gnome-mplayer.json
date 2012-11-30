@@ -1,0 +1,9 @@
+{"package":"gnome-mplayer",
+ "description":"GTK+ interface for MPlayer",
+ "details":" The power of MPlayer combined with a friendly interface for your desktop.\n You can play all your multimedia (audio, video, CD, DVDs, and VCDs, streams\n etc. with full DVD and MKV chapter support), organize, sort and create\n playlists, take screenshots while playing videos, be notified about media\n changes, retrieve cover art and more.\n Gnome-MPlayer fully supports subtitles giving the ability to specify\n preferred audio and subtitle languages.\n\n The player can be used to play media on websites from your browser when\n used with Gecko Mediaplayer and is the modern replacement for\n mplayerplug-in (from the same author).\n suite::TODO, uitoolkit::gtk, use::playing, works-with-format::TODO,\n works-with-format::mp3, works-with-format::oggtheora,\n works-with-format::oggvorbis, works-with-format::wav,\n works-with::audio, works-with::video, x11::application\n",
+ "installedSize":"1757",
+ "downloadSize":"449432",
+ "homepage":"http:\/\/code.google.com\/p\/gnome-mplayer",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

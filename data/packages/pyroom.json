@@ -1,0 +1,9 @@
+{"package":"pyroom",
+ "description":"distractionless fullscreen text editor",
+ "details":" PyRoom is a free editor that stays out your way - and keeps other things out\n of your way, too. As a fullscreen editor without buttons, widgets, formatting\n options, menus and with only the minimum of required dialog windows, it\n doesn't have any distractions and lets you focus on writing and only writing.\n use::editing, works-with::text, x11::application\n",
+ "installedSize":"673",
+ "downloadSize":"67708",
+ "homepage":"http:\/\/pyroom.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

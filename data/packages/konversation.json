@@ -1,0 +1,9 @@
+{"package":"konversation",
+ "description":"user friendly Internet Relay Chat (IRC) client for KDE",
+ "details":" Konversation is a client for the Internet Relay Chat (IRC) protocol.\n It is easy to use and well-suited for novice IRC users, but novice\n and experienced users alike will appreciate its many features:\n\n       * Standard IRC features\n       * Easy to use graphical interface\n       * Multiple server and channel tabs in a single window\n       * IRC color support\n       * Pattern-based message highlighting and OnScreen Display\n       * Multiple identities for different servers\n       * Multi-language scripting support (with DCOP)\n       * Customizable command aliases\n       * NickServ-aware log-on (for registered nicknames)\n       * Smart logging\n       * Traditional or enhanced-shell-style nick completion\n       * DCC file transfer with resume support\n protocol::ssl, role::program, suite::kde, uitoolkit::qt, use::chatting,\n web::TODO, works-with::im, x11::application\n",
+ "installedSize":"2785",
+ "downloadSize":"971602",
+ "homepage":"http:\/\/konversation.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

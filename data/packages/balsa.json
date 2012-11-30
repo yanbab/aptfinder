@@ -1,0 +1,9 @@
+{"package":"balsa",
+ "description":"e-mail client for GNOME",
+ "details":" Balsa is a highly configurable and robust mail client for the GNOME desktop.\n It supports both POP3 and IMAP servers as well as the mbox, maildir and mh\n local mailbox formats. Balsa also supports SMTP and\/or the use of a local MTA\n such as Sendmail.\n\n Some of Balsa's other features include:\n   * Allowing nested mailboxes\n   * Printing\n   * Spell Checking\n   * Multi-threaded mail retrieval\n   * MIME support (view images inline, save parts)\n   * GPE Palmtop, LDAP, LDIF and vCard address book support\n   * Multiple character sets for composing and reading messages\n   * File attachments on outgoing messages\n   * GPG\/OpenPGP mail signing and encryption\n\n Support for Kerberos and SSL has been enabled in this package.\n mail::user-agent, network::client, protocol::imap, protocol::pop3,\n protocol::smtp, role::program, scope::application, suite::gnome,\n suite::gnu, uitoolkit::gtk, works-with::mail, x11::application\n",
+ "installedSize":"8861",
+ "downloadSize":"3877536",
+ "homepage":"http:\/\/pawsa.fedorapeople.org\/balsa\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

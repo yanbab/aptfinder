@@ -1,0 +1,8 @@
+{"package":"xmaxima",
+ "description":"Computer algebra system -- x interface",
+ "details":" Maxima is a fully symbolic computation program.  It is full featured\n doing symbolic manipulation of polynomials, matrices, rational\n functions, integration, Todd-coxeter methods for finite group\n analysis, graphing, multiple precision floating point computation.\n It has a symbolic source level debugger for maxima code.  Maxima is\n based on the original Macsyma developed at MIT in the 1970s.  It is\n quite reliable, and has good garbage collection, and no memory leaks.\n It comes with hundreds of self tests.\n\n This package contains an X Windows interface using the tcl\/tk\n libraries.\n uitoolkit::tk, x11::application\n",
+ "installedSize":"913",
+ "downloadSize":"393446",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

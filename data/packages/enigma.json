@@ -1,0 +1,9 @@
+{"package":"enigma",
+ "description":"A game where you control a marble with the mouse",
+ "details":" Enigma is a puzzle game similar to Oxyd on the Atari ST or Rock'n'Roll\n on the Amiga and good old Marble Madness. It also has Sokoban levels, and\n some interesting twists on the original sokoban concept.\n\n In Enigma, your objective is to locate and uncover matching pairs of\n Oxyd stones. Simple as it sounds, this task is made more difficult by\n the fact that Oxyd stones tend to be hidden, inaccessible or protected\n by unexpected traps. Overcoming these obstacles often requires a lot\n of dexterity and wit (and can be quite addictive).\n\n This package contains the game engine.\n role::program, scope::application, uitoolkit::sdl, use::gameplaying,\n x11::application\n",
+ "installedSize":"2504",
+ "downloadSize":"1083876",
+ "homepage":"http:\/\/enigma.nongnu.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

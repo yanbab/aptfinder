@@ -1,0 +1,9 @@
+{"package":"gnobots2",
+ "description":"improved old BSD robots game",
+ "details":" GNOME Robots is a game where you try and avoid a band of marauding\n robots which are, for no adequately explained reason, trying to kill\n you. It is based on the text-based robots game which can be found on a\n number of UNIX systems.\n x11::application\n",
+ "installedSize":"2151",
+ "downloadSize":"994778",
+ "homepage":"http:\/\/live.gnome.org\/GnomeGames",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

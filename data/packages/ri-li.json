@@ -1,0 +1,9 @@
+{"package":"ri-li",
+ "description":"a toy train simulation game",
+ "details":" Ri-Li is a game in which you drive a toy wood engine across many levels\n and collect all the coaches to win.\n\n Full-features:\n  - 14 languages: Arabic, Breton, Chinese, English, Esperanto, French,\n  German, Italian, Japanese, Portuguese, Russian, Slovak,\n  Spanish, Swedish.\n  - Colorful animated wood engine.\n  - 40 levels in this first version\n  - 3 beautiful musics and many sound effects.\n uitoolkit::sdl, use::gameplaying, use::learning, x11::application\n",
+ "installedSize":"112",
+ "downloadSize":"38460",
+ "homepage":"http:\/\/www.ri-li.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

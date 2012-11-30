@@ -1,0 +1,9 @@
+{"package":"gobby-0.5",
+ "description":"infinote-based collaborative text editor",
+ "details":" Gobby is an editor which allows one to edit text documents and source files\n collaboratively over a network. All users could work on the file\n simultaneously without the need to lock it. The parts the various users\n write are highlighted in different colours and it supports syntax\n highlighting of various programming and markup languages.\n\n This package is *not* protocol-compatible to the old Gobby 0.4.\n\n Gobby is portable to both Windows and Unix-like platforms and makes use of\n the Gtk+ toolkit.  A dedicated server is available in the infinoted package.\n",
+ "installedSize":"2114",
+ "downloadSize":"550106",
+ "homepage":"http:\/\/gobby.0x539.de",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

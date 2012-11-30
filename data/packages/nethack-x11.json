@@ -1,0 +1,9 @@
+{"package":"nethack-x11",
+ "description":"dungeon crawl game - X11 interface",
+ "details":" NetHack is a wonderfully silly, yet quite addictive, Dungeons &\n Dragons-style adventure game. You play a character from one of many\n classes (such as wizard, ranger, or tourist), fighting your way down to\n retrieve the Amulet of Yendor (try saying THAT one backwards!) for your\n god. On the way, you might encounter a quantum mechanic or two, or\n perhaps King Arthur, or - if you're REALLY lucky - the Ravenous\n Bugblatter Beast of Traal.\n\n You should install a front-end for NetHack if you\n wish to play the game.  Each of them includes the\n original non-graphical version, and they can all be installed\n at the same time:\n  - nethack-console: no graphics, just plain NetHack;\n  - nethack-x11    : original X11\/Athena-based graphical version;\n  - nethack-lisp   : Lisp window version.\n\n This package provides the text and X11\/Athena-based graphical versions\n of NetHack.\n interface::x11, role::program, uitoolkit::athena, uitoolkit::ncurses,\n use::gameplaying, x11::application\n",
+ "installedSize":"1929",
+ "downloadSize":"948334",
+ "homepage":"http:\/\/www.nethack.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

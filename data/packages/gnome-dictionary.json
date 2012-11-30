@@ -1,0 +1,9 @@
+{"package":"gnome-dictionary",
+ "description":"GNOME dictionary application",
+ "details":" This program can look for the definition or translation of a word in\n existing databases over the Internet\n\n It also contains a GNOME panel applet for that effect.\n x11::applet, x11::application\n",
+ "installedSize":"2345",
+ "downloadSize":"1671704",
+ "homepage":"http:\/\/live.gnome.org\/GnomeUtils",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"unicode-screensaver",
+ "description":"screensaver displaying unicode characters",
+ "details":" The unicode-screensaver is a simple screensaver application that repeatedly\n randomly picks an unicode character and displays it in a very large font\n size together with its unicode code point and the character name.\n\n It works with xscreensaver or gnome-screensaver.\n",
+ "installedSize":"932",
+ "downloadSize":"215942",
+ "homepage":"http:\/\/www.joachim-breitner.de\/projects#unicode-screensaver",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

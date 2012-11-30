@@ -1,0 +1,9 @@
+{"package":"kedpm-gtk",
+ "description":"KED Password Manager",
+ "details":" Ked Password Manager helps to manage large amounts of passwords and related\n information, and simplifies the tasks of searching and entering password data.\n\n It is Figaro Password Manager compatible and can act as a near-complete\n replacement.\n\n Ked Password Manager has a command line and gtk2 based user interfaces.\n",
+ "installedSize":"260",
+ "downloadSize":"28602",
+ "homepage":"https:\/\/redmine.koumbit.net\/projects\/kedpm",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

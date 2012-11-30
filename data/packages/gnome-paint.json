@@ -1,0 +1,9 @@
+{"package":"gnome-paint",
+ "description":"simple, easy to use paint program for GNOME",
+ "details":" gnome-paint is a program inspired by MS Paint and designed for\n GNOME (and maybe other) desktop environment. It could be used to\n manipulate images in a very simple way. With a very friendly\n user interface, gnome-paint is easy to get started for new users.\n uitoolkit::gtk, use::editing, works-with::image,\n works-with::image:raster, x11::application\n",
+ "installedSize":"628",
+ "downloadSize":"103520",
+ "homepage":"http:\/\/launchpad.net\/gnome-paint\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"zygrib",
+ "description":"Weather data visualization,  GRIB file viewer",
+ "details":" This application, written with the Qt toolkit, enables:\n  * Visualisation of meteo data from files in GRIB Format 1\n  * Automatic GRIB data download\n  * Automatic Download from IAC (fleetcode) Data\n uitoolkit::qt, use::analysing, use::downloading, use::viewing,\n x11::application\n",
+ "installedSize":"2461",
+ "downloadSize":"961210",
+ "homepage":"http:\/\/www.zygrib.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

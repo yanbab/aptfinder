@@ -1,0 +1,9 @@
+{"package":"adanaxisgpl",
+ "description":"Action game in four spatial dimensions",
+ "details":" Adanaxis is a fast-moving first person shooter set in deep space, where the\n fundamentals of space itself are changed.  By adding another dimension to\n space this game provides an environment with movement in four directions\n and six planes of rotation.  Initially the game explains the 4D control\n system via a graphical sequence, before moving on to 30 levels of gameplay\n with numerous enemy, ally, weapon and mission types.  Features include\n simulated 4D texturing, mouse and joystick control, and original music.\n Screenshots, movies and further information are available at\n http:\/\/www.mushware.com\/.\n\n Hardware-accelerated 3D is recommended, ideally with support for OpenGL\n Shading Language.\n implemented-in::c++, interface::3d, role::program, uitoolkit::sdl,\n use::gameplaying\n",
+ "installedSize":"3768",
+ "downloadSize":"1527998",
+ "homepage":"http:\/\/www.mushware.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

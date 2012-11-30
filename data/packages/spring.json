@@ -1,0 +1,9 @@
+{"package":"spring",
+ "description":"modern full-3D RTS game engine",
+ "details":" Spring is a modern full-3D RTS (Real Time Strategy) game engine originally\n created to bring the gameplay experience of Total Annihilation into 3D.\n Games are played using one of a number of mods.\n\n This package just includes the game engine and the default AI, with no maps,\n mods or rich user interface.\n interface::x11, network::client, network::server, role::program,\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"43336",
+ "downloadSize":"17559392",
+ "homepage":"http:\/\/springrts.com",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

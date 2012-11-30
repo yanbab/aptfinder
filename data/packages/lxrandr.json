@@ -1,0 +1,9 @@
+{"package":"lxrandr",
+ "description":"LXDE monitor configuration tool",
+ "details":" LXRandR is a GUI application for the Lightweight X11 Desktop Environment\n (LXDE).\n\n This is a very basic monitor config tool utilizing the X extension called\n RandR. It can let you change the screen resolution on the fly. Besides, when\n you run lxrandr with external monitor connected, its GUI will change, and show\n you some quick options to get your projector or external monitor working\n correctly.\n\n This tool doesn't aim to be a full randr frontend. It's a utility for grandma,\n not for geeks. If you need the full power of RandR, get xrandr (console) or\n grandr (GUI) and read some tutorials.\n\n LXRandR only gives you some easy and quick options which are intuitive. It's\n very suitable for laptop users who frequently uses projectors or external\n monitor and just want to get their work done without reading a lot of\n \"geek-centered\" manuals or command line tutorials.\n",
+ "installedSize":"697",
+ "downloadSize":"42188",
+ "homepage":"http:\/\/www.lxde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

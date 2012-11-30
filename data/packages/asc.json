@@ -1,0 +1,9 @@
+{"package":"asc",
+ "description":"turn-based strategy game",
+ "details":" Advanced Strategic Command is a free strategy game in the tradition\n of Battle Isle 2\/3. The game is turn-based and can be played against\n human or computer.\n role::program, uitoolkit::ncurses, uitoolkit::sdl, use::gameplaying,\n x11::application\n",
+ "installedSize":"9205",
+ "downloadSize":"3898632",
+ "homepage":"http:\/\/www.asc-hq.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

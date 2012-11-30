@@ -1,0 +1,9 @@
+{"package":"kball",
+ "description":"game of skill and reflexes for all the family",
+ "details":" A game of skill and reflexes, non violent, suitable for all ages. The idea\n is to move the ball around the map, without falling, without running out of\n time, and getting the prizes, in order to reach the exit. The main feature\n of the game is the built-in map editor, so anybody can make their own maps.\n uitoolkit::sdl, use::editing, use::gameplaying, x11::application\n",
+ "installedSize":"171",
+ "downloadSize":"60912",
+ "homepage":"http:\/\/kball.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

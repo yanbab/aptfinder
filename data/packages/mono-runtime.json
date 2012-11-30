@@ -1,0 +1,9 @@
+{"package":"mono-runtime",
+ "description":"Mono runtime",
+ "details":" Mono is a platform for running and developing applications based on the\n ECMA\/ISO Standards. Mono is an open source effort led by Novell.\n Mono provides a complete CLR (Common Language Runtime) including compiler and\n runtime, which can produce and execute CIL (Common Intermediate Language)\n bytecode (aka assemblies), and a class library.\n\n This package contains the Virtual Machine, JIT (Just-in-Time) and\n AOT (Ahead-of-Time) code generator \"mono\".\n \"mono\" executes applications for the CLI (Common Language Infrastructure).\n Mono currently only supports the X86, PowerPC, ARM, SPARC, S\/390, AMD64 and\n IA64 architectures. Optionally this package configures BINFMT support.\n",
+ "installedSize":"4125",
+ "downloadSize":"1574820",
+ "homepage":"http:\/\/www.mono-project.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

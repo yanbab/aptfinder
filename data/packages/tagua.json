@@ -1,0 +1,8 @@
+{"package":"tagua",
+ "description":"Board-game frontend for playing chess variants and other games",
+ "details":" Tagua is a frontend for a variety of board games.  Currently\n supported games include chess, shogi and a couple of variants of\n those games.\n\n Tagua is based on a powerful plugin system that allows many games to\n share the same graphical framework, game history handling,\n interoperability with AI engines and connectivity to network servers.\n\n It currently has support for xboard-compatible chess engines, and\n xshogi-compatible shogi engines, as well as network play on chess ICS\n servers.\n role::program, suite::kde, uitoolkit::qt, use::gameplaying,\n x11::application\n",
+ "installedSize":"2058",
+ "downloadSize":"792892",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"xca",
+ "description":"x509 Certification Authority management tool based on QT4",
+ "details":" XCA creates and manages Certificate authorities and helps the user to\n create and manage keys, certificates, certificate sign requests,\n certificate revocation lists etc.\n\n All data is saved in an encrypted, portable database, and can be exported\n in various standard formats. XCA is also available for MacOS X and\n Windows systems.\n\n For a good workflow, certificate templates can be defined to make the\n creation of new certificates an easy task.\n x11::application\n",
+ "installedSize":"1826",
+ "downloadSize":"772830",
+ "homepage":"http:\/\/xca.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

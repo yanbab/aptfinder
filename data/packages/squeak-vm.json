@@ -1,0 +1,9 @@
+{"package":"squeak-vm",
+ "description":"The Squeak Smalltalk System (virtual machine)",
+ "details":" Squeak is a full-featured implementation of the Smalltalk programming\n language and environment based on (and largely compatible with) the\n original Smalltalk-80 system.\n\n This package contains just the Squeak virtual machine.  If you are\n new to Squeak then you will have to install a Squeak image too before\n you can run Squeak. Squeak images can be downloaded from\n http:\/\/www.squeak.org, http:\/\/www.squeakland.org or\n http:\/\/squeak.educarex.es\n",
+ "installedSize":"1709",
+ "downloadSize":"712798",
+ "homepage":"http:\/\/www.squeakvm.org\/unix\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

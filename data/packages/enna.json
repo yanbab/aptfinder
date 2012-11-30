@@ -1,0 +1,9 @@
+{"package":"enna",
+ "description":"a powerful MediaCenter application based on EFL",
+ "details":" Enna is a Media Center application. Featuring a simple user interface, Enna\n allows the user to browse and play music and video files, browse pictures and\n play photo slideshows, build a database of the available media retrieve\n information from the Internet (such as covers, fan art, song lyrics, and much\n more). Enna is based on the powerful Enlightenment Foundations Libraries (EFL)\n for its graphical user interface and GeeXboX libraries for multimedia playback\n and information retrieval.\n sound::player, uitoolkit::TODO, use::playing, use::viewing,\n works-with-format::gif, works-with-format::jpg, works-with-format::mp3,\n works-with-format::mpc, works-with-format::oggtheora,\n works-with-format::oggvorbis, works-with-format::png,\n works-with-format::tiff, works-with-format::wav, works-with::audio,\n works-with::image, works-with::image:raster, works-with::video,\n x11::application\n",
+ "installedSize":"652",
+ "downloadSize":"193696",
+ "homepage":"http:\/\/enna.geexbox.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

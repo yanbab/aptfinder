@@ -1,0 +1,9 @@
+{"package":"gnome-subtitles",
+ "description":"Subtitle editor for the GNOME Desktop environment",
+ "details":" Gnome Subtitles is a subtitle editor for the GNOME desktop.\n\n It supports the most common text-based subtitle formats, video\n previewing, timings synchronization and subtitle translation.\n\n Some supported subtitle formats are: Advanced Sub Station Alpha, FAB\n Subtitler, MicroDVD, MPlayer 1\/2, MPSub, SubRip, SubViewer 1\/2.\n uitoolkit::gtk, use::editing, works-with::video, x11::application\n",
+ "installedSize":"2237",
+ "downloadSize":"594214",
+ "homepage":"http:\/\/gnome-subtitles.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

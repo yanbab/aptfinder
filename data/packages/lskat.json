@@ -1,0 +1,9 @@
+{"package":"lskat",
+ "description":"Lieutnant Skat card game",
+ "details":" Lieutnant Skat is a simplified variant of the Skat card game for two players.\n\n This package is part of the KDE games module.\n suite::kde, uitoolkit::qt, use::gameplaying, x11::application\n",
+ "installedSize":"4060",
+ "downloadSize":"924332",
+ "homepage":"http:\/\/games.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

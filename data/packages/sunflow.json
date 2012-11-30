@@ -1,0 +1,9 @@
+{"package":"sunflow",
+ "description":"rendering system for photo-realistic image synthesis (GUI)",
+ "details":" Sunflow is an open source rendering system for photo-realistic image\n synthesis. It is written in Java and built around a flexible ray\n tracing core and an extensible object-oriented design. It was created\n as a framework for experimenting with global illumination algorithms\n and new surface shading models.\n\n This package contains the sunflow GUI.\n",
+ "installedSize":"864",
+ "downloadSize":"638162",
+ "homepage":"http:\/\/sunflow.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

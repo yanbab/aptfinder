@@ -1,0 +1,9 @@
+{"package":"sync-ui",
+ "description":"Sync personal information data using SyncML and CalDAV\/CardDAV (GTK+ GUI)",
+ "details":" SyncEvolution synchronizes contact, calendar and task items via SyncML and\n CalDAV\/CardDAV with other servers or devices. It uses the Evolution Data Server\n to sync PIM data in Evolution, but a plain file storage is also supported.\n Data exchange can happen via HTTP(S) and Bluetooth. Full, one-way and\n incremental synchronization of items are supported. SyncEvolution can act as\n a SyncML\/DAV client and SyncML server.\n\n This package provides a GTK+ graphical user interface.\n use::synchronizing, works-with::pim\n",
+ "installedSize":"170",
+ "downloadSize":"55030",
+ "homepage":"http:\/\/www.syncevolution.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

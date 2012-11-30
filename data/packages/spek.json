@@ -1,0 +1,9 @@
+{"package":"spek",
+ "description":"acoustic spectrum analyser",
+ "details":" Spek helps to analyse your audio files by showing their spectrogram.\n It supports all popular lossy and lossless audio file formats.\n\n Features:\n\n  * Ultra-fast signal processing, uses multiple threads to further\n    speed up the analysis\n  * Shows the codec name and the audio signal parameters\n  * Can save the spectrogram as an image file\n  * Drag-and-drop support; associates with common audio file formats\n  * Auto-fitting time, frequency and spectral density rulers\n  * Adjustable spectral density range\n",
+ "installedSize":"456",
+ "downloadSize":"87714",
+ "homepage":"http:\/\/spek-project.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

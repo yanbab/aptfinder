@@ -1,0 +1,9 @@
+{"package":"kftpgrabber",
+ "description":"ftp client for KDE",
+ "details":" KFTPgrabber is a graphical FTP client for the K Desktop Environment. It\n implements many features required for usable FTP interaction.\n\n Feature list:\n  - Multiple simultaneous FTP sessions in separate tabs\n  - A tree-oriented transfer queue\n  - TLS\/SSL support for the control connection and the data channel\n  - X509 certificate support for authentication\n  - FXP site-to-site transfer support\n  - One-time password (OTP) support using S\/KEY, MD5, RMD160 or SHA1\n  - Site bookmarks with many options configurable per-site\n  - Distributed FTP daemon support (implementing the PRET command)\n  - Can use Zeroconf for local site discovery\n  - Bookmark import plugins from other FTP clients\n  - Support for the SFTP protocol\n  - A nice traffic graph\n  - Ability to limit upload and download speed\n  - Priority and skip lists\n  - Integrated SFV checksum verifier\n  - Direct viewing\/editing of remote files\n  - Advanced default \"on file exists\" action configuration\n  - Filter displayed files\/directories as you type\n protocol::sftp, protocol::zeroconf, role::program, suite::kde,\n uitoolkit::qt, use::downloading, works-with::file, x11::application\n",
+ "installedSize":"1660",
+ "downloadSize":"728202",
+ "homepage":"http:\/\/www.kftp.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

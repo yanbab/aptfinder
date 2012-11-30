@@ -1,0 +1,9 @@
+{"package":"milkytracker",
+ "description":"music creation tool inspired by Fast Tracker 2",
+ "details":" This is an editor for \"tracked\" music, i.e. audio samples of instruments\n pitch shifted according to the note data.\n\n It can load the following module formats: 669, AMS, AMF, DBM, CBA, DIGI,\n DSM, FAR, GMC, GDM, IMF, IT, MOD, MDL, MTM, MXM, OKT, PLM, PSM, PTM, S3M,\n STM, ULT, UNI, and X.\n\n Export is possible into the formats: XM, MOD, and WAV.\n\n Supported sample and instrument formats: WAV, IFF\/XI, PAT\n sound::player, sound::recorder, sound::sequencer, uitoolkit::sdl,\n use::playing, works-with::audio, x11::application\n",
+ "installedSize":"3317",
+ "downloadSize":"1243802",
+ "homepage":"http:\/\/www.milkytracker.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

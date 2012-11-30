@@ -1,0 +1,9 @@
+{"package":"gimp",
+ "description":"The GNU Image Manipulation Program",
+ "details":" GIMP is an advanced picture editor. You can use it to edit, enhance, and\n retouch photos and scans, create drawings, and make your own images.\n It has a large collection of professional-level editing tools and\n filters, similar to the ones you might find in Photoshop. Numerous\n fine-control settings and features like layers, paths, masks, and\n scripting give you total control over your images.\n\n Many image file formats are supported, including JPEG, Photoshop (.psd),\n and Paint Shop Pro (.psp) files. It can also be used to scan and print\n photos.\n\n To open files remotely (like over HTTP), install the gvfs-backends\n package.\n\n To use a MIDI device (like a musical keyboard) as an input controller in GIMP,\n install libasound2 and read the how-to at \/usr\/share\/doc\/gimp\/README.MIDI\n suite::gimp, suite::gnu, uitoolkit::gtk, use::editing,\n works-with-format::gif, works-with-format::jpg, works-with-format::pdf,\n works-with-format::png, works-with-format::tiff, works-with::image,\n works-with::image:raster, works-with::text, x11::application\n",
+ "installedSize":"15255",
+ "downloadSize":"4164422",
+ "homepage":"http:\/\/www.gimp.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

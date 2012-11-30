@@ -1,0 +1,9 @@
+{"package":"trimage",
+ "description":"GUI and command-line interface to optimize image files",
+ "details":" Trimage is a cross-platform GUI and command-line interface to optimize image\n files via optipng, advpng, pngcrush and jpegoptim, depending on the filetype\n (currently, PNG and JPG files are supported). All image files are losslessly\n compressed on the highest available compression levels. Trimage gives you\n various input functions to fit your own workflow: A regular file dialog,\n dragging and dropping and various command line options.\n role::program, scope::utility, uitoolkit::qt, works-with-format::jpg,\n works-with-format::png, works-with::image, x11::application\n",
+ "installedSize":"200",
+ "downloadSize":"29500",
+ "homepage":"http:\/\/trimage.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

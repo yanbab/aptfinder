@@ -1,0 +1,9 @@
+{"package":"cain",
+ "description":"simulations of chemical reactions",
+ "details":" Cain performs stochastic and deterministic simulations of chemical reactions.\n It can spawn multiple simulation processes to utilize multi-core computers.\n It stores models, methods, and simulation output (populations and reaction\n counts) in an XML format. In addition, SBML models can be imported and\n exported. The models and methods can be read from input files or edited\n within the program.\n\n The GUI (Graphical User Interface) is written in Python and uses the wxPython\n toolkit. Most of the solvers are implemented as command line executables,\n written in C++, which are driven by Cain. This makes it easy to launch batch\n jobs. It also simplifies the process of adding new solvers. Cain offers a\n variety of solvers:\n  * Gillespie's direct method.\n  * Gillespie's first reaction method.\n  * Gibson and Bruck's next reaction method.\n  * Tau-leaping.\n  * Hybrid direct\/tau-leaping.\n  * ODE integration.\n\n This package provides the architecture independent files for cain\n",
+ "installedSize":"15713",
+ "downloadSize":"10761368",
+ "homepage":"http:\/\/cain.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

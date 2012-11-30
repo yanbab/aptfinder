@@ -1,0 +1,9 @@
+{"package":"sound-juicer",
+ "description":"GNOME CD Ripper",
+ "details":" A CD ripper for GNOME which aims to have a simple, clean, easy to use\n interface.\n\n The package includes support by default for Vorbis and FLAC formats.\n For other supports you need the following packages:\n  * gstreamer0.10-plugins-ugly to encode to MP2,\n  * gstreamer0.10-lame (not available in the Debian archive) to encode\n    to MP3,\n  * gstreamer0.10-plugins-really-bad (not available in Debian) to encode\n    to AAC.\n interface::x11, role::program, scope::application, sound::player,\n suite::gnome, uitoolkit::gtk, use::converting, works-with-format::mp3,\n works-with-format::oggvorbis, works-with-format::wav,\n works-with::audio, x11::application\n",
+ "installedSize":"4766",
+ "downloadSize":"1984514",
+ "homepage":"http:\/\/www.burtonini.com\/blog\/computers\/sound-juicer",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

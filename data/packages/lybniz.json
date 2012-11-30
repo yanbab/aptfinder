@@ -1,0 +1,9 @@
+{"package":"lybniz",
+ "description":"mathematical function graph plotter",
+ "details":" Lybniz is a simple desktop graph plotter. It can currently plot three\n functions and allows you to navigate the plot. Functions are entered\n in Python notation.\n role::program, uitoolkit::gtk, use::viewing, x11::application\n",
+ "installedSize":"212",
+ "downloadSize":"60682",
+ "homepage":"http:\/\/lybniz2.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

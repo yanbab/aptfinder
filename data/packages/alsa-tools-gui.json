@@ -1,0 +1,9 @@
+{"package":"alsa-tools-gui",
+ "description":"GUI based ALSA utilities for specific hardware",
+ "details":" A collection of GUI based ALSA utilities for specific sound hardware:\n\n  echomixer - control tool for Echoaudio soundcards\n  envy24control - control tool for Envy24 (ice1712) based soundcards\n  hdspconf - GUI program to control the Hammerfall HDSP Alsa Settings.\n  hdspmixer - tool to control the advanced routing features of the\n              RME Hammerfall DSP.\n  rmedigicontrol - control tool for RME Digi32 and RME Digi96 soundcards\n scope::utility, uitoolkit::gtk, works-with::audio, x11::application\n",
+ "installedSize":"683",
+ "downloadSize":"253864",
+ "homepage":"http:\/\/www.alsa-project.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

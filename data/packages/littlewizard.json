@@ -1,0 +1,9 @@
+{"package":"littlewizard",
+ "description":"development environment for children",
+ "details":" Little Wizard is created especially for primary school children. It\n introduces main elements of present computer languages, including:\n variables, expressions, loops, conditions, logical blocks. Every\n element of language is represented by an intuitive icon.  Little\n Wizard can be programmed without using keyboard, only mouse.\n uitoolkit::gtk, use::learning, x11::application\n",
+ "installedSize":"332",
+ "downloadSize":"93100",
+ "homepage":"http:\/\/littlewizard.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

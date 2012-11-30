@@ -1,0 +1,9 @@
+{"package":"kabikaboo",
+ "description":"Writing Assistant",
+ "details":" Kabikaboo is a tree-based note pad, designed to help you plan a book or complex\n  project. Kabikaboo aims to make the author's life easier by providing a way to\n  edit and organize a collection of related text files. The program can be used\n  to plan a series of books, technical manuals, software projects, or anything\n  that would benefit from tree-based text organization.\n use::editing, works-with::text, x11::application\n",
+ "installedSize":"592",
+ "downloadSize":"104482",
+ "homepage":"https:\/\/launchpad.net\/kabikaboo",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- Metas -->
+    <meta charset="utf-8">
+    <title>Apps</title>
+    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    
+    <!-- Stylesheets -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/apps.css" rel="stylesheet">
+
+</head>
+<body id="app-list" class="ambiance">
+
+<!-- Toolbar -->
+<style>
+.toolbar {
+	position:fixed;
+	height:27px;
+	top:0;
+    left:0;
+	right:0;
+
+    border-bottom:#ccc solid 1px;
+}
+.toolbar {
+	background:#f0f0f0;
+}
+.toolbar a {
+	display:inline-block;
+	padding:1px 5px;
+	font-weight:bold;
+    font-size:11px;
+    color:inherit;
+    line-height:15px
+
+}
+.toolbar a.active {
+	background:#aaa;
+	color:white;
+border-radius:10px;
+}
+.toolbar form {
+	margin: 0 0 0 16px;
+}
+.toolbar input {
+    font-weight:bold;
+    font-size:12px;
+    background:none;
+    box-shadow:none;
+    border:none;
+    color:inherit;
+    outline:0;
+    line-height:24px;
+}
+
+</style>
+<div class="toolbar">
+	<div class="pull-right">
+	<a class="" href=""><u>A</u>ll</a>
+	<a class="active" href=""><u>F</u>eatured</a>
+	<a href=""><u>I</u>nstalled</a>
+	|
+	<a class="on" href=""><i class="icon-th-list"></i></a>
+	<a class="" href=""><i class="icon-chevron-down"></i></a>
+	</div>
+	<form>
+		<i class="icon-zoom-in"></i>
+		<input id="search" placeholder="SEARCH">
+	</form>
+</div>
+
+
+
+<!-- Side panel -->
+
+<aside class="">
+    <ul class="nav nav-list">
+        <li class="nav-header">Category</li>
+        <li class="active"><a href="#all"><i class="icon-folder-open"></i> All</a></li>
+        <li><a href="#audiovideo"><i class="icon-film"></i> Audio & Video</a></li>
+        <li><a href="#development"><i class="icon-filter"></i> Development</a></li>
+        <li><a href="#education"><i class="icon-fire"></i> Education</a></li>
+        <li><a href="#game"><i class="icon-road"></i> Games</a></li>
+        <li><a href="#graphics"><i class="icon-camera"></i>  Graphics</a></li>
+        <li><a href="#network"><i class="icon-globe"></i> Internet</a></li>
+        <li><a href="#office"><i class="icon-edit"></i> Office</a></li>
+        <li><a href="#settings"><i class="icon-asterisk"></i> Settings</a></li>
+        <li><a href="#system"><i class="icon-cog"></i> System</a></li>
+        <li><a href="#utility"><i class="icon-wrench"></i> Utilities</a></li>
+    </ul>
+</aside>
+
+<!-- Main list -->
+
+<article>
+    <div id="loading" class="alert" >
+        <strong>Loading</strong>
+    	<div class="pull-right progress progress-striped active" style="width:200px">
+            <div class="bar" style="width: 50%;"></div>
+        </div>
+    </div>
+    <ul class="list" id="list">
+    </ul>
+</article>
+
+<!-- Footer -->
+
+<footer>
+</footer>
+
+<!-- help modal -->
+
+<div class="modal hide fade" id="help">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" >×</button>
+    <h3 id="myModalLabel">Help</h3>
+  </div>
+  <div class="modal-body">  
+    <table class="table">
+        <thead>
+            <tr>
+                <th colspan="2">Keyboard shortcuts</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td><strong>?</strong></td><td>Help</td></tr>
+            <tr><td><strong><br>1</strong></td><td><br> Small view</td></tr>
+            <tr><td><strong>2</strong></td><td>Normal view</td></tr>
+            <tr><td><strong>3</strong></td><td>Large view</td></tr>
+        </tbody>
+     </table>
+  </div>
+  <div class="modal-footer">
+    <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+  </div>
+</div>
+
+
+    
+<!-- Templates -->
+
+<div id="tpl-app" class="hide">
+    <li>
+        <div class="image">
+            <img src="assets/img/pixel.gif" class="lazy">
+        </div>
+        <div class="text">
+            <div class="name"></div>
+            <div class="comment"></div>
+            <div class="subcategory hide"></div>
+            <div class="package hide"></div>
+            <div class="icon hide"></div>
+        </div></li>
+</div>
+
+<div id="tpl-info" class="hide">
+    <div class="info clearfix">
+        <div class="thumbnail pull-right">
+            <a href="http://screenshots.debian.net/screenshot/{{package}}"><img width="160" height="120" src="http://screenshots.debian.net/thumbnail/{{package}}"></a>
+        </div>
+        
+        
+        
+        <div class="details">{{details}}</div>
+        <p></p>
+        <div class="homepage"><strong>Web site : </strong><a href="{{homepage}}">{{homepage}}</a></div>
+        <div class="package"><strong>Package : </strong>{{package}}</div>
+        <p></p>
+<a href="apt://{{package}}" class="btn btn-primary"><i class="icon-white icon-play"></i> Run</A> &nbsp;
+<a href="apt://{{package}}" class="btn"><i class="icon-trash"></i> Remove</A>
+        
+    </div>
+</div>
+
+<!-- Scripts -->
+
+<script src="assets/js/lib.min.js"></script>
+<script src="assets/js/apps.js"></script>
+<script src="assets/js/gtk.js"></script>
+
+<script>
+$(document).ready(function() {
+    Apps.init();
+});
+</script>
+
+
+  </body>
+</html>

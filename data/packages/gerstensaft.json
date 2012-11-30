@@ -1,0 +1,9 @@
+{"package":"gerstensaft",
+ "description":"Frontend for Simple Asynchronous File Transfer",
+ "details":" Gerstensaft is an easy to use graphical oriented frontend for\n sendfile(1).  It features sending files and directories and provides a\n history for addresses.\n\n use::downloading, x11::application\n",
+ "installedSize":"288",
+ "downloadSize":"48068",
+ "homepage":"http:\/\/www.infodrom.org\/projects\/gerstensaft\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

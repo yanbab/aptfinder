@@ -1,0 +1,9 @@
+{"package":"gnubik",
+ "description":"3D Rubik's cube game",
+ "details":" GNUbik is an interactive, graphical, single player puzzle. This free\n program renders an image of a cube, like that invented by Erno Rubik.\n You have to manipulate the cube using the mouse. When each face shows\n only one colour, the game is solved.\n\n It uses Gtk+ and\/or X11 and Mesa \/ OpenGL.\n role::program, suite::gnu, uitoolkit::gtk, use::gameplaying,\n x11::application\n",
+ "installedSize":"555",
+ "downloadSize":"102798",
+ "homepage":"http:\/\/www.gnu.org\/software\/gnubik\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

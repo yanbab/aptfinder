@@ -1,0 +1,9 @@
+{"package":"paman",
+ "description":"PulseAudio Manager",
+ "details":" PulseAudio, previously known as Polypaudio, is a sound server for POSIX and\n WIN32 systems. It is a drop in replacement for the ESD sound server with\n much better latency, mixing\/re-sampling quality and overall architecture.\n\n PulseAudio Manager (paman) is a simple GTK frontend for the PulseAudio\n sound server. With paman you may browse most of PulseAudio's internals.\n There is support for changing the volume of sinks and sink inputs. You're\n also able to play samples from the sample cache.\n",
+ "installedSize":"516",
+ "downloadSize":"97158",
+ "homepage":"http:\/\/0pointer.de\/lennart\/projects\/paman\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

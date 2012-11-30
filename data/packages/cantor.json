@@ -1,0 +1,9 @@
+{"package":"cantor",
+ "description":"interface for mathematical applications",
+ "details":" Cantor is an application to allow you to you use your favorite mathematical\n applications from within an elegant worksheet interface. It  provides dialogs\n to assist with common tasks and allows you to share your worksheets\n with others.\n\n Cantor supports various mathematical applications as backends (provided in\n external packages):\n  * KAlgebra (cantor-backend-kalgebra)\n  * Maxima Computer Algebra System (cantor-backend-maxima)\n  * R Project for Statistical Computing (cantor-backend-r)\n  * Sage Mathematics Software (cantor-backend-sage)\n  * Octave (cantor-backend-octave)\n  * Scilab (cantor-backend-scilab)\n  * Qalculate! (cantor-backend-qalculate)\n\n This package is part of the KDE education module.\n scope::application, suite::kde, uitoolkit::qt, use::calculating,\n x11::application\n",
+ "installedSize":"1202",
+ "downloadSize":"389562",
+ "homepage":"http:\/\/edu.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

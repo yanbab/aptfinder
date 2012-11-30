@@ -1,0 +1,9 @@
+{"package":"xterm",
+ "description":"X terminal emulator",
+ "details":" xterm is a terminal emulator for the X Window System.  It provides DEC VT102\n and Tektronix 4014 compatible terminals for programs that cannot use the\n window system directly.  This version implements ISO\/ANSI colors and most of\n the control sequences used by DEC VT220 terminals.\n\n This package provides four commands: xterm, which is the traditional\n terminal emulator; uxterm, which is a wrapper around xterm that is\n intelligent about locale settings (especially those which use the UTF-8\n character encoding), but which requires the luit program from the x11-utils\n package; koi8rxterm, a wrapper similar to uxterm for locales that use the\n KOI8-R character set; and lxterm, a simple wrapper that chooses which of the\n previous commands to execute based on the user's locale settings.\n\n A complete list of control sequences supported by the X terminal emulator\n is provided in \/usr\/share\/doc\/xterm.\n\n The xterm program uses bitmap images provided by the xbitmaps package.\n\n Those interested in using koi8rxterm will likely want to install the\n xfonts-cyrillic package as well.\n uitoolkit::athena, use::TODO, x11::application, x11::terminal\n",
+ "installedSize":"1420",
+ "downloadSize":"603794",
+ "homepage":"http:\/\/invisible-island.net\/xterm\/xterm.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

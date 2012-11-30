@@ -1,0 +1,9 @@
+{"package":"kmplayer",
+ "description":"media player for KDE",
+ "details":" KMPlayer is a simple frontend for MPlayer\/FFMpeg\/Phonon.\n\n Some features:\n  * play DVD\/VCD movies (from file or url and from a video device)\n  * embed inside konqueror (movie is played inside konqueror)\n  * embed inside khtml (movie playback inside a html page)\n  * Movie recording using mencoder (part of the mplayer package)\n  * No video during recording, but you can always open a new window and play it\n  * Broadcasting, http streaming, using ffserver\/ffmpeg\n  * For TV sources, you need v4lctl (part of the xawtv package)\n interface::x11, role::program, suite::kde, uitoolkit::qt, use::playing,\n works-with::audio, works-with::video, x11::application\n",
+ "installedSize":"3457",
+ "downloadSize":"969690",
+ "homepage":"http:\/\/kmplayer.kde.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

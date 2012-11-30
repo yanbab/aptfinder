@@ -1,0 +1,9 @@
+{"package":"xoscope",
+ "description":"digital oscilloscope",
+ "details":" Xoscope is a oscilloscope using input from a\n sound card or EsounD and\/or a ProbeScope\/osziFOX and will soon support\n Bitscope hardware. Includes 8 signal displays, variable time scale,\n math, memory, measurements, and file save\/load.\n use::learning, x11::application\n",
+ "installedSize":"302",
+ "downloadSize":"128870",
+ "homepage":"http:\/\/xoscope.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

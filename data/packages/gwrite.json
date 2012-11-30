@@ -1,0 +1,9 @@
+{"package":"gwrite",
+ "description":"simple GTK+ HTML5 rich text editor",
+ "details":" gWrite is a simple GTK+ HTML5 WYSIWYG editor, focusing on writing\n and simple text formating. It can automatically generate a table of\n contents based on the document structure.\n\n It aims to be lighter than OOWrite & OOWeb, and to be as useful as them.\n scope::application, uitoolkit::gtk, use::editing, x11::application\n",
+ "installedSize":"352",
+ "downloadSize":"57114",
+ "homepage":"http:\/\/code.google.com\/p\/gwrite",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

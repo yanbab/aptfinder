@@ -1,0 +1,9 @@
+{"package":"bisho",
+ "description":"Meego web services settings",
+ "details":" bisho is the settings front-end for Meego web services. Users can use bisho\n to set the account information for web services like Last.fm or Twitter.\n x11::application\n",
+ "installedSize":"741",
+ "downloadSize":"41406",
+ "homepage":"http:\/\/meego.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

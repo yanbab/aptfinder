@@ -1,0 +1,9 @@
+{"package":"supertuxkart",
+ "description":"3D kart racing game",
+ "details":" SuperTuxKart is a free 3D kart racing game, with a focus on having fun over\n realism. You can play with up to 4 friends on one PC, racing against each\n other or just trying to beat the computer; single-player mode is also\n available.\n\n See the great lighthouse or drive through the sand and visit the pyramids.\n Race underground or in space, watching the stars pass by. Or rest under the\n palm trees on the beach, watching the other karts overtake you. But don't eat\n the bananas! Watch for bowling balls, plungers, bubble gum and cakes thrown by\n your opponents.\n\n You can do a single race against other karts, compete in one of several Grand\n Prix, try to beat the high score in time trials on your own, play battle mode\n against your friends, and more!\n interface::x11, role::program, uitoolkit::glut, uitoolkit::sdl,\n use::gameplaying, x11::application\n",
+ "installedSize":"3537",
+ "downloadSize":"1501646",
+ "homepage":"http:\/\/supertuxkart.sf.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

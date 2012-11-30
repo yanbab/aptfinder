@@ -1,0 +1,9 @@
+{"package":"bzr-gtk",
+ "description":"provides graphical interfaces to Bazaar (bzr) version control",
+ "details":" bzr-gtk provides GTK+ interfaces to the Bazaar (bzr) source code management\n tool.\n\n This package adds the following commands to the bzr command line\n tool: gannotate, gbranch, gcheckout, gcommit, gconflicts, gdiff, gloom,\n gmissing, gpreferences, gpush, gstatus, visualise.\n role::program, suite::gnome, uitoolkit::gtk,\n works-with::software:source\n",
+ "installedSize":"629",
+ "downloadSize":"164282",
+ "homepage":"http:\/\/bazaar-vcs.org\/bzr-gtk",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

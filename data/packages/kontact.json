@@ -1,0 +1,9 @@
+{"package":"kontact",
+ "description":"integrated application for personal information management",
+ "details":" Kontact is the integrated solution to your personal information management\n needs. It combines applications like KMail, KOrganizer and\n KAddressBook into a single interface to provide easy access to mail,\n scheduling, address book and other PIM functionality.\n\n This package is part of the KDE PIM module.\n scope::application, scope::utility, suite::kde, uitoolkit::qt,\n works-with::pim, x11::application\n",
+ "installedSize":"5261",
+ "downloadSize":"2220808",
+ "homepage":"http:\/\/kontact.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

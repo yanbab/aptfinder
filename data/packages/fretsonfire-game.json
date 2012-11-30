@@ -1,0 +1,9 @@
+{"package":"fretsonfire-game",
+ "description":"game of musical skill and fast fingers - Game files",
+ "details":" A game of musical skill and fast fingers. The aim of the game is to\n play guitar with the keyboard as accurately as possible.\n\n This is the package containing the game executable code. You will need\n working sound and a 3D capable graphics card.\n interface::x11, role::program, uitoolkit::sdl, use::gameplaying,\n works-with::music-notation, x11::application\n",
+ "installedSize":"8038",
+ "downloadSize":"5644596",
+ "homepage":"http:\/\/fretsonfire.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

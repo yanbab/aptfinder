@@ -1,0 +1,9 @@
+{"package":"gcdmaster",
+ "description":"GNOME GUI for cdrdao",
+ "details":" GNOME CD Master is a GUI frontend for creating audio CDs and burning them using\n cdrdao.\n\n Features:\n  * Easy to use graphical interface\n  * Multiple project support\n  * Playing of Audio CD images\n  * Easy dump of CDs to disk\n  * CD to CD copy\n  * Composition of new Audio CDs from wav files\n  * Graphical insertion of Track Marks (to divide live recordings)\n  * Easy CD-TEXT modification\n uitoolkit::gtk, use::playing, use::storing, works-with-format::iso9660,\n works-with::audio, x11::application\n",
+ "installedSize":"1320",
+ "downloadSize":"493954",
+ "homepage":"http:\/\/cdrdao.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

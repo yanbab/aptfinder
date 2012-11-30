@@ -1,0 +1,9 @@
+{"package":"eekboek-gui",
+ "description":"Graphical User Interface for EekBoek",
+ "details":" This package includes ebwxshell, the EekBoek GUI.  It offers\n an EekBoek browser, useful for viewing the administrative data.  It's\n especially useful for generating, printing and pinpointing reports.\n Furthermore, it offers a raw interface to the EekBoek Shell.  Finally,\n it offers a Wizard to help configuring new bookkeeping administrations.\n\n Install it if you need a friendly interface to the EekBoek reporting\n facilities, or if you would like help in configuring EekBoek.  However,\n if you prefer working in pure text mode, or don't like to install the WX\n graphical packages, you should not install this package.\n office::finance, role::program, scope::application,\n uitoolkit::wxwidgets, x11::application\n",
+ "installedSize":"66",
+ "downloadSize":"64400",
+ "homepage":"http:\/\/www.eekboek.nl\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

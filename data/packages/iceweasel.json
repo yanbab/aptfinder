@@ -1,0 +1,8 @@
+{"package":"iceweasel",
+ "description":"Web browser based on Firefox",
+ "details":" Iceweasel is Firefox, rebranded. It is a powerful, extensible web browser\n with support for modern web application technologies.\n implemented-in::ecmascript, interface::x11, network::client,\n protocol::ftp, protocol::http, protocol::ipv6, protocol::ssl,\n role::program, scope::application, suite::mozilla, uitoolkit::gtk,\n use::browsing, use::downloading, use::viewing, web::browser,\n works-with-format::html, works-with-format::jpg,\n works-with-format::plaintext, works-with-format::png,\n works-with-format::svg, works-with-format::xml,\n works-with-format::xml:rss, works-with-format::xml:xslt,\n works-with::image, works-with::image:raster, works-with::image:vector,\n works-with::text, x11::application\n",
+ "installedSize":"6429",
+ "downloadSize":"1458508",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"amoebax",
+ "description":"Puyo Puyo-style puzzle game for up to two players",
+ "details":" Due an awful mutation, some amoeba's species have started to multiply until\n they take the world if you can't stop them. Fortunately the mutation made then\n too unstable and lining up four or more will make them disappear.\n\n Follow Kim or Tom through 6 levels in their quest to prevent the cute\n multiplying amoebas to take the world and become the new Amoeba Master. Watch\n out for the cute but amoeba's controlled creatures that will try to put and end\n to your quest.\n\n Amoebax is designed with levels for everyone, from children to adults. With the\n training mode everybody will quickly become a master and the tournament mode\n will let you have a good time with your friends. There is also catchy music,\n funny sound effects, and beautiful screens that sure appeal to everyone in the\n family.\n use::gameplaying, x11::application\n",
+ "installedSize":"388",
+ "downloadSize":"139208",
+ "homepage":"http:\/\/www.emma-soft.com\/games\/amoebax\/index.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

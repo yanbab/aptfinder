@@ -1,0 +1,9 @@
+{"package":"upnp-inspector",
+ "description":"Python UPnP framework analyser",
+ "details":" The Inspector is a Universal Plug and Play (UPnP) Device and Service analyser.\n It is also a debugging tool, based on the Coherence Digital Living Network\/\n Universal Plug and Play framework (DLNA\/UPnP). The Inspector is a GUI to\n discover and explore UPnP devices on your network. Detected devices are\n displayed in a tree-view, where actions can be called and state-variables may\n be queried.\n",
+ "installedSize":"420",
+ "downloadSize":"102806",
+ "homepage":"http:\/\/coherence.beebits.net\/wiki\/UPnP-Inspector",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

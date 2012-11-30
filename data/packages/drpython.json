@@ -1,0 +1,9 @@
+{"package":"drpython",
+ "description":"simple and customizable editor for the Python language",
+ "details":" DrPython is a clean and simple yet powerful and highly customizable\n editor\/environment for developing programs written in Python.\n\n DrPython features:\n  * a high degree of customization through themes, which can change look and\n    feel, behavior, shortcuts and more\n  * DrScript: Write custom Python scripts with access to DrPython internals,\n    and access them from the menu\n  * bookmarks to quickly jump to files and directories\n  * Python debugger support\n  * a class browser\n  * printing support\n implemented-in::python, role::program\n",
+ "installedSize":"2316",
+ "downloadSize":"495448",
+ "homepage":"http:\/\/drpython.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

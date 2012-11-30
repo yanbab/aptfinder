@@ -1,0 +1,9 @@
+{"package":"drgeo",
+ "description":"interactive geometry software",
+ "details":" This is the Gtk interactive geometry software. It allows one\n to create geometric figure plus the interactive manipulation of such\n figure in respect with their geometric constraints. It is usable in\n teaching situation with students from primary or secondary level.\n\n Dr. Geo comes with a complete set of tools arranged\n in different categories:\n\n  * points\n  * lines\n  * geometric transformations\n  * numeric function\n  * macro-construction\n  * DGS object - Dr. Geo Guile Script\n  * DSF - Dr Geo Scheme Figure, it is interactive figure defined in\n    a file and evaluated with the embedded Scheme interpretor, awesome!\n  * Export facilities in the LaTeX and EPS formats\n\n Several figures and macro-constructions examples are available\n in the \/usr\/share\/drgeo\/examples folder.\n\n More information about Dr. Geo can be found at\n its web site http:\/\/www.gnu.org\/software\/dr_geo\/dr_geo.html\n\n Installing the drgeo-doc package is also encouraged to get\n more of Dr. Geo.\n suite::gnu, uitoolkit::gtk, use::editing, use::learning,\n works-with::image, works-with::image:vector, x11::application\n",
+ "installedSize":"3248",
+ "downloadSize":"836202",
+ "homepage":"http:\/\/www.gnu.org\/software\/dr_geo\/dr_geo.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

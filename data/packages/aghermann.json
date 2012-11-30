@@ -1,0 +1,9 @@
+{"package":"aghermann",
+ "description":"Sleep-research experiment manager",
+ "details":" Aghermann is a program designed around a common workflow in\n sleep-research, complete with scoring facility, EEG power spectrum and\n power course visualization, and Process S simulation following\n Achermann et al, 1993.\n",
+ "installedSize":"1697",
+ "downloadSize":"406530",
+ "homepage":"http:\/\/johnhommer.com\/academic\/code\/aghermann",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

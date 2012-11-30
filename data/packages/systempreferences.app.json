@@ -1,0 +1,9 @@
+{"package":"systempreferences.app",
+ "description":"GNUstep preferences application",
+ "details":" System Preferences is an application which allows to manage the\n settings of many aspects of the GNUstep environment and its\n applications.  System Preferences are made of Modules, each one a\n bundle representing a single control panel, and is thus extensible\n and modular.\n",
+ "installedSize":"1344",
+ "downloadSize":"301012",
+ "homepage":"http:\/\/gnustep.org\/experience\/systempreferences.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

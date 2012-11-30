@@ -1,0 +1,9 @@
+{"package":"love",
+ "description":"2D game development framework based on Lua and OpenGL",
+ "details":" L\u00d6VE was created to be a user-friendly engine in which simple (or\n complicated) games could be made without having extensive knowledge\n of system or graphics functions and without having to dedicate time\n towards developing the same engine features time and time again.\n\n Developed with cross-platform implementation in mind, it utilizes the\n latest open source libraries to deliver a similar game experience,\n independent of operating system. By relying on the Lua scripting language\n for game-specific programming, it allows even the novice game creator to\n quickly and efficiently develop an idea into a fully working game.\n",
+ "installedSize":"1995",
+ "downloadSize":"931006",
+ "homepage":"http:\/\/love2d.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

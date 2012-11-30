@@ -1,0 +1,9 @@
+{"package":"einstein",
+ "description":"Puzzle game inspired on Einstein's puzzle",
+ "details":" This puzzle is a remake of old DOS game Sherlock which was inspired by Albert\n Einstein's puzzle. The game goal is to open all cards in square of 6x6 cards.\n For this, a number of hints describing relations between card positions are\n given. Use them to find the correct layout.\n use::gameplaying, x11::application\n",
+ "installedSize":"1369",
+ "downloadSize":"1058058",
+ "homepage":"http:\/\/games.flowix.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

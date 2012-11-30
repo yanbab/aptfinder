@@ -1,0 +1,9 @@
+{"package":"jack-mixer",
+ "description":"JACK Audio Mixer",
+ "details":" jack_mixer is an audio mixer for JACK with a look similar to its hardware\n counterparts. Many features are available, here is a short list:\n\n  - Mix any number of input channels (mono or stereo).\n  - Control balance and faders with MIDI commands.\n  - Handle session management with LASH.\n  - Create as many outputs as necessary.\n  - Quickly monitor inputs (PFL) and outputs.\n works-with::audio, x11::application\n",
+ "installedSize":"440",
+ "downloadSize":"74470",
+ "homepage":"http:\/\/home.gna.org\/jackmixer\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

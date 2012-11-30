@@ -1,0 +1,9 @@
+{"package":"gitg",
+ "description":"git repository viewer for gtk+\/GNOME",
+ "details":" gitg is a fast GTK2 git repository browser for the GNOME desktop.\n It currently features:\n\n  * Loading large repositories very fast\n  * Show\/browse repository history\n  * Show highlighted revision diff\n  * Browse file tree of a revision and export by drag and drop\n  * Search in the revision history on subject, author or hash\n  * Switch between history view of branches easily\n  * Commit view providing per hunk stage\/unstage and commit\n use::viewing, works-with::software:source\n",
+ "installedSize":"1229",
+ "downloadSize":"286772",
+ "homepage":"http:\/\/trac.novowork.com\/gitg\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

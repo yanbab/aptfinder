@@ -1,0 +1,9 @@
+{"package":"vmpk",
+ "description":"Virtual MIDI Piano Keyboard",
+ "details":" Virtual MIDI Piano Keyboard is a MIDI events generator and\n receiver. It doesn't produce any sound by itself, but can be used to\n drive a MIDI synthesizer (either hardware or software, internal or\n external). You can use the computer's keyboard to play MIDI notes,\n and also the mouse. You can use the Virtual MIDI Piano Keyboard to\n display the played MIDI notes from another instrument or MIDI file\n player.\n sound::midi, uitoolkit::qt, x11::application\n",
+ "installedSize":"1606",
+ "downloadSize":"526328",
+ "homepage":"http:\/\/vmpk.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

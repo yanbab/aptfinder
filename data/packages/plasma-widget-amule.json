@@ -1,0 +1,9 @@
+{"package":"plasma-widget-amule",
+ "description":"kde plasmoid to control amule",
+ "details":" plasmoid to control the amule application and helper apps and mimetype\n for handling emulecollections\n",
+ "installedSize":"442",
+ "downloadSize":"219602",
+ "homepage":"http:\/\/www.amule.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

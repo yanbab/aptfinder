@@ -1,0 +1,9 @@
+{"package":"asciijump",
+ "description":"Small and funny ASCII-art game about ski jumping",
+ "details":" This is a very funny multiplayer game, you can play with friends or against\n the computer. There are two modes of playing: World Cup and Training. You will\n be able to select from a few hills, for example czumulungma and finland.\n uitoolkit::ncurses, use::gameplaying\n",
+ "installedSize":"190",
+ "downloadSize":"45838",
+ "homepage":"http:\/\/asciijump.prv.pl\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

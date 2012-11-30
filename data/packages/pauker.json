@@ -1,0 +1,9 @@
+{"package":"pauker",
+ "description":"generic card based learning program",
+ "details":" Pauker is a generic flashcard program written in Java. It uses a combination of\n ultra-shortterm, shortterm, and longterm memory. You can use it to learn all\n the things you never want to forget, like vocabulary, capitals, important\n dates, etc.\n",
+ "installedSize":"8504",
+ "downloadSize":"5891854",
+ "homepage":"http:\/\/pauker.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

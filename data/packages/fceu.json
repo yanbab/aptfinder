@@ -1,0 +1,9 @@
+{"package":"fceu",
+ "description":"FCE Ultra - a nintendo (8-bit) emulator",
+ "details":" FCE Ultra is an emulator of the original (8-bit) Nintendo Entertainment\n System (NES) released under the GNU General Public License (GPL).  It\n includes the following features (and many more):\n       * fully customizable color palette rendering engine\n       * complete sound emulation (all five channels)\n       * support for up to four joystick controllers\n       * zapper emulation for the mouse\n       * GameGenie emulation\n       * accepts compressed (PKZIP, gzip) ROM images\n       * TCP\/IP network play\n implemented-in::c, interface::x11, role::program, scope::utility,\n uitoolkit::sdl, use::gameplaying, works-with-format::TODO,\n works-with::TODO, x11::application\n",
+ "installedSize":"1073",
+ "downloadSize":"438828",
+ "homepage":"http:\/\/fceultra.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

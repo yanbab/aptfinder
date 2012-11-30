@@ -1,0 +1,9 @@
+{"package":"kmouth",
+ "description":"type-and-say frontend for speech synthesizers",
+ "details":" KDE's type-and-say frontend for speech synthesizers.\n\n It includes a history of spoken sentences from which the user can select\n sentences to be re-spoken.\n\n This package is part of the KDE accessibility module.\n role::program, scope::utility, suite::kde, uitoolkit::qt,\n x11::application\n",
+ "installedSize":"872",
+ "downloadSize":"420412",
+ "homepage":"http:\/\/www.kde.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

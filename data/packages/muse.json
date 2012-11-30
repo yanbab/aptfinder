@@ -1,0 +1,9 @@
+{"package":"muse",
+ "description":"Qt4-based audio\/MIDI sequencer",
+ "details":" MusE is a MIDI\/audio sequencer with recording and editing capabilities.\n Some Highlights:\n\n  * Standard midifile (smf) import-\/export.\n  * Organizes songs in tracks and parts which you can arrange with\n    the part editor.\n  * MIDI editors: pianoroll, drum, list, controller.\n  * Score editor with high quality postscript printer output.\n  * Realtime: editing while playing.\n  * Unlimited number of open editors.\n  * Unlimited undo\/redo.\n  * Realtime and step-recording.\n  * Multiple MIDI devices.\n  * Unlimited number of tracks.\n  * Sync to external devices: MTC\/MMC, Midi Clock, Master\/Slave.\n  * Audio tracks, LADSPA host for master effects.\n  * Multithreaded.\n  * Uses raw MIDI devices.\n  * XML project file.\n  * Project file contains complete app state (session data).\n  * Application spanning Cut\/Paste Drag\/Drop.\n uitoolkit::qt, use::editing, works-with::music-notation,\n x11::application\n",
+ "installedSize":"16624",
+ "downloadSize":"4195788",
+ "homepage":"http:\/\/www.muse-sequencer.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

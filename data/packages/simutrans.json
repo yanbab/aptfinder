@@ -1,0 +1,9 @@
+{"package":"simutrans",
+ "description":"transportation simulator",
+ "details":" Simutrans is a free transportation simulator: The player operates a\n transportation company and has to transport goods and passengers between\n factories and different cities.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"2785",
+ "downloadSize":"1072556",
+ "homepage":"http:\/\/www.simutrans.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

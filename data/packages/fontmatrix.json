@@ -1,0 +1,9 @@
+{"package":"fontmatrix",
+ "description":"featureful personal font manager",
+ "details":" fontmatrix is a manager built with the kind of features and abilities\n graphic designers, layout professionals along with others have felt\n necessary, but modernized with some new touches.\n\n Fontmatrix has a concept of 'tagging'. This makes it really nice to group\n fonts and even sub-group them logically for use in a book for instance.\n It also has extensive gui support for showing all glyphs in a font,\n previews of sample text, variable sizing and also tells what kinds of\n advanced Open Type features are inside each font. These features have\n never been seen outside of a font editor. And not least, it creates a\n nice PDF catalogue of user's fonts for printing or reference. In short,\n fontmatrix is a font manager for professionals, but is nice and user\n friendly.\n use::comparing, use::organizing, use::viewing, works-with::font,\n x11::application\n",
+ "installedSize":"3994",
+ "downloadSize":"1467390",
+ "homepage":"http:\/\/www.fontmatrix.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

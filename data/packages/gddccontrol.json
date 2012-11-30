@@ -1,0 +1,9 @@
+{"package":"gddccontrol",
+ "description":"program to control monitor parameters (graphical interface)",
+ "details":" DDCcontrol is a tool used to control monitor parameters, like brightness\n and contrast, without using the OSD (On Screen Display) and the buttons\n in front of the monitor.\n\n This package provides a graphical user interface.\n scope::utility, uitoolkit::gtk, use::configuring, x11::application\n",
+ "installedSize":"119",
+ "downloadSize":"40484",
+ "homepage":"http:\/\/ddccontrol.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"mmpong-gl",
+ "description":"massively multiplayer pong game client (OpenGL version)",
+ "details":" mmpong is an ATARI-pong-like multiplayer game, where a moving ball\n reflects on impact from paddles on the left and right sides of the\n screen.\n\n A special feature of this variant is the ability to play the game\n with far more than two players. Players are split into two teams, and\n the position of each team's paddle is determined by the mean value of\n the positions of all the players' paddles on the team. mmpong supports\n a number of different paddle profiles (like flat or round).\n\n This package contains the game client (OpenGL version).\n interface::3d, interface::x11, junior::arcade, junior::games-gl,\n network::client, role::program, uitoolkit::sdl, use::gameplaying,\n x11::application\n",
+ "installedSize":"206",
+ "downloadSize":"62906",
+ "homepage":"http:\/\/www.mmpong.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

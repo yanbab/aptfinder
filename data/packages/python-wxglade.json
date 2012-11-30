@@ -1,0 +1,8 @@
+{"package":"python-wxglade",
+ "description":"GUI designer written in Python with wxPython",
+ "details":" wxGlade is a GUI designer written in Python with the popular GUI toolkit\n wxPython, that helps you create wxWidgets\/wxPython user interfaces.\n At the moment it can generate Python, C++ and XRC (wxWidgets' XML resources)\n code.\n uitoolkit::wxwidgets\n",
+ "installedSize":"2664",
+ "downloadSize":"776560",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

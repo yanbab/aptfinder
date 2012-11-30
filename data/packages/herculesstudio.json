@@ -1,0 +1,9 @@
+{"package":"herculesstudio",
+ "description":"Hercules GUI front-end",
+ "details":" Hercules Studio is a GUI front-end of the Hercules mainframe Emulator.\n With Hercules Studio, you can easily control and monitor the hercules\n virtual machine.\n x11::application\n",
+ "installedSize":"1404",
+ "downloadSize":"606476",
+ "homepage":"http:\/\/www.mvsdasd.org\/hercstudio\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

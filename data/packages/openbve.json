@@ -1,0 +1,9 @@
+{"package":"openbve",
+ "description":"realistic 3D train\/railway simulator (main program)",
+ "details":" OpenBVE is a railway train-driving simulator with an emphasis on\n in-cab driving, realistic physics, braking system and train safety\n system modelling.\n\n Technically, the simulator handles detailed per-car simulation of the\n brake systems, friction, air resistance, toppling and more. In trains\n supplied with 3D cabs, the driving experience is augmented with\n forces that shake the driver's simulated body upon acceleration and\n braking, as well as through curves.\n\n Compared to other rail-based simulators, OpenBVE has its main focus on\n realism---not necessarily on user-friendliness. There may be a need\n to study operational manuals for the routes and trains chosen, rather\n than merely memorising a few keystrokes.\n\n The simulator is designed to be backwards-compatible with existing\n 'BVE Trainsim' routes and cab interiors, allowing a wide range of\n existing scenarios to be loaded by a single-program (BVE1, BVE2,\n BVE4 and extended OpenBVE route formats).\n\n OpenBVE uses OpenGL for 3D graphics rendering, OpenAL for positional\n surround sound, and is written in the C# language.  Note that binary\n train extension plugins are not currently supported on Linux\/Unix,\n because these would require Win32 emulation.\n",
+ "installedSize":"1126",
+ "downloadSize":"376308",
+ "homepage":"http:\/\/trainsimframework.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

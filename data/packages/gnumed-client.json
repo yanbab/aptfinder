@@ -1,0 +1,9 @@
+{"package":"gnumed-client",
+ "description":"medical practice management - Client",
+ "details":" This is the GNUmed Electronic Medical Record. Its purpose is\n to enable doctors to keep a medically sound record on their\n patients' health. It does not currently provide functionality\n for billing and stock keeping. Clinical features are well-tested\n by real doctors in the field.\n\n While the GNUmed team has taken the utmost care to make sure\n the medical records are safe at all times you still need to\n make sure you are taking appropriate steps to backup the\n medical data to a safe place at appropriate intervals. Do\n not forget to test your recovery procedures, too !\n\n Protect your data! GNUmed itself comes without\n any warranty whatsoever. You have been warned.\n\n This package contains the wxpython client.\n network::client, role::program, scope::application,\n uitoolkit::wxwidgets, use::TODO, use::organizing,\n works-with-format::TODO, works-with::TODO, works-with::db,\n works-with::people, x11::application\n",
+ "installedSize":"5267",
+ "downloadSize":"1506650",
+ "homepage":"http:\/\/www.gnumed.de",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

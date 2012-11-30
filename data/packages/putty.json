@@ -1,0 +1,8 @@
+{"package":"putty",
+ "description":"Telnet\/SSH client for X",
+ "details":" This is the Unix port of the popular Windows SSH client, PuTTY. It supports\n flexible terminal setup, mid-session reconfiguration using Ctrl-rightclick,\n multiple X11 authentication protocols, and various other interesting things\n not provided by ssh in an xterm.\n protocol::telnet, role::program, uitoolkit::gtk, use::login,\n x11::terminal\n",
+ "installedSize":"802",
+ "downloadSize":"342230",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,8 @@
+{"package":"gnome-blog",
+ "description":"GNOME application to post to weblog entries",
+ "details":" gnome-blog is a small GNOME application that can post to weblogs using\n bloggerAPI, advogato API, MetaWeblog API or LiveJournal API\n\n It notably works with Blogger.com \/ Blogspot.com, Advogato.org, Movable Type,\n WordPress, LiveJournal.com and Pybloxsom.\n suite::gnome, uitoolkit::gtk, use::editing, works-with-format::xml,\n works-with-format::xml:rss, x11::applet\n",
+ "installedSize":"607",
+ "downloadSize":"78588",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

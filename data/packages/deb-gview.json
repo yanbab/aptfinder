@@ -1,0 +1,9 @@
+{"package":"deb-gview",
+ "description":"GNOME viewer for .deb package files and contents",
+ "details":" Displays Debian control information, devscript details and\n details of the files that would be installed (names,\n sizes and locations). Files within the package can be\n viewed within the package or externally.\n\n Accepts package locations on the command line to support\n the 'open' command in various file managers, one window\n for each package. Packages do not need to be installed\n to be viewed. Opening a changes file opens a new window\n for each package specified in the changes file.\n\n Individual package files or packages referenced in a\n changes file can be viewed from local or remote\n filesystems.\n implemented-in::c, interface::commandline, interface::x11,\n role::program, scope::utility, suite::debian, suite::gnome,\n uitoolkit::gtk, use::viewing, works-with::software:package,\n x11::application\n",
+ "installedSize":"321",
+ "downloadSize":"67492",
+ "homepage":"http:\/\/dpkg-view.alioth.debian.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

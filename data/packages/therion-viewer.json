@@ -1,0 +1,8 @@
+{"package":"therion-viewer",
+ "description":"Cave surveying - 3D viewer for therion models",
+ "details":" Therion is cave-survey drawing and modelling software. This package contains\n the 3D model viewer for therion models produced by version 0.4 or later.\n x11::application\n",
+ "installedSize":"2405",
+ "downloadSize":"426704",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

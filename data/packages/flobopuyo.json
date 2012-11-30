@@ -1,0 +1,9 @@
+{"package":"flobopuyo",
+ "description":"Clone of the PuyoPuyo game",
+ "details":" The goal of FloboPuyo is to make groups of four or more Puyos (coloured\n bubbles) to make them explode and send bad ghost Puyos to your opponent.\n You win the game if your opponent reaches the top of the board. You can\n play against computer or another human.\n use::gameplaying, x11::application\n",
+ "installedSize":"4476",
+ "downloadSize":"2913496",
+ "homepage":"http:\/\/www.fovea.cc\/flobopuyo-en",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

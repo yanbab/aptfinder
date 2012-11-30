@@ -1,0 +1,9 @@
+{"package":"freemind",
+ "description":"Java Program for creating and viewing Mindmaps",
+ "details":" Taking the Concept-Mapping approach to Human-Computer Interface design.\n A mind mapper, and at the same time an easy-to-operate hierarchical editor\n with strong emphasis on folding. These two are not really two different\n things, just two different descriptions of a single application. Often used\n for knowledge and content management.\n\n FreeMind doesn't work with classpath based Java implementations. Use OpenJDK\n (or Sun's Java), and check freemind(1) for more information.\n uitoolkit::TODO, use::organizing, use::viewing, x11::application\n",
+ "installedSize":"3364",
+ "downloadSize":"2807810",
+ "homepage":"http:\/\/freemind.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

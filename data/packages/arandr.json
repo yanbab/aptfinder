@@ -1,0 +1,9 @@
+{"package":"arandr",
+ "description":"Simple visual front end for XRandR",
+ "details":" ARandR is a visual front end for XRandR 1.2\/1.3 (per display options), which\n provides full control over positioning, saving and loading to\/from shell\n scripts and easy integration with other applications.\n scope::utility, uitoolkit::gtk, use::configuring, x11::application\n",
+ "installedSize":"480",
+ "downloadSize":"70906",
+ "homepage":"http:\/\/christian.amsuess.com\/tools\/arandr\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

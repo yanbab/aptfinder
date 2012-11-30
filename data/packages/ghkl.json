@@ -1,0 +1,9 @@
+{"package":"ghkl",
+ "description":"diffractometer computation control application",
+ "details":" The hkl library is a framework for diffraction computation and\n diffractometer control, heavily used at the SOLEIL synchrotron. It\n supports various types of diffractometer geometry: Eulerian 4-circle,\n Eulerian 6-circle, kappa 4-circle, kappa 6-circle, and z-axis\n geometry. For each of these it provides several numerically computed\n modes, such as bisector and constant psi.\n\n This package provides a gui on top of the hkl library.\n science::calculation, science::data-acquisition, uitoolkit::gtk\n",
+ "installedSize":"512",
+ "downloadSize":"206588",
+ "homepage":"http:\/\/www.synchrotron-soleil.fr\/portal\/page\/portal\/Instrumentation\/EnvironnementInstrumental\/hkl",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

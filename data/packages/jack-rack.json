@@ -1,0 +1,9 @@
+{"package":"jack-rack",
+ "description":"LADSPA effects \"rack\" for JACK",
+ "details":" JACK Rack is an effects \"rack\" for the JACK low latency audio API. The\n rack can be filled with LADSPA effects plugins and can be controlled\n using the ALSA sequencer. It's phat; it turns your computer into an\n effects box.\n works-with::audio, x11::application\n",
+ "installedSize":"328",
+ "downloadSize":"82502",
+ "homepage":"http:\/\/jack-rack.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

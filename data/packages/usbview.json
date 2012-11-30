@@ -1,0 +1,9 @@
+{"package":"usbview",
+ "description":"USB device viewer",
+ "details":" USBView is a small GTK+ application to show what the device tree of\n the USB bus looks like. It shows a graphical representation of the\n devices that are currently plugged in, showing the topology of the\n USB bus. It also displays information on each individual device on\n the bus.\n scope::utility, uitoolkit::gtk, use::viewing, x11::application\n",
+ "installedSize":"609",
+ "downloadSize":"214314",
+ "homepage":"http:\/\/www.kroah.com\/linux-usb\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

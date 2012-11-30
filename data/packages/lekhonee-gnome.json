@@ -1,0 +1,9 @@
+{"package":"lekhonee-gnome",
+ "description":"desktop client for wordpress blogs",
+ "details":" Lekhonee is a desktop client for publishing to Wordpress blogs.\n It talks to Wordpress blogging platform over xmlrpc and provides\n a better user experience for users of Wordpress blogs. It supports\n features like multiple Wordpress accounts, drafts, and categories.\n\n It was originally written in Qt, and GNOME frontend, written in vala,\n came later.\n role::program, suite::gnome, uitoolkit::gtk, web::blog,\n x11::application\n",
+ "installedSize":"435",
+ "downloadSize":"95756",
+ "homepage":"https:\/\/fedorahosted.org\/lekhonee\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

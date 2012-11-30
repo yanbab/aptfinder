@@ -1,0 +1,9 @@
+{"package":"nvtv",
+ "description":"tool to control TV chips on NVidia cards under Linux",
+ "details":" This is a program to control the TV encoder chips on NVidia cards under\n Linux, in order to get tv-out with a wide range of resolutions and\n sizes, including \"overscan\" modes. It does even work with the free nv drivers.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"842",
+ "downloadSize":"182110",
+ "homepage":"http:\/\/sourceforge.net\/projects\/nv-tv-out",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

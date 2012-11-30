@@ -1,0 +1,9 @@
+{"package":"gwakeonlan",
+ "description":"wakes up your machines using Wake on LAN",
+ "details":" gWakeOnLan is a GTK+ utility to awake turned off computers through the Wake\n on LAN feature. Both local and internet modes are supported.\n\n The machines to turn on need to be shut off with the Wake on LAN magic packet\n enabled.\n role::program, scope::application, uitoolkit::gtk, x11::application\n",
+ "installedSize":"324",
+ "downloadSize":"25880",
+ "homepage":"http:\/\/code.google.com\/p\/gwakeonlan\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

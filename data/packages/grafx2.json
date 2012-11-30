@@ -1,0 +1,9 @@
+{"package":"grafx2",
+ "description":"ultimate 256-color bitmap paint program",
+ "details":" This is a bitmap paint program that allows you to draw in more than 60 video\n resolutions (from 320x200 to 1024x768, including most of the standard Amiga\n resolutions: 320x256, 320x512, 640x256, 640x512, and more, provided your\n videocard knows how to handle them).\n\n This program is dedicated to everybody who knows what a single pixel is. Its\n layout is not very different from the famous Deluxe Paint or Brilliance, so\n it will be quite easy to handle it if you know at least one of these programs.\n If you aren't used to the art of drawing with up to 256 colors, it will be a\n little more difficult for you, but you should give it a try (or more, because\n most of the power of this program won't show up on the first try).\n use::editing, works-with::image, works-with::image:raster,\n x11::application\n",
+ "installedSize":"1186",
+ "downloadSize":"519380",
+ "homepage":"http:\/\/code.google.com\/p\/grafx2\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

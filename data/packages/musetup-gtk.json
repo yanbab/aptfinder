@@ -1,0 +1,9 @@
+{"package":"musetup-gtk",
+ "description":"Gtk based museekd configuration utility",
+ "details":" Museek+ is a file-sharing application for the Soulseek peer-to-peer network.\n It's a fork of Museek which now includes nearly all features supported by\n the official closed-source Soulseek client (Room Searching, Buddy-only\n shares, Interests, Banlists, Ignorelists, Icon Themes, Font\/Color selecting,\n etc.)\n\n X museekd configuration tool (Python\/GTK2).\n",
+ "installedSize":"291",
+ "downloadSize":"66878",
+ "homepage":"http:\/\/www.museek-plus.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"sentinella",
+ "description":"System monitor that can react to user chosen conditions",
+ "details":" While monitoring your CPU, memory, hard drive and network usage,\n Sentinella can be programmed to take specific actions when setpoints\n for utilization or time are met. It can power off, reboot or hibernate\n your system, kill an active process, throw an alarm or execute any\n command.\n\n It can measure the following conditions:\n   - CPU load\n   - Memory used\n   - Network traffic\n   - Date and time\n   - The existence of a process\n\n And the possible actions are:\n   - Shutdown\/Reboot the computer\n   - Standby\/Suspend\/Hibernate\n   - Execute a command\n   - Play an alarm\n   - Kill a process\n uitoolkit::qt, use::monitor, x11::application\n",
+ "installedSize":"761",
+ "downloadSize":"247842",
+ "homepage":"http:\/\/sourceforge.net\/projects\/sentinella\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

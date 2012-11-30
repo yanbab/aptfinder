@@ -1,0 +1,9 @@
+{"package":"okteta",
+ "description":"hexadecimal editor for binary files",
+ "details":" Okteta is a simple editor for the raw data of files. This type of program is\n also called hexadecimal editor or binary editor.\n\n The data is displayed in the traditional view with two columns: one with the\n numeric values and one with the assigned characters. Editing can be done both\n in the value column and the character column. Besides the usual editing\n capabilities Okteta also brings a small set of tools, like a table listing\n decodings into common simple data types, a table listing all possible bytes\n with its character and value equivalents, a info view with a statistic and a\n filter tool. All modifications to the data loaded can be endlessly undone or\n redone.\n\n This package is part of the KDE Software Development Kit module.\n uitoolkit::qt, works-with::file, x11::application\n",
+ "installedSize":"435",
+ "downloadSize":"111628",
+ "homepage":"http:\/\/www.kde.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

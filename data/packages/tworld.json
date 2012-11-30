@@ -1,0 +1,9 @@
+{"package":"tworld",
+ "description":"Chip's Challenge Game Engine Emulation",
+ "details":" Tile World is an emulation of the game \"Chip's Challenge\".  \"Chip's\n Challenge\" was originally written for the Atari Lynx by Chuck Sommerville,\n and was later ported to MS Windows by Microsoft (among other ports).\n\n Please note: Tile World is an emulation of the game engine(s) only.  It does\n not come with the chips.dat file that contains the original level set.  This\n file is copyrighted and cannot be freely distributed.  The chips.dat file\n was originally part of the MS version of \"Chip's Challenge\".  If you have a\n copy of this version of the game, you can use that file to play the game in\n Tile World.  If you do not have a copy of this file, however, you can still\n play Tile World with the many freely available level sets created by fans of\n the original game, including CCLP2.  Because the version that Microsoft\n released introduced a number of changes to the rules of the game, Tile World\n is capable of emulating either the MS version or the original Atari Lynx\n version of the game.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"240",
+ "downloadSize":"94746",
+ "homepage":"http:\/\/www.muppetlabs.com\/~breadbox\/software\/tworld\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

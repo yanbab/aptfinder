@@ -1,0 +1,9 @@
+{"package":"bibletime",
+ "description":"bible study tool for Qt",
+ "details":" BibleTime is a free and easy to use bible study tool.\n It uses the Qt and SWORD software libraries.\n BibleTime provides easy handling of digitized texts (Bibles, commentaries\n and lexicons) and powerful features to work with these texts (search in\n texts, write own notes, save, print etc.) in the SWORD module format.\n role::program, suite::kde, uitoolkit::qt, use::learning,\n use::searching, use::viewing, x11::application\n",
+ "installedSize":"2422",
+ "downloadSize":"920180",
+ "homepage":"http:\/\/www.bibletime.info\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

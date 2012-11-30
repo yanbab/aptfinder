@@ -1,0 +1,9 @@
+{"package":"gtamsanalyzer.app",
+ "description":"Qualitative Research Software for GNUstep",
+ "details":" GTAMS Analyzer is a complete coding and analysis package. It is a \"port\" of\n TAMS Analyzer for Macintosh OS X. Note, at some point the two projects will\n have identical file formats, at which point  the initial G (for GNUstep)\n will be dropped. GTAMS stands for GNUstep Text Analysis Markup System, it\n is a convention for identifying themes in text. The software offers a wide\n range of tools for applying themes to texts and identifying patterns of\n themes within and between texts.\n uitoolkit::gnustep, use::scanning, works-with::text, x11::application\n",
+ "installedSize":"3032",
+ "downloadSize":"589434",
+ "homepage":"http:\/\/tamsys.sourceforge.net\/gtams\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

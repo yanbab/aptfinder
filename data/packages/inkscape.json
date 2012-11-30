@@ -1,0 +1,9 @@
+{"package":"inkscape",
+ "description":"vector-based drawing program",
+ "details":" Inkscape loads and saves a subset of the SVG (Scalable Vector Graphics)\n format, a standard maintained by the WWW consortium.\n\n Inkscape user interface should be familiar from CorelDraw and similar\n drawing programs. There are rectangles, ellipses, text items, bitmap\n images and freehand curves.\n As an added bonus, both vector and bitmap objects can have alpha\n transparency and can be arbitrarily transformed.\n\n Inkscape supports multiple opened files and multiple views per file.\n Graphics can be printed and exported to png bitmaps.\n\n Some of the import and export features are provided using the packages\n dia, libwmf-bin, pstoedit, skencil, imagemagick, and perlmagick.\n\n Other extensions use ruby, libxml-xql-perl, python-numpy, and python-lxml.\n You must have these packages to make full use of all extensions and effects.\n\n If you want to use the spellchecker, you have to install aspell and the\n respective language-pack, e.g. aspell-en or aspell-de.\n scope::application, uitoolkit::gtk, use::editing,\n works-with-format::pdf, works-with-format::postscript,\n works-with-format::svg, works-with-format::tex, works-with::image,\n works-with::image:vector, x11::application\n",
+ "installedSize":"78924",
+ "downloadSize":"24728870",
+ "homepage":"http:\/\/www.inkscape.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

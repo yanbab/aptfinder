@@ -1,0 +1,9 @@
+{"package":"praat",
+ "description":"program for speech analysis and synthesis",
+ "details":" According to its authors, praat is \"doing phonetics by computer\".  Through\n its graphical interface, several speech analysis functionalities are\n available: spectrograms, cochleograms, and pitch and formant\n extraction.  Articulatory synthesis, as well as synthesis from pitch,\n formant, and intensity are also available.  Other features are\n segmentation, labelling using the phonetic alphabet, and computation of\n statistics.  Praat is configurable and extensible through its own scripting\n language and has provisions for communicating with other programs.\n uitoolkit::motif, works-with::audio, x11::application\n",
+ "installedSize":"15436",
+ "downloadSize":"4344950",
+ "homepage":"http:\/\/www.praat.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

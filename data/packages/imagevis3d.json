@@ -1,0 +1,9 @@
+{"package":"imagevis3d",
+ "description":"desktop volume rendering application for large data",
+ "details":" ImageVis3D is a volume rendering application specifically designed to render\n large data.  This is achieved by splitting the dataset into multiple levels of\n detail (LoD), with each level itself decomposed into multiple bricks (atomic\n rendering primitive).  Interaction occurs at the coarsest LoD, which can be\n rendered instantaneously on almost all modern systems.  After a configurable\n delay, ImageVis3D will successively render finer levels of detail, until the\n data are visible at their native resolution.\n\n Development of ImageVis3D is sponsored by the NIH\/NCRR Center for Integrative\n Biomedical Computing (CIBC), and the DOE Visualization And Analytics Center for\n Enabling Technologies (VACET).\n",
+ "installedSize":"11017",
+ "downloadSize":"4269668",
+ "homepage":"http:\/\/www.imagevis3d.com",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

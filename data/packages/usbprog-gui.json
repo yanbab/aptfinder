@@ -1,0 +1,9 @@
+{"package":"usbprog-gui",
+ "description":"GUI firmware programming tool for the USBprog hardware",
+ "details":" A programming tool needed to replace the firmware on the USBprog\n hardware. It can automatically retrieve a list of available firmwares from\n the Internet, download one of them and upload it to the USBprog adapter.\n\n USBprog is a free programming adapter. You can easily install different\n firmware versions from an \"online pool\" over USB. The adapter can be used\n for programming and debugging AVR and ARM processors, as USB-to-RS232\n converter, as JTAG interface or as simple I\/O interface (5 lines).\n\n This package contains a GUI for the usbprog tool.\n",
+ "installedSize":"257",
+ "downloadSize":"81176",
+ "homepage":"http:\/\/developer.berlios.de\/projects\/usbprog\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

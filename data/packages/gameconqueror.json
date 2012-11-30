@@ -1,0 +1,9 @@
+{"package":"gameconqueror",
+ "description":"GUI for scanmem, a game hacking tool",
+ "details":" Scanmem is a simple interactive debugging utility for Linux, used to locate\n the address of a variable in a running process. This can be used for the\n analysis or modification of a hostile process on a compromised machine, for\n reverse engineering, or as a \"pokefinder\" to cheat at video games.\n\n GameConqueror is a GUI for scanmem, aims to provide more features than\n scanmem, and CheatEngline-alike user-friendly interface.\n",
+ "installedSize":"357",
+ "downloadSize":"69098",
+ "homepage":"http:\/\/code.google.com\/p\/scanmem\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

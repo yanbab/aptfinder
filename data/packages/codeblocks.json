@@ -1,0 +1,9 @@
+{"package":"codeblocks",
+ "description":"Code::Blocks integrated development environment (IDE)",
+ "details":" Code::Blocks is a cross-platform Integrated Development Environment (IDE).\n It is based on a self-developed plugin framework allowing unlimited\n extensibility. Most of its functionality is already provided by plugins.\n Plugins included in the base package are:\n    * Compiler frontend to many free compilers\n    * Debugger frontend for GDB (and CDB for windows platforms)\n    * Source formatter (based on AStyle)\n    * Wizard to create new C++ classes\n    * Code-completion \/ symbols-browser (work in progress)\n    * Default MIME handler\n    * Wizard to create new Code::Blocks plugins\n    * To-do list\n    * Extensible wizard based on scripts\n    * Autosave (saves your work in the unfortunate case of a crash)\n",
+ "installedSize":"4862",
+ "downloadSize":"1913318",
+ "homepage":"http:\/\/codeblocks.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

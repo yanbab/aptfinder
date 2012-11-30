@@ -1,0 +1,9 @@
+{"package":"saods9",
+ "description":"Image display tool for astronomy",
+ "details":" SAOImage DS9 is an astronomical imaging and data visualization\n application. DS9 supports FITS images and binary tables, multiple frame\n buffers, region manipulation, and many scale algorithms and colormaps. It\n provides for easy communication with external analysis tasks and is highly\n configurable and extensible via XPA and SAMP.\n\n All versions and platforms support a consistent set of GUI and\n functional capabilities.\n\n DS9 supports advanced features such as 2-D, 3-D and RGB frame buffers, mosaic\n images, tiling, blinking, geometric markers, colormap manipulation, scaling,\n arbitrary zoom, cropping, rotation, pan, and a variety of coordinate\n systems.\n\n The GUI for DS9 is user configurable. GUI elements such as the coordinate\n display, panner, magnifier, horizontal and vertical graphs, button bar, and\n color bar can be configured via menus or the command line.\n",
+ "installedSize":"2879",
+ "downloadSize":"875972",
+ "homepage":"http:\/\/hea-www.harvard.edu\/RD\/ds9\/site\/Home.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

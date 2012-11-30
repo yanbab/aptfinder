@@ -1,0 +1,9 @@
+{"package":"xye",
+ "description":"puzzle game - get all the gems in the room",
+ "details":" Xye is a puzzle game in which the objective is to help a character that looks\n like a green circle to get all the gems in the room. This is, of course, not as\n easy as it sounds, Xye must solve all sorts of puzzles while at the same time\n avoiding all sorts of traps and beasts.\n\n Xye is similar to other puzzle games like sokoban or boulderdash, yet it also\n includes some arcade elements.\n\n Xye is a derivative of a classic windows game called Kye, which is the base of\n the gameplay experience and visual elements. Xye is able to play level files\n that were made for Kye and Sokoban. It is also able to play custom .xye files,\n a richer level format that allows the new objects and features, you can make\n these levels by hand or by using the built-in editor that comes with the game.\n use::gameplaying, x11::application\n",
+ "installedSize":"600",
+ "downloadSize":"257400",
+ "homepage":"http:\/\/xye.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

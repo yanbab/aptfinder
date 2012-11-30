@@ -1,0 +1,9 @@
+{"package":"golly",
+ "description":"Game of Life simulator using hashlife algorithm",
+ "details":" Golly simulates Conway's Game of Life with an arbitrarily large grid\n of cells.  It can optionally use a hashlife algorithm, which allows\n it to rapidly compute generations for huge patterns, and to compute\n many generations into the future at a time.\n\n Golly provides a graphical interface for viewing and editing cellular\n automata.  It supports copy and paste, zoom, auto-fit, multiple\n layers, and viewing different areas of a pattern simultaneously in\n different areas of a window.\n\n Golly can load patterns from RLE, Life 1.05\/1.06, dblife, and\n macrocell file formats; it can also interpret images as Life\n patterns.  Golly provides integrated help, including a copy of the\n Life Lexicon.\n\n Golly also supports other rules for 2D cellular automata with an\n 8-cell neighborhood, and supports 1D cellular automata.\n",
+ "installedSize":"7318",
+ "downloadSize":"2797392",
+ "homepage":"http:\/\/golly.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

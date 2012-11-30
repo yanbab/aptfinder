@@ -1,0 +1,9 @@
+{"package":"chemtool",
+ "description":"chemical structures drawing program",
+ "details":" Chemtool is a GTK+ based 2D chemical structure editor for X11. It\n supports many bond styles, most forms of text needed for chemical\n typesetting and splines\/arcs\/curved arrows.\n\n Drawings can be exported to MOL and PDB format, SVG or XFig format for\n further annotation, as a PiCTeX drawing, as a bitmap or as Postscript\n files (several of these through XFig's companion program transfig).\n\n The package also contains a helper program, cht, to calculate sum\n formula and (exact) molecular weight from a chemtool drawing file. Cht\n can either be called directly by Chemtool or on the console.\n scope::application, uitoolkit::gtk, use::editing,\n works-with-format::svg, works-with::image, works-with::image:vector,\n x11::application\n",
+ "installedSize":"1020",
+ "downloadSize":"291820",
+ "homepage":"http:\/\/ruby.chemie.uni-freiburg.de\/~martin\/chemtool\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

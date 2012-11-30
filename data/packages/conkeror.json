@@ -1,0 +1,9 @@
+{"package":"conkeror",
+ "description":"keyboard focused web browser with Emacs look and feel",
+ "details":" Conkeror is a highly-programmable web browser based on Mozilla\n XULRunner which is the base of all Mozilla products including\n Firefox. Conkeror has a sophisticated keyboard system for running\n commands and interacting with web page content, modelled after Emacs\n and Lynx. It is self-documenting and extensible with JavaScript.\n\n It comes with builtin support for several Web 2.0 sites like several\n Google services (Search, Gmail, Maps, Reader, etc.), Del.icio.us,\n Reddit, Last.fm and YouTube. For easier editing of form fields, it\n can spawn external editors. For this feature the recommended\n conkeror-spawn-process-helper package needs to be installed.\n\n Despite its very similar sounding name, Conkeror is not related to\n the KDE web browser and file manager Konqueror in any way.\n network::client, protocol::ftp, protocol::http, role::program,\n scope::application, suite::emacs, uitoolkit::TODO, use::browsing,\n web::browser, works-with-format::html, works-with::text,\n x11::application\n",
+ "installedSize":"1125",
+ "downloadSize":"255614",
+ "homepage":"http:\/\/conkeror.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

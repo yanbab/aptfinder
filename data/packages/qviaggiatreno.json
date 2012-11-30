@@ -1,0 +1,8 @@
+{"package":"qviaggiatreno",
+ "description":"Qt tool to monitor the Italian railway traffic",
+ "details":" QViaggiaTreno is a tool to monitor the Italian railway traffic. It is based\n on Qt and it acts as a GUI for ViaggiaTreno, a web tool developed by Italian\n Railways.\n use::monitor, x11::application\n",
+ "installedSize":"484",
+ "downloadSize":"183510",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"fgrun",
+ "description":"graphical frontend for running FlightGear",
+ "details":" FlightGear Launch Control (FGRun) is a graphical frontend for running the\n FlightGear Flight Simulator (fgfs).\n\n It includes the ability to configure your scenery paths FlightGear setup.\n When selecting an aircraft you are able to view a complete 3d model and see\n its development status and author. When selecting an airport or carrier to\n launch from you can chose either by the ICAO ID (International Civilian\n Aviation Organisation Identifier) or the airport id, with the flexibility of\n selecting a runway and parking position also.\n\n When launching the simulation FGRun includes a comprehensive configuration\n system, allowing you to directly configure settings such as screen resolution\n and multiplayer settings.\n\n FGRun also includes support for TerraSync, a tool included with FlightGear\n that allows you to download and use scenery while in the simulation, it can\n also preload the scenery for your selected location as the airport selection\n screen.\n",
+ "installedSize":"649",
+ "downloadSize":"220826",
+ "homepage":"http:\/\/fgrun.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

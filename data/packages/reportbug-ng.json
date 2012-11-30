@@ -1,0 +1,9 @@
+{"package":"reportbug-ng",
+ "description":"An easy to use alternative to Debian's classic reportbug",
+ "details":" Reportbug-NG is a graphical interface using Qt for searching, filtering,\n reporting or manipulating bugs in Debian's Bug Tracking System.\n suite::debian, uitoolkit::qt, works-with::bugs, x11::application\n",
+ "installedSize":"311",
+ "downloadSize":"76614",
+ "homepage":"http:\/\/reportbug-ng.alioth.debian.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

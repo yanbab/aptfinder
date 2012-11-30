@@ -1,0 +1,9 @@
+{"package":"nautilus-compare",
+ "description":"Context menu comparison extension for Nautilus file manager",
+ "details":" Simple context menu file comparison extension for Nautilus 3 and above,\n inspired by the discontinued 'diff-ext' extension. By default it uses\n 'meld' to do the comparison and provides \"Compare\", \"Compare to ~\/foo\/bar\"\n and \"Compare Later\" in Nautilus context menu. Using the configurator tool\n you can choose your favourite compare tool for one-on-one, three-way and\n multi-compare situations.\n",
+ "installedSize":"83",
+ "downloadSize":"8718",
+ "homepage":"https:\/\/launchpad.net\/nautilus-compare",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

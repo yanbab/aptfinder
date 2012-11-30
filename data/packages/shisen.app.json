@@ -1,0 +1,9 @@
+{"package":"shisen.app",
+ "description":"Shisen-sho puzzle game for GNUstep",
+ "details":" The object of the game is to remove all tiles from the field. Only two\n matching tiles can be removed at a time. Two tiles can only be removed\n if they can be connected with at most three connected lines. Lines can\n be horizontal or vertical but not diagonal. Remember that lines may\n cross the empty border. If you are stuck, you can use the Hint feature\n to find two tiles which may be removed.\n role::program, suite::gnustep, uitoolkit::gnustep, use::gameplaying,\n x11::applet\n",
+ "installedSize":"1072",
+ "downloadSize":"55624",
+ "homepage":"http:\/\/www.gnustep.it\/enrico\/gshisen\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

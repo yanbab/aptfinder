@@ -1,0 +1,8 @@
+{"package":"gshare",
+ "description":"Easy user-level file sharing for GNOME",
+ "details":" GShare is a small GNOME application that allows easy user-level file sharing\n via FTP. DNS-SD is used to publish the share on the local network.\n protocol::zeroconf, role::program, scope::application, suite::gnome,\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"236",
+ "downloadSize":"162242",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

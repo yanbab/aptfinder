@@ -1,0 +1,9 @@
+{"package":"jigzo",
+ "description":"Photo puzzle game for children",
+ "details":" jigzo (formerly glpuzzle) is a jigsaw puzzle game. Choose from 12 puzzles of\n increasing difficult. The difficulty ranges from 4 to 25 puzzle pieces. This\n game requires a OpenGl hardware acceleration.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"157",
+ "downloadSize":"45960",
+ "homepage":"http:\/\/www.resorama.com\/jigzo\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

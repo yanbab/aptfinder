@@ -1,0 +1,9 @@
+{"package":"kmenuedit",
+ "description":"XDG menu editor",
+ "details":" This package provides a menu editor which may be used to edit the KDE Plasma\n workspaces menu or any other XDG menu.\n\n This package is part of the KDE base workspace module.\n suite::kde, uitoolkit::qt, use::editing, x11::application\n",
+ "installedSize":"639",
+ "downloadSize":"278676",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

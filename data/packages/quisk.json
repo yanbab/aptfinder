@@ -1,0 +1,9 @@
+{"package":"quisk",
+ "description":"Software Defined Radio (SDR)",
+ "details":" Quisk uses ALSA sound drivers or PortAudio and offers these capabilities:\n    * Quisk can control the HiQSDR.\n    * As a receiver it can use the SDR-IQ by RfSpace as a sample\n    source.  There are several decimation rates available.  The QUISK\n    receiver will read the sample data, tune it, filter it, demodulate\n    it, and send the audio to the sound card for output to external\n    headphones or speakers.\n    * As a receiver it can use your soundcard as a sample source.  You\n    supply a complex (I\/Q) mixer to convert radio spectrum to a low\n    IF, and send that IF to the left and right inputs of the sound\n    card in your computer.  The demodulated audio goes to the same\n    soundcard for output.\n    * Quisk can control SoftRock hardware for both receive and transmit.\n    * As a transmitter it can control an SSB\/CW exciter and a\n    transceiver using Ethernet.\n    * As a transmitter it can accept microphone input and send that to\n    a transmitter for SSB operation.  For CW, QUISK can mute the\n    audio and substitute a side tone.  Quisk can send transmit data to\n    your sound card for use with SoftRock or similar.\n",
+ "installedSize":"1088",
+ "downloadSize":"335254",
+ "homepage":"http:\/\/james.ahlstrom.name\/quisk\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

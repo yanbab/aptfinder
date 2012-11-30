@@ -1,0 +1,9 @@
+{"package":"scilab",
+ "description":"Scientific software package for numerical computations",
+ "details":" Scilab is a matrix-based scientific software package.\n Scilab contains hundreds of built-in mathematical functions, rich\n data structures (including polynomials, rationals, linear systems, lists,\n etc...) and comes with a number of specific toolboxes for control, signal\n processing, ...\n\n This package also provides Xcos, a graphical editor to design hybrid\n dynamical systems models. Models can be designed, loaded, saved, compiled and\n simulated.\n Stable and efficient solution for industrial and academics needs, Xcos\n provides functionalities for modeling of mechanical systems (automotive,\n aeronautics...), hydraulic circuits (dam, pipe modeling...), control systems,\n etc. Modelica capabilities are also provided.\n\n Scilab is one of the most credible alternatives to Matlab and Simulink.\n\n For a minimum version of scilab, install package \"scilab-cli\".\n field::statistics, implemented-in::c, implemented-in::fortran,\n interface::x11, role::program, scope::utility, uitoolkit::tk,\n use::analysing, works-with::image, x11::application\n",
+ "installedSize":"629",
+ "downloadSize":"268290",
+ "homepage":"http:\/\/www.scilab.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

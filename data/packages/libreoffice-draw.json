@@ -1,0 +1,9 @@
+{"package":"libreoffice-draw",
+ "description":"office productivity suite -- drawing",
+ "details":" LibreOffice is a full-featured office productivity suite that provides\n a near drop-in replacement for Microsoft(R) Office.\n\n This package contains the drawing component for LibreOffice.\n works-with-format::jpg, works-with-format::png, works-with::image,\n works-with::image:raster, x11::application\n",
+ "installedSize":"11187",
+ "downloadSize":"2537666",
+ "homepage":"http:\/\/www.libreoffice.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

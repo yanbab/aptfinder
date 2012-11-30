@@ -1,0 +1,8 @@
+{"package":"gnome-session-fallback",
+ "description":"GNOME Session Manager - GNOME fallback session",
+ "details":" The GNOME Session Manager is in charge of starting the core components\n of the GNOME desktop, and applications that should be launched at\n login time. It also features a way to save and restore currently\n running applications.\n\n This package contains the required components for the GNOME 3 fallback\n session, based on the GNOME Panel. It can be started from a display\n manager such as GDM, and doesn\u2019t have specific hardware requirements.\n",
+ "installedSize":"178",
+ "downloadSize":"130832",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

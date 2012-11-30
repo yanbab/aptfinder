@@ -1,0 +1,9 @@
+{"package":"pcalendar",
+ "description":"track menstrual cycles and predict fertility periods",
+ "details":" Periodic Calendar is a GUI application which assists in women menstrual\n cycles tracking and fertility periods prediction. This information can\n be used as supportive either for conception or contraception planning.\n\n Periodic Calendar provides support for BBT and sympto-thermal methods\n which have the highest reliability in fertility periods prediction. User\n can choose any subset of the features to be used or even fall to the generic\n calendar method (which if used alone is very unreliable).\n\n Authors of the Periodic Calendar still insist on not being an equal\n substitute to the fertility planning consultants or doctors. Before\n using this application please talk to your doctor or read a good book\n on the subject.\n\n THE PREDICTIONS MADE BY THIS PROGRAM CAN BE NEVER BE CONSIDERED AS FINAL. THE\n METHODS USED ARE NOT 100% EFFECTIVE FOR ALL WOMEN.\n",
+ "installedSize":"630",
+ "downloadSize":"545664",
+ "homepage":"http:\/\/linuxorg.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

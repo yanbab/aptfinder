@@ -1,0 +1,9 @@
+{"package":"kremotecontrol",
+ "description":"frontend for using remote controls",
+ "details":" KRemoteControl is a KDE frontend for your remote controls. It allows you\n to configure actions for button presses on remotes. All types of remotes\n supported by Solid are also supported by KRemoteControl.\n\n KRemoteControl consists of the following parts:\n  * a control module that allows one to create and assign actions.\n  * a kded module responsible for executing the actions.\n  * a system tray applet for visual feedback.\n  * a Plasma data engine for interacting with remotes from Plasma widgets.\n\n This package is part of the KDE SC utilities module.\n suite::kde, uitoolkit::qt, x11::application\n",
+ "installedSize":"1869",
+ "downloadSize":"1251694",
+ "homepage":"http:\/\/www.kde.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

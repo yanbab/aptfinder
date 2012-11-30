@@ -1,0 +1,9 @@
+{"package":"freegish",
+ "description":"physics based arcade game",
+ "details":" Freegish is a 2D platform game, where the player maneuvers character of a ball\n of tar. Character may become sticky, slick, heavy and can jump.\n\n The game contains only first five levels of the single player campaign and few\n multiplayer levels for mini games like sumo or football.\n\n Freegish is based on open sourced code of the famous game called Gish with\n added free art assets.\n",
+ "installedSize":"498",
+ "downloadSize":"169914",
+ "homepage":"https:\/\/www.github.com\/megagun\/gish",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

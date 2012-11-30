@@ -1,0 +1,9 @@
+{"package":"jmol",
+ "description":"Molecular Viewer",
+ "details":" Jmol is a Java molecular viewer for three-dimensional chemical structures.\n Features include reading a variety of file types and output from quantum\n chemistry programs, and animation of multi-frame files and computed normal\n modes from quantum programs.  It includes with features for chemicals,\n crystals, materials and biomolecules.  Jmol might be useful for students,\n educators, and researchers in chemistry and biochemistry.\n\n File formats read by Jmol include PDB, XYZ, CIF, CML, MDL Molfile, Gaussian,\n GAMESS, MOPAC, ABINIT, ACES-II, Dalton and VASP.\n",
+ "installedSize":"702",
+ "downloadSize":"258708",
+ "homepage":"http:\/\/jmol.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,8 @@
+{"package":"scolasync",
+ "description":"graphic tool to copy data to or from a set of USB storage media",
+ "details":" Teachers may use this package to manage a set of USB sticks owned by their\n students. The keys are recognized (with their owner's name), and the teachers\n can copy assignments to them and retrieve consistently the homeworks from\n the usb sticks.\n scope::application, uitoolkit::qt, use::learning, use::storing,\n use::transmission, x11::application\n",
+ "installedSize":"4593",
+ "downloadSize":"1170214",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

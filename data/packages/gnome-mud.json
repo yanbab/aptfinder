@@ -1,0 +1,9 @@
+{"package":"gnome-mud",
+ "description":"The GNOME MUD client",
+ "details":" GNOME-Mud is a Multi-User Dungeon (MUD) client for X. It supports aliases,\n triggers, multiple connections, command queuing, IPv6 servers and implements\n more advanced MUD protocols like MSP or ZMP. It includes a plugin interface,\n which can be used to add your own features (for example, a graphical health\n monitor).  It uses the GTK+ toolkit, but it can be used with any window\n manager.\n uitoolkit::ncurses, use::gameplaying, x11::application\n",
+ "installedSize":"1508",
+ "downloadSize":"326132",
+ "homepage":"http:\/\/live.gnome.org\/GnomeMud",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

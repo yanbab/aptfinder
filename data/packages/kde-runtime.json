@@ -1,0 +1,9 @@
+{"package":"kde-runtime",
+ "description":"runtime components from the official KDE release",
+ "details":" KDE is produced by an international technology team that creates free and open\n source software for desktop and portable computing. Among KDE's products are a\n modern desktop system for Linux and UNIX platforms, comprehensive office\n productivity and groupware suites and hundreds of software titles in many\n categories including Internet and web applications, multimedia, entertainment,\n educational, graphics and software development.\n\n This package contains programs and data needed at runtime by KDE applications.\n",
+ "installedSize":"9721",
+ "downloadSize":"2216626",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

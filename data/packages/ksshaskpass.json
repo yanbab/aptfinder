@@ -1,0 +1,9 @@
+{"package":"ksshaskpass",
+ "description":"interactively prompt users for a passphrase for ssh-add",
+ "details":" A KDE 4 version of ssh-askpass with KWallet support.\n uitoolkit::qt\n",
+ "installedSize":"96",
+ "downloadSize":"9426",
+ "homepage":"http:\/\/www.kde-apps.org\/content\/show.php\/show.php?content=50971",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

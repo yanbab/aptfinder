@@ -1,0 +1,9 @@
+{"package":"confclerk",
+ "description":"offline conference schedule application",
+ "details":" ConfClerk is an application written in Qt, which makes conference schedules\n available offline. It displays the conference schedule from various views,\n support searches on various items (speaker, speech topic, location, etc.) and\n enables you to select favorite events and create your own schedule.\n\n At the moment ConfClerk is able to import schedules in XML format created by\n the PentaBarf conference management system (or frab) used by e.g. FOSDEM,\n DebConf, FrOSCon, Grazer LinuxTage, and the CCC congresses.\n\n ConfClerk is targeted at mobile devices but works on any sytem running Qt.\n x11::application\n",
+ "installedSize":"609",
+ "downloadSize":"281538",
+ "homepage":"http:\/\/www.toastfreeware.priv.at\/confclerk",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

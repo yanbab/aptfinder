@@ -1,0 +1,9 @@
+{"package":"xine-ui",
+ "description":"the xine video player, user interface",
+ "details":" This is an X11 based GUI for the libxine video player library.\n It provides xine, a skin based media player that can play all the\n audio\/video formats that libxine supports. Currently, this includes MPEG1\/2,\n some AVI and Quicktime files, some network streaming methods and disc based\n media (VCD, SVCD, DVD). A more complete list can be found on\n http:\/\/xinehq.de\/index.php\/features\/.\n\n Most DVDs on the market today are play-protected by the Content Scrambling\n System (CSS). Xine does not provide any code to descramble those DVDs,\n because of legal uncertainties. Have a look at\n \/usr\/share\/doc\/xine-ui\/README.Debian for more information!\n scope::application, sound::player, uitoolkit::gtk, uitoolkit::ncurses,\n use::playing, works-with::audio, works-with::video, x11::application\n",
+ "installedSize":"2799",
+ "downloadSize":"1512208",
+ "homepage":"http:\/\/xine-project.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

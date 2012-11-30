@@ -1,0 +1,9 @@
+{"package":"opencascade-draw",
+ "description":"OpenCASCADE CAE platform shared library",
+ "details":" OpenCASCADE is a suite for 3D surface and solid modeling, visualization, data\n exchange and rapid application development.  It is an excellent platform for\n development of numerical simulation software including CAD\/CAM\/CAE, AEC and\n GIS, as well as PDM applications.\n\n This package contains the DRAW test harness.\n",
+ "installedSize":"4680",
+ "downloadSize":"1763206",
+ "homepage":"http:\/\/www.opencascade.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

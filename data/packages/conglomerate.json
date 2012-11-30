@@ -1,0 +1,9 @@
+{"package":"conglomerate",
+ "description":"user-friendly XML editor",
+ "details":" Conglomerate is a free, as in GPL, user-friendly XML-file editor,\n for DocBook and other document types.\n It aims to hide the complexity and jargon of XML behind a friendly GUI.\n use::editing, works-with-format::xml, x11::application\n",
+ "installedSize":"775",
+ "downloadSize":"271326",
+ "homepage":"http:\/\/www.conglomerate.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

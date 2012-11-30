@@ -1,0 +1,9 @@
+{"package":"deluge-gtk",
+ "description":"bittorrent client written in Python\/PyGTK (GTK+ ui)",
+ "details":" Deluge is a full-featured, multi-platform, multi-interface BitTorrent client\n using libtorrent-rasterbar in it's backend and featuring multiple\n user-interfaces: GTK+, web and console.\n\n It has been designed using the client-server model with a daemon process that\n handles all the bittorrent activity. The Deluge daemon is able to run on\n headless machines with the user-interfaces being able to connect remotely\n from any platform.\n\n You may want to install this package to use the Deluge GTK+ user-interface\n as a thin client and connect to a remote daemon.\n See: <URL:http:\/\/dev.deluge-torrent.org\/wiki\/UserGuide\/ThinClient>\n protocol::bittorrent, role::program, uitoolkit::gtk, use::downloading,\n x11::application\n",
+ "installedSize":"1613",
+ "downloadSize":"265732",
+ "homepage":"http:\/\/www.deluge-torrent.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"swac-explore",
+ "description":"audio collections of words (SWAC) explorer",
+ "details":" Swac-explore is a GTK+ interface written in C++ which allows to browse audio\n collections of words (SWAC). The program reads data from a SQLite3 database\n (~\/.swac\/swac.db) which can be generated and managed by the swac-get command\n line program.\n",
+ "installedSize":"240",
+ "downloadSize":"56976",
+ "homepage":"http:\/\/shtooka.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

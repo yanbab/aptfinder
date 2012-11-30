@@ -1,0 +1,9 @@
+{"package":"pida",
+ "description":"Python Integrated Development Application, a Python IDE",
+ "details":" PIDA is the Python Integrated Development Application.\n It is an IDE (integrated development environment) written\n in Python (http:\/\/www.python.org\/) and the GTK+\n (http:\/\/www.pygtk.org\/) graphical toolkit.\n\n Pida is an IDE, but one that is slightly different from\n other IDEs. Rather than attempting to write a set of\n development tools  of its own, Pida uses tools that the\n developer has available. In this regards Pida can be used as\n a framework for putting together your own bespoke IDE.\n\n Although still a young application, Pida can already boast\n a huge number of features because of the power of some of\n the tools it integrates. For example features such as code completion\n and syntax highlighting are well implemented in Pida's integrated editors\n far better than any editor built for a commercial IDE. Pida currently features:\n Full code editing (syntax highlighting, code completion, automatic indenting,\n block commenting etc) Project management, version control management,\n Python debugger and profiler, GTK+ graphical user interface building and\n rapid application design, Pastebin integration.\n devel::profiler, devel::ui-builder, implemented-in::python,\n interface::x11, role::program, scope::application, uitoolkit::gtk,\n use::editing, works-with::software:running,\n works-with::software:source, works-with::vcs, x11::application\n",
+ "installedSize":"5736",
+ "downloadSize":"484608",
+ "homepage":"http:\/\/pida.co.uk\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

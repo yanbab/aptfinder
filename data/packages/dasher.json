@@ -1,0 +1,8 @@
+{"package":"dasher",
+ "description":"A graphical predictive text input system",
+ "details":" Dasher is an information-efficient text-entry interface, driven by natural\n continuous pointing gestures. Dasher is a competitive text-entry system\n wherever a full-size keyboard cannot be used - for example,\n\n  * on a palmtop computer\n  * on a wearable computer\n  * when operating a computer one-handed, by joystick, touchscreen, trackball,\n  or mouse\n  * when operating a computer with zero hands (i.e., by head-mouse or by\n  eyetracker).\n\n The eyetracking version of Dasher allows an experienced user to write text\n as fast as normal handwriting - 25 words per minute; using a mouse,\n experienced users can write at 39 words per minute.\n\n Dasher uses a more advanced prediction algorithm than the T9(tm) system\n often used in mobile phones, making it sensitive to surrounding context.\n suite::gnome, uitoolkit::gtk, x11::application\n",
+ "installedSize":"972",
+ "downloadSize":"326864",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

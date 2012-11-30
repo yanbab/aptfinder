@@ -1,0 +1,9 @@
+{"package":"ksystemlog",
+ "description":"system log viewer",
+ "details":" KSystemLog show all logs of your system, grouped by General (Default system\n log, Authentication, Kernel, X.org...), and optional Services (Apache, Cups,\n etc, ...). It includes many features to read nicely your log files:\n  * Colorize log lines depending on their severities\n  * Tabbed view to allow displaying several logs at the same time\n  * Auto display new lines logged\n  * Detailed information for each log lines\n\n This package is part of the KDE administration module.\n security::log-analyzer, suite::kde, uitoolkit::qt, works-with::logfile,\n x11::application\n",
+ "installedSize":"990",
+ "downloadSize":"451596",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

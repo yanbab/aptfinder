@@ -1,0 +1,9 @@
+{"package":"synfigstudio",
+ "description":"vector-based 2D animation package (graphical user interface)",
+ "details":" synfig is a vector based 2D animation package. It is designed to be\n capable of producing feature-film quality animation. It eliminates the\n need for tweening, preventing the need to hand-draw each frame.\n\n This package contains the graphical user interface for synfig.\n scope::application, uitoolkit::gtk, use::editing,\n works-with-format::gif, works-with-format::jpg, works-with-format::png,\n works-with-format::tiff, works-with::image, works-with::image:raster,\n works-with::image:vector, x11::application\n",
+ "installedSize":"8743",
+ "downloadSize":"4216722",
+ "homepage":"http:\/\/www.synfig.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

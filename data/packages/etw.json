@@ -1,0 +1,9 @@
+{"package":"etw",
+ "description":"arcade-style soccer game",
+ "details":" Eat The Whistle is an arcade soccer game similar to famous Amiga titles such\n as Kick Off or Sensible Soccer. It features several game modes where you can\n play either as the whole team or as a single player, and you can also manage\n teams that take part in cups and leagues. There is even an arcade mode with\n powerups and bonuses, like in the game SpeedBall 2.\n\n Eat The Whistle features 30 different field types and numerous sound effects.\n The game is viewed from the side and can be controlled with either a joystick\n or the keyboard.\n\n Most in-game settings are configurable, such as the pitch, weather and game\n daytime, which will impact on the gameplay. There is a replay mode that lets\n you load and save best moments, a game tactics editor, and teams from the\n game Sensible World of Soccer can be directly imported.\n interface::x11, junior::arcade, role::program, uitoolkit::gtk,\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"443",
+ "downloadSize":"155094",
+ "homepage":"http:\/\/www.ggsoft.org\/etw\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"mcrl2",
+ "description":"formal specification language toolset",
+ "details":" mCRL2 stands for micro Common Representation Language 2.  It is a\n specification language that can be used to specify and analyse the\n behaviour of distributed systems and protocols and is the successor to\n muCRL.  Using its accompanying toolset, systems can be analysed and\n verified automatically.\n\n This toolset supports a collection of tools for linearisation, simulation,\n state-space exploration and generation and tools to optimise and analyse\n specifications.  Moreover, state spaces can be manipulated, visualised and\n analysed.\n",
+ "installedSize":"43454",
+ "downloadSize":"13895040",
+ "homepage":"http:\/\/www.mcrl2.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

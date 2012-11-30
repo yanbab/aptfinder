@@ -1,0 +1,9 @@
+{"package":"meld",
+ "description":"graphical tool to diff and merge files",
+ "details":" Meld is a tool which allows the user to see the changes in, and merge between,\n either two files, two directories, or two files with a common ancestor.\n uitoolkit::gtk, use::comparing, use::synchronizing, works-with::text,\n x11::application\n",
+ "installedSize":"1540",
+ "downloadSize":"430808",
+ "homepage":"http:\/\/meldmerge.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

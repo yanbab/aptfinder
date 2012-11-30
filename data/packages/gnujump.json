@@ -1,0 +1,9 @@
+{"package":"gnujump",
+ "description":"platform game where you have to jump up to survive",
+ "details":" The goal in this game is to jump to the next floor so you don't fall down.\n As you go higher in the falling tower the floors will fall faster.  Try to\n survive longer than anyone, or, in single player mode, try to get as high\n as you can.\n\n At the moment, the game is called sdljump (and it will appear as such in the\n menu), but the package name has changed following an upstream rename.  The\n new version of the game will be called gnujump as well.\n\n The game is a clone of xjump, and provides all its features, plus some more:\n  * Multiplayer mode (up to four players, not networked)\n  * Smooth graphics possible (but xjump style as well)\n  * Different themes are available\n  * Can use OpenGL for rendering\n  * Music and sound effects\n  * Recording (and replaying) of games\n interface::x11, role::program, suite::gnu, uitoolkit::sdl,\n use::gameplaying, x11::application\n",
+ "installedSize":"167",
+ "downloadSize":"59546",
+ "homepage":"http:\/\/gnujump.es.gnu.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

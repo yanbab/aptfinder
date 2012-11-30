@@ -1,0 +1,9 @@
+{"package":"openvas-client",
+ "description":"Remote network security auditor, the client",
+ "details":" The OpenVAS Security Scanner is a security auditing tool. It makes\n possible to test security modules in an attempt to find vulnerable\n spots that should be fixed.\n\n It is made up of two parts: a server, and a client. The server\/daemon,\n openvasd, is in charge of the attacks, whereas the client,\n OpenVAS-Client, provides the user a nice X11\/GTK+ interface.\n\n This package contains the GTK+ client.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"1282",
+ "downloadSize":"484688",
+ "homepage":"http:\/\/www.openvas.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

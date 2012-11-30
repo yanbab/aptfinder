@@ -1,0 +1,9 @@
+{"package":"pcsc-tools",
+ "description":"Some tools to use with smart cards and PC\/SC",
+ "details":" This archive contains some tools useful for a PC\/SC user. The tools\n provided are:\n\n pcsc_scan(1) scans available smart card readers and print detected\n events: card insertion with ATR, card removal;\n\n ATR_analysis(1) analyses a smart card ATR (Answer To Reset)\n\n scriptor(1) Perl script to send commands to a smart card using a\n batch file or stdin;\n\n gscriptor(1) the same idea as scriptor.pl(1) but with Perl-Gtk GUI.\n interface::commandline, interface::x11, role::program, scope::utility,\n security::cryptography, uitoolkit::gtk, x11::application\n",
+ "installedSize":"273",
+ "downloadSize":"92492",
+ "homepage":"http:\/\/ludovic.rousseau.free.fr\/softwares\/pcsc-tools\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

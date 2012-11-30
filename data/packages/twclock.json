@@ -1,0 +1,9 @@
+{"package":"twclock",
+ "description":"World clock for ham radio operators",
+ "details":" It also has an ID timer to generate a CW ID via your soundcard and\n pulseaudio.  Connect the output of your soundcard to the audio-in pin\n of your rig's accessory jack to have it transmitted.\n\n This program is a clock designed for ham radio operators, anyone who\n needs the time of day someplace else in the world, or anyone tired of\n the same old look of their clock.  It can display the current time and\n date in hundreds of cities around the world.\n uitoolkit::motif, use::timekeeping, use::viewing, x11::application\n",
+ "installedSize":"121",
+ "downloadSize":"34884",
+ "homepage":"http:\/\/wa0eir.home.mchsi.com\/twclock.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

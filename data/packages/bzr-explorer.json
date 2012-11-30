@@ -1,0 +1,9 @@
+{"package":"bzr-explorer",
+ "description":"GUI application for using Bazaar",
+ "details":" Bazaar Explorer is a desktop application providing an easy-to-use\n interface to the Bazaar version control system. It is designed to\n be simple enough for casual users of version control, yet powerful\n enough for experts to be productive.\n\n It provides a high level interface to all commonly used features,\n launching \"applets\" from the QBzr plug-in to provide most of the\n functionality. Alternatively, the applets from the bzr-gtk plug-in\n can be used if it is installed.\n uitoolkit::qt, works-with::software:source, works-with::vcs,\n x11::application\n",
+ "installedSize":"3622",
+ "downloadSize":"650436",
+ "homepage":"http:\/\/doc.bazaar.canonical.com\/explorer\/en\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"flare",
+ "description":"single-player 2D action role-playing game, binary",
+ "details":" Flare (Free Libre Action Roleplaying Engine) is a simple game engine built to\n handle a very specific kind of game: single-player 2D action RPGs. Flare is not\n a reimplementation of an existing game or engine. It is a tribute to and\n exploration of the action RPG genre.\n\n Rather than building a very abstract, robust game engine, the goal of this\n project is to build several real games and harvest an engine from the common,\n reusable code. The first game, in progress, is a fantasy dungeon crawl.\n\n Flare uses simple file formats (INI style config files) for most of the game\n data, allowing anyone to easily modify game contents. Open formats are\n preferred (png, ogg). The game code is C++.\n\n This package contains the binary.\n",
+ "installedSize":"741",
+ "downloadSize":"247528",
+ "homepage":"http:\/\/clintbellanger.net\/rpg\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

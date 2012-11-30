@@ -1,0 +1,9 @@
+{"package":"qtiplot",
+ "description":"data analysis and scientific plotting",
+ "details":" Qtiplot is a fully fledged plotting software similar to the OriginLab\n Origin software (See http:\/\/www.originlab.com for more information\n about Origin).\n\n It can make two and three dimensional plots of publication quality,\n both from datasets and functions. It can do non-linear fitting and\n multi-peak fitting.\n\n Some Features:\n  * Cross platform: works natively on Windows, Mac OS X and Linux\/Unix\n    systems\n  * Fully Python scriptable\n  * OpenGL based 3D plotting\n  * Publication quality plots and easy export to various image formats\n    (EMF, EPS, PS, PDF, SVG, BMP, JPG, PNG, TIFF, etc ...)\n  * Easy integration with LaTeX typesetting system\n  * Powerful and versatile spreadsheets with column-logic calculations\n    and easy import\/export of multiple files\n  * One-click access to extensive built-in data analysis routines\n  * Advanced statistical analysis: Student's t-Test, ANOVA, chi-square\n    test for variance, normality test (Shapiro-Wilk)\n  * Linear and nonlinear curve fitting with weighting and estimation\n    of statistical errors of the fit-parameters\n  * Multi-peak fitting\n  * Image analysis tools\n  * Templates support: all settings for plots, tables and matrices can\n    be saved and restored later on for a fast editing process\n  * Project files based on folders, a powerful project explorer with\n    built-in drag and drop and searching facilities\n  * Full import of Excel workbooks and Open Document Format\n    spreadsheets, dBase, SQLite and Microsoft Access databases\n",
+ "installedSize":"10629",
+ "downloadSize":"3810212",
+ "homepage":"http:\/\/soft.proindependent.com\/qtiplot.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

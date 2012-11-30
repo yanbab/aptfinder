@@ -1,0 +1,9 @@
+{"package":"fmit",
+ "description":"Free Music Instrument Tuner",
+ "details":" fmit is a graphical utility for tuning your musical instruments, with\n error and volume history and advanced features like waveform shape,\n harmonics ratio (formants), and microtonal tuning.\n\n fmit uses Qt for its GUI and ALSA (where available) or JACK as its\n sound input library.\n works-with::audio, x11::application\n",
+ "installedSize":"1027",
+ "downloadSize":"348144",
+ "homepage":"http:\/\/home.gna.org\/fmit\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

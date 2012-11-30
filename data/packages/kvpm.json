@@ -1,0 +1,9 @@
+{"package":"kvpm",
+ "description":"Logical volume manager and disk partitioner GUI based on KDE",
+ "details":" KVPM is a graphical user interface for the Linux Volume Manager (LVM) and\n libparted.  It uses the standard LVM tools and programs to manipulate logical\n volumes, such as resizing, deleting or creating them. It can also format\n volumes and mount or unmount them. Creating, deleting and resizing partitions\n is also supported.\n",
+ "installedSize":"1642",
+ "downloadSize":"961000",
+ "homepage":"http:\/\/sourceforge.net\/projects\/kvpm\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"torus-trooper",
+ "description":"speeding ship sailing through barrage",
+ "details":" Torus Trooper is a fast-paced abstract scrolling shooter game. It\n features 3D graphics and a style similar to that of games such as\n Tempest.\n\n Torus Trooper is another gem among many by Kenta Cho.\n role::program, uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"793",
+ "downloadSize":"200740",
+ "homepage":"http:\/\/www.asahi-net.or.jp\/~cs8k-cyu\/windows\/tt_e.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

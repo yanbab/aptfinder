@@ -1,0 +1,9 @@
+{"package":"turtleart",
+ "description":"a LOGO-like tool for teaching programming",
+ "details":" Turtle Art is an activity with a Logo-inspired graphical \"turtle\" that\n draws colorful art based on snap-together visual programming elements.\n\n Turtle Art is intended to be a stepping stone to the Logo programming\n language, but there are many restrictions compared to Logo. However,\n you can export your Turtle Art creations to Berkeley Logo.\n\n Turtle Art was initially written in Java, and reimplemented in Python.\n A modified Python version with additional features, Turtle Blocks, is\n under active development and is included in this package.\n\n This package contains the files needed to use it as a standalone\n application.\n",
+ "installedSize":"1140",
+ "downloadSize":"158454",
+ "homepage":"http:\/\/wiki.sugarlabs.org\/go\/Activities\/Turtle_Art",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

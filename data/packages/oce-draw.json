@@ -1,0 +1,9 @@
+{"package":"oce-draw",
+ "description":"OpenCASCADE Community Edition CAE platform shared library",
+ "details":" OpenCASCADE is a suite for 3D surface and solid modeling, visualization, data\n exchange and rapid application development.  It is an excellent platform for\n development of numerical simulation software including CAD\/CAM\/CAE, AEC and\n GIS, as well as PDM applications.\n\n This package is based on OCE, OpenCASCADE Community Edition, which is\n maintained by a community of developers, and not by OpenCASCADE SAS.\n\n This package contains the DRAW test harness.\n",
+ "installedSize":"4739",
+ "downloadSize":"1819624",
+ "homepage":"https:\/\/github.com\/tpaviot\/oce\/wiki",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

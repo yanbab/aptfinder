@@ -1,0 +1,9 @@
+{"package":"dodgindiamond2",
+ "description":"Little shoot-'em-up arcade game for one or two players",
+ "details":" This aims to be an old school arcade game with low resolution graphics,\n top-down scrolling action, energy based gameplay, and different weapons\n with several levels of power.\n use::gameplaying, x11::application\n",
+ "installedSize":"1080",
+ "downloadSize":"259594",
+ "homepage":"http:\/\/www.usebox.net\/jjm\/dd2\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

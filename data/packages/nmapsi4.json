@@ -1,0 +1,9 @@
+{"package":"nmapsi4",
+ "description":"graphical interface to nmap, the network scanner",
+ "details":" NmapSI4 is a complete Qt-based Gui with the design goal to provide a complete\n nmap interface for users, in order to manage all options of this power\n security net scanner.\n scope::utility, uitoolkit::qt, use::scanning, x11::application\n",
+ "installedSize":"1319",
+ "downloadSize":"643588",
+ "homepage":"http:\/\/www.nmapsi4.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

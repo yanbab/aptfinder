@@ -1,0 +1,9 @@
+{"package":"gtk-recordmydesktop",
+ "description":"Graphical frontend for recordMyDesktop screencast tool",
+ "details":" Adds an easy to use graphical icon on the GNOME toolbar to make\n screencasts with the video and audio capture application recordMyDesktop\n uitoolkit::gtk, use::learning, works-with-format::oggtheora,\n works-with::audio, works-with::video, x11::application\n",
+ "installedSize":"489",
+ "downloadSize":"120598",
+ "homepage":"http:\/\/recordmydesktop.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

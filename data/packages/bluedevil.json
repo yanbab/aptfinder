@@ -1,0 +1,9 @@
+{"package":"bluedevil",
+ "description":"KDE Bluetooth stack",
+ "details":" BlueDevil is a set of components which integrate Bluetooth in KDE.\n It contains:\n  * A KDE Control Module (KCM) to configure all the Bluetooth-related options.\n  * Integration with the KDE input\/output system (KIO), which allows you to\n    discover and explore Bluetooth devices from your favorite file browser.\n  * A wizard to pair your devices and connect directly to services they offer,\n    such as input (mouse, keyboard, Wiimote) and audio (headsets, phones).\n  * A system tray application from where all BlueDevil actions can be done\n    (disconnect devices, send files, configure, etc...)\n  * A daemon to listen incoming requests, for example to receive files\n    or to introduce a requested PIN.\n uitoolkit::qt, x11::application\n",
+ "installedSize":"2446",
+ "downloadSize":"620906",
+ "homepage":"https:\/\/projects.kde.org\/projects\/extragear\/base\/bluedevil",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"ipython",
+ "description":"enhanced interactive Python shell",
+ "details":" IPython can be used as a replacement for the standard Python shell,\n or it can be used as a complete working environment for scientific\n computing (like Matlab or Mathematica) when paired with the standard\n Python scientific and numerical tools. It supports dynamic object\n introspections, numbered input\/output prompts, a macro system,\n session logging, session restoring, complete system shell access,\n verbose and colored traceback reports, auto-parentheses, auto-quoting,\n and is embeddable in other Python programs.\n\n This package contains the basic terminal shell. For the qt console\n install ipython-qtconsole and for the html notebook install\n ipython-notebook.\n interface::shell, role::program, scope::utility\n",
+ "installedSize":"3018",
+ "downloadSize":"675904",
+ "homepage":"http:\/\/ipython.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

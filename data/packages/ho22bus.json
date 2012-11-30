@@ -1,0 +1,9 @@
+{"package":"ho22bus",
+ "description":"simple application to memorize words",
+ "details":" This application is for second language learners to memorize words.\n It is user-friendly and light-weighted.\n\n Features included:\n  * New words collection\n  * Multi-dictionary support\n  * Games to help memorizing\n uitoolkit::gtk, use::learning, x11::application\n",
+ "installedSize":"345",
+ "downloadSize":"126352",
+ "homepage":"http:\/\/ho22bus.googlecode.com",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

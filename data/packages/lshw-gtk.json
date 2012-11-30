@@ -1,0 +1,8 @@
+{"package":"lshw-gtk",
+ "description":"graphical information about hardware configuration",
+ "details":" A small tool to provide detailed information on the hardware\n configuration of the machine. It can report exact memory\n configuration, firmware version, mainboard configuration, CPU version\n and speed, cache configuration, bus speed, etc. on DMI-capable x86\n systems, on some PowerPC machines (PowerMac G4 is known to work) and AMD64.\n\n This package provides lshw-gtk (the GTK+ version)\n interface::x11, role::program, scope::utility, uitoolkit::gtk,\n x11::application\n",
+ "installedSize":"1499",
+ "downloadSize":"405284",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

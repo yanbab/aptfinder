@@ -1,0 +1,9 @@
+{"package":"freevial",
+ "description":"trivia platform for community events",
+ "details":" Freevial is a platform for trivia-like games, designed to be used on\n community events where ideally a projector and loudspeakers would be\n available.\n\n It can be fully localized and themed and includes a customizable\n battery of questions (which are loaded from XML files) classified in\n ten different categories.\n\n The game features amazing graphics, category selection in a\n gambling-machine like style, end screen, music and sounds, etc.\n\n This package comes provisionally with a Catalan questions database.\n use::entertaining, use::gameplaying, use::learning, use::playing,\n x11::application\n",
+ "installedSize":"23670",
+ "downloadSize":"23343910",
+ "homepage":"https:\/\/launchpad.net\/freevial",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

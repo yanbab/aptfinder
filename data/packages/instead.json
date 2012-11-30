@@ -1,0 +1,9 @@
+{"package":"instead",
+ "description":"simple text adventures\/visual novels engine",
+ "details":" INSTEAD -- INterpreter of Simple TExt ADventure.\n Using INSTEAD you can create and play games that could be classified\n as a mix of visual novel and text quest.\n\n Features:\n   * Simple story source code (Lua-based script)\n   * GUI interface that supports music and pictures\n   * Theme support\n   * Portability (INSTEAD depends on SDL and Lua)\n\n Game repository: http:\/\/code.google.com\/p\/instead-games\/downloads\/list\n",
+ "installedSize":"1060",
+ "downloadSize":"695630",
+ "homepage":"http:\/\/instead.googlecode.com",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

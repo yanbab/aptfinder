@@ -1,0 +1,8 @@
+{"package":"assogiate",
+ "description":"editor of the MIME file types database",
+ "details":" AssoGiate is an editor of the MIME file types database for GNOME.\n\n It allows users and administrators to customise the detection\n and presentation of file types by GNOME and other environments.\n\n Features:\n   * Compliant with the freedesktop.org Shared MIME Info and Icon Theme\n     specifications.\n   * Standard file types can be modified, and additional file types can be\n     added and removed.\n   * File type detection based on filenames, file contents, and XML root\n     elements can be specified.\n   * Default icons can be selected for file types without them.\n   * Modifications can be imported and exported for network deployment or\n     public exchange.\n   * A complete help manual is included.\n",
+ "installedSize":"631",
+ "downloadSize":"203536",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

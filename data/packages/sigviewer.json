@@ -1,0 +1,9 @@
+{"package":"sigviewer",
+ "description":"GUI viewer for biosignals such as EEG, EMG, and ECG",
+ "details":" SigViewer is a viewing and scoring software for biomedical signal\n data.  It relies on biosig4c++ library which supports a number of\n data formats (including EDF, BDF, GDF, BrainVision, BCI2000, CFWB,\n HL7aECG, SCP_ECG (EN1064), MFER, ACQ, CNT(Neuroscan), DEMG, EGI,\n EEG1100, FAMOS, SigmaPLpro, TMS32). The complete list of supported\n file formats is available at\n http:\/\/pub.ist.ac.at\/~schloegl\/biosig\/TESTED .\n\n Besides displaying biosignals, SigViewer supports creating\n annotations to select artifacts or specific events.\n use::viewing, x11::application\n",
+ "installedSize":"971",
+ "downloadSize":"420370",
+ "homepage":"http:\/\/sigviewer.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

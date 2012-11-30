@@ -1,0 +1,9 @@
+{"package":"gbirthday",
+ "description":"birthday reminder applet",
+ "details":" GBirthday is an applet to help you remember your friends' and contacts'\n birthdays.  It uses the notifcation area for alerts.  Data can be stored\n in a number of address book formats, flat file CSV and MySQL database.\n uitoolkit::gtk, works-with::pim, x11::application\n",
+ "installedSize":"310",
+ "downloadSize":"51456",
+ "homepage":"http:\/\/gbirthday.sf.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

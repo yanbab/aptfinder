@@ -1,0 +1,9 @@
+{"package":"mana",
+ "description":"opensource 2D MMORPG platform client",
+ "details":" The Mana client is developed as part of The Mana Project, which aims to build\n a complete 2D MMORPG platform. This includes a client, server and web\n component, as well as a library of free content that you can use under the\n terms of the GPL.\n\n This version of the client can connect to a specific version of the eAthena\n server known as tmwAthena, a version with adaptations made as part of The Mana\n World project.\n",
+ "installedSize":"4264",
+ "downloadSize":"1437630",
+ "homepage":"http:\/\/www.manasource.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

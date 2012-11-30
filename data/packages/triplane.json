@@ -1,0 +1,9 @@
+{"package":"triplane",
+ "description":"side-scrolling dogfighting game",
+ "details":" Triplane Classic is a side-scrolling dogfighting game featuring solo\n missions and multiplayer mode with up to four players. It is a port\n of the original Triplane Turmoil game for DOS and aims to match the\n original game exactly so that high scores remain comparable to the\n original.\n implemented-in::c++, interface::x11, role::program, scope::application,\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"4512",
+ "downloadSize":"1647598",
+ "homepage":"http:\/\/triplane.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

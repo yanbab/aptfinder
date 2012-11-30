@@ -1,0 +1,9 @@
+{"package":"vinagre",
+ "description":"remote desktop client for the GNOME Desktop",
+ "details":" Vinagre is a remote desktop client integrated into the GNOME Desktop.\n\n With Vinagre you can have several connections open simultaneously,\n bookmark your servers thanks to the Favorites support, store the\n passwords in the GNOME keyring, and browse the network to look for\n VNC servers.\n\n Supported protocols are VNC, SSH, and RDP.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"5177",
+ "downloadSize":"2595832",
+ "homepage":"http:\/\/www.gnome.org\/projects\/vinagre\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

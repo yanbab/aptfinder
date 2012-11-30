@@ -1,0 +1,9 @@
+{"package":"gladish",
+ "description":"graphical interface for LADI Session Handler",
+ "details":" LADI Session Handler or simply ladish is a session management\n system for JACK applications on GNU\/Linux. Its aim is to allow\n you to have many different audio programs running at once, to\n save their setup, close them down and then easily reload the\n setup at some other time.\n\n This package provides a graphical interface to ladish.\n works-with::audio\n",
+ "installedSize":"494",
+ "downloadSize":"157660",
+ "homepage":"http:\/\/ladish.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

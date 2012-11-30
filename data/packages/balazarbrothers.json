@@ -1,0 +1,9 @@
+{"package":"balazarbrothers",
+ "description":"3D puzzle game",
+ "details":" 3D platform universe, two characters and two keys,\n one for each character, and at the end of the road\n two princesses to free. Just press a key and the\n corresponding character will jump on the next\n platform in front of him.\n\n Simple? Yes! Easy? Not sure! Because nothing will\n be spared to you: moving platforms, dangerous\n monsters, vicious traps... will you manage to find\n your way trough mad levels and free the princesses?\n You can count only on your agility, your guile...\n and the unforgettable acrobatics of the Balazar\n Brothers!\n role::program, uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"23780",
+ "downloadSize":"10318144",
+ "homepage":"http:\/\/home.gna.org\/oomadness\/en\/balazar_brothers\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

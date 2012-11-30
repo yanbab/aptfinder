@@ -1,0 +1,9 @@
+{"package":"krdc",
+ "description":"Remote Desktop Connection client",
+ "details":" The KDE Remote Desktop Connection client can view and control a desktop\n session running on another system.  It can connect to Windows Terminal Servers\n using RDP and many other platforms using VNC\/RFB.\n\n This package is part of the KDE networking module.\n role::program, scope::utility, suite::kde, uitoolkit::qt, use::login,\n x11::application\n",
+ "installedSize":"1008",
+ "downloadSize":"466622",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

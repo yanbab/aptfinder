@@ -1,0 +1,9 @@
+{"package":"gprompter",
+ "description":"intelligent predictive GTK+ text editor",
+ "details":" gprompter is a cross-platform predictive text editor, based on\n presage, the intelligent predictive text entry platform.\n\n gprompter displays predictions in a contextual pop-up box as each\n letter is typed. Predictions can be easily selected and inserted in\n the document.\n works-with::text, x11::application\n",
+ "installedSize":"2266",
+ "downloadSize":"946476",
+ "homepage":"http:\/\/presage.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

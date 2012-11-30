@@ -1,0 +1,9 @@
+{"package":"gcr",
+ "description":"GNOME crypto services (daemon and tools)",
+ "details":" GCR is a library for crypto UI and related tasks.\n\n This package contains the certificate viewer and prompter service.\n",
+ "installedSize":"1520",
+ "downloadSize":"342574",
+ "homepage":"https:\/\/live.gnome.org\/GnomeKeyring",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

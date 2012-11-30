@@ -1,0 +1,9 @@
+{"package":"jkmeter",
+ "description":"horizontal or vertical bargraph audio level meter for Jack Audio Connection Kit",
+ "details":" A jkmeter displays both the true RMS level and the\n digital peak level.\n But can display stereo correlation too.\n\n Jkmeter is based on the ideas of mastering guru Bob Katz.\n See <http:\/\/www.digido.com\/bob-katz\/index.php> and\n follow the links on 'level practices'.\n This is the type of meter you want for live recording,\n mixing and mastering\n use::monitor, works-with::audio, x11::application\n",
+ "installedSize":"113",
+ "downloadSize":"38278",
+ "homepage":"http:\/\/kokkinizita.linuxaudio.org\/linuxaudio\/downloads\/index.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

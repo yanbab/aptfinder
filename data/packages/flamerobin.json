@@ -1,0 +1,9 @@
+{"package":"flamerobin",
+ "description":"graphical database administration tool for Firebird DBMS",
+ "details":" FlameRobin is a graphical database administration tool for Firebird database\n management system.\n\n Its goals are:\n   - to be lightweight (small footprint, fast execution)\n   - cross-platform (Linux, Windows for start, others planned too)\n   - dependent only on other open source software\n\n You need to setup firebird server on local or remote machine before using\n FlameRobin. See packages firebird2.5-super, firebird2.5-superclassic and\n firebird2.5-classic.\n",
+ "installedSize":"2777",
+ "downloadSize":"1009908",
+ "homepage":"http:\/\/www.flamerobin.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"dino",
+ "description":"Integrated MIDI piano roll editor and sequencer engine",
+ "details":" Dino is a pattern-based sequencer which allows users to write\n small patterns of MIDI events and repeat and arrange them to\n create a whole song. Each track has its own patterns, so it\n is possible for example to play the same drum pattern over\n and over again while different lead synth patterns and basslines\n are playing.\n use::editing\n",
+ "installedSize":"666",
+ "downloadSize":"241922",
+ "homepage":"http:\/\/dino.nongnu.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

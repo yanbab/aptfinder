@@ -1,0 +1,9 @@
+{"package":"xbmc",
+ "description":"XBMC Media Center (arch-independent data package)",
+ "details":" XBMC, recursive acronym for \"XBMC Media Center\", is an award winning free and\n open source software media-player and entertainment hub for all your digital\n media. XBMC is available for Linux, Mac OS X (Leopard, Tiger and Apple TV)\n and Microsoft Windows, as well as the original Xbox game console. Created in\n 2003 by a group of like minded programmers, XBMC is a non-profit project run\n and developed by volunteers located around the world. More than 50 software\n developers have contributed to XBMC, and 100-plus translators have worked to\n expand its reach, making it available in more than 30 languages.\n\n While XBMC functions very well as a standard media player application for\n your computer, it has been designed to be the perfect companion for your\n HTPC. Supporting an almost endless range of remote controls, and combined\n with its beautiful interface and powerful skinning engine, XBMC feels very\n natural to use from the couch and is the ideal solution for your home\n theater. Once installed, your computer will become a fully functional\n multimedia jukebox.\n\n This package contains all the archiecture independent data needed to have a\n working XBMC.\n",
+ "installedSize":"36908",
+ "downloadSize":"25963456",
+ "homepage":"http:\/\/xbmc.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

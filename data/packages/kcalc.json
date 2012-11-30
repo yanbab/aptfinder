@@ -1,0 +1,8 @@
+{"package":"kcalc",
+ "description":"simple and scientific calculator",
+ "details":" KCalc is a scientific calculator.\n\n KCalc provides:\n  * Trigonometric functions, logic operations, and statistical calculations\n  * Calculation in decimal, hexadecimal, octal, and binary bases\n  * Memory functions for storing results\n  * A comprehensive collection of mathematical constants\n\n This package is part of the KDE Utilities module.\n suite::kde, uitoolkit::qt, use::calculating, x11::application\n",
+ "installedSize":"568",
+ "downloadSize":"192196",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

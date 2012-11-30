@@ -1,0 +1,8 @@
+{"package":"hamexam",
+ "description":"Study tool for USA FCC amateur radio (ham) exams.",
+ "details":" hamexam is an interactive study tool for the 3 USA FCC amateur radio\n (ham radio) question pools.\n The 3 question pools are:\n     t element 2, Technician Class (entry level),\n     g element 3, General Class (also requires element 2),\n     e element 4, Extra Class (also requires elements 2 and 3).\n Questions are chosen randomly from the selected pool.\n Incorrect answers cause the question to be asked again later.\n Licenses are issued by the FCC, but exams are conducted by Volunteer Examiners.\n For more information about USA amateur radio licensing:\n     http:\/\/www.arrl.org\/licensing-preparation-exams\n",
+ "installedSize":"1125",
+ "downloadSize":"643730",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

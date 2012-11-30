@@ -1,0 +1,9 @@
+{"package":"openrocket",
+ "description":"Model Rocket Simulator",
+ "details":" OpenRocket is a free, fully featured model rocket simulator that allows\n you to design and simulate your rockets before actually building and\n flying them.\n\n OpenRocket features a full six-degree-of-freedom simulation, realistic\n wind modeling, a multitude of different components including free-form\n and canted fins, clustering and staging.\n x11::application\n",
+ "installedSize":"4596",
+ "downloadSize":"4250710",
+ "homepage":"http:\/\/openrocket.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

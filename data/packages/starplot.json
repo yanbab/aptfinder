@@ -1,0 +1,9 @@
+{"package":"starplot",
+ "description":"3-dimensional perspective star map viewer",
+ "details":" StarPlot is a GTK+ based program that can be used interactively to view\n three-dimensional perspective charts of stars.  Charts can be re-centered,\n rotated, or zoomed in or out with a mouse click (this can also, of course,\n be done via dialog boxes for more precision).  Stars may be viewed (or\n ignored) by spectral class and absolute magnitude.\n\n StarPlot is packaged with starconvert, a utility that converts\n line-oriented stellar data records to StarPlot format.  Most star data\n files available on the Internet can be converted this way if a short file\n describing the original file format is provided to starconvert.\n role::program, uitoolkit::gtk, use::gameplaying, x11::application\n",
+ "installedSize":"1428",
+ "downloadSize":"675326",
+ "homepage":"http:\/\/starplot.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

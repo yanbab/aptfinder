@@ -1,0 +1,9 @@
+{"package":"pavucontrol",
+ "description":"PulseAudio Volume Control",
+ "details":" PulseAudio, previously known as Polypaudio, is a sound server for POSIX and\n WIN32 systems. It is a drop in replacement for the ESD sound server with\n much better latency, mixing\/re-sampling quality and overall architecture.\n\n PulseAudio Volume Control (pavucontrol) is a simple GTK+ based volume\n control tool (mixer) for the PulseAudio sound server. In contrast to\n classic mixer tools this one allows you to control both the volume of\n hardware devices and of each playback stream separately. It also allows\n you to redirect a playback stream to another output device without\n interrupting playback.\n uitoolkit::gtk\n",
+ "installedSize":"957",
+ "downloadSize":"155598",
+ "homepage":"http:\/\/0pointer.de\/lennart\/projects\/pavucontrol\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"workrave",
+ "description":"Repetitive Strain Injury prevention tool",
+ "details":" Workrave is a program that assists in the recovery and prevention of\n Repetitive Strain Injury (RSI). The program frequently alerts you to\n take micro-pauses, rest breaks and restricts you to your daily limit.\n\n It includes a system tray applet that works with GNOME and KDE\n and has network capabilities to monitor your activity even if\n switching back and forth between different computers is part of your\n job.\n\n Workrave offers many more configuration options than other similar\n tools.\n interface::x11, role::program, scope::utility, suite::gnome,\n uitoolkit::gtk, use::monitor, x11::applet\n",
+ "installedSize":"1469",
+ "downloadSize":"546982",
+ "homepage":"http:\/\/www.workrave.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"nautilus-pastebin",
+ "description":"Nautilus extension to send files to a pastebin",
+ "details":" nautilus-pastebin is a Nautilus extension written in Python, which\n allows users to upload text-only files to a pastebin service just\n by right-clicking on them.\n\n After sending the files, a notification will be shown and the paste\n URL copied into the clipboard.\n\n Users can also customize the extension's behaviour just by using\n nautilus-pastebin-configurator, an easy-to-use configuration tool.\n",
+ "installedSize":"182",
+ "downloadSize":"25696",
+ "homepage":"https:\/\/launchpad.net\/nautilus-pastebin",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

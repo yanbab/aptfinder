@@ -1,0 +1,9 @@
+{"package":"photofilmstrip",
+ "description":"Slideshow creator with Ken Burns effect",
+ "details":" This creates movies out of your pictures in just three steps.\n First select your photos, customize the motion path and render the\n video. There are several output possibilities for VCD, SVCD, DVD up to\n FULL-HD.\n\n The effect of the slideshow is known as \"Ken Burns\". Comments of the\n pictures are generated into a subtitle file. Furthermore an audio file\n can be specified to setup the background music for the slide show.\n x11::application\n",
+ "installedSize":"5343",
+ "downloadSize":"4489504",
+ "homepage":"http:\/\/www.photofilmstrip.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

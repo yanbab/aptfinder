@@ -1,0 +1,9 @@
+{"package":"subtitleeditor",
+ "description":"Graphical subtitle editor with sound waves representation",
+ "details":" Subtitle Editor is a GTK+2 tool to edit subtitles.  It can be used for new\n subtitles or as a tool to transform, edit, correct and refine existing\n subtitles.\n\n This program also shows sound waves, which makes it easier to synchronise\n subtitles to voices.\n\n This package has this features\n\n  o Multiple document interface.\n  o Internationalization support.\n  o Video player integrated in the main window (based on GStreamer).\n  o Can play preview with external video player (using MPlayer or other).\n  o Style Editor.\n  o Move subtitle.\n  o Scale.\n  o Split and joint subtitle.\n  o Edit text and adjust time (start, end).\n  o Generate Waveform from Video.\n\n Supported formats:\n\n  o Sub Station Alpha.\n  o Advanced Sub Station Alpha.\n  o SubRip.\n  o MicroDVD.\n  o MPL2.\n  o MPsub (MPlayer subtitle).\n  o SubViewer 2.0.\n  o Plain-Text.\n  o Adobe Encore DVD.\n uitoolkit::gtk, use::editing, works-with::video, x11::application\n",
+ "installedSize":"996",
+ "downloadSize":"288606",
+ "homepage":"http:\/\/home.gna.org\/subtitleeditor\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

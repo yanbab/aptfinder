@@ -1,0 +1,9 @@
+{"package":"kbibtex",
+ "description":"BibTeX editor for KDE",
+ "details":" An application to manage bibliography databases in the BibTeX format. KBibTeX\n can be used as a standalone program, but can also be embedded into other KDE\n applications (e.g. as bibliography editor into Kile).\n\n KBibTeX can query online resources (e.g. Google scholar) via customizable\n search URLs. It is also able to import complete datasets from NCBI Pubmed.\n It also supports tagging references with keywords and manages references to\n local files.\n\n BibTeX files can be exported into HTML, XML, PDF, PS and RTF format using a\n number of citation styles.\n use::editing, works-with-format::bib, works-with::dtp,\n works-with::text, x11::application\n",
+ "installedSize":"1673",
+ "downloadSize":"600688",
+ "homepage":"http:\/\/www.unix-ag.uni-kl.de\/~fischer\/kbibtex",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"solfege",
+ "description":"Ear training software",
+ "details":" GNU Solfege is an ear training program for X Window written in Python,\n using the GTK+ 2.0 libraries. You can practice harmonic and\n melodic intervals, chords, scales and rhythms, and you can add new\n exercises using a simple plain text file format.\n\n Ear training is a big subject with many connections to music theory\n and performance of music, so I won't even try to make \"a complete\n computer-based ear training course\". But I hope someone find this\n software useful.\n suite::gnu, uitoolkit::gtk, use::learning, x11::application\n",
+ "installedSize":"8693",
+ "downloadSize":"1943244",
+ "homepage":"http:\/\/www.solfege.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

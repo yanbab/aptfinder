@@ -1,0 +1,8 @@
+{"package":"kredentials",
+ "description":"KDE taskbar applet to update kerberos\/AFS credentials",
+ "details":" kredentials is a taskbar applet to periodically renew kerberos\n tickets and AFS tokens.  Although targeted for KDE, it is expected\n to be fully compatible with other desktop environments.\n protocol::kerberos, role::program, security::authentication,\n uitoolkit::qt, use::login\n",
+ "installedSize":"134",
+ "downloadSize":"30812",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

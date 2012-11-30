@@ -1,0 +1,9 @@
+{"package":"gnome-specimen",
+ "description":"Simple font preview and compare application for GNOME",
+ "details":" A simple tool to view and compare fonts installed on your system. It has\n currently following features,\n\n  * A list of all fonts available (the left pane)\n  * A list of font previews (the right pane)\n  * Configurable preview text and font size\n  * Configurable foreground and background colors used in the preview pane\n scope::application, suite::gnome, uitoolkit::gtk, works-with::font,\n x11::application\n",
+ "installedSize":"476",
+ "downloadSize":"72392",
+ "homepage":"http:\/\/uwstopia.nl\/geek\/projects\/gnome-specimen",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"focuswriter",
+ "description":"Fullscreen distraction-free writing program",
+ "details":" Focuswriter is a fullscreen writing program designed to be\n distraction free.  You can customize your environment by changing the\n font, colors, and background image to add ambiance.  FocusWriter\n features an on-the-fly updating wordcount, optional auto-save,\n optional daily goals, and toolbars that hide away to allow you to\n focus more clearly.  Additionally, when you open the program your\n current work in progress will automatically load and position you at\n the end of your document, so that you can immediately jump back in.\n x11::application\n",
+ "installedSize":"2124",
+ "downloadSize":"961432",
+ "homepage":"http:\/\/gottcode.org\/focuswriter\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

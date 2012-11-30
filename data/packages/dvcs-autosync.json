@@ -1,0 +1,9 @@
+{"package":"dvcs-autosync",
+ "description":"Automatically synchronize distributed version control repositories",
+ "details":" dvcs-autosync is an open source replacement for Dropbox\/Wuala\/Box.net\/etc.\n based on distributed version control systems (DVCS). It offers nearly\n instantaneous mutual updates when a file is added or changed on one side but\n with the added benefit of (local, distributed) versioning and that it does\n not rely on a centralized service provider, but can be used with any DVCS\n hosting option including a completely separate server.\n\n Synchronization of directories is based on DVCS repositories. Git is used for\n main development and is being tested most thoroughly as the backend storage,\n but other DVCS such as Mercurial are also supported. dvcs-autosync is\n comparable to SparkleShare in terms of overall aim, but takes a more\n minimalistic approach. A single Python script monitors the configured\n directory for live changes, commits these changes to the DVCS (such as git)\n and synchronizes with other instances using XMPP messages.\n",
+ "installedSize":"136",
+ "downloadSize":"36264",
+ "homepage":"http:\/\/www.mayrhofer.eu.org\/dvcs-autosync",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

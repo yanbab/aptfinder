@@ -1,0 +1,9 @@
+{"package":"geogebra",
+ "description":"Dynamic mathematics software for education",
+ "details":" GeoGebra is a dynamic geometry program. You can do constructions with points,\n vectors, segments, lines, conic sections as well as functions and change\n them dynamically afterwards. On the other hand, equations and coordinates\n can be entered directly.\n\n Support for many geometric constructions is provided, as well as support\n for many calculus-based tools (derivatives, osculating circle, ...).\n\n GeoGebra files can be exported in many different formats, or as interactive\n applets for web pages.\n scope::application, uitoolkit::xlib, use::learning,\n works-with-format::png, works-with-format::svg, works-with::image,\n works-with::image:raster, works-with::image:vector, x11::applet,\n x11::application\n",
+ "installedSize":"5903",
+ "downloadSize":"5331282",
+ "homepage":"http:\/\/www.geogebra.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

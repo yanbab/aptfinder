@@ -1,0 +1,9 @@
+{"package":"gnibbles",
+ "description":"snake game, up to four players",
+ "details":" This is a GNOME port of the popular \u201cSnake\u201d game.\n\n Nibbles is a game where the user controls a worm. The worm moves around\n the board, eating diamonds while avoiding the walls placed around it.\n x11::application\n",
+ "installedSize":"4405",
+ "downloadSize":"2867720",
+ "homepage":"http:\/\/live.gnome.org\/GnomeGames",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

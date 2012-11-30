@@ -1,0 +1,9 @@
+{"package":"kanatest",
+ "description":"beginner's drill game to learn Japanese kana characters",
+ "details":" Kanatest is a simple hiragana and katakana drill game. It checks your\n knowledge of Japanese kana characters.\n\n There are three drill modes: hiragana mode (hiragana charset only), katakana\n mode (katakana charset only) and mixed mode (both charsets). The tester shows\n random kana characters and waits until you enter the romaji equivalent in an\n entry field. At the end, statistics are provided.\n use::learning, x11::application\n",
+ "installedSize":"556",
+ "downloadSize":"175122",
+ "homepage":"http:\/\/clayo.org\/kanatest\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

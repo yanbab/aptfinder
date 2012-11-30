@@ -1,0 +1,9 @@
+{"package":"pavumeter",
+ "description":"PulseAudio Volume Meter",
+ "details":" PulseAudio, previously known as Polypaudio, is a sound server for POSIX and\n WIN32 systems. It is a drop in replacement for the ESD sound server with\n much better latency, mixing\/re-sampling quality and overall architecture.\n\n A simple volume meter for the PulseAudio sound server.\n use::monitor, works-with::audio, x11::application\n",
+ "installedSize":"103",
+ "downloadSize":"30726",
+ "homepage":"http:\/\/0pointer.de\/lennart\/projects\/pavumeter\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

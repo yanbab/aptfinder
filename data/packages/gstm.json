@@ -1,0 +1,9 @@
+{"package":"gstm",
+ "description":"SSH tunnel manager for GNOME",
+ "details":" GNOME Secure shell Tunnel Manager is a front-end to manage secure shell\n tunneled port redirects. A port redirect is when you use secure shell to\n tunnel from your machine through another machine.\n",
+ "installedSize":"300",
+ "downloadSize":"137730",
+ "homepage":"http:\/\/sourceforge.net\/projects\/gstm\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

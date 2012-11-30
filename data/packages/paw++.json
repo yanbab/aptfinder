@@ -1,0 +1,9 @@
+{"package":"paw++",
+ "description":"Physics Analysis Workstation (Lesstif-enhanced version)",
+ "details":" CERNLIB is a suite of data analysis tools and libraries created for\n use in physics experiments, but also with applications to other\n fields such as the biological sciences.\n\n This package includes Paw++, an interactive program for use in analysis and\n graphical presentation.  Paw++ is the same program as PAW (in the \"paw\"\n package), but with a more user-friendly Motif-based GUI, compiled against\n Lesstif in Debian.\n\n The program is linked statically against the CERN libraries on\n 64-bit architectures in order to function properly, as its design is not\n very 64-bit clean.\n scope::utility, uitoolkit::motif, use::viewing, x11::application\n",
+ "installedSize":"74",
+ "downloadSize":"15204",
+ "homepage":"http:\/\/paw.web.cern.ch\/paw\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

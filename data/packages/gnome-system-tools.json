@@ -1,0 +1,8 @@
+{"package":"gnome-system-tools",
+ "description":"Cross-platform configuration utilities for GNOME",
+ "details":" The GNOME System Tools are a fully integrated set of tools aimed to make easy\n the job that means the computer administration on an UNIX or Linux system.\n They're thought to help from the new Linux or UNIX user to the system\n administrators.\n\n Its main advantages are:\n  * Full integration with the new GNOME Control Center.\n  * An user-friendly interface to carry out the main administration tasks.\n  * The use of a common user interface in every system.\n  * A common structure that makes easy the development of new system tools.\n Nowadays there are tools for managing:\n  - Users and groups\n  - Date and time\n  - Network options\n  - Services\n  - Shares (NFS and Samba)\n suite::gnome, uitoolkit::gtk, use::configuring, x11::application\n",
+ "installedSize":"10204",
+ "downloadSize":"5256048",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

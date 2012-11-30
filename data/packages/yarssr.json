@@ -1,0 +1,9 @@
+{"package":"yarssr",
+ "description":"RSS reader for the notification area",
+ "details":" Yet Another RSS Reader is an RSS aggregator and reader that displays its\n results in the GNOME or KDE system tray (notification area). To view the\n contents of the feed just click the menu-item and it will launch in your\n favorite browser.\n suite::kde, uitoolkit::gtk, use::viewing, web::blog,\n works-with-format::xml, works-with-format::xml:rss, x11::applet\n",
+ "installedSize":"264",
+ "downloadSize":"26172",
+ "homepage":"http:\/\/yarssr.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

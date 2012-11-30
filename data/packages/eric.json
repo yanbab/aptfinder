@@ -1,0 +1,9 @@
+{"package":"eric",
+ "description":"full featured Python IDE",
+ "details":" eric is a full featured Python IDE written in PyQt using the QScintilla\n editor widget. Some highlights\n   * Any number of editors with configurable syntax highlighting, code\n     folding, auto indenting and brace highlighting.\n   * Integrated Project Management facility to organize your projects.  The\n     project browser shows all source files, all forms and all translations\n     each on its own tab. The source browser has built in class browsing\n     capabilities.\n   * Integrated and full featured debuggers for Python and Ruby.\n   * Interactive shells for Python and Ruby.\n   * An explorer window for walking through your directory structure with\n     built in class browsing capabilities for Python files.\n   * Variable windows that display local and global variables in the\n     current scope while debugging a program.\n   * An integrated interface to the Python Module \"unittest\".\n   * An integrated help viewer to display HTML help files. Alternatively\n     you can choose to use Qt-Assistant to view help files.\n   * Display of the UI in different languages.\n   * The capability to start Qt-Designer and Qt-Linguist from within eric4.\n   * The ability to compile Qt-Designer forms, to produce Qt-Linguist files\n     and release them from within the IDE.\n devel::lang:ruby, implemented-in::python, interface::x11,\n role::program, scope::application, uitoolkit::qt, use::editing,\n works-with::software:source, x11::application\n",
+ "installedSize":"23631",
+ "downloadSize":"6143230",
+ "homepage":"http:\/\/eric-ide.python-projects.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"font-manager",
+ "description":"font management application for the GNOME desktop",
+ "details":" Font Manager currently allows the user to:\n  - Preview installed fonts\n  - Compare installed fonts\n  - Easily install or remove fonts\n  - Easily activate and de-activate installed fonts\n  - Specify different directories to search for fonts\n  - Group fonts into \"Collections\", and easily activate or\n    de-activate groups of fonts\n  - Export \"Collections\" to an archive for easy backup, sharing, etc.\n  - Provides quick access to all GNOME font utilities.\n\n Font Manager suggests the installation of python-reportlab to allow users\n to export font collections in the PDF format.\n works-with::font, x11::application\n",
+ "installedSize":"1338",
+ "downloadSize":"711694",
+ "homepage":"http:\/\/code.google.com\/p\/font-manager\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

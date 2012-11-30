@@ -1,0 +1,9 @@
+{"package":"projectm-pulseaudio",
+ "description":"projectM PulseAudio module",
+ "details":" projectM is an iterative music visualization library which uses\n OpenGL for hardware acceleration. It is compatible with Milkdrop\n presets.\n\n This package contains an application to visualize PulseAudio streams.\n",
+ "installedSize":"146",
+ "downloadSize":"47984",
+ "homepage":"http:\/\/projectm.sf.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

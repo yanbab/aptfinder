@@ -1,0 +1,9 @@
+{"package":"opencity",
+ "description":"3D city simulator game",
+ "details":" OpenCity is 3D city construction simulator. You can build some zones of\n housing, trading and industry, electric plant and roads. Besides you can also\n raise or lower the terrain.\n OpenCity is similar in spirit to other city construction games, heading\n towards a classic SimCity feeling, although with some additional features.\n It is not intended to be a clone of any famous city simulator.\n role::program, uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"504",
+ "downloadSize":"209350",
+ "homepage":"http:\/\/www.opencity.info\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

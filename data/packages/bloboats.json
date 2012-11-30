@@ -1,0 +1,9 @@
+{"package":"bloboats",
+ "description":"a boat racing game",
+ "details":" Bloboats is an arcade-like boat racing game in the hybrid spirit of\n Mario-like platform jumpers and elasto mania \/ xmoto.\n\n The objective of Bloboats is to reach MS Enterprise as fast as possible to\n save if from the hands of the terrible Tentacle Monsters of an Unknown Master\n and the same time beat your friend and laugh at his or her puny time.\n\n The journey starts from a place called Tutorial, somewhere in the United\n States, and somehow the player ends up in the famous HV-Arena of Helsinki.\n During the trip a number of MS Enterprises are saved, luckily, from the\n hands of the terrible Tentacle Monsters of an Unknown Master, who actually\n is your dad. Or then ain't. :-)\n scope::application, uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"1508",
+ "downloadSize":"893012",
+ "homepage":"http:\/\/bloboats.blobtrox.net\/about.php",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

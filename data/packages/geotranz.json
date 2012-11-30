@@ -1,0 +1,9 @@
+{"package":"geotranz",
+ "description":"GEOgraphic coordinates TRANslator",
+ "details":" GEOTRANZ (Geographic Translator) is an application program which allows\n you to easily convert geographic coordinates among a wide variety of\n coordinate systems, map projections, and datums. Currently, twenty-five\n different coordinate systems, map projections, grids, and coding\n schemes, and over two hundred different datums, are supported.\n\n The user interface of GEOTRANZ is similar to that of a calculator, but\n can also be used to efficiently convert large numbers of coordinates\n contained in text files.\n\n GEOTRANZ is the Debian name of GEOTRANS, a product of the National\n Geospatial-Intelligence Agency (NGA) and U.S. Army Engineering Research\n and Development Center.\n\n This package contains the geotranz java graphical interface.\n",
+ "installedSize":"153306",
+ "downloadSize":"140108998",
+ "homepage":"http:\/\/earth-info.nga.mil\/GandG\/geotrans\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

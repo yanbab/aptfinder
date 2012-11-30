@@ -1,0 +1,9 @@
+{"package":"gamera-gui",
+ "description":"GUI for the Gamera framework",
+ "details":" The Gamera framework is a Python library for building custom\n applications for document analysis and recognition.\n\n This package contains GUI for Gamera.\n role::program, scope::application, uitoolkit::gtk, works-with::image,\n works-with::image:raster, x11::application\n",
+ "installedSize":"1091",
+ "downloadSize":"361700",
+ "homepage":"http:\/\/gamera.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

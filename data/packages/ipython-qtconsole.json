@@ -1,0 +1,9 @@
+{"package":"ipython-qtconsole",
+ "description":"enhanced interactive Python shell - Qt console",
+ "details":" IPython can be used as a replacement for the standard Python shell,\n or it can be used as a complete working environment for scientific\n computing (like Matlab or Mathematica) when paired with the standard\n Python scientific and numerical tools. It supports dynamic object\n introspections, numbered input\/output prompts, a macro system,\n session logging, session restoring, complete system shell access,\n verbose and colored traceback reports, auto-parentheses, auto-quoting,\n and is embeddable in other Python programs.\n\n This package contains the qt console.\n",
+ "installedSize":"484",
+ "downloadSize":"81082",
+ "homepage":"http:\/\/ipython.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

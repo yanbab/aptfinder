@@ -1,0 +1,9 @@
+{"package":"alarm-clock",
+ "description":"Alarm Clock for GTK Environments",
+ "details":" Alarm Clock is the personal alarm clock for GTK+ desktop environments.\n It supports sound fading, scheduled alarms, snooze option, passive\n window reminders, exception lists for scheduled alarms, exporting\n alarms and much more!\n",
+ "installedSize":"1808",
+ "downloadSize":"617080",
+ "homepage":"http:\/\/gnome-automate.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

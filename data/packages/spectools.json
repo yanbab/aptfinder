@@ -1,0 +1,9 @@
+{"package":"spectools",
+ "description":"Utilities for using the Wi-Spy USB spectrum analyzer hardware",
+ "details":" Spectrum-Tools is a set of utilities for using the Wi-Spy USB spectrum\n analyzer tools from Metageek LLC.  They include userspace drivers for\n the hardware (implemented via libusb), a graphing UI built on GTK\/Cairo,\n network servers for remote devices, and simple utilities for developing\n additional tools.\n uitoolkit::gtk, use::monitor\n",
+ "installedSize":"360",
+ "downloadSize":"132006",
+ "homepage":"http:\/\/www.kismetwireless.net\/spectools\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

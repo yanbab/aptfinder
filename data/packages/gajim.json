@@ -1,0 +1,9 @@
+{"package":"gajim",
+ "description":"Jabber client written in PyGTK",
+ "details":" Gajim is a Jabber client. It has a tabbed user interface with normal chats,\n group chats, and has many features such as, TLS, GPG, SSL, multiple accounts,\n avatars, file transfers, audio\/video call, D-Bus and Metacontacts.\n network::client, protocol::jabber, role::program, uitoolkit::gtk,\n use::chatting, works-with::audio, works-with::video, x11::application\n",
+ "installedSize":"13505",
+ "downloadSize":"4819846",
+ "homepage":"http:\/\/www.gajim.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"proofgeneral",
+ "description":"generic frontend for proof assistants",
+ "details":" Proof General is a major mode to turn Emacs into an interactive proof\n assistant to write formal mathematical proofs using a variety of\n theorem provers.\n\n This package provides Proof General support for Coq. (There is no\n other proof assistant that one could sensibly support.)\n use::checking\n",
+ "installedSize":"1553",
+ "downloadSize":"432326",
+ "homepage":"http:\/\/proofgeneral.inf.ed.ac.uk",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

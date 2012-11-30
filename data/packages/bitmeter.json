@@ -1,0 +1,9 @@
+{"package":"bitmeter",
+ "description":"diagnosis tool for JACK audio software",
+ "details":" JACK Bitmeter is a diagnosis tool for JACK audio software.  As its name\n might suggest, the bitmeter operates at the bare metal of JACK's I\/O\n layer, looking at the 32 binary digits in each individual sample.\n\n Think of bitmeter like the cable detector in your toolbox. You cannot\n use a cable detector to drive screws into wood, or to undo bolts, or\n measure the length of a copper pipe, but it's the perfect tool for\n detecting hidden cables in walls before you drill. You will rarely need\n bitmeter, in fact most JACK users will never use it at all, but having\n it and never needing it is much better than needing it and not having\n it.\n uitoolkit::gtk, use::analysing, use::checking, works-with::audio,\n x11::application\n",
+ "installedSize":"340",
+ "downloadSize":"134532",
+ "homepage":"http:\/\/devel.tlrmx.org\/audio\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

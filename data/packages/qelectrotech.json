@@ -1,0 +1,9 @@
+{"package":"qelectrotech",
+ "description":"Electric schematic editor",
+ "details":" QElectroTech is a Qt4 application written in C++ .\n This program is helps you to design electric schematics.\n It includes both a schematic editor and a symbol editor.\n It uses XML files to store the produced contents.\n scope::application, uitoolkit::qt, use::TODO, x11::application\n",
+ "installedSize":"3728",
+ "downloadSize":"1422988",
+ "homepage":"http:\/\/qelectrotech.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

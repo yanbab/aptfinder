@@ -1,0 +1,9 @@
+{"package":"reinteract",
+ "description":"Worksheet-based graphical Python shell",
+ "details":" Reinteract is a tool for interactive experimentation with Python\n oriented around \"worksheets\" containing Python code combined with the\n results of that code, formatted as text or graphical plots. Unlike a\n traditional shell, you can go back and edit previously entered\n statements, and the results will update.\n\n Amongst other things, Reinteract is suitable for experimentation with\n the Python language and for data analysis using NumPy and SciPy.\n",
+ "installedSize":"601",
+ "downloadSize":"128142",
+ "homepage":"http:\/\/www.reinteract.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

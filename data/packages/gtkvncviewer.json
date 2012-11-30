@@ -1,0 +1,9 @@
+{"package":"gtkvncviewer",
+ "description":"Small GNOME VNC client",
+ "details":" This script provides a GUI for connecting to VNC servers. It remembers the\n credentials of known servers, so connecting to a VNC server is just one\n double-click away. Servers are shown in an icon view.\n",
+ "installedSize":"440",
+ "downloadSize":"75762",
+ "homepage":"http:\/\/launchpad.net\/gtkvncviewer",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

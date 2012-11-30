@@ -1,0 +1,9 @@
+{"package":"twpsk",
+ "description":"Soundcard-based X program for operating PSK31",
+ "details":" Twpsk uses a soundcard to receive and transmit PSK31, an extremely\n narrow band HF-mode. PSK31 is a mode for keyboard QSO's.\n uitoolkit::motif, uitoolkit::ncurses, x11::application\n",
+ "installedSize":"236",
+ "downloadSize":"77192",
+ "homepage":"http:\/\/wa0eir.home.mchsi.com\/twpsk.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

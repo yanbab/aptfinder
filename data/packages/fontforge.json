@@ -1,0 +1,9 @@
+{"package":"fontforge",
+ "description":"font editor",
+ "details":" Besides being a font editor, FontForge is also a font format\n converter, and can convert among PostScript (ASCII & binary Type 1,\n some Type 3s, some Type 0s), TrueType, and OpenType (Type2),\n CID-keyed, SVG, CFF and multiple-master fonts.\n\n This package also provides these programs and utilities:\n  fontimage - produce a font thumbnail image;\n  fontlint  - checks the font for certain common errors;\n  sfddiff   - compare two font files.\n uitoolkit::xlib, use::editing, works-with::font, x11::application\n",
+ "installedSize":"6567",
+ "downloadSize":"2542296",
+ "homepage":"http:\/\/fontforge.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

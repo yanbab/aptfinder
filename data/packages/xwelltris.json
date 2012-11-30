@@ -1,0 +1,9 @@
+{"package":"xwelltris",
+ "description":"3D Tetris like popular game similar to Welltris",
+ "details":" The idea of this game was by the Russian programmer Pogitnov. It has the same\n gameplay concept as Tetris.\n\n Imagine that you are looking into a glass from the top. You see four walls and\n the bottom. The flat 2D figures falling down from the walls one by one. You can\n move these figures from one wall to another or rotate the figure. If the figure\n leave the wall it moves on the bottom while another figure is pushed. You need\n to form full rows and\/or columns on the bottom. When you form such row it\n disappear and you receive additional empty space on the bottom and scores :).\n use::gameplaying, x11::application\n",
+ "installedSize":"492",
+ "downloadSize":"299274",
+ "homepage":"http:\/\/xnc.jinr.ru\/xwelltris\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

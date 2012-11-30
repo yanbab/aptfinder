@@ -1,0 +1,9 @@
+{"package":"glurp",
+ "description":"GTK+ frontend to the Music Player Daemon (MPD)",
+ "details":" glurp is a GTK+ frontend to the MPD music daemon. It features:\n   * Playlist support with id3 tags display.\n   * Password-protected connection to MPD.\n   * Easy switching of MPD's audio output device.\n   * Easy operations with MPD's database\/playlists\/streams.\n uitoolkit::gtk, use::playing, works-with::audio, x11::application\n",
+ "installedSize":"388",
+ "downloadSize":"64840",
+ "homepage":"http:\/\/sourceforge.net\/projects\/glurp\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

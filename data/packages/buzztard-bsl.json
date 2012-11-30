@@ -1,0 +1,9 @@
+{"package":"buzztard-bsl",
+ "description":"Buzztard - Buzz Song Loader Plugin",
+ "details":" The Buzztard project aims to provide a modular, free, open source music\n studio that is conceptually based on the proprietary Windows software\n called Buzz. The Buzztard project itself has no direct link to Buzz\n apart from its concepts that we build upon and is no 1:1 Buzz copy.\n To allow migration for Buzz users, Buzztard provides song-file import\n and buzz-machine reuse.\n\n bsl is a plugin for Buzztard which enables the loading of Jeskola Buzz\n song files.\n",
+ "installedSize":"180",
+ "downloadSize":"28984",
+ "homepage":"http:\/\/www.buzztard.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

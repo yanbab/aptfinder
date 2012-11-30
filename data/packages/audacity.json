@@ -1,0 +1,9 @@
+{"package":"audacity",
+ "description":"fast, cross-platform audio editor",
+ "details":" Audacity is a multi-track audio editor for Linux\/Unix, MacOS and\n Windows.  It is designed for easy recording, playing and editing of\n digital audio.  Audacity features digital effects and spectrum\n analysis tools.  Editing is very fast and provides unlimited\n undo\/redo.\n\n Supported file formats include Ogg Vorbis, MP2, MP3, WAV, AIFF, and AU.\n sound::recorder, uitoolkit::wxwidgets, use::editing, works-with::audio,\n x11::application\n",
+ "installedSize":"6429",
+ "downloadSize":"2513090",
+ "homepage":"http:\/\/audacity.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"rocs",
+ "description":"graph theory IDE",
+ "details":" Rocs aims to be a Graph Theory IDE for helping professors to show the results\n of a graph algorithm and also helping students to do the algorithms.\n\n Rocs has a scripting module, done in Qt Script, that interacts with the drawn\n graph and every change in the graph with the script is reflected on the drawn\n one.\n\n This package is part of the KDE education module.\n scope::application, suite::kde, uitoolkit::qt, use::learning,\n x11::application\n",
+ "installedSize":"2501",
+ "downloadSize":"1059182",
+ "homepage":"https:\/\/projects.kde.org\/projects\/kde\/kdeedu\/rocs",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

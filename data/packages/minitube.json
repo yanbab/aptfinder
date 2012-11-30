@@ -1,0 +1,9 @@
+{"package":"minitube",
+ "description":"Native YouTube client",
+ "details":" Minitube is a native YouTube client. With it you can watch YouTube videos in\n a new way: you type a keyword, Minitube gives you an endless video stream.\n\n Minitube does not require the Flash Player.\n\n Minitube is not about cloning the original YouTube web interface, it aims to\n create a new TV-like experience.\n use::entertaining, use::playing, works-with::video, x11::application\n",
+ "installedSize":"1832",
+ "downloadSize":"692076",
+ "homepage":"http:\/\/flavio.tordini.org\/minitube",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

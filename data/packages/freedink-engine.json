@@ -1,0 +1,9 @@
+{"package":"freedink-engine",
+ "description":"adventure and role-playing game (engine)",
+ "details":" Dink Smallwood is an adventure\/role-playing game, similar to Zelda,\n made by RTsoft. Besides twisted humour, it includes the actual game\n editor, allowing players to create hundreds of new adventures called\n Dink Modules or D-Mods for short.\n\n GNU FreeDink is a new and portable version of the game engine, which\n runs the original game as well as its D-Mods, with close\n compatibility, under multiple platforms.\n\n This package contains the game engine alone.\n role::program, uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"1124",
+ "downloadSize":"320316",
+ "homepage":"http:\/\/www.gnu.org\/software\/freedink\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

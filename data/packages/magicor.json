@@ -1,0 +1,9 @@
+{"package":"magicor",
+ "description":"puzzle game in the spirit of solomon's key",
+ "details":" Magicor is a small puzzle game similar to the old NES classic\n solomon's key. You control tux the penguin and create ice blocks\n to extinguish all fires on each map.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"504",
+ "downloadSize":"60664",
+ "homepage":"http:\/\/magicor.sf.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

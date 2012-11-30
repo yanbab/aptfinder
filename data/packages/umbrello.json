@@ -1,0 +1,9 @@
+{"package":"umbrello",
+ "description":"UML modelling tool and code generator",
+ "details":" Umbrello UML Modeller is a Unified Modelling Language diagram editor for KDE.\n It can create diagrams of software and other systems in the industry-standard\n UML format, and can also generate code from UML diagrams in a variety of\n programming languages.\n\n This package is part of the KDE Software Development Kit module.\n interface::x11, role::program, scope::application, suite::kde,\n uitoolkit::qt, use::editing, works-with::image,\n works-with::image:vector, x11::application\n",
+ "installedSize":"6004",
+ "downloadSize":"2804912",
+ "homepage":"http:\/\/www.kde.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"hdfview",
+ "description":"Java HDF Object viewer",
+ "details":" HDF is a versatile data model that can represent very complex data objects\n and a wide variety of metadata. It is a completely portable file format\n with no limit on the number or size of data objects in the collection.\n\n This package provides a HDF4\/HDF5 viewer.\n",
+ "installedSize":"578",
+ "downloadSize":"415112",
+ "homepage":"http:\/\/www.hdfgroup.org\/hdf-java-html\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

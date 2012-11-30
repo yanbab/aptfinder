@@ -1,0 +1,9 @@
+{"package":"nvclock-gtk",
+ "description":"Overclock an NVIDIA card (GTK+ interface)",
+ "details":" This program allows you to overclock your NVIDIA-based video card.  The\n official binary NVIDIA drivers are required for accesses other than by\n root.\n\n This is the GTK+ version.  See nvclock-qt for a Qt version and nvclock\n for the console version.\n scope::utility, uitoolkit::gtk, use::configuring, x11::application\n",
+ "installedSize":"540",
+ "downloadSize":"227280",
+ "homepage":"http:\/\/www.linuxhardware.org\/nvclock\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

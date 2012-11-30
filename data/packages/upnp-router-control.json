@@ -1,0 +1,9 @@
+{"package":"upnp-router-control",
+ "description":"UPnP compliant routers manager",
+ "details":" UPnP Router Control allows to see some parameters of the router like the\n network speed, the external IP and the model name. It can manage port\n forwarding trough a simple interface.\n\n UPnP Router Control retrive these information trough UPnP-IGD protocol, so\n you must enable it in your router in order to utilize it.\n uitoolkit::gtk\n",
+ "installedSize":"704",
+ "downloadSize":"78330",
+ "homepage":"https:\/\/launchpad.net\/upnp-router-control",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

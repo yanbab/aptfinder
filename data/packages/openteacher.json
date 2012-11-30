@@ -1,0 +1,9 @@
+{"package":"openteacher",
+ "description":"learn words in a foreign language",
+ "details":" OpenTeacher is an application that helps you in learning a foreign\n language vocabulary. Just enter some words in your native or foreign\n language, and OpenTeacher will test you.\n\n OpenTeacher has the following features:\n   * Smart and interval question asking\n   * Think answer, shuffle answer and repeat answer input modes\n   * Easy symbol, Greek and Cyrillic input\n   * Read and write Teach2000 and WRTS files, read ABBY Lingvo Tutor files\n   * Save and open your online WRTS lists\n   * Support for synonyms\n   * Printing your word lists\n   * Available in English, Spanish, German, Dutch, Hungarian.\n use::learning, works-with::dictionary, x11::application\n",
+ "installedSize":"4282",
+ "downloadSize":"1152068",
+ "homepage":"http:\/\/openteacher.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

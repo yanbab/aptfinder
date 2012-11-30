@@ -1,0 +1,9 @@
+{"package":"gnubg",
+ "description":"graphical or console backgammon program with analysis",
+ "details":" GNU Backgammon is a strong backgammon program (world-class with a bearoff\n database installed) usable either as an engine by other programs or as a\n standalone backgammon game.  In addition to supporting simple play, it\n also has extensive analysis features, a tutor mode, adjustable\n difficulty, and support for exporting annotated games.  It can be played\n either from a GTK+ graphical interface, optionally with a 3D board, or\n from a simple text console.\n\n GNU Backgammon is still under initial development and should be\n considered beta software.\n interface::x11, junior::games-gl, role::program, suite::gnu,\n uitoolkit::gtk, uitoolkit::ncurses, use::gameplaying, x11::application\n",
+ "installedSize":"2773",
+ "downloadSize":"1380420",
+ "homepage":"http:\/\/www.gnubg.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"megaglest",
+ "description":"3D multi-player real time strategy game",
+ "details":" MegaGlest is a free 3D real-time customizable strategy game\n which takes place in a context which could be compared to that of the\n pre-renaissance Europe, with the licence that magic forces exist in the\n environment and can be controlled.\n\n The current version is fully playable and supports both single player\n games against CPU controlled players and multiplayer matches over the\n Internet or a LAN.\n implemented-in::c++, interface::3d, interface::x11, role::program,\n uitoolkit::sdl, uitoolkit::wxwidgets, use::gameplaying,\n x11::application\n",
+ "installedSize":"8093",
+ "downloadSize":"3283288",
+ "homepage":"http:\/\/megaglest.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

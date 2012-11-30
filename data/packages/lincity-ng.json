@@ -1,0 +1,9 @@
+{"package":"lincity-ng",
+ "description":"City simulator game with polished graphics",
+ "details":" LinCity-NG is a City Simulation Game. It is a polished and improved\n version of the old LinCity game:\n You are required to build and maintain a city. You must feed, house,\n provide jobs and goods for your residents. You can build a sustainable\n economy with the help of renewable energy and recycling, or you can go for\n broke and build rockets to escape from a pollution ridden and resource\n starved planet, it's up to you. Due to the finite resources available in any\n one place, this is not a game that you can leave for long periods of time.\n This game is similar to the commercial simulation game with a similar\n name.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"1024",
+ "downloadSize":"372342",
+ "homepage":"http:\/\/lincity-ng.berlios.de\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

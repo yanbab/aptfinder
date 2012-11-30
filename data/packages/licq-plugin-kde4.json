@@ -1,0 +1,9 @@
+{"package":"licq-plugin-kde4",
+ "description":"graphical user interface plug-in for Licq using KDE4",
+ "details":" This package provides a KDE-based graphical user interface to the Licq instant\n messaging client.  The GUI provides access to all features available in Licq.\n\n The GUI contains a wide range of configurable options as well as skin support\n allowing behaviour and appearance to be customized in many ways.  Features\n include spell checking, auto-raise and auto-popup incoming messages, tray icon\n and a searchable history.\n\n KDE4-GUI is based on the old KDE-GUI (licq-plugin-kde) but uses KDE4 and\n includes new features such as configurable keyboard shortcuts as well as\n entirely new dialogs for messaging, history and settings.\n use::chatting, x11::application\n",
+ "installedSize":"1998",
+ "downloadSize":"789512",
+ "homepage":"http:\/\/www.licq.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

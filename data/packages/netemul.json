@@ -1,0 +1,9 @@
+{"package":"netemul",
+ "description":"program for simulating computer networks",
+ "details":" NetEmul makes possible to build, configure networks and verify its\n availability. This program allows beginners to see the principles of operation\n of computer networks and gives a scope for experiments.\n uitoolkit::qt, use::simulating, x11::application\n",
+ "installedSize":"2896",
+ "downloadSize":"1779488",
+ "homepage":"http:\/\/netemul.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

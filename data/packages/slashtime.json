@@ -1,0 +1,9 @@
+{"package":"slashtime",
+ "description":"Display the time in various places",
+ "details":" A small program which displays the time in various places. It has a compact\n display of locations along with supporting information such as the date and\n the abbreviated code used to name that timezone.\n\n Time data displayed will be as accurate as the system's zoneinfo data is used.\n Somewhat unusually, Slashtime shows the offset from the current location, not\n from UTC. When running you can change the center point by double-clicking on\n another city.\n\n There is a meeting planner built into Slashtime. You can specify a date and\n time and see what the corresponding time in other locations will be.\n",
+ "installedSize":"66",
+ "downloadSize":"59290",
+ "homepage":"http:\/\/research.operationaldynamics.com\/projects\/slashtime\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

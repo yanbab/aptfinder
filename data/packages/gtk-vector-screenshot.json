@@ -1,0 +1,9 @@
+{"package":"gtk-vector-screenshot",
+ "description":"takes screenshots of applications as PDF or SVG files",
+ "details":" This gtk module allows you to take a screenshot of a running gtk-3 application\n as a vector image, with fully scalable graphics and selectable text. It\n supports rendering the application to PDF, SVG and PostScript.\n",
+ "installedSize":"99",
+ "downloadSize":"17570",
+ "homepage":"http:\/\/www.joachim-breitner.de\/projects#gtk-vector-screenshot",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

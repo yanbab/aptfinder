@@ -1,0 +1,9 @@
+{"package":"stackapplet",
+ "description":"panel applet to track reputation on StackExchange sites",
+ "details":" StackApplet is a GNOME panel applet that monitors your activity on any\n StackExchange site. StackApplet will notify you when your reputation\n changes on any of the sites or when someone posts a comment to you.\n\n StackApplet supports tracking multiple sites and usernames\n simultaneously.\n",
+ "installedSize":"268",
+ "downloadSize":"35078",
+ "homepage":"http:\/\/stackoverflow.quickmediasolutions.com\/stackapplet\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

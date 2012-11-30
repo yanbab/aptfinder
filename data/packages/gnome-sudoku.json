@@ -1,0 +1,9 @@
+{"package":"gnome-sudoku",
+ "description":"Sudoku puzzle game for GNOME",
+ "details":" This is an application for playing the popular sudoku logic puzzle\n game, in which one must fill a 9 by 9 square with the correct digits.\n\n It features automatic puzzle generation, saving and restoring games,\n annotations, trackers, and much more.\n role::program, suite::gnome, uitoolkit::gtk, use::gameplaying,\n x11::application\n",
+ "installedSize":"3673",
+ "downloadSize":"1965068",
+ "homepage":"http:\/\/live.gnome.org\/GnomeGames",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

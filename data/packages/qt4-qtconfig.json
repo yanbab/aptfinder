@@ -1,0 +1,9 @@
+{"package":"qt4-qtconfig",
+ "description":"Qt 4 configuration tool",
+ "details":" Qt is a cross-platform C++ application framework. Qt's primary feature\n is its rich set of widgets that provide standard GUI functionality.\n\n The Qt Configuration program allows end users to configure the look and\n behavior of any Qt 4 application.\n scope::utility, uitoolkit::qt, use::configuring, x11::application\n",
+ "installedSize":"519",
+ "downloadSize":"135904",
+ "homepage":"http:\/\/qt-project.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

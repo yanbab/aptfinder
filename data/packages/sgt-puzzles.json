@@ -1,0 +1,9 @@
+{"package":"sgt-puzzles",
+ "description":"Simon Tatham's Portable Puzzle Collection - 1-player puzzle games",
+ "details":" Simon Tatham's Portable Puzzle Collection contains a number of popular\n puzzle games for one player.  It currently consists of these games:\n\n  * Topological deduction games: Bridges; Loopy; Map; Net, based on FreeNet;\n    Slant\n  * Tile manipulation games: Cube; Fifteen; Flip; Netslide; Sixteen; Twiddle\n  * Black Box\n  * Dominosa\n  * Filling, based on Fillomino\n  * Galaxies, based on Tentai Show\n  * Guess, based on Mastermind\n  * Inertia\n  * Keen, based on KenKen\n  * Light Up\n  * Magnets\n  * Mines, based on Minesweeper\n  * Pattern, an implementation of nonograms\n  * Pearl, based on Masyu\n  * Pegs, an implementation of several versions of peg solitaire\n  * Range, based on Kurodoko\n  * Rectangles, based on Divide by Squares\n  * Same Game\n  * Signpost, based on Pfeilpfad\n  * Singles, based on Hitori\n  * Solo, based on Sudoku\n  * Tents\n  * Towers, based on Skyscrapers\n  * Unequal, based on Futoshiki\n  * Untangle, based on Planarity\n uitoolkit::gtk, use::gameplaying, x11::application\n",
+ "installedSize":"2383",
+ "downloadSize":"1369702",
+ "homepage":"http:\/\/www.chiark.greenend.org.uk\/~sgtatham\/puzzles\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

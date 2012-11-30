@@ -1,0 +1,9 @@
+{"package":"xjadeo",
+ "description":"Video player with JACK sync",
+ "details":" Simple video player that receives sync from jackd or MTC.\n It has applications in soundtrack creation, video monitoring or any task that\n requires to associate movie frames with audio events.\n\n For instance when a jack-client (like Muse, Rosegarden or Ardour) acts as a\n timebase master, xjadeo will display the video synchronized to JACK transport.\n xjadeo is capable to read Midi Time Clock as an alternate sync source and comes\n along with an optional QT-GUI.\n\n xjadeo reads only seekable media by default. Installing a transcoding utility\n like mencoder or transcode is highly recommended.\n",
+ "installedSize":"613",
+ "downloadSize":"360924",
+ "homepage":"http:\/\/xjadeo.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

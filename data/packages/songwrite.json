@@ -1,0 +1,9 @@
+{"package":"songwrite",
+ "description":"guitar tablature editor and player",
+ "details":" Songwrite is a guitar tablature (fingering notation) editor and player,\n quite similar to TablEdit. In addition to tablatures, it also supports\n staff, lyrics and drums.\n\n Printing support and playback are available through external programs.\n\n Songwrite was formerly know as GTablature.\n scope::application, uitoolkit::tk, use::editing,\n works-with::music-notation, x11::application\n",
+ "installedSize":"934",
+ "downloadSize":"546966",
+ "homepage":"http:\/\/home.gna.org\/oomadness\/en\/songwrite\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

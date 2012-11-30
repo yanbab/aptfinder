@@ -1,0 +1,9 @@
+{"package":"texmacs",
+ "description":"WYSIWYG mathematical text editor using TeX fonts",
+ "details":" GNU TeXmacs is a free scientific text editor, which was both inspired\n by TeX and GNU Emacs.\n\n The editor allows you to write structured documents via a WYSIWYG\n (what-you-see-is-what-you-get) and a user friendly interface. New\n styles may be created by the user. The program implements\n high-quality typesetting algorithms and TeX fonts, which help you to\n produce professionally looking documents.\n\n The high typesetting quality still goes through for automatically\n generated formulas, which makes TeXmacs suitable as an interface for\n computer algebra systems. TeXmacs also supports the Guile\/Scheme\n extension language, so that you may customize the interface and write\n your own extensions to the editor.\n\n This package contains the architecture dependent files.\n scope::application, suite::gnu, use::editing, use::text-formatting,\n use::typesetting, works-with-format::tex, works-with::text\n",
+ "installedSize":"5880",
+ "downloadSize":"2230074",
+ "homepage":"http:\/\/www.texmacs.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

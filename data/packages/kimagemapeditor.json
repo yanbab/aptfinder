@@ -1,0 +1,9 @@
+{"package":"kimagemapeditor",
+ "description":"HTML image map editor",
+ "details":" KImageMapEditor is a tool that allows you to edit image maps in HTML\n files. As well as providing a standalone application, KImageMapEditor\n makes itself available as a KPart for embedding into larger applications.\n\n This package is part of KDE web development module.\n suite::kde, uitoolkit::qt, use::editing, works-with-format::html,\n works-with::image, works-with::image:raster, works-with::text,\n x11::application\n",
+ "installedSize":"1153",
+ "downloadSize":"615170",
+ "homepage":"http:\/\/kdewebdev.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

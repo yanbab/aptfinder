@@ -1,0 +1,9 @@
+{"package":"graphmonkey",
+ "description":"a GTK#-based graphing calculator",
+ "details":" GraphMonkey is a GTK#-based graphic calculator. It uses a simple interface to\n draw curves.\n role::program, scope::application, uitoolkit::gtk, use::viewing,\n x11::application\n",
+ "installedSize":"62",
+ "downloadSize":"43760",
+ "homepage":"http:\/\/graphmonkey.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

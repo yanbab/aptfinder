@@ -1,0 +1,9 @@
+{"package":"entagged",
+ "description":"Java Audio File Tagger",
+ "details":" Entagged is a audiofile tagger, using the freedb online database for\n the retrieval of the tags. It supports custom file renaming from tags\n (with any directory stucture) and vice versa. Supports: mp3, ogg,\n flac, mpc, ape, wma.\n works-with-format::TODO, works-with-format::mp3,\n works-with-format::oggvorbis, works-with-format::wav, works-with::audio\n",
+ "installedSize":"1588",
+ "downloadSize":"1378020",
+ "homepage":"http:\/\/sourceforge.net\/projects\/entagged",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

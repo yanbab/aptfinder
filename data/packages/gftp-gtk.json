@@ -1,0 +1,9 @@
+{"package":"gftp-gtk",
+ "description":"X\/GTK+ FTP client",
+ "details":" gFTP graphical version is a multithreaded FTP client running under X and\n written using GLib\/GTK+.\n\n gFTP features:\n   * simultaneous downloads,\n   * resuming of interrupted file transfers,\n   * file transfer queues,\n   * downloading of entire directories,\n   * FTP and HTTP proxy support,\n   * remote directory caching,\n   * passive and non-passive file transfers,\n   * drag-n-drop support,\n   * bookmarks menu,\n   * support for SSH and SSH2 file transfers,\n   * support FXP transfers,\n   * stop button, and many more features.\n\n  Author:   Brian Masney <masneyb@gftp.org>\n uitoolkit::gtk, use::downloading, works-with::file, x11::application\n",
+ "installedSize":"576",
+ "downloadSize":"240748",
+ "homepage":"http:\/\/www.gftp.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

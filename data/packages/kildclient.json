@@ -1,0 +1,9 @@
+{"package":"kildclient",
+ "description":"powerful MUD client with a built-in Perl interpreter",
+ "details":" KildClient is a MUD Client written with the GTK+ windowing toolkit.\n It supports many common features of other clients, such as triggers,\n gags, aliases, macros, timers, and much more. But its main feature is\n the built-in Perl interpreter. You can at any moment execute Perl\n statements and functions to do things much more powerful than simply\n sending text the mud. Perl statements can also be run, for example,\n as the action of a trigger, allowing you to do complex things. Some\n built-in functions of KildClient allow interaction with the world,\n such as sending commands to it.\n\n KildClient's ANSI support is extensive: it supports not only the common\n 16 colors, but also support underlined text (singly and doubly), text in\n italics, text striked through, reverse video and \"hidden\" text. It also\n supports vt100's line-drawing characters, and xterm's escape sequences\n for a 256-color mode. All these features make KildClient one of the\n clients with the most features for displaying the mud output.\n\n Kildclient supports the MCCP (Mud Client Compression Protocol) protocol,\n versions 1 and 2, to reduce the necessary bandwidth.\n\n KildClient allows connection through SOCKS4\/5 proxy servers.\n\n This package contains the main program. Install the kildclient-doc\n package to access the HTML manual.\n protocol::telnet, role::program, uitoolkit::gtk, use::gameplaying,\n x11::application\n",
+ "installedSize":"1491",
+ "downloadSize":"356214",
+ "homepage":"http:\/\/kildclient.sf.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

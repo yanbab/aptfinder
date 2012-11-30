@@ -1,0 +1,9 @@
+{"package":"qtqr",
+ "description":"Qt frontend for QR code generator and decoder",
+ "details":" A Qt based software that let's you generate QR codes easily, scan\n an image file for QR codes and decode them or use your webcam to\n scan a printed one.\n",
+ "installedSize":"97",
+ "downloadSize":"30990",
+ "homepage":"https:\/\/launchpad.net\/qr-tools",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

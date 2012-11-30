@@ -1,0 +1,9 @@
+{"package":"psi-plus",
+ "description":"Qt-based XMPP\/Jabber client (basic version)",
+ "details":" This package contains basic version of Psi+.\n\n Psi is a cross-platform powerful XMPP\/Jabber client (Qt, C++) designed for the\n Jabber power users. Psi+ is a development branch of Psi IM XMPP\/Jabber client\n by <psi-dev@conference.jabber.ru> team.\n\n Project Purpose: collection, refinement and writing new patches for transfer\n them to Psi upstream developers.\n\n Full list of features you can found at:\n http:\/\/psi-plus.com\/wiki\/doku.php\/en:features\n uitoolkit::qt, use::chatting, x11::application\n",
+ "installedSize":"10713",
+ "downloadSize":"4214064",
+ "homepage":"http:\/\/psi-dev.googlecode.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

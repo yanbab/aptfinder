@@ -1,0 +1,9 @@
+{"package":"pdf-presenter-console",
+ "description":"multi-monitor presentation tool (ala Keynote) for PDF files",
+ "details":" PPC is a viewer for PDF which uses Keynote-like multi-monitor output\n to provide meta information to the speaker.  It can show a normal\n presentation window on one screen and a more sophisticated overview\n on the other, with information like a picture of the next slide and a\n clock with the time remaining.\n",
+ "installedSize":"338",
+ "downloadSize":"105220",
+ "homepage":"http:\/\/westhoffswelt.de\/projects\/pdf_presenter_console.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"pinta",
+ "description":"Simple drawing\/painting program",
+ "details":" Pinta is an easy to use drawing\/editing program. Its goal is to\n provide a simplified experience for casual users.\n\n Features include:\n  - Adjustments (Auto level, Black and White, Sepia, \u2026)\n  - Effects (Motion blur, Glow, Warp, \u2026)\n  - Multiple layers\n  - Unlimited undo\/redo\n  - Drawing tools (Paintbrush, Pencil, Shapes, \u2026)\n scope::application, uitoolkit::gtk, use::editing, works-with::image,\n x11::application\n",
+ "installedSize":"2135",
+ "downloadSize":"761360",
+ "homepage":"http:\/\/pinta-project.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"xacobeo",
+ "description":"XPath (XML Path Language) visualizer",
+ "details":" Xacobeo provides a simple graphical user interface (GUI) for executing\n XPath queries and seeing their results.\n\n The GUI tries to provide all the elements that are needed in order to write,\n test and execute XPath queries without too many troubles. It displays the\n Document Object Model (DOM) and the namespaces used. The program registers the\n namespaces automatically and each element is displayed with its associated\n namespaces. All is performed with the idea of being able of running an XPath\n query as soon as possible without having to fight with the document's\n namespaces and by seeing automatically under which namespace each element is.\n",
+ "installedSize":"316",
+ "downloadSize":"103760",
+ "homepage":"http:\/\/search.cpan.org\/dist\/Xacobeo\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

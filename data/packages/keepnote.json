@@ -1,0 +1,9 @@
+{"package":"keepnote",
+ "description":"cross-platform note-taking and organization application",
+ "details":" With KeepNote, you can store your class notes, TODO lists, research\n notes, journal entries, paper outlines, etc in a simple notebook\n hierarchy with rich-text formatting, images, and more. Using full-text\n search, you can retrieve any note for later reference.\n\n KeepNote is designed to be cross-platform (implemented in Python and\n PyGTK) and stores your notes in simple and easy to manipulate file\n formats (HTML and XML). Archiving and transferring your notes is as\n easy as zipping or copying a folder.\n",
+ "installedSize":"2805",
+ "downloadSize":"547074",
+ "homepage":"http:\/\/keepnote.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

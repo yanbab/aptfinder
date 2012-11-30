@@ -1,0 +1,9 @@
+{"package":"homebank",
+ "description":"Manage your personal accounts at home",
+ "details":" HomeBank is a fast, simple and easy to use program to manage your accounts.\n It differs from gnucash for the better look and feel, and for the greatest\n start-up speed. It has a lot of features such as easy analysis with\n graphical charts (statistics, budget, overdrawn, car cost), multi-accounts\n support, budget management, reminder, import from  OFX\/QFX-CSV files,\n visual status of operations. It is based on GTK2.\n office::finance, role::program, scope::application, suite::gnome,\n uitoolkit::gtk, use::organizing, x11::application\n",
+ "installedSize":"782",
+ "downloadSize":"300778",
+ "homepage":"http:\/\/homebank.free.fr\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

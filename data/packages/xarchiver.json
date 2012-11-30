@@ -1,0 +1,9 @@
+{"package":"xarchiver",
+ "description":"GTK+ frontend for most used compression formats",
+ "details":" Xarchiver is a Desktop Environment independent GTK+ 2 frontend for manipulating\n 7z, arj, bzip2, gzip, rar, tar, zip, and RPM files. It allows you to create\n archives and add, extract, and delete files from them. Password protected\n archives in the arj, 7z, rar, and zip formats are supported.\n\n Xarchiver uses library package routines, if available. If you need even more\n package formats, try xarchive which uses shell scripts.\n use::compressing, use::storing, works-with-format::tar,\n works-with-format::zip, works-with::archive, works-with::file,\n x11::application\n",
+ "installedSize":"1644",
+ "downloadSize":"510830",
+ "homepage":"http:\/\/xarchiver.xfce.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"ftp.app",
+ "description":"File transfer protocol application for GNUstep",
+ "details":" This is a file transfer application (RFC 765) featuring a compact and easy\n interface. As most applications in GAP it tries to work on both GNUstep and\n MacOS X and retain the utmost possible similarity among the two version to\n ease working in both environments.\n\n FTP supports different port arbitration modes: \"default\", standard \"PORT\"\n (also known as active) and standard \"PASV\" (also known as passive).\n role::program, suite::gnustep, uitoolkit::gnustep, x11::application\n",
+ "installedSize":"238",
+ "downloadSize":"65954",
+ "homepage":"http:\/\/www.nongnu.org\/gap\/ftp\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

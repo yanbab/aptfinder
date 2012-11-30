@@ -1,0 +1,9 @@
+{"package":"python-web2py",
+ "description":"High-level Python web development framework",
+ "details":" web2py is a free, open-source web framework for agile development of\n secure database-driven web applications; it is written in Python and\n programmable in Python. Web2py is a full-stack framework, meaning that\n it contains all the components you need to build fully functional web\n applications. Web2py was inspired by Ruby on Rails and Django, and\n follows a Model View Controller design.\n\n This package includes an example site, an internal web server and the\n administration tools to develop web sites with web2py.\n",
+ "installedSize":"26617",
+ "downloadSize":"5586004",
+ "homepage":"http:\/\/www.web2py.com",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

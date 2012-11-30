@@ -1,0 +1,9 @@
+{"package":"kvirc",
+ "description":"KDE-based next generation IRC client with module support",
+ "details":" A highly configurable graphical IRC client with an MDI interface,\n built-in scripting language, support for IRC DCC, drag & drop file\n browsing, and much more. KVIrc uses the KDE widget set, can be extended\n using its own scripting language, integrates with KDE, and supports\n custom plugins.\n\n If you're looking for a simple and plain IRC client, KVIrc is probably the\n wrong choice as it is rather big. But if you want a highly customizable client\n you won't regret the installation.\n protocol::irc, role::program, suite::kde, uitoolkit::qt, use::chatting,\n x11::application\n",
+ "installedSize":"2955",
+ "downloadSize":"1100798",
+ "homepage":"http:\/\/www.kvirc.de\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

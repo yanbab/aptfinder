@@ -1,0 +1,9 @@
+{"package":"ukopp",
+ "description":"Full and incremental backup to disk or disk-like device",
+ "details":" Ukopp is used to copy or back-up disk files to a disk or disk-like device,\n such as a USB stick. It copies only new or modified files since the last\n backup, and is therefore quite fast. A GUI is used to navigate the file\n system to include or exclude files or directories at any level. These\n choices can be saved in a job file for repeated use. New files appearing\n within the included directories are handled automatically. Optionally,\n previous versions of the backup files can be retained instead of being\n overwritten. Files can be selectively restored using a GUI. Ownership\n and permissions are also restored, even if the target device uses a\n Microsoft file system.\n",
+ "installedSize":"509",
+ "downloadSize":"254910",
+ "homepage":"http:\/\/kornelix.squarespace.com\/ukopp\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

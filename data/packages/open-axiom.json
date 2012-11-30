@@ -1,0 +1,9 @@
+{"package":"open-axiom",
+ "description":"open scientific computation platform",
+ "details":" OpenAxiom is an open source platform for symbolic, algebraic, and numerical\n computations. It offers an interactive environment, an expressive programming\n language, a compiler, a large set of mathematical libraries of interest to\n researchers and practitioners of computational sciences.\n\n OpenAxiom is a descendent of the AXIOM computer algebra system as described by\n Richard Jenks and Robert Sutor in \"AXIOM: The Scientific Computation System\".\n That book is the base reference document for OpenAxiom.\n\n This package contains the main program binary and all precompiled\n algebra and autoloadable modules.\n",
+ "installedSize":"84629",
+ "downloadSize":"24634142",
+ "homepage":"http:\/\/www.open-axiom.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

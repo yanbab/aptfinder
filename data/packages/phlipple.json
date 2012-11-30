@@ -1,0 +1,9 @@
+{"package":"phlipple",
+ "description":"reduce 3D shapes to a single square",
+ "details":" Phlipple is a unique puzzle game. The goal of every level is to reduce\n a 3D shape to a single square. Elimination of squares is done by flipping\n edges around just like in a cardboard box. It starts off relatively easy\n to teach the basics just to later on serve hours of brain tickling fun.\n It's a great way to train memory as well as orientation in 3D.\n uitoolkit::glut, uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"138",
+ "downloadSize":"40548",
+ "homepage":"http:\/\/phuzzboxmedia.com\/games\/phlipple",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

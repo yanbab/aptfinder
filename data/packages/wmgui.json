@@ -1,0 +1,9 @@
+{"package":"wmgui",
+ "description":"GUI interface to the wiimote",
+ "details":" CWiid is a working userspace driver along with various\n applications implementing event drivers, multiple wiimote\n connectivity, gesture recognition, and other Wiimote-based\n functionality.\n\n This package provides the GUI to test and display the wiimote data.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"169",
+ "downloadSize":"53918",
+ "homepage":"http:\/\/abstrakraft.org\/cwiid\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

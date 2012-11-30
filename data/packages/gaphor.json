@@ -1,0 +1,9 @@
+{"package":"gaphor",
+ "description":"UML modeling tool",
+ "details":" This program is an easy to use UML (Unified Modeling Language) modeling\n environment. It allows you to create UML diagrams for documentation and to\n assist you with design decisions.\n scope::utility, use::organizing, works-with::image,\n works-with::image:vector\n",
+ "installedSize":"2158",
+ "downloadSize":"385870",
+ "homepage":"http:\/\/github.com\/amolenaar\/gaphor",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

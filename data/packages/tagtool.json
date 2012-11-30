@@ -1,0 +1,9 @@
+{"package":"tagtool",
+ "description":"Tool to tag and rename MP3 and Ogg Vorbis files",
+ "details":" Audio Tag Tool is a program to manage the information fields in MP3 and Ogg\n Vorbis files (commonly called tags). Tag Tool can be used to edit tags one by\n one, but the most useful features are mass tag and mass rename. These are\n designed to tag or rename hundreds of files at once, in any desired format.\n uitoolkit::gtk, use::editing, use::organizing, works-with-format::mp3,\n works-with-format::oggvorbis, works-with::audio, x11::application\n",
+ "installedSize":"1164",
+ "downloadSize":"207984",
+ "homepage":"http:\/\/sourceforge.net\/projects\/tagtool\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

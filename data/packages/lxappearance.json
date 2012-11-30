@@ -1,0 +1,9 @@
+{"package":"lxappearance",
+ "description":"LXDE GTK+ theme switcher",
+ "details":" LXAppearance is a GUI application for the Lightweight X11 Desktop Environment\n (LXDE).\n\n It is a new feature-rich GTK+ theme switcher able to change GTK+ themes, icon\n themes, and fonts used by applications. GNOME\/KDE\/Xfce user may use build-in\n theme, this works for GTK+ based lightweight desktop Environment.\n\n Features:\n\n  * Choose GTK+ theme\n  * Choose icon theme\n  * Install new icon theme\n  * Choose their favorite font\n  * Choose toolbar style\n  * See changes immediately in preview area\n",
+ "installedSize":"828",
+ "downloadSize":"72378",
+ "homepage":"http:\/\/www.lxde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"seq24",
+ "description":"Real time MIDI sequencer",
+ "details":" Seq24 was created to provide a very simple interface for editing and\n playing midi 'loops'. It is a very minimal sequencer that excludes the\n bloated features of the large software sequencers and includes a small\n subset that proved to be useful for live performances.\n use::editing, use::playing, x11::application\n",
+ "installedSize":"712",
+ "downloadSize":"239906",
+ "homepage":"http:\/\/www.filter24.org\/seq24\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

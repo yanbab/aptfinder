@@ -1,0 +1,9 @@
+{"package":"xaos",
+ "description":"real-time interactive fractal zoomer",
+ "details":" XaoS allows you to zoom and pan around a fractal in\n real time. It can display the animated fractals in graphical\n or even plain text mode.\n\n It displays the Mandelbrot set or many other fractals and\n allows you to zoom smoothly into the fractal. Various coloring\n modes are provided for both the points inside and outside the\n selected set. In addition, switching between Mandelbrot and Julia\n fractal types is provided.\n\n Other features include autopilot mode, palette changing,\n image saving, fractal inversion, filters, and a built in fractal\n tutorial.\n interface::x11, role::program, uitoolkit::ncurses, use::gameplaying,\n use::viewing, x11::application\n",
+ "installedSize":"2572",
+ "downloadSize":"603750",
+ "homepage":"http:\/\/wmi.math.u-szeged.hu\/xaos\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"monkeystudio",
+ "description":"Qt 4 Integrated Development Environment (IDE)",
+ "details":" Monkey Studio is a crossplatform Qt 4 IDE. It is developed using the Qt\n library itself, meaning it will run on any platform supported by Qt 4. This\n allows you to work on the same project on multiple platforms using the same\n IDE. Monkey Studio uses the Qt Project file (.pro) to manage the project, and\n there are no extra files created.\n\n Monkey Studio also features:\n  * Advanced, customizable code editor, based on QScintilla\n  * Syntax highlighting for more than 22 programming languages\n  * Templates wizard - create files or projects from templates\n  * Code restyling - quickly fix\/update style of your code using AStyle\n  * Qt Designer integration\n  * Qt Assistant integration\n uitoolkit::qt, x11::application\n",
+ "installedSize":"8175",
+ "downloadSize":"3616566",
+ "homepage":"http:\/\/www.monkeystudio.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

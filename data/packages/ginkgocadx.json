@@ -1,0 +1,9 @@
+{"package":"ginkgocadx",
+ "description":"Medical Imaging Software and complete DICOM Viewer",
+ "details":" Ginkgo CADx provides a complete DICOM viewer solution with advanced\n capabilities and support for extensions.\n\n  * Easy and customizable interface through profiles.\n  * Full featured DICOM image visualization.\n  * Complete tool set (measure, markers, text, ...).\n  * Multiple modalities support (Neurological, Radiological, Dermatological,\n    Ophthalmological, Ultrasound, Endoscopy, ...)\n  * Dicomization support from JPEG, PNG, GIF and TIFF.\n  * Full EMH integration support: HL7 standard and IHE compliant workflows.\n  * PACS Workstation (C-FIND, C-MOVE, C-STORE...)\n  * Extensible through custom extensions.\n    - Retinal image mosaic composition.\n    - Automatic retinal analysis diagnostics.\n    - Psoriasis automatic diagnostics.\n uitoolkit::wxwidgets, use::viewing\n",
+ "installedSize":"12715",
+ "downloadSize":"4358516",
+ "homepage":"http:\/\/ginkgo-cadx.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

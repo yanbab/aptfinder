@@ -1,0 +1,9 @@
+{"package":"kmess",
+ "description":"MSN messenger for KDE",
+ "details":" An alternative MSN Messenger chat client for Linux. It allows Linux users\n to chat with friends who use MSN Messenger in Windows or Mac OS. The\n strength of KMess is it's integration with the KDE desktop environment,\n focus on MSN Messenger specific features and an easy-to-use interface.\n protocol::msn-messenger, role::program, suite::kde, uitoolkit::qt,\n use::chatting, works-with::im, x11::application\n",
+ "installedSize":"7276",
+ "downloadSize":"3585458",
+ "homepage":"http:\/\/kmess.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

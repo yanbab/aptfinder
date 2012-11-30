@@ -1,0 +1,9 @@
+{"package":"xfce4-screenshooter",
+ "description":"screenshots utility for Xfce",
+ "details":" Screenshooter is an utility for the Xfce Desktop Environment. It can take\n desktop, rectangles or selected window screenshots, and you can bind it to\n your \"Print Screen\" key. A panel plugin is provided too.\n uitoolkit::gtk\n",
+ "installedSize":"2984",
+ "downloadSize":"1781410",
+ "homepage":"http:\/\/goodies.xfce.org\/projects\/applications\/xfce4-screenshooter",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

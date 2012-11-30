@@ -1,0 +1,9 @@
+{"package":"basex",
+ "description":"XML database and XPath\/XQuery processor",
+ "details":" BaseX is a very fast and light-weight, yet powerful XML database and\n XPath\/XQuery processor, including support for the latest W3C Full Text and\n Update Recommendations. It supports large XML instances and offers a highly\n interactive front-end (basexgui). Apart from two local standalone modes, BaseX\n offers a client\/server architecture.\n\n The package provides following commands:\n  * basex  ..........  Standalone local XML database. Command line interface.\n  * basexgui  .......  Standalone local XML database. Graphical user interface.\n  * basexserver  ....  BaseX XML Database Server.\n  * basexclient  ....  BaseX XML Database Client.\n interface::x11, role::program, use::analysing, use::searching,\n use::storing, use::viewing, works-with-format::xml, works-with::db,\n works-with::file, x11::application\n",
+ "installedSize":"2658",
+ "downloadSize":"2363842",
+ "homepage":"http:\/\/basex.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

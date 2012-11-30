@@ -1,0 +1,9 @@
+{"package":"qutecom",
+ "description":"SIP-based software telephone with video and chat features",
+ "details":" QuteCom is a Voice-over-IP application based on standard protocols like SIP\n and RTP. It enables voice, video and text chat between two clients. Features\n include a contact list with multi-protocol presence and status, call history\n and NAT traversal capability.\n\n QuteCom is the new name of the WengoPhone project, after it was dropped by\n Wengo and taken on by MBDsys.\n protocol::jabber, protocol::msn-messenger, protocol::oscar,\n protocol::voip, role::program, uitoolkit::qt, use::chatting,\n works-with::audio, works-with::im, works-with::video, x11::application\n",
+ "installedSize":"7837",
+ "downloadSize":"2790182",
+ "homepage":"http:\/\/www.qutecom.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

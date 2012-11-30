@@ -1,0 +1,9 @@
+{"package":"tumiki-fighters",
+ "description":"sticky 2D shooter",
+ "details":" Tumiki Fighters brings a different twist to the side-scrolling shooter genre.\n With simple 3D graphics, the player has to control a ship and shoot down the\n enemies. The player can swoop in and attach the wreckage to its own hull for\n bonus points and protection from enemy attacks. .\n\n Tumiki Fighters is another gem among many by Kenta Cho.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"508",
+ "downloadSize":"188374",
+ "homepage":"http:\/\/www.asahi-net.or.jp\/~cs8k-cyu\/windows\/tf_e.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

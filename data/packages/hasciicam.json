@@ -1,0 +1,9 @@
+{"package":"hasciicam",
+ "description":"(h)ascii for the masses: live video as text",
+ "details":" Hasciicam makes it possible to have live ASCII video on the web. It\n captures video from a tv card and renders it into ascii, formatting the\n output into an html page with a refresh tag or in a live ASCII window or\n in a simple text file as well, giving the possibility to anybody that has a\n bttv card, a Linux box and a cheap modem line to show a live ASCII video\n feed that can be browsable without any need for plugin, java etc.\n works-with-format::html, works-with::text, works-with::video\n",
+ "installedSize":"128",
+ "downloadSize":"29062",
+ "homepage":"http:\/\/ascii.dyne.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"hannah",
+ "description":"pacman-like game, child oriented",
+ "details":" Help Hannah's Horse is like a cross between Pacman and the Dizzy game\n \"Fastfood\". The objective is to move Hannah to collect the pills around\n the maze while avoiding the ghosts. Moving around the maze there are also\n carrots which Hannah must also collect in order to complete the level.\n junior::arcade, role::program, use::gameplaying\n",
+ "installedSize":"168",
+ "downloadSize":"36022",
+ "homepage":"http:\/\/www.retrojunkies.co.uk\/index.php?page=game",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

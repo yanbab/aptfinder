@@ -1,0 +1,9 @@
+{"package":"tegaki-recognize",
+ "description":"handwriting recognition application",
+ "details":" Tegaki is an ongoing project which aims to develop a free and open-source\n modern implementation of handwriting recognition software, that is suitable\n for both the desktop and mobile devices, and that is designed from the ground\n up to work well with Chinese and Japanese.\n\n This package provides a standalone handwriting recognition application.\n\n You also need install tegaki-zinnia-simplified-chinese and\/or\n tegaki-zinnia-japanese.\n",
+ "installedSize":"116",
+ "downloadSize":"13342",
+ "homepage":"http:\/\/tegaki.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

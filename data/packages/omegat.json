@@ -1,0 +1,9 @@
+{"package":"omegat",
+ "description":"Computer Assisted Translation (CAT) tool",
+ "details":" OmegaT's main features are\n  - multiple source texts handling, retaining complex folder\n    hierarchies\n  - fuzzy matching with other segments in the source file(s)\n    or TMX files from previous projects\n  - easy glossary terms management\n  - flexible regex-based sentence segmenting (using an\n    SRX-like method)\n  - powerful regex-based searches along with the facility to\n    apply a filter to display search results in the editor\n  - ability to batch process documents from the command line\n  - extended project statistics\n  - easy-to-understand documentation and tutorial\n  - plugin architecture with separate Lucene stemmer\n    (recognition of inflected forms) and LanguageTool (style\n     and grammar checker) plugins\n  - integration with Hunspell for spelling checking\n  - simple API to access source\/target\/selection textual data\n\n OmegaT supports 24 formats, including documentation formats such as\n OpenDocument, Open XML (MS Office 2007), DocBook and (x)HTML, and\n also localization formats such as Java properties and PO files. An\n Okapi plugin can further extend the supported formats, for example to\n include TTX (TradosTag).\n use::editing, x11::application\n",
+ "installedSize":"19396",
+ "downloadSize":"13853380",
+ "homepage":"http:\/\/www.omegat.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

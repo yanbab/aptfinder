@@ -1,0 +1,9 @@
+{"package":"xgalaga",
+ "description":"X version of the famous Galaga game",
+ "details":" A clone of the classic game Galaga for the X Window System.\n Xgalaga is a space-invader like game with additional features to produce\n a more interesting game.\n uitoolkit::xlib, use::gameplaying, x11::application\n",
+ "installedSize":"699",
+ "downloadSize":"276586",
+ "homepage":"http:\/\/sourceforge.net\/projects\/xgalaga\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

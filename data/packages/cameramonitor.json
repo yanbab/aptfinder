@@ -1,0 +1,9 @@
+{"package":"cameramonitor",
+ "description":"Webcam monitoring in system tray",
+ "details":" Camera Monitor is a little system tray icon\n that appears when your webcam is on.\n It is designed for the GNOME desktop, but\n should work as well on KDE and Xfce.\n",
+ "installedSize":"140",
+ "downloadSize":"29898",
+ "homepage":"http:\/\/www.infinicode.org\/code\/cameramonitor\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"qjackctl",
+ "description":"User interface for controlling the JACK sound server",
+ "details":" Qjackctl offers a user interface for controlling the JACK sound server\n daemon. At the same time it figures as a JACK patch bay and monitoring\n tool.\n uitoolkit::qt, use::configuring, works-with::audio, x11::application\n",
+ "installedSize":"1726",
+ "downloadSize":"603482",
+ "homepage":"http:\/\/qjackctl.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

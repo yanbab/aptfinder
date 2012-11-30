@@ -1,0 +1,9 @@
+{"package":"veusz",
+ "description":"2D scientific plotting application with graphical interface",
+ "details":" Veusz is a 2D scientific plotting and graphing package, designed to\n produce publication-ready Postscript or PDF output. Veusz provides a GUI,\n command line and scripting interface (based on Python) to its plotting\n facilities. The plots are built using an object-based system to\n provide a consistent interface.\n interface::commandline, interface::x11, role::devel-lib, role::program,\n science::data-acquisition, science::plotting, science::visualisation,\n uitoolkit::qt, use::viewing, x11::application, x11::library\n",
+ "installedSize":"3321",
+ "downloadSize":"953356",
+ "homepage":"http:\/\/home.gna.org\/veusz\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

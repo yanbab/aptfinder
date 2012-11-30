@@ -1,0 +1,9 @@
+{"package":"flpsed",
+ "description":"a WYSIWYG pseudo PostScript editor",
+ "details":" flpsed is a WYSIWYG pseudo PostScript editor. \"Pseudo\", because you can't\n remove or modify existing elements of a document. But flpsed lets you add\n arbitrary text lines to existing PostScript 1 documents. Added lines can\n later be reedited with flpsed. Using pdftops, which is part of xpdf one can\n convert PDF documents to PostScript and also add text to them. flpsed is\n useful for filling in forms, adding notes etc.\n use::editing, works-with-format::pdf, works-with-format::postscript,\n works-with::text, x11::application\n",
+ "installedSize":"144",
+ "downloadSize":"34018",
+ "homepage":"http:\/\/www.ecademix.com\/JohannesHofmann\/flpsed.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

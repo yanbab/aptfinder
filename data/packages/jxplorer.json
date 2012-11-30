@@ -1,0 +1,9 @@
+{"package":"jxplorer",
+ "description":"Java LDAP Browser",
+ "details":" JXplorer is an open source LDAP browser originally developed by\n Computer Associates' eTrust Directory development lab. It is a\n standards compliant general purpose LDAP browser that can be used\n to read and search any LDAP directory, or any X500 directory with\n an LDAP interface.\n JXplorer is a fully functional piece of software with advanced\n security integration and support for the more difficult and\n obscure parts of the LDAP protocol. It should run on any Java\n supporting operating system.\n Main features are:\n\n  * Standard LDAP operations: add\/delete\/copy\/modify\n  * Complex operations: tree copy and tree delete\n  * Optional GUI based search filter construction\n  * SSL and SASL authentication\n  * pluggable editors\/viewers\n  * pluggable security providers\n  * HTML templates\/forms for data display\n  * Full i18n support\n  * LDIF file format support\n  * highly user configurable\n  * drag-n-drop browsing operation\n  * DSML Support\n  * handles complex LDAP cases:\n    o multi valued rdns\n    o binary attributes\n    o Certificates and Passwords\n    o Unicode characters\n    o Special characters \/ UTF8 in distinguished names.\n  * Extensible architecture with object class based Java plugins\n scope::application, uitoolkit::TODO, works-with::db, x11::application\n",
+ "installedSize":"3004",
+ "downloadSize":"2032994",
+ "homepage":"http:\/\/jxplorer.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

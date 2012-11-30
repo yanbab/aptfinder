@@ -1,0 +1,8 @@
+{"package":"r-cran-rcmdr",
+ "description":"GNU R platform-independent basic-statistics GUI",
+ "details":" This package provides a simple GUI, based on the GNU interface to Tcl\/Tk,\n that is suitable for teaching introductory statistics.\n role::app-data, suite::gnu, uitoolkit::tk\n",
+ "installedSize":"4776",
+ "downloadSize":"3747390",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

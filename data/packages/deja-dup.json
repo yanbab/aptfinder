@@ -1,0 +1,9 @@
+{"package":"deja-dup",
+ "description":"Backup utility",
+ "details":" D\u00e9j\u00e0 Dup is a simple backup tool. It hides the complexity of backing up the\n Right Way (encrypted, off-site, and regular) and uses duplicity as the\n backend.\n\n Features:\n  * Support for local, remote, or cloud backup locations, such as Amazon S3\n    or Rackspace Cloud Files\n  * Securely encrypts and compresses your data\n  * Incrementally backs up, letting you restore from any particular backup\n  * Schedules regular backups\n  * Integrates well into your GNOME desktop\n scope::application, suite::gnome, uitoolkit::gtk, x11::application\n",
+ "installedSize":"4702",
+ "downloadSize":"1007616",
+ "homepage":"https:\/\/launchpad.net\/deja-dup",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

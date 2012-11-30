@@ -1,0 +1,9 @@
+{"package":"textedit.app",
+ "description":"Text editor for GNUstep",
+ "details":" TextEdit is a relatively basic text editor. It handles plain text, RTF, and\n RTFD  has a nice \"Wrap to Page\" mode, has search\/replace functionality, and\n can display any file as text.\n suite::gnustep, uitoolkit::gnustep, use::editing, use::text-formatting,\n works-with-format::plaintext, works-with::text, x11::applet\n",
+ "installedSize":"470",
+ "downloadSize":"134304",
+ "homepage":"http:\/\/www.nongnu.org\/backbone\/apps.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

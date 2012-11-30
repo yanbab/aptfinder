@@ -1,0 +1,9 @@
+{"package":"firestarter",
+ "description":"GTK program for managing and observing your firewall",
+ "details":" Firestarter is a complete firewall tool for Linux machines. It\n features an easy to use firewall wizard to quickly create a\n firewall. Using the program you can then open and close ports\n with a few clicks, or stealth your machine giving access only\n to a select few. The real-time hit monitor shows attackers\n probing your machine.\n\n Firestarter is no longer developed and is missing some critical\n features such as IPv6 support, so users may be advised to look\n into more modern alternatives such as gufw.\n scope::application, security::firewall, suite::gnome, uitoolkit::gtk,\n use::configuring, use::monitor, x11::application\n",
+ "installedSize":"1812",
+ "downloadSize":"424056",
+ "homepage":"http:\/\/www.fs-security.com",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

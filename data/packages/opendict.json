@@ -1,0 +1,9 @@
+{"package":"opendict",
+ "description":"computer dictionary for several dictionary formats",
+ "details":" OpenDict is free cross-platform dictionary program. It works with\n DICT, Slowo and Mova dictionaries. It also supports plug-in\n dictionaries that may be created for almost any data source.\n OpenDict is a client for DICT servers.\n interface::x11, network::client, role::program, scope::application,\n sound::speech, uitoolkit::gtk, uitoolkit::wxwidgets, use::browsing,\n use::editing, use::learning, use::searching, works-with-format::TODO,\n works-with::dictionary, x11::application\n",
+ "installedSize":"431",
+ "downloadSize":"146532",
+ "homepage":"http:\/\/opendict.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

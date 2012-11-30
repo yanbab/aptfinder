@@ -1,0 +1,9 @@
+{"package":"xfce4-notes",
+ "description":"Notes application for the Xfce4 desktop",
+ "details":" The notes tool provides you a simple text editor in a little window for the\n Xfce 4 desktop.  Notes are especially useful for temporary stuff.\n\n It supports multiple notes through a notebook. Click on the upper left\n corner button to open a new note.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"739",
+ "downloadSize":"129854",
+ "homepage":"http:\/\/goodies.xfce.org\/projects\/panel-plugins\/xfce4-notes-plugin",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

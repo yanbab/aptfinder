@@ -1,0 +1,9 @@
+{"package":"snake4",
+ "description":"Snake game",
+ "details":" This is a basic but nice implementation of the snake game. The objective\n is to \"snake around\" and eat fruit, while avoiding the evil headbanger\n and not crashing into your tail.\n\n Features five levels of difficulty and a site-wide high score list.\n use::gameplaying, x11::application\n",
+ "installedSize":"308",
+ "downloadSize":"39238",
+ "homepage":"http:\/\/shh.thathost.com\/pub-unix\/#snake4",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

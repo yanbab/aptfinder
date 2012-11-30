@@ -1,0 +1,9 @@
+{"package":"pyscrabble",
+ "description":"multiplayer scrabble implementation written in Python - client part",
+ "details":" PyScrabble is an online, multiplayer implementation of the popular word game\n written in Python and featuring:\n\n  * chat and private messaging (online as well as offline)\n  * player rankings and server statistics\n  * use of ENABLE (Enhanced North American Benchmark LExicon) for\n    English word lookup\n  * timed games\n\n The following languages are supported:\n\n  * English\n  * Finnish\n  * French\n  * German\n  * Serbian\n\n This package contains the client program.\n\n Notice: Scrabble is a registered trademark belonging to Hasbro Inc in\n the US, and to J.W. Spear & Sons Ltd., a subsidiary of Mattel Inc.,\n throughout the rest of the world. Neither the author, Debian, nor\n this game are affiliated with the Scrabble Crossword Game, Hasbro,\n Spear & Sons or Mattel in any fashion.\n role::program, uitoolkit::gtk, use::gameplaying, x11::application\n",
+ "installedSize":"455",
+ "downloadSize":"160840",
+ "homepage":"http:\/\/pyscrabble.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

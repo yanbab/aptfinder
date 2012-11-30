@@ -1,0 +1,9 @@
+{"package":"freespeak",
+ "description":"GNOME frontend to online translator engines",
+ "details":" With this program you can translate text, web pages and request suggestions\n using online translation engines. Currently supported translators are Google,\n Yahoo, Open-Tran and FreeTranslation. Features include tabbed consulting,\n automatically copy and paste from\/to clipboard, expandible in a very easy way\n by writing translator modules, easy to use and to configure,\n localized (currently English, Italian), good integration with free desktop\n environments (mostly in GNOME).\n",
+ "installedSize":"462",
+ "downloadSize":"104504",
+ "homepage":"http:\/\/freespeak.berlios.de",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

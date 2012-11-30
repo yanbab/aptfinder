@@ -1,0 +1,9 @@
+{"package":"nicotine",
+ "description":"graphical client for the SoulSeek peer-to-peer system",
+ "details":" Nicotine is a client for SoulSeek, a light and efficient file sharing\n system, written in Python and using the GTK2 toolkit, based on the\n PySoulSeek project.\n\n It features uploading, downloading, searching and chatting, with\n strict bandwidth control, and tries to look like PySoulSeek.\n uitoolkit::gtk, use::chatting, use::downloading, use::searching,\n x11::application\n",
+ "installedSize":"4148",
+ "downloadSize":"929670",
+ "homepage":"http:\/\/www.nicotine-plus.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

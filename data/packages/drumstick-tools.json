@@ -1,0 +1,9 @@
+{"package":"drumstick-tools",
+ "description":"Qt4\/C++ wrapper for ALSA Sequencer - utilities",
+ "details":" This library is a C++ wrapper around the ALSA library sequencer interface,\n using Qt4 objects, idioms and style. ALSA sequencer provides software support\n for MIDI technology on Linux. Complementary classes for SMF and WRK file\n processing are also included.\n\n This package provides utilities shipped with the library:\n  - drumstick-buildsmf: Standard MIDI File creation from scratch.\n  - drumstick-dumpgrid: Simple Qt drum sequencer.\n  - drumstick-dumpmid: Write ALSA MIDI events to STDOUT.\n  - drumstick-dumpsmf: Write MIDI events from a MIDI file to STDOUT.\n  - drumstick-dumpwrk: Write MIDI events from a Cakewalk WRK file to STDOUT.\n  - drumstick-guiplayer: Simple Qt MIDI file player.\n  - drumstick-metronome: Headless MIDI metronome.\n  - drumstick-playsmf: Headless MIDI file player.\n  - drumstick-sysinfo: Display information about ALSA MIDI.\n  - drumstick-timertest: Test performance of the ALSA timer.\n  - drumstick-vpiano: Virtual Piano Keyboard GUI application.\n x11::application\n",
+ "installedSize":"1224",
+ "downloadSize":"493198",
+ "homepage":"http:\/\/drumstick.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"kamoso",
+ "description":"tool to take pictures and videos from your webcam",
+ "details":" Kamoso is a utility that does the very simple actions a webcam offers,\n like taking pictures or recording videos and adds some extra features that will\n make the webcam usage both funnier and more useful.\n scope::utility, suite::kde, uitoolkit::qt, x11::application\n",
+ "installedSize":"894",
+ "downloadSize":"243192",
+ "homepage":"http:\/\/www.kde-apps.org\/content\/show.php\/Kamoso?content=111750",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"python-wxtools",
+ "description":"wxWidgets Cross-platform C++ GUI toolkit (wxPython common files)",
+ "details":" wxWidgets (formerly known as wxWindows) is a class library for C++ providing\n GUI components and other facilities on several popular platforms (and some\n unpopular ones as well).\n\n This package provides support utilities and common files for wxPython2.8.\n uitoolkit::wxwidgets\n",
+ "installedSize":"110",
+ "downloadSize":"93018",
+ "homepage":"http:\/\/www.wxpython.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

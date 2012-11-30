@@ -1,0 +1,9 @@
+{"package":"gpdftext",
+ "description":"GTK+ text editor for ebook PDF files",
+ "details":" gpdftext opens a simple text-based PDF file, typically\n intended for reading on an ebook reader and loads the\n text into a text editor window, autoformatting the text\n for long lines and paragraph breaks.\n\n gpdftext is useful when the downloaded PDF uses a small\n font or wastes a lot of space in the margins so that\n a plain text file would display in a more comfortable\n font.\n\n gpdftext supports spell checking and editor font selection\n and can save ASCII content as PDF.\n role::program, scope::utility, uitoolkit::gtk, use::converting,\n use::editing, use::text-formatting, works-with-format::pdf,\n works-with::text, x11::application\n",
+ "installedSize":"486",
+ "downloadSize":"87114",
+ "homepage":"http:\/\/sourceforge.net\/apps\/mediawiki\/gpdftext\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"kbreakout",
+ "description":"ball and paddle game",
+ "details":" kbreakout is a game similar to the classics breakout and xboing, featuring\n a number of added graphical enhancements and effects.  You control a paddle\n at the bottom of the playing-field, and must destroy bricks at the top\n by bouncing balls against them.\n\n This package is part of the KDE games module.\n suite::kde, uitoolkit::qt, use::gameplaying, x11::application\n",
+ "installedSize":"2018",
+ "downloadSize":"1766040",
+ "homepage":"http:\/\/games.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

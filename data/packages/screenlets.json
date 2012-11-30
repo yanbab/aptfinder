@@ -1,0 +1,9 @@
+{"package":"screenlets",
+ "description":"Widget-like mini-applications for GNOME",
+ "details":" Screenlets are small owner-drawn applications (written in Python) that can be\n described as \"the virtual representation of things lying\/standing around on\n your desk\". Sticky notes, clocks, rulers, ... the possibilities are endless.\n\n The goal of the Screenlets base-classes is to simplify the creation of fully\n themable mini-apps that each solve basic desktop-work-related needs and\n generally improve the usability and eye-candy of the modern composited\n Linux-desktop.\n\n Features:\n  * Real applications, no HTML-\"widgets\"\n  * Easy to use, easy to develop\n  * Full compositing support\n  * Works with any composited X desktop (compiz, xfce4, ...)\n  * Works also on non-composited desktop\n  * Included ability to apply themes (SVG, PNG or mixed)\n  * Fully scalable when using SVGs\n  * Embedded drag&drop-support\n  * Automated storing of options (using ini or GConf)\n  * Controllable through customizable D-Bus service\n  * Can be used together with compiz' widget-plugin to create a\n    Dashboard-like feature as seen on OS X\n  * Uses Cairo and GTK2 for drawing and windowing\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"7854",
+ "downloadSize":"2655424",
+ "homepage":"http:\/\/screenlets.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

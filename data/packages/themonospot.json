@@ -1,0 +1,9 @@
+{"package":"themonospot",
+ "description":"application to scan video files",
+ "details":" Themonospot is a simple application that can be used to scan an avi and\n matroska (.mkv) file and extract some informations about audio and video\n data flow:\n\n  - Video codec used\n  - Frame size\n  - Average video bitrate\n  - File size\n  - Total time\n  - Frame rate\n  - Total frames\n  - Info data\n  - Packet Bitstream\n  - User data (in MOVI chunk)\n  - Audio codec used\n  - Average audio bitrate\n  - Audio channelss\n works-with-format::TODO, works-with::video\n",
+ "installedSize":"341",
+ "downloadSize":"90952",
+ "homepage":"http:\/\/www.integrazioneweb.com\/themonospot",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

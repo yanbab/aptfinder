@@ -1,0 +1,9 @@
+{"package":"x-tile",
+ "description":"tile selected windows in different ways",
+ "details":" X-tile is an application that allows you to select a number of\n windows and tile them in different ways. Works on any X desktop.\n\n Main features include:\n  * Several tiling geometries\n  * Undo tiling\n  * Invert tiling order\n  * Optional system tray docking and menu\n  * Filter to exclude windows\n  * Filter to include windows by default\n  * Command line interface\n",
+ "installedSize":"1207",
+ "downloadSize":"133030",
+ "homepage":"http:\/\/www.giuspen.com\/x-tile\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

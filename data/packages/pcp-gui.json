@@ -1,0 +1,8 @@
+{"package":"pcp-gui",
+ "description":"Visualisation tools for the Performance Co-Pilot toolkit",
+ "details":" The PCP GUI package primarily includes visualisation tools for\n monitoring systems using live and archived Performance Co-Pilot\n (PCP) sources.\n\n These tools have dependencies on graphics libraries which may or\n may not be installed on server machines, so PCP GUI is delivered,\n managed and maintained as a separate (source and binary) package\n to the core PCP infrastructure.\n",
+ "installedSize":"2157",
+ "downloadSize":"1104916",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

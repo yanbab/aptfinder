@@ -1,0 +1,9 @@
+{"package":"jaxe",
+ "description":"JAva Xml Editor",
+ "details":" Jaxe is an XML editor adaptable to XML languages. It uses an XML schema and a\n configuration file for the graphical user interface.\n works-with-format::xml, x11::application\n",
+ "installedSize":"251",
+ "downloadSize":"165510",
+ "homepage":"http:\/\/jaxe.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

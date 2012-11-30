@@ -1,0 +1,9 @@
+{"package":"celestia-glut",
+ "description":"real-time visual space simulation (GLUT frontend)",
+ "details":" Celestia is a free 3D astronomy program. Based on the Hipparcos\n Catalogue, it allows users to display objects ranging in scale from\n artificial satellites to entire galaxies in three dimensions using\n OpenGL. Unlike most planetarium software, the user is free to travel\n about the Universe.\n\n This package contains a minimal frontend for Celestia. There is a separate\n package that provides a frontend that integrates with GNOME.\n interface::x11, role::program, scope::application, uitoolkit::glut,\n use::gameplaying, use::learning, use::viewing, x11::application\n",
+ "installedSize":"1857",
+ "downloadSize":"906786",
+ "homepage":"http:\/\/www.shatters.net\/celestia\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"qgit",
+ "description":"Qt application for viewing GIT trees",
+ "details":" With qgit you will be able to browse revision tree, view patch content\n and changed files, graphically following different development branches.\n Main features:\n  - View revisions, diffs, files history, files annotation, archive tree.\n  - Commit changes visually cherry picking modified files.\n  - Apply or format patch series from selected commits, drag and\n    drop commits between two instances of qgit.\n  - qgit implements a GUI for the most common StGIT commands like push\/pop\n    and apply\/format patches. You can also create new patches or refresh\n    current top one using the same semantics of git commit, i.e.\n    cherry picking single modified files.\n uitoolkit::qt, use::viewing, works-with::vcs, x11::application\n",
+ "installedSize":"1061",
+ "downloadSize":"446514",
+ "homepage":"http:\/\/libre.tibirna.org\/projects\/qgit",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

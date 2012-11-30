@@ -1,0 +1,9 @@
+{"package":"ncbi-tools-x11",
+ "description":"NCBI libraries for biology applications (X-based utilities)",
+ "details":" This package includes some X-based utilities distributed with the\n NCBI C SDK: Cn3D, Network Entrez, Sequin, ddv, and udv.  These\n programs are not part of ncbi-tools-bin because they depend on\n several additional library packages.\n field::biology:bioinformatics, field::biology:structural,\n implemented-in::c, interface::3d, interface::x11, network::client,\n role::program, science::visualisation, scope::utility,\n uitoolkit::motif, use::analysing, use::calculating, use::editing,\n use::searching, use::viewing, x11::application\n",
+ "installedSize":"2890",
+ "downloadSize":"1366980",
+ "homepage":"http:\/\/www.ncbi.nlm.nih.gov\/IEB\/ToolBox\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

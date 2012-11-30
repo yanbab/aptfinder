@@ -1,0 +1,9 @@
+{"package":"freecol",
+ "description":"open source remake of the old Colonization",
+ "details":" freecol is a game in the spirit of Civilization but taking place in a\n colonial background. Colonize the new world, build towns, trade or\n fight with natives and other European civilizations, trade with your\n homeland until you're ready to fight for your independance !\n role::program, scope::application, uitoolkit::xlib, use::gameplaying,\n x11::application\n",
+ "installedSize":"40576",
+ "downloadSize":"34590110",
+ "homepage":"http:\/\/www.freecol.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

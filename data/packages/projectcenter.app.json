@@ -1,0 +1,9 @@
+{"package":"projectcenter.app",
+ "description":"IDE for GNUstep Development",
+ "details":" ProjectCenter is an integrated development environment (IDE) for\n GNUstep systems.  It is a clone of the ProjectBuilder application for\n NextStep, which became popular for its ease of use and speed of\n development.\n",
+ "installedSize":"2373",
+ "downloadSize":"694960",
+ "homepage":"http:\/\/gnustep.org\/experience\/ProjectCenter.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

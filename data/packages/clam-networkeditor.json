@@ -1,0 +1,9 @@
+{"package":"clam-networkeditor",
+ "description":"CLAM Network Editor, prototyping tool for CLAM",
+ "details":" The CLAM Network Editor is a tool for editing CLAM processing networks.\n Those processing networks can become the processing core of an audio\n application by using the CLAM::NetworkPlayer class in such program,\n or by using the CLAM Prototyper to link the network to a Qt Designer\n interface.\n\n This package provides both the Network Editor and the Prototyper.\n It also provides a plugin for Qt Designer which adds widgets\n to display several kinds of CLAM audio objects from a running network.\n use::editing, works-with::audio, x11::application\n",
+ "installedSize":"6965",
+ "downloadSize":"2570068",
+ "homepage":"http:\/\/clam-project.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

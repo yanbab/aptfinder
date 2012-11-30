@@ -1,0 +1,9 @@
+{"package":"xcfa",
+ "description":"X Convert File Audio",
+ "details":" XCFA is a tool to extract the contens of Audio-CDs and convert musical\n audio files conversion to FLAC, WAV, OGG, M4A, MPC, MP3, WavPack and\n many other formats.\n\n Some features follow:\n  * Handling of frequency, track and bits.\n  * Handling of files shared volume before a recording.\n  * Web retrieval of Audio-CD information during treatment.\n  * Small cover creation for Audio-CDs.\n",
+ "installedSize":"2281",
+ "downloadSize":"609892",
+ "homepage":"http:\/\/www.xcfa.tuxfamily.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

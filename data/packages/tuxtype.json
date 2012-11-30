@@ -1,0 +1,9 @@
+{"package":"tuxtype",
+ "description":"Educational Typing Tutor Game Starring Tux",
+ "details":" TuxTyping is an educational typing tutorial game starring\n Tux, the Linux Penguin. The player guides Tux to eat fish\n which are falling from the top of the screen. Each fish has a\n letter written on it. When the player presses the\n corresponding key, Tux will position himself to eat the fish.\n The game is intended for children learning to type, though it\n does have higher difficulty levels which even experienced\n typists may find challenging.\n role::program, uitoolkit::sdl, use::gameplaying, use::learning\n",
+ "installedSize":"333",
+ "downloadSize":"114748",
+ "homepage":"http:\/\/tux4kids.alioth.debian.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

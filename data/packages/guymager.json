@@ -1,0 +1,9 @@
+{"package":"guymager",
+ "description":"Forensic imaging tool based on Qt",
+ "details":" The forensic imager contained in this package, guymager, was designed to\n support different image file formats, to be most user-friendly and to run\n really fast. It has a high speed multi-threaded engine using parallel\n compression for best performance on multi-processor and hyper-threading\n machines.\n role::program, scope::utility, security::forensics, uitoolkit::qt,\n x11::application\n",
+ "installedSize":"882",
+ "downloadSize":"325096",
+ "homepage":"http:\/\/guymager.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

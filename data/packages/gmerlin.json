@@ -1,0 +1,9 @@
+{"package":"gmerlin",
+ "description":"multiformat media player",
+ "details":" Gmerlin is a multiformat media player with tree-like virtual directory\n structure, where you can save your files, webstreams or whatever. It\n handles even large media collections gracefully. Hardware devices appear\n also in the tree so you can open Audio-CDs, (S)VCDs, DVDs and\n DVB-broadcasts.\n\n The applications include\n\n  o The GUI player: A multiformat media player with tree-like virtual\n    directory structure, where you can save your files, webstreams or\n    whatever. Gmerlin handles even large media collections gracefully.\n    Hardware devices appear also in the tree so you can open Audio-CDs,\n    (S)VCDs, DVDs and DVB-broadcasts.\n  o Gmerlin transcoder: Feature rich transcoder, which supports audio,\n    video, subtitles and chapters.\n  o Gmerlin alsamixer: An Alsa mixer with support for multiple cards and\n    detachable mixer controls.\n  o Gmerlin visualizer: Run visualization plugins from your soundcard\n  o Plugin configurator: Configure gmerlin plugins for programs which can't\n    do this themselves.\n use::playing, works-with::audio, works-with::video, x11::application\n",
+ "installedSize":"563",
+ "downloadSize":"238490",
+ "homepage":"http:\/\/gmerlin.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

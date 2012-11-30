@@ -1,0 +1,9 @@
+{"package":"texmaker",
+ "description":"cross-platform LaTeX editor",
+ "details":" Texmaker is a clean, highly configurable LaTeX editor with good hot key\n support and extensive LaTeX documentation. Texmaker integrates many tools\n needed to develop documents with LaTeX, in just one application. It has\n some nice features such as syntax highlighting, insertion of 370 mathematical\n symbols with only one click, and \"structure view\" of the document for easier\n navigation.\n use::editing, use::typesetting, works-with-format::tex,\n x11::application\n",
+ "installedSize":"4661",
+ "downloadSize":"2139172",
+ "homepage":"http:\/\/www.xm1math.net\/texmaker\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,8 @@
+{"package":"matchbox-keyboard",
+ "description":"on-screen keyboard",
+ "details":" Matchbox-keyboard is an on-screen 'virtual' or 'software' keyboard, designed\n for touch-screen devices running X.\n\n Matchbox is a base environment for the X Window System running on non-desktop\n embedded platforms such as handhelds, set-top boxes, kiosks and anything else\n for which screen space, input mechanisms or system resources are limited.\n role::program, uitoolkit::xlib, x11::application\n",
+ "installedSize":"150",
+ "downloadSize":"35798",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

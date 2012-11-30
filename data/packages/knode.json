@@ -1,0 +1,9 @@
+{"package":"knode",
+ "description":"graphical news reader",
+ "details":" KNode is an easy-to-use, convenient newsreader. It is intended to be usable\n by inexperienced users, but also includes support for such features as\n MIME attachments, article scoring, and creating and verifying GnuPG\n signatures.\n\n This package is part of the KDE PIM module.\n protocol::nntp, role::program, suite::kde, uitoolkit::qt,\n use::transmission, x11::application\n",
+ "installedSize":"14917",
+ "downloadSize":"7681206",
+ "homepage":"http:\/\/kontact.kde.org\/knode\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

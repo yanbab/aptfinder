@@ -1,0 +1,9 @@
+{"package":"widelands",
+ "description":"fantasy real-time strategy game",
+ "details":" Widelands is a strategy game aiming for gameplay similar to Settlers II by\n BlueByte.\n\n In this game, you start out on a small piece of land with nothing more than\n a few of useful resources. Using those, you can build yourself an empire\n with many thousands of inhabitants. On your way towards this goal, you will\n have to build up an economic infrastructure, explore the lands around you\n and face enemies who are trying to rule the world just like you do.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"5367",
+ "downloadSize":"2188588",
+ "homepage":"http:\/\/www.widelands.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

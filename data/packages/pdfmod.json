@@ -1,0 +1,9 @@
+{"package":"pdfmod",
+ "description":"simple tool for modifying PDF documents",
+ "details":" PDF Mod is a simple tool for modifying PDF documents. It can rotate, extract,\n remove and reorder pages via drag and drop. Multiple documents may be combined\n via drag and drop. You may also edit the title, subject, author and keywords of\n a PDF document using PDF Mod.\n use::organizing, works-with-format::pdf, x11::application\n",
+ "installedSize":"1813",
+ "downloadSize":"587082",
+ "homepage":"http:\/\/live.gnome.org\/PdfMod",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

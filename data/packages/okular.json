@@ -1,0 +1,9 @@
+{"package":"okular",
+ "description":"universal document viewer",
+ "details":" Okular is a universal document viewer with support for advanced document\n features, such as annotations, forms, and embedded files.\n\n This package provides the document viewer application, plus plugins for a wide\n variety of document formats such as:\n  * PostScript (PS)\n  * Portable Document Format (PDF)\n  * OpenDocument Text (ODT)\n  * TeX Device independent file format (DVI)\n  * XML Paper Specification (XPS)\n  * G3 fax\n  * various electronic book formats: ComicBook, FictionBook, and Plucker\n\n This package is part of the KDE graphics module.\n suite::kde, uitoolkit::qt, use::viewing, works-with-format::TODO,\n works-with-format::dvi, works-with-format::odf, works-with-format::pdf,\n works-with-format::postscript, works-with::image:raster,\n x11::application\n",
+ "installedSize":"3092",
+ "downloadSize":"1045216",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

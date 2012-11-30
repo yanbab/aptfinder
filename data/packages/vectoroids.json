@@ -1,0 +1,8 @@
+{"package":"vectoroids",
+ "description":"vector-based rock-shooting",
+ "details":" \"Vectoroids\" is a vector-based rock-shooting game similar to the\n arcade classic \"Asteroids.\"\n Pilot a spaceship and destroy asteroids by shooting them into smaller and\n smaller pieces while trying to avoid being smashed or shot by UFOs.\n\n \"Vectoroids\" is an SDL game based on the source for\n \"Agendaroids,\" an X-Window game written for the Agenda VR3 Linux-based PDA\n written by the same author.\n use::gameplaying, x11::application\n",
+ "installedSize":"539",
+ "downloadSize":"293854",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"cellwriter",
+ "description":"grid-entry handwriting input panel",
+ "details":" CellWriter is a grid-entry natural handwriting input panel.\n As you write characters into the cells, your writing is instantly\n recognized at the character level. When you press 'Enter' on the panel,\n the input you entered is sent to the currently focused application as if\n typed on the keyboard.\n\n   * Writer-dependent, learns your handwriting for reliable recognition\n   * Correcting preprocessor algorithms account for digitizer noise,\n     differing stroke order, direction, and number of strokes\n   * Unicode support enables you to write in your native language\n interface::x11, role::program, scope::utility, uitoolkit::gtk,\n works-with::text, x11::application\n",
+ "installedSize":"413",
+ "downloadSize":"162148",
+ "homepage":"http:\/\/risujin.org\/cellwriter",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

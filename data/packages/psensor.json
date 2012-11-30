@@ -1,0 +1,9 @@
+{"package":"psensor",
+ "description":"display graphs for monitoring hardware temperature",
+ "details":" Psensor is a GTK+ application for monitoring hardware sensors,\n including temperatures and fan speeds.\n\n It displays a curve for each sensor, alerts user using Desktop Notification\n and Application Indicator when a temperature is too high.\n\n It can monitor:\n  * the temperature of the motherboard and CPU sensors (using lm-sensors).\n  * the temperature of the NVidia GPUs (using XNVCtrl).\n  * the temperature of the Hard Disk Drives (using hddtemp).\n  * the rotation speed of the fans (using lm-sensors).\n  * the sensors of a remote computer (using psensor-server).\n",
+ "installedSize":"375",
+ "downloadSize":"56154",
+ "homepage":"http:\/\/wpitchoune.net\/psensor",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

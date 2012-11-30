@@ -1,0 +1,9 @@
+{"package":"wxmaxima",
+ "description":"GUI for the computer algebra system Maxima",
+ "details":" wxMaxima is a graphical user interface for the computer algebra system\n Maxima. It eases the use of Maxima by making most of its commands available\n through a menu system and by providing input dialogs for commands that\n require more than one argument. It also implements its own display engine\n that outputs mathematical symbols directly instead of depicting them with\n ASCII characters.\n\n wxMaxima also features 2D and 3D inline plots, simple animations, mixing of\n text and mathematical calculations to create documents, exporting of input\n and output to TeX, and a browser for Maxima's manual including command index\n and full text searching.\n interface::x11, role::program, scope::application,\n uitoolkit::wxwidgets, x11::application\n",
+ "installedSize":"2329",
+ "downloadSize":"821408",
+ "homepage":"http:\/\/andrejv.github.com\/wxmaxima\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,8 @@
+{"package":"bzflag",
+ "description":"a 3D first person tank battle game",
+ "details":" BZFlag is a 3D multi-player multiplatform tank battle game\n that allows users to play against each other in a network\n environment. There are five teams: red, green, blue,\n purple and rogue (rogue tanks are black).  Destroying a\n player on another team scores a win, while being destroyed\n or destroying a teammate scores a loss. Rogues have no\n teammates (not even other rogues), so they cannot shoot\n teammates and they do not have a team score.\n\n There are two main styles of play: capture-the-flag and\n free-for-all. In capture-the-flag, each team (except\n rogues) has a team base and each team with at least one\n player has a team flag. The object is to capture an enemy\n team's flag by bringing it to your team's base. This\n destroys every player on the captured team, subtracts one\n from that team's score, and adds one to your team's score.\n In free-for-all, there are no team flags or team bases.\n The object is simply to get as high a score as possible.\n\n This metapackage installs the client and server.\n role::program, uitoolkit::ncurses, uitoolkit::sdl, use::gameplaying,\n x11::application\n",
+ "installedSize":"154",
+ "downloadSize":"59574",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

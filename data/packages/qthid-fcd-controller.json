@@ -1,0 +1,9 @@
+{"package":"qthid-fcd-controller",
+ "description":"Funcube Dongle controller",
+ "details":" Controller application for the Funcube Dongle software defined radio receiver,\n built using the HID API library and the Qt GUI toolkit.\n\n The Funcube Dongle is a small software defined radio receiver for\n 64 MHz - 1.7 GHz. It fits into a computer's USB port and uses USB audio\n to transfer complex I\/Q data to SDR applications. The control API for\n setting frequency, gain, filter, etc. uses the USB HID standard.\n\n It provides full support for the Funcube Dongle API::\n  * Change frequency and apply frequency correction.\n  * Change RF gains and filters.\n  * Change IF gains and filters.\n  * LNA enhancement, bias current, etc.\n  * I\/Q correction.\n  * Auto-repeat tuning buttons (click and hold button to scan).\n  * Variable frequency step.\n  * Upgrade and verify the firmware.\n",
+ "installedSize":"472",
+ "downloadSize":"291164",
+ "homepage":"http:\/\/www.oz9aec.net\/index.php\/funcube-dongle\/qthid-fcd-controller",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

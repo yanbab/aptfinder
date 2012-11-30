@@ -1,0 +1,9 @@
+{"package":"xosview",
+ "description":"X based system monitor",
+ "details":" Xosview is a monitor which displays the status of several system based\n parameters. These include CPU usage, load average, memory usage, swap space\n usage, network usage, Wireless LAN meter, interrupts and serial port status.\n Appearance is fully configurable via command line or X resources.\n uitoolkit::xlib, use::monitor, x11::application\n",
+ "installedSize":"332",
+ "downloadSize":"134442",
+ "homepage":"https:\/\/github.com\/hills\/xosview",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

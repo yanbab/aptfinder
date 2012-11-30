@@ -1,0 +1,9 @@
+{"package":"wireshark",
+ "description":"network traffic analyzer - GTK+ version",
+ "details":" Wireshark is a network \"sniffer\" - a tool that captures and analyzes\n packets off the wire. Wireshark can decode too many protocols to list\n here.\n\n This package provides the GTK+ version of wireshark.\n protocol::ethernet, role::program, scope::utility,\n secteam::lenny-limited-support, secteam::squeeze-limited-support,\n uitoolkit::gtk, use::analysing, use::monitor,\n works-with::network-traffic, x11::application\n",
+ "installedSize":"2400",
+ "downloadSize":"950500",
+ "homepage":"http:\/\/www.wireshark.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

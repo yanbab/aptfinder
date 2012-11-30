@@ -1,0 +1,9 @@
+{"package":"pathological",
+ "description":"puzzle game involving paths and marbles",
+ "details":" Pathological is an enriched clone of the game \"Logical\" by Rainbow Arts.\n To solve a level, fill each wheel with four marbles of matching color.\n Various board elements such as teleporters, switches, filters, etc., make\n the game interesting and challenging.  New levels can be created using your\n favorite text editor.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"1520",
+ "downloadSize":"826900",
+ "homepage":"http:\/\/pathological.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"garlic",
+ "description":"A visualization program for biomolecules",
+ "details":" Garlic is written for the investigation of membrane proteins. It may be\n used to visualize other proteins, as well as some geometric objects.\n This version of garlic recognizes PDB format version 2.1. Garlic may\n also be used to analyze protein sequences.\n\n It only depends on the X libraries, no other libraries are needed.\n\n Features include:\n  - The slab position and thickness are visible in a small window.\n  - Atomic bonds as well as atoms are treated as independent drawable\n    objects.\n  - The atomic and bond colors depend on position. Five mapping modes\n    are available (as for slab).\n  - Capable to display stereo image.\n  - Capable to display other geometric objects, like membrane.\n  - Atomic information is available for atom covered by the mouse\n    pointer. No click required, just move the mouse pointer over the\n    structure!\n  - Capable to load more than one structure.\n  - Capable to draw Ramachandran plot, helical wheel, Venn diagram,\n    averaged hydrophobicity and hydrophobic moment plot.\n  - The command prompt is available at the bottom of the main window.\n    It is able to display one error message and one command string.\n scope::utility, uitoolkit::xlib, use::viewing, x11::application\n",
+ "installedSize":"781",
+ "downloadSize":"259666",
+ "homepage":"http:\/\/www.zucic.org\/garlic\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

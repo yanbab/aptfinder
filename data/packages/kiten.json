@@ -1,0 +1,9 @@
+{"package":"kiten",
+ "description":"Japanese reference and study aid for KDE",
+ "details":" Kiten is a collection of Japanese reference tools and study aids for KDE,\n including a Japanese\/English dictionary, Kanji dictionary, and Kanji quiz.\n\n This package is part of the KDE education module.\n scope::utility, suite::kde, uitoolkit::qt, use::learning,\n use::searching, x11::application\n",
+ "installedSize":"31846",
+ "downloadSize":"15463996",
+ "homepage":"http:\/\/edu.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

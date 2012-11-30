@@ -1,0 +1,8 @@
+{"package":"gco",
+ "description":"comics organizer",
+ "details":" GCO is a database for keeping track of your comics collection. It supports\n titles, publishers, types, writers, pencilers, inkers, cover prices, current\n prices, comments, and much more. It also allows you to sort the list in\n various ways.\n uitoolkit::gtk, use::organizing, x11::application\n",
+ "installedSize":"320",
+ "downloadSize":"30978",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

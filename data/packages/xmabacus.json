@@ -1,0 +1,9 @@
+{"package":"xmabacus",
+ "description":"simulation of the ancient calculator (Motif version)",
+ "details":" This program is an implementation of the original abacus, it provides\n the Chinese, Japanese, Korean, Roman and Russian version and can be\n modified to allow others.\n\n This is the Motif version which shows additional functionality. It was\n compiled with lesstif2. Motif is a GUI widget library for the X Window\n system.\n use::gameplaying, x11::application\n",
+ "installedSize":"377",
+ "downloadSize":"143628",
+ "homepage":"http:\/\/www.tux.org\/~bagleyd\/abacus.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

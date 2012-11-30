@@ -1,0 +1,9 @@
+{"package":"rakarrack",
+ "description":"Simple and easy guitar effects processor for GNU\/Linux",
+ "details":" Rakarrack is a guitar effects processor for GNU \/ Linux simple and easy to use\n but it contains features that make it unique in this field of applications.\n\n Currently it contains 17 effects:\n  * Linear Equalizer\n  * Parametric Equalizer\n  * Compressor\n  * Distorsion\n  * Overdrive\n  * Echo\n  * Chorus\n  * Phaser\n  * Flanger\n  * Reverb\n  * WahWah\n  * Alienwah\n  * Harmonizer\n  * NoiseGate\n  * Musical Delay\n  * Cabinet\n  * AutoPan\/Extra Stereo\n\n Rakarrack integrates a tuner and a MIDI converter. It can also be handled by\n an external MIDI controller. The settings designed by the user can be stored in\n presets and these presets can be used to create banks of effects.\n",
+ "installedSize":"8017",
+ "downloadSize":"2614506",
+ "homepage":"http:\/\/rakarrack.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

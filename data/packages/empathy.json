@@ -1,0 +1,9 @@
+{"package":"empathy",
+ "description":"GNOME multi-protocol chat and call client",
+ "details":" Instant messaging program supporting text, voice, video, file transfers\n and inter-application communication over many different protocols,\n including: AIM, Windows Live (MSN), Google Talk (Jabber\/XMPP), Facebook,\n Yahoo!, Salut, Gadu-Gadu, Groupwise and ICQ.\n\n This package contains the Empathy IM application and account manager.\n protocol::gadu-gadu, protocol::msn-messenger,\n protocol::yahoo-messenger, role::program, suite::gnome, uitoolkit::gtk,\n use::chatting, works-with::audio, works-with::im, works-with::video,\n x11::application\n",
+ "installedSize":"4698",
+ "downloadSize":"1586632",
+ "homepage":"http:\/\/live.gnome.org\/Empathy",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

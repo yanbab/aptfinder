@@ -1,0 +1,9 @@
+{"package":"openscad",
+ "description":"script file based graphical CAD environment",
+ "details":" OpenSCAD is a software for creating solid 3D CAD objects. It focuses on CAD\n aspects rather than artistic ones.\n\n OpenSCAD is not an interactive modeller. Instead it is something like a\n 3D-compiler that reads in a script file that describes the object and renders\n the 3D model from this script. This gives the designer full control over the\n modelling process and enables him to easily change any step in the modelling\n process or make designes that are defined by configurable parameters.\n",
+ "installedSize":"3381",
+ "downloadSize":"1355856",
+ "homepage":"http:\/\/openscad.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"keepassx",
+ "description":"Cross Platform Password Manager",
+ "details":" KeePassX is a free\/open-source password manager or safe which helps you\n to manage your passwords in a secure way. You can put all your\n passwords in one database, which is locked with one master key or a\n key-disk. So you only have to remember one single master password or\n insert the key-disk to unlock the whole database. The databases are\n encrypted using the algorithms AES or Twofish.\n security::cryptography, suite::kde, uitoolkit::qt, use::storing,\n x11::application\n",
+ "installedSize":"3058",
+ "downloadSize":"1131166",
+ "homepage":"http:\/\/www.keepassx.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

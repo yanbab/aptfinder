@@ -1,0 +1,9 @@
+{"package":"exfalso",
+ "description":"audio tag editor for GTK+",
+ "details":" Ex Falso displays and edits audio metadata tags. Supported formats include\n MP3, Ogg Vorbis, FLAC, Musepack (MPC), WavPack, and MOD\/XM\/IT.\n\n Notable features include:\n  * Freeform tag editing for most supported formats, including ID3v2\n  * Multiple values for tag keys\n  * Flexible rename-by-tags and tag-by-filename patterns\n  * Extensible using simple Python-based plugins\n  * Edit multiple files in several formats at once\n scope::application, uitoolkit::gtk, use::editing,\n works-with-format::mp3, works-with-format::oggvorbis, works-with::audio\n",
+ "installedSize":"2853",
+ "downloadSize":"738024",
+ "homepage":"http:\/\/code.google.com\/p\/quodlibet\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"peg-e",
+ "description":"peg elimination solitaire game",
+ "details":" Peg-E is a peg solitaire game in which you jump over pieces in order to\n remove them from the board, ultimately trying to eliminate all but one.\n The boards are randomly generated, with 100 levels of difficulty. The game\n auto-saves, and has undo-redo capability. Pieces can move horizontally,\n vertically, and diagonally.\n uitoolkit::qt, use::gameplaying, x11::application\n",
+ "installedSize":"208",
+ "downloadSize":"64164",
+ "homepage":"http:\/\/gottcode.org\/peg-e\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

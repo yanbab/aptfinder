@@ -1,0 +1,9 @@
+{"package":"gabedit",
+ "description":"graphical user interface to Ab Initio packages",
+ "details":" Gabedit is a graphical user interface to computational chemistry\n packages like:\n\n  - MPQC\n  - GAMESS-US\n  - Gaussian\n  - Molcas\n  - Molpro\n  - Q-Chem\n\n These Ab Initio software packages might run locally or on a remote\n server (supporting FTP, RSH and SSH). Gabedit can display a variety\n of calculation results including most major molecular file formats.\n The advanced \"Molecule Builder\" allows one to rapidly sketch in\n molecules and examine them in 3D. Graphics can further be exported\n to various formats, including animations.\n",
+ "installedSize":"5497",
+ "downloadSize":"1999300",
+ "homepage":"http:\/\/gabedit.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

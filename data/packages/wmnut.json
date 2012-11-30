@@ -1,0 +1,9 @@
+{"package":"wmnut",
+ "description":"WindowMaker dock app that displays UPS statistics from NUT's upsd",
+ "details":" WMNUT monitors UPS statistics through the NUT (Network UPS Tools,\n http:\/\/www.networkupstools.org) framework on Linux and other systems. This\n information, presented in a nice visual format, can be invaluable on stations\n using an UPS.\n scope::utility, suite::gnustep, uitoolkit::xlib, use::monitor,\n x11::applet\n",
+ "installedSize":"132",
+ "downloadSize":"40284",
+ "homepage":"http:\/\/wmnut.mgeops.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

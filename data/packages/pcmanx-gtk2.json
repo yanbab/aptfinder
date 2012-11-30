@@ -1,0 +1,9 @@
+{"package":"pcmanx-gtk2",
+ "description":"user-friendly telnet client mainly targets BBS users",
+ "details":" PCManX is a newly developed GPL'd version of PCMan, a full-featured\n famous BBS client. It aimed to be an easy-to-use yet full-featured telnet\n client facilitating BBS browsing with the ability to process double-byte\n characters. Some handy functions like tabbed-browsing, auto-login and\n a built-in ANSI editor enabling colored text editing are also provided.\n\n This version is developed with pure gtk2 and xft, thus has much low\n dependency.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"1383",
+ "downloadSize":"598324",
+ "homepage":"http:\/\/code.google.com\/p\/pcmanx-gtk2\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

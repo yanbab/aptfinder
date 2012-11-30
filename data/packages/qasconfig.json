@@ -1,0 +1,9 @@
+{"package":"qasconfig",
+ "description":"ALSA configuration browser",
+ "details":" QasTools is a collection of desktop applications for the\n Linux sound system ALSA.\n\n The applications included are:\n  - QasConfig - browser for the ALSA configuration tree\n  - QasHctl - mixer for ALSA's High level Control Interface\n  - QasMixer - desktop mixer with features similar to alsamixer\n\n ALSA's configuration resides in a tree structure which gets built\n from the contents of the files \/etc\/asound.conf and ~\/.asoundrc.\n QasConfig is a simple browser for this configuration tree and can\n help to analyze and debug an ALSA setup.\n",
+ "installedSize":"239",
+ "downloadSize":"70908",
+ "homepage":"http:\/\/xwmw.org\/qastools",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

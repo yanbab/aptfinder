@@ -1,0 +1,9 @@
+{"package":"gdigi",
+ "description":"utility to control DigiTech effect pedals",
+ "details":" gdigi is a tool aimed to provide X-Edit functionality to Linux users\n\n Supported devices:\n    * RP150\n    * RP155\n    * RP250\n    * RP255\n    * RP355\n    * RP500\n    * RP1000\n    * GNX3000\n    * GNX4K\n",
+ "installedSize":"271",
+ "downloadSize":"138798",
+ "homepage":"http:\/\/desowin.org\/gdigi\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

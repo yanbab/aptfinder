@@ -1,0 +1,9 @@
+{"package":"tetraproc",
+ "description":"Tetrahedral Microphone Processor for Ambisonic Recording",
+ "details":" TetraProc converts the A-format signals from a tetrahedral Ambisonic\n microphone into B-format signals ready for recording. Main features:\n\n  * A-B conversion using a classic scalar matrix and minimum phase\n    filters, or\n  * A-B conversion using a 4 by 4 convolution matrix using measured\n    or computed impulse responses, or a combination of both.\n  * Individual microphone calibration facilities.\n  * 24 dB\/oct higpass filters.\n  * Metering, monitoring and test facilities.\n  * Virtual stereo mic for stereo monitoring or recording.\n  * Unlimited number of stored configurations.\n  * Jack client with graphical user interface.\n",
+ "installedSize":"226",
+ "downloadSize":"80304",
+ "homepage":"http:\/\/kokkinizita.linuxaudio.org\/linuxaudio\/index.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

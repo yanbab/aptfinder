@@ -1,0 +1,9 @@
+{"package":"grdesktop",
+ "description":"GNOME frontend for the rdesktop client",
+ "details":" grdesktop is a GNOME frontend for the remote desktop client (rdesktop).\n\n It can save several connections (including their options), and\n browse the network for available terminal servers.\n uitoolkit::gtk, use::login, x11::application\n",
+ "installedSize":"356",
+ "downloadSize":"126542",
+ "homepage":"http:\/\/www.nongnu.org\/grdesktop\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

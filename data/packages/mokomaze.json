@@ -1,0 +1,9 @@
+{"package":"mokomaze",
+ "description":"Ball in labyrinth game for the OpenMoko FreeRunner",
+ "details":" Mokomaze is the opensource implementation of the classic game where you control\n a steel ball by tilting a wooden labyrinth.\n\n This package requires acceleration sensors and is targetted for the Openmoko\n FreeRunner smartphone.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"689",
+ "downloadSize":"514654",
+ "homepage":"http:\/\/mokomaze.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

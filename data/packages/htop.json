@@ -1,0 +1,9 @@
+{"package":"htop",
+ "description":"interactive processes viewer",
+ "details":" Htop is an ncursed-based process viewer similar to top, but it\n allows one to scroll the list vertically and horizontally to see\n all processes and their full command lines.\n\n Tasks related to processes (killing, renicing) can be done without\n entering their PIDs.\n uitoolkit::ncurses, use::monitor, works-with::software:running\n",
+ "installedSize":"186",
+ "downloadSize":"76150",
+ "homepage":"http:\/\/htop.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

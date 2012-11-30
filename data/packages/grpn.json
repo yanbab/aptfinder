@@ -1,0 +1,8 @@
+{"package":"grpn",
+ "description":"GTK+ reverse polish notation calculator",
+ "details":" grpn is an RPN calculator which uses the GTK+ widgets. It\n works with real and complex numbers, has 4 different radix\n modes, supports general math functions along with logarithmic\n and trigonometric functions.  Calculator stack is only limited\n by free memory.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"134",
+ "downloadSize":"40942",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

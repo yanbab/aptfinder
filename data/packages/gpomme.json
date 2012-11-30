@@ -1,0 +1,8 @@
+{"package":"gpomme",
+ "description":"graphical client for pommed",
+ "details":" pommed handles the hotkeys found on the Apple MacBook Pro, MacBook Air,\n MacBook, PowerBook and iBook laptops and adjusts the LCD backlight, sound\n volume, keyboard backlight or ejects the CD-ROM drive accordingly.\n\n gpomme is a graphical client for pommed. It listens for signals sent by\n pommed on D-Bus and displays the action taken by pommed along with the\n current state associated to this action.\n uitoolkit::gtk\n",
+ "installedSize":"606",
+ "downloadSize":"345082",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

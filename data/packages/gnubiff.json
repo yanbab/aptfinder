@@ -1,0 +1,9 @@
+{"package":"gnubiff",
+ "description":"mail notification program for GNOME (and others)",
+ "details":" gnubiff checks for mail within a file, a qmail or MH style dir,\n or an IMAP4 or POP3 or APOP server.  It can display headers (number,\n sender, subject, and date) when new mail has arrived.\n\n While gnubiff is implemented as a GNOME panel applet, it also runs as an\n independent icon on the desktop in other environments.\n suite::gnome, uitoolkit::gtk, use::monitor, x11::applet\n",
+ "installedSize":"1641",
+ "downloadSize":"530598",
+ "homepage":"http:\/\/gnubiff.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

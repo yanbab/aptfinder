@@ -1,0 +1,9 @@
+{"package":"gallery-uploader",
+ "description":"graphical tool to upload pictures and videos to Gallery",
+ "details":" Gallery-uploader is a program which makes it immediate to upload pictures and\n videos to Gallery installations; Gallery (http:\/\/gallery.menalto.com\/) is an\n advanced web photo album organizer.\n\n Gallery-uploader can be used in two ways:\n  * as a standalone program, which allows the user to browse for files to upload\n  * as a script for Nautilus (the default GNOME file manager): for this to work,\n    the single user must enable it (see the manual for more info).\n\n This program is currently only able to work with installations of Gallery\n version 2.*, not 1.*.\n",
+ "installedSize":"404",
+ "downloadSize":"47430",
+ "homepage":"http:\/\/www.pietrobattiston.it\/gallery_uploader",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

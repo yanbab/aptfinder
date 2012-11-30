@@ -1,0 +1,8 @@
+{"package":"idle-python2.6",
+ "description":"An IDE for Python (v2.6) using Tkinter",
+ "details":" IDLE is an Integrated Development Environment for Python (v2.6).\n IDLE is written using Tkinter and therefore quite platform-independent.\n interface::x11, role::program, uitoolkit::tk,\n works-with::software:source, x11::application\n",
+ "installedSize":"938",
+ "downloadSize":"294966",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

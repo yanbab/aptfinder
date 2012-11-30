@@ -1,0 +1,9 @@
+{"package":"ballz",
+ "description":"B.A.L.L.Z. - platform\/puzzle game where you control a rolling ball",
+ "details":" The game is a platformer with some puzzle elements. You take control\n of a ball which is genetically modifed by the British secret\n service. Your mission is to rescue captured British soldiers from a\n prison in Iran.\n\n The game was written in 72 hours for the TINS competition, a\n competition similar to Speedhack. The name TINS is an recursive\n acronym for 'TINS is not Speedhack'.\n use::gameplaying\n",
+ "installedSize":"175",
+ "downloadSize":"61008",
+ "homepage":"http:\/\/www.allegro.cc\/forums\/thread\/590831",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

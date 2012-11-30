@@ -1,0 +1,9 @@
+{"package":"kcolorchooser",
+ "description":"color chooser and palette editor",
+ "details":" KColorChooser is a color palette tool, used to mix colors and create custom\n color palettes.  Using the dropper, it can obtain the color of any pixel on\n the screen.\n\n A number of common color palettes are included, such as the standard Web colors\n and the Oxygen color scheme.\n\n This package is part of the KDE graphics module.\n scope::utility, suite::kde, uitoolkit::qt, x11::application\n",
+ "installedSize":"82",
+ "downloadSize":"10512",
+ "homepage":"https:\/\/projects.kde.org\/projects\/kde\/kdegraphics\/kcolorchooser",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

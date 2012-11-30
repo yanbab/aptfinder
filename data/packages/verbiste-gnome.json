@@ -1,0 +1,9 @@
+{"package":"verbiste-gnome",
+ "description":"French and Italian conjugator - GNOME interface",
+ "details":" Verbiste is a program that gives the complete conjugation for French and\n Italian verbs. The knowledge base contains over 6800 verbs.\n\n This package contains a GNOME graphical interface.\n protocol::ssl, role::plugin, role::program, uitoolkit::gtk,\n use::learning, works-with-format::plaintext, works-with::text,\n x11::applet, x11::application\n",
+ "installedSize":"167",
+ "downloadSize":"58718",
+ "homepage":"http:\/\/sarrazip.com\/dev\/verbiste.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

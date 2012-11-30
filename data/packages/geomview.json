@@ -1,0 +1,9 @@
+{"package":"geomview",
+ "description":"interactive geometry viewing program",
+ "details":" Geomview is interactive geometry software which is\n particularly appropriate for mathematics research and education.\n In particular, geomview can display things in hyperbolic and\n spherical space as well as Euclidean space.\n\n Geomview allows multiple independently controllable objects and\n cameras.  It provides interactive control for motion, appearances\n (including lighting, shading, and materials), picking on an\n object, edge or vertex level, snapshots in SGI image file or\n Renderman RIB format, and adding or deleting objects is provided\n through direct mouse manipulation, control panels, and keyboard\n shortcuts.  External programs can drive desired aspects of the\n viewer (such as continually loading changing geometry or\n controlling the motion of certain objects) while allowing\n interactive control of everything else.\n uitoolkit::motif, use::viewing, works-with::3dmodel, x11::application\n",
+ "installedSize":"6733",
+ "downloadSize":"3757568",
+ "homepage":"http:\/\/www.geomview.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

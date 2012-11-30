@@ -1,0 +1,9 @@
+{"package":"geeqie",
+ "description":"image viewer using GTK+",
+ "details":" Geeqie is a browser for graphics files offering single click viewing of\n your graphics files. It includes thumbnail view, zoom, filtering\n features and external editor support.\n uitoolkit::gtk, use::browsing, use::organizing, use::viewing,\n works-with-format::gif, works-with-format::jpg, works-with-format::png,\n works-with-format::tiff, works-with::image, works-with::image:raster,\n x11::application\n",
+ "installedSize":"1496",
+ "downloadSize":"666918",
+ "homepage":"http:\/\/geeqie.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"knemo",
+ "description":"network interfaces monitor for KDE's systray",
+ "details":" KNemo displays for every network interface an icon in the systray.\n Tooltips and an info dialog provide further information about the\n interface.  Passive popups inform about interface changes.\n A traffic plotter is also integrated.\n\n knemo polls the network interface status every second.\n interface::x11, role::program, scope::utility, suite::kde,\n uitoolkit::qt, use::monitor, works-with::network-traffic, x11::applet\n",
+ "installedSize":"2346",
+ "downloadSize":"844570",
+ "homepage":"http:\/\/extragear.kde.org\/apps\/knemo\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

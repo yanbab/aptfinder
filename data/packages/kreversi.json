@@ -1,0 +1,9 @@
+{"package":"kreversi",
+ "description":"reversi board game",
+ "details":" KReversi is a board game where two players place pieces on the board to flip\n the opponent's pieces.  When neither player can flip any more pieces, the\n player with the most pieces on the board wins the game.\n\n This package is part of the KDE games module.\n suite::kde, uitoolkit::qt, use::gameplaying, x11::application\n",
+ "installedSize":"754",
+ "downloadSize":"420148",
+ "homepage":"http:\/\/games.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

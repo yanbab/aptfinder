@@ -1,0 +1,8 @@
+{"package":"gnome-alsamixer",
+ "description":"ALSA sound mixer for GNOME",
+ "details":" A \"volume control\" application. You can use it to adjust the volume\n of different sound sources of your sound card.\n\n It has a nice graphical user interface and a lot of features:\n\n  - access to all of your computers sound cards and audio sources\n  - possibility to give them custom names\n  - only display the mixer controls you need\n  - access to all the extra features some sound cards offer, like\n    3d enhancement, microphone gain boost...\n  - and more\n\n This application uses the ALSA sound API, you cannot use it if you\n use the (older) OSS drivers for your sound card(s). In return, it\n gives you access to all the functionality ALSA provides with the\n \"alsamixer\" program, found in the \"alsa-utils\" package.\n suite::gnome, uitoolkit::gtk, works-with::audio\n",
+ "installedSize":"482",
+ "downloadSize":"56758",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

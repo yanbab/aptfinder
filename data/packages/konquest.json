@@ -1,0 +1,9 @@
+{"package":"konquest",
+ "description":"simple turn-based strategy game",
+ "details":" Konquest is a game of galactic conquest for KDE, where rival empires vie to\n conquer planets and crush all opposition.  The game can be played with up to\n nine empires, commanded either by the computer or by puny earthlings.\n\n This package is part of the KDE games module.\n suite::kde, uitoolkit::qt, use::gameplaying, x11::application\n",
+ "installedSize":"815",
+ "downloadSize":"517834",
+ "homepage":"http:\/\/games.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

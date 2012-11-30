@@ -1,0 +1,9 @@
+{"package":"ceferino",
+ "description":"action game similar to Super Pang",
+ "details":" A game similar to 'Super Pang'. You are attacked by little green balls which\n are bouncing around and which you have to destroy with your knife. Your knife\n however is limited to being thrown upwards, thus you have to get under\n the balls to destroy them. Even worse, if you destroy a large ball, it doesn't\n just vanish, but breaks apart into two smaller balls. Levels consist of little\n platforms connected by ladders, so you can go up and down or find cover\n if needed.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"224",
+ "downloadSize":"61268",
+ "homepage":"http:\/\/www.losersjuegos.com.ar\/juegos\/ceferino\/ceferino.php",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

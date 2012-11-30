@@ -1,0 +1,9 @@
+{"package":"cmake-qt-gui",
+ "description":"Qt4 based user interface for CMake (cmake-gui)",
+ "details":" CMake is used to control the software compilation process using simple\n platform and compiler independent configuration files. CMake generates native\n makefiles and workspaces that can be used in the compiler environment of your\n choice.\n\n This package provides the CMake Qt4 based GUI. Project configuration\n settings may be specified interactively. Brief instructions are provided at\n the bottom of the window when the program is running. The main executable\n file for this GUI is \"cmake-gui\".\n scope::utility, uitoolkit::qt, works-with::software:source,\n x11::application\n",
+ "installedSize":"3619",
+ "downloadSize":"1471422",
+ "homepage":"http:\/\/cmake.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

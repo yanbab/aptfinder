@@ -1,0 +1,9 @@
+{"package":"cycle",
+ "description":"calendar program for women",
+ "details":" Cycle is a calendar for women. Given a cycle length or statistics for\n several periods, it can calculate the days until menstruation, the days\n of \"safe\" sex, the fertile period, and the days to ovulations, and\n define the d.o.b. of a child. It allows the user to write notes and\n helps to supervise the administration of hormonal contraceptive tablets.\n\n Possibilities of the program:\n   - Calculate days of menstruation, based on the length of the cycle or\n     on statistics of previous periods.\n   - Calculate days of \"safe\" sex, fertile period and day to ovulations.\n   - Definition of D.O.B. (Date Of Birth) of a child\n   - Allows to write notes.\n   - Helps to supervise reception of hormonal contraceptive tablets.\n   - Multiple users allowed. Data is protected by a password for every\n     user.\n\n NOTE: This program is not a reliable contraceptive method. It does\n neither help to prevent sexual transmision diseases like AIDS. It is\n just an electronic means of keeping track of some of your medical data\n and extract some statistical conclusions from them. You cannot consider\n this program as a substitute for your gynecologist in any way.\n uitoolkit::wxwidgets, use::timekeeping\n",
+ "installedSize":"316",
+ "downloadSize":"53342",
+ "homepage":"http:\/\/cycle.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

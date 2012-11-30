@@ -1,0 +1,9 @@
+{"package":"lyx",
+ "description":"document processor",
+ "details":" LyX is an almost WYSIWYG-frontend for LaTeX. It makes the power and\n typesetting quality of LaTeX available for people who are used to\n word processors. Since LyX supports LaTeX's concept of general\n mark-ups, it is even easier and faster to create professional quality\n documents with it than with usual word processors. It is also\n possible to use LaTeX commands within LyX, so nothing of LaTeX's\n power is lost.\n\n You can extend the functionality of LyX by installing these packages:\n  * chktex: check for typographical errors\n  * dvipost: display tracked changes in DVI format output\n  * gnuhtml2latex: import HTML documents\n  * groff: improved table formatting in plain text exports\n  * librsvg2-bin, inkscape: use the SVG image format in LyX documents\n  * linuxdoc-tools: export SGML LinuxDoc documents\n  * mythes-*: use the OpenOffice.org\/LibreOffice Thesaurus\n  * noweb: import noweb files\n  * rcs: integrated version control\n  * sgmltools-lite: export SGML DocBook documents\n  * texlive-xetex, etoolbox: use the XeTeX typesetting system\n  * wv: import MS Word documents\n role::program, scope::application, uitoolkit::qt, use::editing,\n use::text-formatting, use::typesetting, works-with-format::tex,\n works-with::text, x11::application\n",
+ "installedSize":"9693",
+ "downloadSize":"3108084",
+ "homepage":"http:\/\/www.lyx.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,8 @@
+{"package":"kcharselect",
+ "description":"special character utility",
+ "details":" KCharSelect is a utility for finding special characters which are not\n available on the keyboard.  It can search for characters by Unicode number,\n display characters in any font, and copy characters to the clipboard so they\n can be pasted into documents.\n\n This package is part of the KDE utilities module.\n suite::kde, uitoolkit::qt, x11::application\n",
+ "installedSize":"181",
+ "downloadSize":"85320",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

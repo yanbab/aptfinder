@@ -1,0 +1,9 @@
+{"package":"glob2",
+ "description":"innovative state-of-the-art Real Time Strategy (RTS) game",
+ "details":" Globulation 2, in a whole, is an on-going project to create an innovative high\n quality gameplay by minimizing micro-management and assigning automatically\n the tasks to the units.  The player just has to order the number of units\n he wants for a selected task and the units will do their best to satisfy\n his requirements.\n\n Glob2 can be played by a single player, through your Local Area Network (LAN),\n or through Internet, thanks to Ysagoon Online Game (YOG), a meta-server.  It\n also features a scripting language for versatile gameplay and an integrated\n map editor.\n role::program, uitoolkit::sdl, use::editing, use::gameplaying,\n x11::application\n",
+ "installedSize":"3837",
+ "downloadSize":"1232236",
+ "homepage":"http:\/\/globulation2.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

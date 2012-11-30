@@ -1,0 +1,9 @@
+{"package":"gip",
+ "description":"IP calculator for GNOME desktop environment",
+ "details":" Gip provides system administrators with tools for IP address based\n calculations. For example, an administrator who needs to find out which IP\n prefix length equals the IP netmask 255.255.240.0, just types in the mask\n and gets the prefix length presented. But many more advanced calculations\n can be made. Gip can convert an address range into a list of prefix lengths.\n It can also split subnets using a given IP netmask or IP prefix length.\n Many more calculations are possible.\n suite::gnome, uitoolkit::gtk, use::converting, x11::application\n",
+ "installedSize":"658",
+ "downloadSize":"124232",
+ "homepage":"http:\/\/code.google.com\/p\/gip\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"openttd",
+ "description":"reimplementation of Transport Tycoon Deluxe with enhancements",
+ "details":" OpenTTD is a reimplementation of the Microprose game \"Transport\n Tycoon Deluxe\" with lots of new features and enhancements.\n\n OpenTTD is playable with the free graphics files from the openttd-opengfx\n package and optional sound files from the openttd-opensfx package (which is in\n non-free). Alternatively, OpenTTD can use the graphics files from the original\n Transport Tycoon Deluxe game (See README.Debian on how to set this up).\n network::client, network::server, protocol::ip, protocol::ipv6,\n role::program, scope::application, uitoolkit::sdl, use::gameplaying,\n x11::application\n",
+ "installedSize":"5586",
+ "downloadSize":"2395704",
+ "homepage":"http:\/\/www.openttd.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"portabase",
+ "description":"Easy-to-use personal database application",
+ "details":" PortaBase is a program for conveniently managing one-table database files.\n It can be used as a shopping list, media inventory, TODO list, address\n book, photo album and more.\n It is available for many platforms, including Linux, Mac OS X, Windows,\n and Maemo.\n Features include:\n\n  * String, Integer, Decimal, Boolean, Note (multi-line text), Date, Time,\n    Calculation, Sequence, Image, and Enum column types;\n  * custom data views (subsets of the columns in any order);\n  * filter the displayed rows using sets of conditions;\n  * sort the rows by any combination of columns, each in ascending or\n    descending order;\n  * add, delete, rearrange, and rename columns at any time;\n  * view summary statistics for columns (total, average, min, max, etc.);\n  * import data from CSV, XML, and MobileDB files;\n  * export data to CSV, HTML and XML files;\n  * command-line format conversions (to and from XML, from MobileDB,\n    to HTML);\n  * optional data file encryption.\n",
+ "installedSize":"3594",
+ "downloadSize":"983568",
+ "homepage":"http:\/\/portabase.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"imagemagick",
+ "description":"image manipulation programs",
+ "details":" ImageMagick is a software suite to create, edit, and compose bitmap images.\n It can read, convert and write images in a variety of formats (over 100)\n including DPX, EXR, GIF, JPEG, JPEG-2000, PDF, PhotoCD, PNG, Postscript,\n SVG, and TIFF. Use ImageMagick to translate, flip, mirror, rotate, scale,\n shear and transform images, adjust image colors, apply various special\n effects, or draw text, lines, polygons, ellipses and B\u00e9zier curves.\n All manipulations can be achieved through shell commands as well as through\n an X11 graphical interface (display).\n role::program, scope::utility, uitoolkit::xlib, use::converting,\n use::editing, use::viewing, works-with-format::gif,\n works-with-format::jpg, works-with-format::pdf, works-with-format::png,\n works-with-format::postscript, works-with-format::svg,\n works-with-format::tiff, works-with::image, works-with::image:raster,\n x11::application\n",
+ "installedSize":"496",
+ "downloadSize":"284498",
+ "homepage":"http:\/\/www.imagemagick.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"pyspread",
+ "description":"cross-platform Python spreadsheet application",
+ "details":" Pyspread is a cross-platform Python spreadsheet application. Instead of\n spreadsheet formulas, Python expressions are entered into the spreadsheet\n cells. Each expression returns a Python object that can be accessed from\n other cells. These objects can represent anything including lists or matrices.\n",
+ "installedSize":"1690",
+ "downloadSize":"1148238",
+ "homepage":"http:\/\/pyspread.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

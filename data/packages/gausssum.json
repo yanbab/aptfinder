@@ -1,0 +1,9 @@
+{"package":"gausssum",
+ "description":"parse and display Gaussian, GAMESS, and etc's output",
+ "details":" GaussSum parses the output files of ADF, GAMESS, GAMESS-UK, Gaussian, Jaguar\n and PC GAMESS calculations to extract useful information.\n\n GaussSum uses GNUPlot to display the progress of geometry optimisations,\n density of states spectrum, UV-VIS spectra, IR spectra, Raman spectra,\n and electron density difference maps. It can also display all lines containing\n an arbitrary phrase and more.\n",
+ "installedSize":"393",
+ "downloadSize":"146392",
+ "homepage":"http:\/\/gausssum.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

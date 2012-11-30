@@ -1,0 +1,9 @@
+{"package":"gcx",
+ "description":"astronomical image processing and photometry gtk+ application",
+ "details":" Gcx is an astronomical image processing and data reduction tool,\n with an easy to use graphical user interface. It provides a\n complete set of data reduction functions for CCD photometry,\n with frame WCS fitting, automatic star identification, aperture\n photometry of target and standard stars, single-frame ensemble\n photometry solution finding, multi-frame color coefficient\n fitting, extinction coefficient fitting, and all-sky photometry;\n as well as general-purpose astronomical image processing functions\n (bias, dark, flat, frame alignment and stacking); It can function\n as a FITS viewer.\n\n The program can control CCD cameras and telescopes, and implement\n automatic observation scripting. Cameras are controlled through a\n hardware-specific server, to which gcx connects through a TCP socket.\n It generates FITS files with comprehensive header information.\n interface::x11, role::program, scope::utility, uitoolkit::gtk,\n use::converting, use::viewing, works-with-format::TODO,\n works-with::image, works-with::image:raster, x11::application\n",
+ "installedSize":"780",
+ "downloadSize":"332378",
+ "homepage":"http:\/\/gcx.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

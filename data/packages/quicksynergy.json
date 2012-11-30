@@ -1,0 +1,9 @@
+{"package":"quicksynergy",
+ "description":"GUI for easy configuration of Synergy",
+ "details":" QuickSynergy is a graphical interface (GUI) for easily configuring Synergy,\n an application that allows the user to share their mouse and keyboard between\n two or more computers.\n\n Without the need for any external hardware, Synergy uses the TCP-IP protocol\n to share the resources, even between machines with different operating\n systems, such as Mac OS, Linux and Windows.\n",
+ "installedSize":"176",
+ "downloadSize":"26952",
+ "homepage":"http:\/\/quicksynergy.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"tecnoballz",
+ "description":"breaking block game ported from the Amiga platform",
+ "details":" This is a Breakout or Arkanoid like game with a lot of bonus\n stages. You can buy weapons and bonus between stages.\n Sometimes you have to defeat a guardian.\n This game is written in C++ and uses the SDL library.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"552",
+ "downloadSize":"152848",
+ "homepage":"http:\/\/linux.tlk.fr\/games\/TecnoballZ\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

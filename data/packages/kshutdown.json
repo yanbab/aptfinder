@@ -1,0 +1,9 @@
+{"package":"kshutdown",
+ "description":"advanced shut down utility for KDE",
+ "details":" It has 4 main commands:\n\n  - Shut Down (logout and halt the system),\n  - Reboot (logout and reboot the system),\n  - Lock Screen (lock the screen using a screen saver),\n  - Logout (end the session and logout the user).\n\n It features time and delay options, command line support, wizard,\n and sounds.\n interface::x11, role::program, scope::utility, suite::kde,\n uitoolkit::qt, x11::application\n",
+ "installedSize":"782",
+ "downloadSize":"186376",
+ "homepage":"http:\/\/kshutdown.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

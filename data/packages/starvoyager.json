@@ -1,0 +1,9 @@
+{"package":"starvoyager",
+ "description":"2D space arcade game, themed around 'Star Trek' - binary",
+ "details":" Star Voyager is a Frontier\/Elite class game in a more arcade style 2D\n environment, themed to the 'Star Trek' universe. It utilizes the SDL library\n for portability.\n\n This package contains the game binary\n use::gameplaying, x11::application\n",
+ "installedSize":"170",
+ "downloadSize":"62556",
+ "homepage":"http:\/\/starvoyager.bluesky.me.uk\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

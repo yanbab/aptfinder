@@ -1,0 +1,9 @@
+{"package":"gtick",
+ "description":"Metronome application",
+ "details":" GTick is an acoustical and graphical metronome application (usually used to\n support musicians at practising an instrument). It features a scale from 30 to\n 250 beats per minute and 2\/4, 3\/4, 4\/4 and other meters. You need a sound\n device for using it.\n uitoolkit::gtk, use::learning, use::timekeeping, works-with::audio,\n x11::application\n",
+ "installedSize":"709",
+ "downloadSize":"148856",
+ "homepage":"http:\/\/www.antcom.de\/gtick\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

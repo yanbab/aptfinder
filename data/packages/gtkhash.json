@@ -1,0 +1,9 @@
+{"package":"gtkhash",
+ "description":"GTK+ utility for computing checksums and more",
+ "details":" GtkHash is a small GTK+ utility which allows users to compute\n message digests or checksums using the mhash library.\n Currently supported hash functions include MD5, MD6, SHA1,\n SHA256, SHA512, RIPEMD, TIGER and WHIRLPOOL.\n use::checking, works-with::file\n",
+ "installedSize":"154",
+ "downloadSize":"48590",
+ "homepage":"http:\/\/gtkhash.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

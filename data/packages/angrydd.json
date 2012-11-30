@@ -1,0 +1,9 @@
+{"package":"angrydd",
+ "description":"Angry Drunken Dwarves - falling blocks puzzle game",
+ "details":" In Angry, Drunken Dwarves, you are an angry, drunken dwarf. Why are you so\n angry? Who knows. But you've decided to take your aggression out on other\n dwarves, by dropping gems on their heads. Lots of gems. angrydd is a member of\n the classic \"falling blocks\" puzzle game family, similar to the Capcom game\n Puzzle Fighter. The goal of the game is to build large gems by matching up\n colors, then break them, raining more gems down onto your opponent. The first\n person whose field fills up, loses.  angrydd has seven playable characters,\n six levels of AI, secret game modes and characters, and an original\n soundtrack.\n scope::application, uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"5712",
+ "downloadSize":"4694208",
+ "homepage":"http:\/\/www.sacredchao.net\/~piman\/angrydd\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

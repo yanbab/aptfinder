@@ -1,0 +1,9 @@
+{"package":"python-lunch",
+ "description":"distributed process launcher",
+ "details":" Lunch is a simple distributed process launcher and manager for GNU\/Linux.\n\n With Lunch, one can launch software processes on several different computers\n and make sure they keep running. This software was created to suit the needs\n of new media artists for live performances and interactive installations.\n It respawns the software that crash and provides a mean to manage\n dependencies between running processes.\n\n This package provides the lunch library for Python. as well as the\n command-line lunch utility which can be invoked with a GTK+ user interface.\n",
+ "installedSize":"368",
+ "downloadSize":"73268",
+ "homepage":"http:\/\/svn.sat.qc.ca\/trac\/lunch",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

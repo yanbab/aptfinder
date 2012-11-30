@@ -1,0 +1,9 @@
+{"package":"grr.app",
+ "description":"RSS reader for GNUstep",
+ "details":" Grr (G\u00fcnther's RSS Reader) is a reader for RSS news feeds.  It has\n the following features:\n\n  * Parsing RSS feeds (including Atom).\n  * Fetching feeds from the web.\n  * Showing headlines.\n  * Showing the article's descriptions.\n  * Categories for feeds.\n  * Articles can be rated.\n  * Simple HTML rendering on GNUstep.\n  * Serializing obtained feed information to hard disk.\n  * Managing (adding, removing) feeds.\n uitoolkit::gnustep, works-with-format::xml:rss\n",
+ "installedSize":"863",
+ "downloadSize":"191762",
+ "homepage":"http:\/\/gap.nongnu.org\/grr\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

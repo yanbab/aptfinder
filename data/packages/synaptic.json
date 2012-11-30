@@ -1,0 +1,8 @@
+{"package":"synaptic",
+ "description":"Graphical package manager",
+ "details":" Synaptic is a graphical package management tool based on GTK+ and APT.\n Synaptic enables you to install, upgrade and remove software packages in\n a user friendly way.\n\n Besides these basic functions the following features are provided:\n  * Search and filter the list of available packages\n  * Perform smart system upgrades\n  * Fix broken package dependencies\n  * Edit the list of used repositories (sources.list)\n  * Download the latest changelog of a package\n  * Configure packages through the debconf system\n  * Browse all available documentation related to a package (dwww is required)\n role::program, scope::application, suite::debian, uitoolkit::gtk,\n works-with::software:package, x11::application\n",
+ "installedSize":"7690",
+ "downloadSize":"2668102",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

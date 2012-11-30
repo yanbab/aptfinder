@@ -1,0 +1,8 @@
+{"package":"gamt",
+ "description":"Serial-over-lan (sol) client for Intel AMT, gtk version",
+ "details":" AMT (included in Intel vPro and Centrino Pro) provides out-of-band (OOB)\n management for Desktops and Laptops, using an agent integrated in the\n network adapter and in the motherboard.\n\n Serial-over-lan provides a secure way to connect a remote computer, through\n a pseudo serial interface.\n\n amtterm and gamt are two terminal tools to connect to that pseudo serial\n interface from a remote computer. amttool is a perl script to gather\n information about and remotely control AMT managed computers.\n",
+ "installedSize":"100",
+ "downloadSize":"23484",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

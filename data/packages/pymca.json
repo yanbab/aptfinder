@@ -1,0 +1,9 @@
+{"package":"pymca",
+ "description":"Python applications and toolkit for X-ray fluorescence analysis",
+ "details":" PyMca is set of applications and Python libraries for analysis of\n X-ray fluorescence spectra.\n\n The applications included in this package are:\n\n  * edfviewer - Display and inspection of data files in ESRF Data Format\n  * elementsinfo - Displays element specific X-ray data\n  * mca2edf - Converts files from SPEC MCA format to EDF\n  * peakidentifier - Displays X-ray fluorescence peaks in a given energy range\n  * pymcabatch - Batch fitting of spectra\n  * pymcapostbatch - Post-processing of batch fitting results\n  * pymca - Interactive data-analysis\n  * pymcaroitool - Region-of-interest (ROI) imaging tool\n\n The PyMca toolkit can read data files in SPEC, ESRF data file (EDF),\n OMNIC, AIFIRA and SupaVisio formats.\n",
+ "installedSize":"6913",
+ "downloadSize":"1588652",
+ "homepage":"http:\/\/pymca.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

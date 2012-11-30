@@ -1,0 +1,9 @@
+{"package":"gnomint",
+ "description":"x509 Certification Authority management tool for GNOME",
+ "details":" gnoMint is a tool for easily creating and managing certification authorities.\n It provides fancy visualization of all the pieces of information that pertain\n to a CA, such as x509 certificates, CSRs, and CRLs.\n\n gnoMint is currently capable of managing a CA that emits certificates that are\n able to authenticate people or machines in VPNs (IPSec or other protocols),\n secure HTTP communications with SSL\/TLS, authenticate and cipher HTTP\n communications through Web-client certificates, and sign or crypt email\n messages.\n",
+ "installedSize":"1369",
+ "downloadSize":"351004",
+ "homepage":"http:\/\/gnomint.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

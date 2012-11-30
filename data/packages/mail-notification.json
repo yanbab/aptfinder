@@ -1,0 +1,9 @@
+{"package":"mail-notification",
+ "description":"mail notification in system tray",
+ "details":" mail-notification works with system trays implementing the\n freedesktop.org System Tray Specification, such as the GNOME Panel\n Notification Area, the xfce4 Notification Area and the KDE System Tray.\n\n  Mail Notification features include:\n   * multiple mailbox support\n   * mbox, MH, Maildir, Sylpheed, POP3, IMAP, Gmail and Evolution support\n   * Mozilla products (Mozilla, SeaMonkey, Thunderbird, ...) mailbox support\n   * SASL authentication support\n   * APOP authentication support\n   * SSL\/TLS support\n   * automatic detection of mailbox format\n   * immediate notification (depends on your settings)\n   * HIG 2.0 compliance\n\n  Note: Evolution support is available with mail-notification-evolution.\n role::program, scope::utility, suite::gnome, suite::kde, suite::xfce,\n uitoolkit::gtk, works-with::mail, x11::applet, x11::application\n",
+ "installedSize":"1506",
+ "downloadSize":"436274",
+ "homepage":"http:\/\/www.nongnu.org\/mailnotify\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

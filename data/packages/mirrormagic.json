@@ -1,0 +1,8 @@
+{"package":"mirrormagic",
+ "description":"Shoot around obstacles to collect energy using your beam.",
+ "details":" A game like \"Deflektor\" (C 64) or \"Mindbender\" (Amiga).\n The goal is to work out how to get around obstacles to shoot\n energy containers with your beam, enabling the path to the\n next level to be opened. Included are many levels known from\n the games \"Deflektor\" and \"Mindbender\".\n\n Some features:\n        - stereo sound effects and music\n        - music module support for SDL version (Unix\/Win32)\n        - fullscreen support for SDL version (Unix\/Win32)\n        - complete source code included under GNU GPL\n use::gameplaying, x11::application\n",
+ "installedSize":"358",
+ "downloadSize":"136228",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

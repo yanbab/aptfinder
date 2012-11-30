@@ -1,0 +1,9 @@
+{"package":"wavbreaker",
+ "description":"tool to split wave files into multiple chunks",
+ "details":" This application's purpose in life is to take a wave file and\n break it up into multiple wave files.  It makes a clean break\n at the correct position to burn the files to an audio cd\n without any dead air between the tracks.\n works-with::audio\n",
+ "installedSize":"404",
+ "downloadSize":"137178",
+ "homepage":"http:\/\/wavbreaker.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

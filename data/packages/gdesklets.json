@@ -1,0 +1,8 @@
+{"package":"gdesklets",
+ "description":"Architecture for desktop applets",
+ "details":" gDesklets is an architecture for \"desklets\", which are tiny applets\n sitting on your desktop in a symbiotic relationship of eye candy and\n usefulness.\n\n You can populate your desktop with status meters, icon bars,\n weather sensors, news tickers... whatever you can imagine...\n Virtually anything is possible and may even be available some day.\n\n This package includes a small number of applets.\n network::server, role::program, suite::gnome, uitoolkit::gtk,\n use::entertaining, x11::application\n",
+ "installedSize":"4779",
+ "downloadSize":"2912256",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

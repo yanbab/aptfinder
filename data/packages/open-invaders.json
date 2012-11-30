@@ -1,0 +1,9 @@
+{"package":"open-invaders",
+ "description":"Space Invaders clone",
+ "details":" Space Invaders is one of the earliest arcade shoot 'em up games. The player\n can move horizontally across the bottom of the screen and must shoot at an\n incoming wave of aliens before they reach the bottom.\n\n Open Invaders is a clone of the legendary 70's classic, but with\n completely new graphics, several bonus levels, etc.\n interface::x11, role::program, uitoolkit::xlib, use::gameplaying,\n x11::application\n",
+ "installedSize":"175",
+ "downloadSize":"59832",
+ "homepage":"http:\/\/www.jamyskis.net\/invaders.php",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

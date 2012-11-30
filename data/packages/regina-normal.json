@@ -1,0 +1,9 @@
+{"package":"regina-normal",
+ "description":"software for 3-manifold topology and normal surfaces",
+ "details":" Regina is a suite of mathematical software for 3-manifold topologists.\n It focuses on the study of 3-manifold triangulations and normal surfaces.\n\n Other highlights of Regina include angle structures, census enumeration,\n combinatorial recognition of triangulations, and high-level tasks such\n as 3-sphere recognition and connected sum decomposition.  Regina comes\n with a full graphical user interface, and also offers Python bindings\n and a low-level C++ programming interface.\n\n This package includes the graphical user interface and the command-line\n Python interface.  The users' handbook and the API documentation are in\n the separate package regina-normal-doc, and the MPI-enabled utilities for\n high-performance clusters are in the separate package regina-normal-mpi.\n role::program, scope::utility, suite::kde, uitoolkit::qt,\n x11::application\n",
+ "installedSize":"14260",
+ "downloadSize":"5926240",
+ "homepage":"http:\/\/regina.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

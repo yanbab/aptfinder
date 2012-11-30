@@ -1,0 +1,9 @@
+{"package":"jovie",
+ "description":"text-to-speech system",
+ "details":" The Jovie text-to-speech system is a plugin based service that allows any KDE\n (or non-KDE) application to speak using the D-Bus interface.\n\n It uses the speech-dispatcher daemon for the actual speech job; kmouth is an\n useful front-end for it.\n\n This package is part of the KDE accessibility module.\n role::program, suite::kde, uitoolkit::qt, x11::application\n",
+ "installedSize":"1109",
+ "downloadSize":"498066",
+ "homepage":"http:\/\/accessibility.kde.org\/developer\/kttsd",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

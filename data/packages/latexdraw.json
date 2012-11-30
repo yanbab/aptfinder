@@ -1,0 +1,9 @@
+{"package":"latexdraw",
+ "description":"vector drawing program for LaTeX using PSTricks",
+ "details":" LaTeXDraw is a free PSTricks code generator or PSTricks editor for LaTeX.\n It has the usual drawing tools (lines, rectangles, circles, Bezier curves)\n and can resize, rotate, move and join objects using vector transformations.\n LaTeXDraw uses SVG as its file format and figures can be exported as PSTricks\n code, pdf, eps, jpg, bmp, png, ppm.\n\n PSTricks is an extension of LaTeX which allows the creation of drawings,\n diagrams and graphs in 2D or 3D.\n science::publishing, uitoolkit::TODO, use::editing,\n works-with-format::svg, works-with-format::tex, works-with::image,\n works-with::image:vector, works-with::text, x11::application\n",
+ "installedSize":"1973",
+ "downloadSize":"1415124",
+ "homepage":"http:\/\/latexdraw.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

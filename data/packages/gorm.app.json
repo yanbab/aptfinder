@@ -1,0 +1,9 @@
+{"package":"gorm.app",
+ "description":"Visual Interface Builder for GNUstep",
+ "details":" Gorm, the GNUstep Object Relationship Modeler, is a tool to build GUI\n interfaces for the GNUstep system.  It is a clone of the NeXTStep\n \"Interface Builder\" app. It works well with ProjectCenter to create\n GUI applications for GNUstep.\n\n You can create .nib files that also work on Mac OS X and vice versa.\n suite::gnustep, uitoolkit::gnustep\n",
+ "installedSize":"5307",
+ "downloadSize":"1608902",
+ "homepage":"http:\/\/www.gnustep.org\/experience\/Gorm.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

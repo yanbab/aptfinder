@@ -1,0 +1,9 @@
+{"package":"sofa-apps",
+ "description":"GUI for the Simulation Open Framework Architecture (SOFA)",
+ "details":" SOFA is an Open Source framework primarily targeted at\n real-time simulation, with an emphasis on medical simulation.\n It is mostly intended for the research community to help\n develop newer algorithms, but can also be used as an efficient\n prototyping tool.\n\n This package contains the SOFA main application.\n",
+ "installedSize":"100",
+ "downloadSize":"23634",
+ "homepage":"http:\/\/www.sofa-framework.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"clips",
+ "description":"\"C\" Language Integrated Production System",
+ "details":" CLIPS 6.0 is an OPS-like forward chaining production system written\n in ANSI C by NASA. The CLIPS inference engine includes truth maintenance,\n dynamic rule addition, and customizable conflict resolution strategies.\n\n CLIPS, including the runtime version, is easily embeddable in other\n applications.  CLIPS includes an object-oriented language called COOL\n (CLIPS Object-Oriented Language) which is directly integrated with the\n inference engine.\n interface::text-mode, role::program, scope::utility, uitoolkit::ncurses\n",
+ "installedSize":"104",
+ "downloadSize":"22322",
+ "homepage":"http:\/\/clipsrules.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

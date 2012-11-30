@@ -1,0 +1,9 @@
+{"package":"qsapecng",
+ "description":"symbolic analyzer and solver of linear analog circuits",
+ "details":" This program consists of two indipendent parts: the SapecNG framework engine\n and the GUI application QSapecNG.\n\n QSapecNG is an open source, multi-platform project, continuously enhanced by\n students and researchers of the Department of Electronics and\n Telecommunications (DET) of the University of Florence (Italy). It comes as\n continuation of SapWin for Windows, in order to give to the project a full\n compatibility on other platforms.\n\n Through SapecNG\/QSapecNG users can draw, solve and analyze analog circuits as\n well as manage them. Since version 2.0.0beta1 there is also the full support\n for sub-circuits that can be created, saved, reopened and added as part of\n other circuits.\n\n SapecNG\/QSapecNG is freely available on SourceForge.net\n <https:\/\/sourceforge.net\/projects\/qsapecng\/>. A previous version of SapecNG is\n available too, on SourceForge.net <https:\/\/sourceforge.net\/projects\/sapec-ng\/>.\n interface::x11, role::app-data, role::documentation, role::program,\n scope::application, uitoolkit::qt, use::learning, use::simulating,\n use::viewing, x11::application\n",
+ "installedSize":"2462",
+ "downloadSize":"1190076",
+ "homepage":"http:\/\/qsapecng.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

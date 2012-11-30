@@ -1,0 +1,9 @@
+{"package":"hugin",
+ "description":"panorama photo stitcher - GUI tools",
+ "details":" Hugin is a panorama photo stitching program. Essentially, Hugin is a\n GUI frontend for Panorama Tools. Stitching is accomplished by using\n several overlapping photos taken from the same location, and using\n control points to align and transform the photos so that they can be\n blended together to form a larger image. Hugin allows for the easy\n creation of control points between two images, optimization of the\n image transforms, and much more.\n\n This package includes the following graphical interfaces, using the\n command-line tools provided in the hugin-tools package:\n  * hugin                - Hugin panorama creator.\n  * hugin_stitch_project - Hugin batch stitcher.\n  * nona_gui             - Graphical interface for nona.\n  * PTBatcherGUI         - Batch controller for the stitching process.\n  * calibrate_lens_gui   - Lens calibration tool.\n uitoolkit::wxwidgets, use::editing, works-with-format::jpg,\n works-with::image, works-with::image:raster, x11::application\n",
+ "installedSize":"4159",
+ "downloadSize":"1686024",
+ "homepage":"http:\/\/hugin.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"terraintool",
+ "description":"Generates survex format terrain models from SRTM and ASTER data",
+ "details":" This tool generates terrain meshes for cave survey tools from online\n datasets. It uses the NASA SRTM and European ASTER datasets. The\n relevant data is downloaded and excepted, geolocated to the desired\n co-ordinate system, resampled to a mesh grid, an offset to local grid\n added if required, the result displayed, and saved in survex (.svx) format.\n It is written in java.\n scope::utility, use::converting, use::filtering, works-with::3dmodel,\n x11::application\n",
+ "installedSize":"1828",
+ "downloadSize":"325942",
+ "homepage":"http:\/\/www.ubss.org.uk\/terraintool\/terraintool.php",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"remmina",
+ "description":"remote desktop client for GNOME desktop environment",
+ "details":" Remmina is a remote desktop connection client able to display and control a\n remote desktop session.\n\n It supports multiple network protocols in an integrated and consistant user\n interface. Currently RDP, VNC, NX, XDMCP and SSH protocols are supported.\n x11::application\n",
+ "installedSize":"372",
+ "downloadSize":"137644",
+ "homepage":"http:\/\/remmina.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

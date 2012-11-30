@@ -1,0 +1,9 @@
+{"package":"pythoncad",
+ "description":"Computer Aided Drafting (CAD) program",
+ "details":" PythonCAD is a scriptable (with the Python language) and easy to use drafting\n program.\n\n Please note that this version still doesn't support DWG and DXF file formats.\n use::editing, x11::application\n",
+ "installedSize":"3396",
+ "downloadSize":"469766",
+ "homepage":"http:\/\/sourceforge.net\/projects\/pythoncad\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

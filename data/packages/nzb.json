@@ -1,0 +1,9 @@
+{"package":"nzb",
+ "description":"Usenet binary grabber",
+ "details":" nzb is a binary news grabber written in Qt 4. It natively downloads and decodes\n the files specified in the nzb file, an XML format which describes binary\n files on Usenet by their message-id. nzb provides support for direct streaming\n of media files to your favourite media player.\n\n nzb files are a popular way to describe files posted on Usenet which span\n several messages (multi-part binaries). These files eliminate the need to\n fetch headers from newsgroups as nzb files contain the message-ids of the\n segments which can be downloaded directly from most news servers. A technical\n description can be found at http:\/\/docs.newzbin2.es\/index.php\/Newzbin:NZB_Specs\n\n nzb makes Usenet downloading easy by providing an easy to use interface which\n loads up a specified nzb file and either downloads the files described in the\n nzb or streams the data to an external application. This is usually used for\n video files which results in streaming video over Usenet.\n use::downloading\n",
+ "installedSize":"300",
+ "downloadSize":"122522",
+ "homepage":"http:\/\/www.nzb.fi\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

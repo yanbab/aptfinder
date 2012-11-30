@@ -1,0 +1,9 @@
+{"package":"aqsis",
+ "description":"3D rendering solution adhering to the RenderMan(R) standard, binaries",
+ "details":" Aqsis is a high quality, photorealistic, 3D rendering solution. It complies\n with the RenderMan(R) interface standard defined by Pixar.\n\n The RenderMan(R) standard has been used in film and television visual effects\n since its introduction in 1989. Pixar has used their own implementation for all\n of their award winning CG features, and provided their implementation for use\n in the visual effects of most major blockbuster films over the last 2\n decades. The Aqsis project offers a way for individuals and organisations alike\n to gain experience with the RenderMan(R) interface without the cost of\n commercial software licenses.\n\n This package contains the Aqsis binaries (command line rendering tool, a tool\n for compiling shaders in the RSL language and a tool for preparing textures for\n optimal use).\n use::editing, works-with::3dmodel, x11::application\n",
+ "installedSize":"2000",
+ "downloadSize":"687588",
+ "homepage":"http:\/\/www.aqsis.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

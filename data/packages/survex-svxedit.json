@@ -1,0 +1,9 @@
+{"package":"survex-svxedit",
+ "description":"survey data editor for Survex",
+ "details":" Experimental cave survey data entry editor for Survex.  Packaged separately\n as it requires Tcl to be installed, and some users prefer to use a text\n editor instead.\n role::program, scope::application, uitoolkit::tk, use::editing,\n works-with::text, x11::application\n",
+ "installedSize":"110",
+ "downloadSize":"61406",
+ "homepage":"http:\/\/survex.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

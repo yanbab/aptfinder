@@ -1,0 +1,9 @@
+{"package":"qbrew",
+ "description":"Homebrewer's recipe calculator",
+ "details":" QBrew is a recipe calculator for homebrewed beers. It uses Qt for creating\n its graphical user interface and provides facilities for creating own beer\n recipes. It even has a manual describing how to brew your first beer\n yourself!\n uitoolkit::qt, x11::application\n",
+ "installedSize":"1130",
+ "downloadSize":"420296",
+ "homepage":"http:\/\/www.usermode.org\/code.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"mediatomb",
+ "description":"UPnP MediaServer (main package)",
+ "details":" MediaTomb is an UPnP MediaServer with a nice web user interface, it allows you\n to stream your digital media through your home network and listen to\/watch it\n on a variety of UPnP compatible devices.\n\n MediaTomb implements the UPnP MediaServer V 1.0 specification that can be found\n on http:\/\/www.upnp.org\/. The current implementation focuses on parts that are\n required by the specification, however MediaTomb's functionality is extended to\n cover the optional parts of the spec as well.\n\n This package contains the desktop file needed to access the web ui using a\n system's default web browser. This package also acts as a virtual package to\n install all other mediatomb packages.\n",
+ "installedSize":"79",
+ "downloadSize":"23806",
+ "homepage":"http:\/\/mediatomb.cc\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

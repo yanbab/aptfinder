@@ -1,0 +1,9 @@
+{"package":"qmmp",
+ "description":"feature-rich audio player with support of many formats",
+ "details":" Qmmp is feature-rich audio player with support of many formats.\n It is written in Qt.\n\n Audio formats supported:\n  - FLAC;\n  - Ogg Vorbis;\n  - MPEG1 layer 1\/2\/3;\n  - AAC;\n  - CUE sheet;\n  - WavePack.\n  - Musepack;\n  - CD audio;\n  - FFmpeg-supported formats;\n  - midi;\n  - chiptune formats (AY, GBS, GYM, HES, KSS, NSF, NSFE, SAP, SPC, VGM,\n    VGZ, VTX).\n\n Audio output through:\n  - ALSA;\n  - OSS;\n  - PulseAudio;\n  - JACK.\n\n Features:\n  - winamp and XMMS skins support;\n  - plugins support;\n  - last.fm scrobbler;\n  - spectre analyzer;\n  - rediscretization;\n  - video playback via mplayer;\n  - MPRIS (1.0 and 2.0) support;\n  - lyrics (using lyrics.wikia.com);\n  - removable device detection;\n  - global hotkeys;\n  - projectm visualization;\n  - mms support;\n  - multiple playlists;\n  - cover art support;\n  - ReplayGain support;\n  - streaming Ogg Vorbis or MP3 via IceCast\/ShoutCast.\n  - crossfade (experimental);\n  - extra stereo;\n uitoolkit::qt, use::playing, works-with::audio, x11::application\n",
+ "installedSize":"1619",
+ "downloadSize":"605748",
+ "homepage":"http:\/\/code.google.com\/p\/qmmp\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

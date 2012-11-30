@@ -1,0 +1,9 @@
+{"package":"xchat",
+ "description":"IRC client for X similar to AmIRC",
+ "details":" XChat is a graphical IRC Client with a GTK+ GUI. It has a look and feel\n similar to AmIRC for the Amiga. Special features include the mIRC extension\n DCC RESUME and mIRC color, multiple server\/channel windows, dialog\n windows, and a plugin API.\n protocol::irc, protocol::ssl, role::program, role::shared-lib,\n uitoolkit::gtk, use::chatting, x11::application\n",
+ "installedSize":"862",
+ "downloadSize":"352816",
+ "homepage":"http:\/\/www.xchat.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

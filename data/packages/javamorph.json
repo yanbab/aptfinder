@@ -1,0 +1,9 @@
+{"package":"javamorph",
+ "description":"Java morphing film-make program for pixel picture-input",
+ "details":" Give two human-face pictures as inputs into the program. Then mark\n important locations whithin both faces by pairs of corresponding points.\n The program will create a short enumerated picture series in which the left\n face moves (morphs) into the right one. You can then create a MPEG (see\n mencoder) from the picture series. An animated GIF (see GIMP) is also\n possible.\n",
+ "installedSize":"1005",
+ "downloadSize":"968816",
+ "homepage":"http:\/\/code.google.com\/p\/javamorph\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

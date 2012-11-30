@@ -1,0 +1,9 @@
+{"package":"lcrt",
+ "description":"graphic Linux remote login tool",
+ "details":" lcrt is a Linux remote login tool. Just like ssh or telnet, but it has a\n GUI and can manage many connections. User can use it to save connection\n information such as hostname, username and, optionally, password, and auto\n login next time. lcrt also can clone a connected session, so user can open\n many connections quickly.\n",
+ "installedSize":"692",
+ "downloadSize":"323362",
+ "homepage":"http:\/\/code.google.com\/p\/lcrt",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

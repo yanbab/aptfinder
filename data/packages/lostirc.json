@@ -1,0 +1,9 @@
+{"package":"lostirc",
+ "description":"simple gtk-based IRC client",
+ "details":" LostIRC is a simple, yet very useful IRC-client. It has features such as\n tab-autocompletion, multiple server support, automatic joining of\n servers\/channels and DCC sending which should cover the needs of most\n people. The client is 100% keyboard-controllable, and uses the gtkmm\n GUI library.\n protocol::irc, role::program, uitoolkit::gtk, use::chatting,\n x11::application\n",
+ "installedSize":"680",
+ "downloadSize":"263372",
+ "homepage":"http:\/\/lostirc.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

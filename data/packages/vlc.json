@@ -1,0 +1,9 @@
+{"package":"vlc",
+ "description":"multimedia player and streamer",
+ "details":" VLC is the VideoLAN project's media player. It plays MPEG, MPEG-2, MPEG-4,\n DivX, MOV, WMV, QuickTime, WebM, FLAC, MP3, Ogg\/Vorbis files, DVDs, VCDs,\n podcasts, and multimedia streams from various network sources.\n\n VLC can also be used as a streaming server that duplicates the stream it\n reads and multicasts them through the network to other clients, or serves\n them through HTTP.\n\n VLC has support for on-the-fly transcoding of audio and video formats, either\n for broadcasting purposes or for movie format transformations. Support for\n most output methods is provided by this package, but features can be added\n by installing additional audio plugins (vlc-plugin-pulse, vlc-plugin-sdl)\n or video plugins (vlc-plugin-sdl).\n implemented-in::c, implemented-in::c++, interface::x11, protocol::ipv6,\n protocol::ssl, role::program, scope::application, sound::compression,\n sound::player, uitoolkit::ncurses, uitoolkit::qt, use::converting,\n use::playing, works-with-format::TODO, works-with-format::mp3,\n works-with-format::oggtheora, works-with-format::oggvorbis,\n works-with-format::wav, works-with::TODO, works-with::audio,\n works-with::video, x11::application\n",
+ "installedSize":"3376",
+ "downloadSize":"1089442",
+ "homepage":"http:\/\/www.videolan.org\/vlc\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

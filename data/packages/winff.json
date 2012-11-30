@@ -1,0 +1,9 @@
+{"package":"winff",
+ "description":"graphical video and audio batch converter using ffmpeg",
+ "details":" WinFF is a graphical user interface for FFmpeg. It will convert\n almost any video file that FFmpeg will convert. WinFF does multiple\n files in multiple formats at one time. You can, for example, convert\n mpeg's, flv's, and mov's into avi's (or DVD\/VCD format or MPEG or 3gp\n etc.) all at once.\n\n This package provides a variety of preset conversion settings for\n common formats and devices. These presets are intended to hit the\n \"sweet spot\" for each individual codec. They have been written with a\n tip of the balance to quality.\n\n For most presets to work, it is necessary to have the unstripped version\n of the libavcodec package, which can be obtained by installing\n libavcodec-extra-## as suggested by this package. It might be necessary\n to enable additional repositories to find that package.\n uitoolkit::gtk, use::converting, works-with::audio, works-with::video,\n x11::application\n",
+ "installedSize":"5563",
+ "downloadSize":"1810296",
+ "homepage":"http:\/\/www.winff.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"glogg",
+ "description":"Smart interactive log explorer using Qt4",
+ "details":" glogg is a multi-platform GUI application to browse and search through long or\n complex log files. It is designed with programmers and system administrators\n in mind and can be seen as a graphical, interactive combination of grep and\n less.\n\n Main features include:\n  * Accept egrep regular expression to search or filter the log.\n  * Interactively display results of the search in a second, filtered window.\n  * Colorize the log and the search results.\n  * Read the file directly from disk, without loading it into memory.\n  * Happily handle big (>4 GiB) files.\n  * Follow a log in real-time as it is written to disk.\n  * Allow to insert marks in the logs to interesting lines.\n  * Support less\/vim like keyboard commands to move around the file.\n uitoolkit::qt, use::browsing, use::viewing, works-with::logfile,\n x11::application\n",
+ "installedSize":"577",
+ "downloadSize":"201438",
+ "homepage":"http:\/\/glogg.bonnefon.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

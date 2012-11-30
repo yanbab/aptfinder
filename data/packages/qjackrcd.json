@@ -1,0 +1,9 @@
+{"package":"qjackrcd",
+ "description":"Qt4 application to record JACK server outputs",
+ "details":" QJackRcd is a simple stereo recorder for Jack with few features as\n silence processing for automatic pause, file splitting, background\n file post-processing. It can be used with QJackCtl.\n\n Features:\n  * QT simple GUI with disk usage and vumeter.\n  * Jack support for recording, jack transport support.\n  * Silence compressing with auto pause and optional file splitting.\n  * Background WAV post processing for format conversion and signal\n    processing.\n  * Automatic connection with first launched jack source facility.\n",
+ "installedSize":"133",
+ "downloadSize":"42198",
+ "homepage":"http:\/\/qjackrcd.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

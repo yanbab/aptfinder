@@ -1,0 +1,9 @@
+{"package":"zita-rev1",
+ "description":"pro-audio reverb effect",
+ "details":" REV1 is a reworked version of the reverb originally developed for Aeolus.\n Its character is more 'hall' than 'plate', but it can be used on a wide\n variety of instruments or voices. It is not a spatialiser - the early\n reflections are different for the L and R inputs, but do not correspond\n to any real room. They have been tuned to match left and right sources to\n some extent.\n\n In Stereo mode a dry\/wet mix control is provided, so it can be used either\n as an insert or in send\/return mode. For mono just connect one of the\n two channels.\n\n In Ambisonic mode (selected by the -B command line option) the only option\n is the send\/return mode.\n",
+ "installedSize":"124",
+ "downloadSize":"47676",
+ "homepage":"http:\/\/kokkinizita.linuxaudio.org\/linuxaudio\/zita-rev1-doc\/quickguide.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

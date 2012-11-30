@@ -1,0 +1,9 @@
+{"package":"startupmanager",
+ "description":"Grub, Usplash and Splash screen configuration",
+ "details":" StartUp-Manager configures some settings for grub, usplash and\n splash screens. It provides an easy to use interface.\n\n It is originally a Ubuntu project, adapted for Debian.\n",
+ "installedSize":"1364",
+ "downloadSize":"123806",
+ "homepage":"https:\/\/launchpad.net\/startup-manager",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

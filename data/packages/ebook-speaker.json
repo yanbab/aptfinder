@@ -1,0 +1,9 @@
+{"package":"ebook-speaker",
+ "description":"eBook reader that reads aloud in a synthetic voice",
+ "details":" This package provides a command-line e-reader that reads out\n electronic books using speech synthesis. It has a simple user\n interface appropriate for Braille terminals.\n\n Currently the EPUB and Microsoft Reader eBook (lit) format are\n supported.\n role::program, scope::utility, sound::player, works-with-format::TODO,\n works-with-format::epub, works-with::file\n",
+ "installedSize":"162",
+ "downloadSize":"48320",
+ "homepage":"http:\/\/web.inter.nl.net\/users\/lemmensj\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

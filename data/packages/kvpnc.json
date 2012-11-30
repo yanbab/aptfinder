@@ -1,0 +1,9 @@
+{"package":"kvpnc",
+ "description":"vpn clients frontend for KDE4",
+ "details":" KVpnc is a KDE4 frontend for various vpn clients.\n\n It supports :\n   * Cisco-compatible VPN client (vpnc)\n   * IPSec (freeswan, openswan, strongSwan, racoon)\n   * Point-to-Point Tunneling Protocol (PPTP) client (pptp-linux)\n   * Virtual Private Network daemon (openvpn)\n   * L2TP, Vtun & OpenSSH\n suite::kde, uitoolkit::qt, x11::application\n",
+ "installedSize":"2774",
+ "downloadSize":"893372",
+ "homepage":"http:\/\/home.gna.org\/kvpnc",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

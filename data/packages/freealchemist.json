@@ -1,0 +1,9 @@
+{"package":"freealchemist",
+ "description":"simpler figure block game",
+ "details":" FreeAlchemist is a figure block game written in Python where you have to\n connect blocks.\n\n The three or more blocks connected with the same shape will be replaced by a\n block with a different shape.\n",
+ "installedSize":"155",
+ "downloadSize":"69798",
+ "homepage":"https:\/\/github.com\/dakk\/FreeAlchemist",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

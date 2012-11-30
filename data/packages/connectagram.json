@@ -1,0 +1,9 @@
+{"package":"connectagram",
+ "description":"word unscrambling game",
+ "details":" The board consists of several scrambled words that are joined together.\n You can choose the length of the words, the amount of words, and the\n pattern that the words are arranged in. The game provides a hint option\n for times when you are stuck.\n use::gameplaying, x11::application\n",
+ "installedSize":"868",
+ "downloadSize":"277480",
+ "homepage":"http:\/\/gottcode.org\/connectagram\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

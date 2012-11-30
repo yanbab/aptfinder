@@ -1,0 +1,8 @@
+{"package":"comix",
+ "description":"GTK Comic Book Viewer",
+ "details":" Comix is a comic book viewer. It reads zip, rar, tar, tar.gz and\n tar.bz2 archives (often called .cbz, .cbr and .cbt) as well as\n normal image files. It is written in Python and has a simple user\n interface using PyGTK.\n\n Main Features:\n\n   * Fullscreen mode.\n   * Double page mode.\n   * Fit-to-screen mode.\n   * Zooming and scrolling.\n   * Rotation and mirroring.\n   * Magnification lens.\n   * Changeable image scaling quality.\n   * Image enhancement.\n   * Can read right-to-left to fit manga etc.\n   * Caching for faster page flipping.\n   * Bookmarks support.\n   * Customizable GUI.\n   * Archive comments support.\n   * Archive converter.\n   * Thumbnail browser.\n   * Standards compliant.\n   * Translated to English, Swedish, Simplified Chinese, Spanish,\n     Brazilian Portuguese and German.\n   * Reads the JPEG, PNG, TIFF, GIF, BMP, ICO, XPM and XBM image formats.\n   * Reads ZIP and tar archives natively, and RAR archives through the unrar\n     program.\n   * Runs on Linux, FreeBSD, NetBSD and virtually any other UNIX-like OS.\n   * More!\n scope::application, uitoolkit::gtk, use::browsing, use::entertaining,\n works-with-format::TODO, works-with-format::gif,\n works-with-format::jpg, works-with-format::png, works-with-format::tar,\n works-with-format::tiff, works-with-format::zip, works-with::archive,\n works-with::file, works-with::image, works-with::image:raster\n",
+ "installedSize":"1379",
+ "downloadSize":"328198",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

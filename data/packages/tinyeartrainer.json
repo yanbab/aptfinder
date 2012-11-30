@@ -1,0 +1,9 @@
+{"package":"tinyeartrainer",
+ "description":"A tool to learn recognizing musical intervals",
+ "details":" Tiny Ear Trainer is a tiny piece of software that helps you to recognize\n musical intervals.\n\n Implemented features include associating colors to intervals and learning mode\n which plays interval together with color and name. Harmonic and melodic\n intervals are supported. It uses fluidsynth\/soundfonts for playback. You may\n want to know that GNU Solfege is a far more powerful alternative to Tiny Ear\n Trainer.\n\n Tiny Ear Trainer works with JACK Audio Connection Kit.\n use::learning, works-with::audio, works-with::people, x11::application\n",
+ "installedSize":"172",
+ "downloadSize":"28818",
+ "homepage":"http:\/\/29a.ch\/tinyeartrainer",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"camera.app",
+ "description":"GNUstep application for digital still cameras",
+ "details":" Camera downloads files from your digital camera. It is based on GNUstep.\n scope::utility, suite::gnustep, uitoolkit::gnustep, use::downloading,\n use::viewing, works-with-format::jpg, works-with::image,\n works-with::image:raster, x11::application\n",
+ "installedSize":"192",
+ "downloadSize":"32396",
+ "homepage":"http:\/\/home.gna.org\/gsimageapps\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

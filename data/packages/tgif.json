@@ -1,0 +1,9 @@
+{"package":"tgif",
+ "description":"2D vector graphic drawing tool using Xlib",
+ "details":" Tgif (originally the \"Tangram Graphic Interface Facility\") is a\n classic drawing program for 2D vector graphics. Image objects can\n be hierarchically constructed out of primitives such as polygons,\n text, and splines (though the splines Tgif draws are not B\u00e9zier\n curves).\n\n It natively supports PostScript formats suitable for LaTeX, as well\n as X11 bitmap or (version 1) pixmap formats. Other vector and raster\n image formats such as SVG and PNG can be handled via filters.\n\n Tgif stores drawings as .obj files and individual building-block\n objects as .sym files, both in Prolog-compatible fact file format.\n use::editing, works-with-format::postscript, works-with-format::tex,\n works-with::image, works-with::image:vector, works-with::text,\n x11::application\n",
+ "installedSize":"3435",
+ "downloadSize":"1490008",
+ "homepage":"http:\/\/bourbon.usc.edu\/tgif\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

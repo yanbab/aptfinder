@@ -1,0 +1,9 @@
+{"package":"kmetronome",
+ "description":"ALSA MIDI Metronome",
+ "details":" KMetronome is a MIDI based metronome using the ALSA sequencer.\n\n The intended audience are musicians and music students. Like the solid, real\n metronomes it is a tool to keep the rhythm while playing musical instruments.\n\n It uses MIDI for sound generation instead of digital audio, allowing low CPU\n usage and very accurate timing thanks to the ALSA sequencer\n x11::application\n",
+ "installedSize":"715",
+ "downloadSize":"287502",
+ "homepage":"http:\/\/kmetronome.sourceforge.net\/kmetronome.shtml",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

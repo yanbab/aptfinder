@@ -1,0 +1,9 @@
+{"package":"hatari",
+ "description":"Emulator for the Atari ST, STE, TT, and Falcon computers",
+ "details":" Hatari is an emulator for the Atari ST line of computers.\n\n The Atari ST was a 16\/32 bit computer system which was first released by\n Atari in 1985. Using the Motorola 68000 CPU, it was a very popular computer\n having quite a lot of CPU power at that time.\n\n Unlike many other Atari ST emulators which try to give you a good environment\n for running GEM applications, Hatari tries to emulate the hardware of a ST as\n close as possible so that it is able to run most of the old ST games and\n demos.\n uitoolkit::sdl, x11::application\n",
+ "installedSize":"8330",
+ "downloadSize":"2616060",
+ "homepage":"http:\/\/hatari.tuxfamily.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

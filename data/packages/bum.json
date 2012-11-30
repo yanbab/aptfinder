@@ -1,0 +1,9 @@
+{"package":"bum",
+ "description":"graphical runlevel editor",
+ "details":" Boot-Up Manager is a graphical tool to allow easy configuration\n of init services in user and system runlevels, as far as changing\n Start\/Stop services priority.\n role::program, scope::utility, uitoolkit::gtk, use::configuring,\n x11::application\n",
+ "installedSize":"520",
+ "downloadSize":"85122",
+ "homepage":"http:\/\/www.marzocca.net\/linux\/bum.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

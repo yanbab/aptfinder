@@ -1,0 +1,9 @@
+{"package":"pyracerz",
+ "description":"multiplayer top view 2D racing game",
+ "details":" It features multiplayer (on the same computer), tournaments, high scores,\n replays, 6 tracks (really 12, because each track can be used Normal or\n Reverse), 9 cars, a basic robot player, 3 different levels of difficulty,\n and a music player (it can play the .ogg files locating in the musics\n directory).\n junior::arcade, role::program, uitoolkit::sdl, use::gameplaying,\n x11::application\n",
+ "installedSize":"5176",
+ "downloadSize":"4701240",
+ "homepage":"http:\/\/pyracerz.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

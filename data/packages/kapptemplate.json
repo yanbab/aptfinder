@@ -1,0 +1,9 @@
+{"package":"kapptemplate",
+ "description":"application template generator",
+ "details":" KAppTemplate is a shell script that will create the necessary framework to\n develop several types of applications, including applications based on the\n KDE development platform.\n\n It generates the build-system configuration and provides example code\n for a simple application.\n\n This package is part of the KDE Software Development Kit module.\n role::source, suite::kde, uitoolkit::qt\n",
+ "installedSize":"1168",
+ "downloadSize":"971134",
+ "homepage":"http:\/\/www.kde.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

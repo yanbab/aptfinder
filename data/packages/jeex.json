@@ -1,0 +1,9 @@
+{"package":"jeex",
+ "description":"visual editor to view and edit files in hexadecimal",
+ "details":" Jeex is a simple hexadecimal editor which allows user to create, open\n and edit files in hexadecimal, binary, octal and ASCII. The features include\n insert, delete, copy-and-paste, search and many others.\n\n It also shows several information about the opened file, like file mode bits,\n ownership, last access and modification timestamps.\n",
+ "installedSize":"416",
+ "downloadSize":"123032",
+ "homepage":"http:\/\/www.hds619.net\/Jeex.php",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

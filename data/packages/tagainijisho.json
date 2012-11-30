@@ -1,0 +1,9 @@
+{"package":"tagainijisho",
+ "description":"Japanese dictionary and learning assistant",
+ "details":" Tagaini Jisho is a Japanese vocabulary and kanji dictionary that aims at\n presenting results in a way that makes it easy to create connections\n in your mind and remember them. To allow this, it keeps track of all the\n entries you already know and allows you to tag and add notes to them. It\n also features kanji drawing animations for more than 6000 kanjis,\n flashcard-like training, production of paper material for studying,\n and extended search options for vocabulary and kanjis including\n part-of-speech and JLPT levels.\n interface::x11, role::program, scope::application, uitoolkit::qt,\n use::checking, use::learning, works-with::dictionary, x11::application\n",
+ "installedSize":"1894",
+ "downloadSize":"735728",
+ "homepage":"http:\/\/www.tagaini.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"fgo",
+ "description":"simple graphical launcher for FlightGear",
+ "details":" FGo! allows you to launch FlightGear from a GUI (Graphical User Interface).\n\n FGo! allows you to easily select the aircraft, airport and scenario.\n It's also provides a convenient way to run TerraSync.\n\n What distinguishes it from other such applications is the text window allowing\n you to write any other, more advanced command line options that will be passed\n to FlightGear. This is similar to editing the .fgfsrc configuration file.\n",
+ "installedSize":"452",
+ "downloadSize":"67140",
+ "homepage":"http:\/\/sites.google.com\/site\/erobosprojects\/flightgear\/add-ons\/fgo",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

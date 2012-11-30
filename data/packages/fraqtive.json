@@ -1,0 +1,9 @@
+{"package":"fraqtive",
+ "description":"draws Mandelbrot and Julia fractals",
+ "details":" Fraqtive is a program for drawing Mandelbrot and Julia fractals.\n It uses a very fast algorithm and generates high quality, smooth\n images. It is fully interactive, allowing for real-time mouse\n navigation and dynamic generation of the Julia fractal preview.\n OpenGL-rendered 3D view of the fractals is also supported.\n use::viewing, x11::application\n",
+ "installedSize":"716",
+ "downloadSize":"238334",
+ "homepage":"http:\/\/fraqtive.mimec.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

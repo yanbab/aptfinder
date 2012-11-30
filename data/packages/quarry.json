@@ -1,0 +1,9 @@
+{"package":"quarry",
+ "description":"Board games Go, Amazons, and Reversi (a.k.a. Othello)",
+ "details":" Quarry is a multi-purpose GUI for several board games, at present Go, Amazons\n and Reversi (a.k.a. Othello.) It allows users to play against computer players\n (third-party programs, e.g. GNU Go or GRhino) or other humans, view and edit\n game records.\n uitoolkit::gtk, use::editing, use::gameplaying, use::viewing,\n x11::application\n",
+ "installedSize":"1328",
+ "downloadSize":"562466",
+ "homepage":"http:\/\/home.gna.org\/quarry\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

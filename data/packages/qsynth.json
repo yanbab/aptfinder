@@ -1,0 +1,9 @@
+{"package":"qsynth",
+ "description":"fluidsynth MIDI sound synthesiser front-end",
+ "details":" QSynth is a fluidsynth GUI front-end application written in C++ around the Qt 4\n toolkit. Eventually it may evolve into a softsynth management application\n allowing the user to control and manage a variety of command line softsynths\n but for the moment it wraps FluidSynth (http:\/\/www.fluidsynth.org).\n\n FluidSynth is a command line software synthesiser based on the Soundfont\n specification.\n sound::midi, uitoolkit::qt, works-with::audio, x11::application\n",
+ "installedSize":"816",
+ "downloadSize":"282098",
+ "homepage":"http:\/\/qsynth.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

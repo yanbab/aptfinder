@@ -1,0 +1,9 @@
+{"package":"mednafen",
+ "description":"multi-platform emulator, including NES, GB\/A, Lynx, PC Engine",
+ "details":" Mednafen is a command-line driven emulator for many different systems. It\n has full support for OpenGL and SDL graphics, network play, remappable input\n configuration, joystick and keyboard support, save states, game rewinding,\n GSF playback, and screenshots.\n\n The systems supported by Mednafen are:\n    * Atari Lynx\n    * GameBoy\n    * GameBoy Color\n    * GameBoy Advance\n    * NES\n    * PC Engine (TurboGrafx 16)\n    * PC-FX\n    * SuperGrafx\n    * NeoGeo Pocket, NeoGeo Pocket Color\n    * WonderSwan\n\n Hardware emulated by Mednafen includes:\n    * NES gamepad, Zapper, PowerPad\n    * Four-Score, Famicom multiplayer adapter\n    * Arkanoid, HyperShot, Space Shadow, Mahjong controllers\n    * Oeka Kids tablet, Quiz King buzzers, Family Trainer, Barcode World\n    * Game Genie\n interface::x11, role::program, uitoolkit::sdl, use::gameplaying,\n x11::application\n",
+ "installedSize":"5576",
+ "downloadSize":"1886956",
+ "homepage":"http:\/\/mednafen.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"lxterminal",
+ "description":"LXDE terminal emulator",
+ "details":" LXTerminal is a VTE-based terminal emulator for the Lightweight X11 Desktop\n Environment (LXDE).\n\n It supports multiple tabs and has only minimal dependencies thus being\n completely desktop-independent. In order to reduce memory usage and increase\n the performance, all instances of the terminal are sharing a single process.\n",
+ "installedSize":"851",
+ "downloadSize":"81760",
+ "homepage":"http:\/\/www.lxde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

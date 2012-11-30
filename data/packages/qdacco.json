@@ -1,0 +1,9 @@
+{"package":"qdacco",
+ "description":"offline Dacco Catalan <-> English dictionary frontend (qt)",
+ "details":" Dacco is a free Catalan-English dictionary. It gives two versions, one\n qt based and other text based. Both are frontends to use the dacco\n dictionary.\n role::program, uitoolkit::qt, works-with::dictionary, x11::application\n",
+ "installedSize":"436",
+ "downloadSize":"154224",
+ "homepage":"http:\/\/sourceforge.net\/project\/showfiles.php?group_id=80666",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,8 @@
+{"package":"tuxpaint",
+ "description":"A paint program for young children",
+ "details":" Tux Paint is meant to be a simple drawing program for young\n children.  It is not meant as a general-purpose drawing tool.\n It IS meant to be fun and easy to use.  Sound effects and a\n cartoon character help let the user know what's going on, and\n keeps them entertained.\n\n Tux Paint is extensible.  Brushes and \"rubber stamp\" shapes can be\n dropped in and pulled out.  For example, a teacher can drop in a\n collection of animal shapes and ask their students to draw an\n ecosystem.  Each shape can have a sound which is played, and\n textual facts which are displayed, when the child selects the shape.\n\n There is no direct access to the computer's underlying intricacies.\n The current image is kept when the program quits, and reappears when\n it is restarted.  Saving images requires no need to create filenames\n or use the keyboard.  Opening an image is done by selecting it from\n a collection of thumbnails.\n use::editing, use::learning, works-with::image,\n works-with::image:raster, x11::application\n",
+ "installedSize":"364",
+ "downloadSize":"178724",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

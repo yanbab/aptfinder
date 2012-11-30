@@ -1,0 +1,9 @@
+{"package":"euler",
+ "description":"interactive mathematical programming environment",
+ "details":" Euler is a powerful numerical laboratory with a programming language.\n The system can handle real, complex and interval numbers, vectors and\n matrices. It can produce 2D\/3D plots.\n\n Euler features among other things:\n  * real, complex and interval scalars and matrices\n  * a programming language, with local variables, default values for\n    parameters, variable parameter number, passing of functions\n  * two and three dimensional graphs\n  * marker plots\n  * density and contour plots\n  * animations\n  * numerical integration and differentiation\n  * statistical functions and tests\n  * differential equations\n  * interval methods with guaranteed inclusions\n  * function minimizers (Brent, Nelder-Mean)\n  * simplex algorithm\n  * interpolation and approximation\n  * finding roots of polynomials\n  * fast Fourier transform (FFT)\n  * an exact scalar product using a long accumulator\n  * PostScript graphics export\n\n This package contains the main program. Documentation for Euler is included\n in the euler-doc package.\n scope::utility, uitoolkit::gtk, use::viewing, x11::application\n",
+ "installedSize":"1159",
+ "downloadSize":"418684",
+ "homepage":"http:\/\/euler.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

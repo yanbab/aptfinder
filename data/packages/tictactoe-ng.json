@@ -1,0 +1,9 @@
+{"package":"tictactoe-ng",
+ "description":"fun, simple, tic tac toe game",
+ "details":" Tic Tac Toe (naughts & crosses) is a simple two player game\n where the object is to place your shapes on the game board so\n that you get three in a row either horizontally, vertically, or\n across one of the diagonals while trying to block your opponent\n from doing the same.\n",
+ "installedSize":"152",
+ "downloadSize":"27254",
+ "homepage":"http:\/\/launchpad.net\/tictactoe",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

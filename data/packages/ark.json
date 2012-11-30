@@ -1,0 +1,9 @@
+{"package":"ark",
+ "description":"archive utility",
+ "details":" Ark manages various archive formats, including tar, gzip, bzip2, rar and zip,\n as well as CD-ROM images.  Ark can be used to browse, extract, create, and\n modify archives.\n\n This package is part of the KDE SC utilities module.\n scope::utility, suite::kde, uitoolkit::qt, use::compressing,\n use::storing, works-with-format::tar, works-with-format::zip,\n works-with::archive, x11::application\n",
+ "installedSize":"1054",
+ "downloadSize":"383062",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

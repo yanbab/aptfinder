@@ -1,0 +1,9 @@
+{"package":"drivel",
+ "description":"Blogging client for the GNOME desktop",
+ "details":" Drivel is a GTK+ client for working with online journals, also known as\n weblogs or blogs. It retains an elegant design while supporting LiveJournal,\n Blogger, MovableType, Advogato, and Atom journals, as well as derivatives such\n as WordPress and Drupal.\n\n It allows you to perform most functions that are supported by the server\n (posting, friends editing, friend page checking, post editing etc).\n protocol::ssl, role::program, suite::gnome, uitoolkit::gtk,\n use::editing, web::blog, works-with-format::xml,\n works-with-format::xml:rss, x11::application\n",
+ "installedSize":"1872",
+ "downloadSize":"434996",
+ "homepage":"http:\/\/drivel.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

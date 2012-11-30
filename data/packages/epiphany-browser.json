@@ -1,0 +1,9 @@
+{"package":"epiphany-browser",
+ "description":"Intuitive GNOME web browser",
+ "details":" Epiphany is a simple yet powerful GNOME web browser targeted at\n non-technical users. Its principles are simplicity and standards\n compliance.\n\n Simplicity is achieved by a well designed user interface and reliance\n on external applications for performing external tasks (such as reading\n email). Simplicity does not mean less features; Epiphany has everything\n a modern web browser is expected to have, and can have more through\n its extensions.\n\n Standards compliance is achieved on the HTML side by using the\n WebKitGTK+ rendering engine (which is based on the engine used by\n Apple Safari and Google Chrome); and on the user interface side by\n closely following the GNOME Human Interface Guidelines (HIG) and by\n close integration with the GNOME desktop.\n protocol::ssl, role::program, scope::application, suite::gnome,\n uitoolkit::gtk, use::browsing, web::browser, works-with-format::html,\n works-with::text, x11::application\n",
+ "installedSize":"2049",
+ "downloadSize":"1403094",
+ "homepage":"http:\/\/www.gnome.org\/projects\/epiphany\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

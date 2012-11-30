@@ -1,0 +1,9 @@
+{"package":"ktimetracker",
+ "description":"time tracker tool",
+ "details":" KTimetracker is a time tracker for busy people who need to keep track\n of the amount of time they spend on various tasks.\n\n This package is part of the KDE PIM module.\n uitoolkit::qt, use::organizing, use::timekeeping, works-with::pim,\n x11::application\n",
+ "installedSize":"3396",
+ "downloadSize":"828050",
+ "homepage":"http:\/\/pim.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

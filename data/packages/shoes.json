@@ -1,0 +1,9 @@
+{"package":"shoes",
+ "description":"tiny graphics and windowing toolkit using Ruby",
+ "details":" Shoes is a very informal graphics and windowing toolkit for making simple\n graphical applications.  It blends ideas from the web (hyperlinks, simple text\n layout, and more) from traditional windowing toolkits (buttons, progress bars,\n dialogs and the like) and applications like NodeBox and Processing (drawing\n anywhere on the window with shapes and curves, simple animation).\n\n Shoes uses Ruby as its interface language; applications created with it can\n run on Windows, Mac OS X and Linux.\n",
+ "installedSize":"521",
+ "downloadSize":"182880",
+ "homepage":"http:\/\/code.whytheluckystiff.net\/shoes\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

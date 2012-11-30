@@ -1,0 +1,9 @@
+{"package":"ifpgui",
+ "description":"QT based manager for iRiver iFP audio players",
+ "details":" This project is an open-source graphical user interface (GUI)\n for iRiver's iFP flash audio players.  It uses libifp to access\n the player over the management interface.\n\n This program does not work with the H, T or other recent models.\n These models are known to work: iFP-1xx,3xx,5xx,7xx,8xx,9xx and N10.\n You can only use this software if your player has the \"Management\"\n version of iRiver's firmware installed.\n",
+ "installedSize":"753",
+ "downloadSize":"434302",
+ "homepage":"http:\/\/ifpgui.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

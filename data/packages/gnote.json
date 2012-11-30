@@ -1,0 +1,9 @@
+{"package":"gnote",
+ "description":"desktop note taking program using Wiki style links",
+ "details":" Gnote is a desktop note-taking application which is simple and easy to\n use. It lets you organise your notes intelligently by allowing you to\n easily link ideas together with Wiki style interconnects.\n\n It is a port of Tomboy to C++ and consumes less resources.\n suite::gnome, uitoolkit::gtk, use::organizing, use::timekeeping,\n x11::application\n",
+ "installedSize":"7505",
+ "downloadSize":"3341352",
+ "homepage":"http:\/\/live.gnome.org\/Gnote",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"vagalume",
+ "description":"GTK+-based client for Last.fm and compatible radio services",
+ "details":" Vagalume is a Last.fm client designed for the GNOME desktop\n environment. It's small and provides the basic Last.fm features, such\n as scrobbling, tags, recommendations, etc.\n\n Vagalume also supports other Last.fm-compatible services such as\n Libre.fm\n sound::player, uitoolkit::gtk, use::playing, works-with::audio,\n x11::application\n",
+ "installedSize":"902",
+ "downloadSize":"288702",
+ "homepage":"http:\/\/vagalume.igalia.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"idjc",
+ "description":"graphical shoutcast\/icecast client",
+ "details":" Internet DJ Console is an Internet radio application for making a live radio\n show or podcast. Features include two main media players with a crossfader,\n a jingle player, microphone signal processing (compressor and noise gate),\n IRC track announcements with X-Chat, an automatic stream shut-off timer, MP3\n or Ogg streaming and recording at various bit rates, aux input for connecting\n external JACK aware applications, and audio level meters.\n",
+ "installedSize":"3175",
+ "downloadSize":"1533074",
+ "homepage":"http:\/\/idjc.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"toppler",
+ "description":"clone of the \"Nebulus\" game on old 8 and 16 bit machines",
+ "details":" Toppler is an almost complete reimplementation of the old game known as\n Tower Toppler or Nebulus.\n\n The target of the game is to reach the target door of each of the  8 towers\n in currently 2 missions with this little green animal. This door is usually\n at the very top of the tower.\n\n But finding the way by using elevators and walking through a maze of doors\n and platforms is not the only problem you have to solve. There are a bunch\n of other creatures living on the tower that will hinder you to reach your\n target by pushing you over the edge of the platforms.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"1881",
+ "downloadSize":"1647094",
+ "homepage":"http:\/\/toppler.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

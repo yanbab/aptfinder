@@ -1,0 +1,9 @@
+{"package":"grisbi",
+ "description":"personal finance management program",
+ "details":" Grisbi is a personal accounting program. Grisbi can handle multiple\n accounts, currencies and users. It helps you manage your money using\n third party, expenditure and receipt categories, as well as budgetary\n lines, financial years, and other information that makes it adapted\n for both personal and associative accounting.\n\n Grisbi can import accounts from QIF, OFX and Gnucash files. It can\n print reports using LaTeX or export them via HTML.\n scope::application, suite::gnome, uitoolkit::gtk, use::analysing,\n use::organizing, works-with-format::html, works-with-format::tex,\n works-with::pim, works-with::text, x11::application\n",
+ "installedSize":"1748",
+ "downloadSize":"666982",
+ "homepage":"http:\/\/www.grisbi.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

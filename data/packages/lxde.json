@@ -1,0 +1,9 @@
+{"package":"lxde",
+ "description":"LXDE metapackage",
+ "details":" LXDE (the Lightweight X11 Desktop Environment) is a project aimed\n to provide a desktop environment which is lightweight and fast.\n\n This package is a metapackage depends on the core components and\n recommended components of the LXDE. It includes lxde-core, lxappearance,\n lxinput, lxsession-edit, lxshortcut, gpicview, lxterminal, lxmusic,\n leafpad and xarchiver.\n\n If you just want to pick and choose the core components then feel free\n to remove this package.\n uitoolkit::gtk\n",
+ "installedSize":"26",
+ "downloadSize":"2406",
+ "homepage":"http:\/\/www.lxde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

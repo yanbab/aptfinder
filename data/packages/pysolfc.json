@@ -1,0 +1,9 @@
+{"package":"pysolfc",
+ "description":"collection of more than 1000 solitaire card games",
+ "details":" There are games that use the 52 card International Pattern deck,\n games for the 78 card Tarock deck, eight and ten suit Ganjifa games,\n Hanafuda games, Matrix games, Mahjongg games, and games for an original\n hexadecimal-based deck.\n\n Its features include modern look and feel (uses Ttk widget set),\n multiple cardsets and tableau backgrounds, sound, unlimited undo,\n player statistics, a hint system, demo games, a solitaire wizard,\n support for user written plug-ins, an integrated HTML help browser,\n and lots of documentation.\n\n PySolFC is a fork of PySol Solitaire.\n uitoolkit::tk, use::gameplaying, x11::application\n",
+ "installedSize":"8254",
+ "downloadSize":"4308208",
+ "homepage":"http:\/\/pysolfc.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

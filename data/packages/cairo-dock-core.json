@@ -1,0 +1,9 @@
+{"package":"cairo-dock-core",
+ "description":"Light eye-candy fully themable animated dock for Linux desktop",
+ "details":" Cairo-dock has a family-likeness with OS X dock, but with more options.\n It uses cairo to render nice graphics, and Glitz to use hardware acceleration.\n It's fully configurable and can be a taskbar too.\n You can easily plug applets into it.\n\n This package provides Cairo-dock-core application.\n",
+ "installedSize":"5412",
+ "downloadSize":"1805160",
+ "homepage":"http:\/\/www.glx-dock.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

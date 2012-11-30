@@ -1,0 +1,9 @@
+{"package":"gvb",
+ "description":"visual simulator of 1 and 2-dimensional vibrations",
+ "details":" Good ViBrations (gvb) is a small program that aims at providing a nice\n interface to play with waves in 1 or 2 dimensions.\n\n It features several ways of setting initial conditions, as well as different\n calculation methods and graphic outputs. It is also possible to dump animation\n frames to png images in order to make a movie with them.\n\n It relies on the Python library scipy to get the best possible performance in\n calculations.\n",
+ "installedSize":"748",
+ "downloadSize":"244488",
+ "homepage":"http:\/\/www.pietrobattiston.it\/gvb",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

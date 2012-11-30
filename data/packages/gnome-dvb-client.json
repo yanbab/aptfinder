@@ -1,0 +1,9 @@
+{"package":"gnome-dvb-client",
+ "description":"client for gnome-dvb-daemon",
+ "details":" GNOME DVB Daemon is a GStreamer based daemon to setup your\n DVB devices, record and\/or watch TV shows and browse EPG.\n\n This package contains the Python GTK+ client, which speaks\n to the daemon via DBUS.\n",
+ "installedSize":"1163",
+ "downloadSize":"261316",
+ "homepage":"http:\/\/live.gnome.org\/DVBDaemon",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

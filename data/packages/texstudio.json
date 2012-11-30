@@ -1,0 +1,9 @@
+{"package":"texstudio",
+ "description":"Latex Editor",
+ "details":" TeXstudio is a program based on Texmaker, which integrates many tools needed\n to develop documents with LaTeX in just one application. Using its editor you\n can write your documents with the help of interactive spell checking, syntax\n highlighting, code completion and more...\n",
+ "installedSize":"9371",
+ "downloadSize":"3885978",
+ "homepage":"http:\/\/texstudio.sf.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

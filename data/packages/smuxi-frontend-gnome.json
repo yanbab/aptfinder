@@ -1,0 +1,9 @@
+{"package":"smuxi-frontend-gnome",
+ "description":"GNOME frontend for Smuxi",
+ "details":" Smuxi is an irssi-inspired, flexible, user-friendly and cross-platform IRC\n client for sophisticated users, targeting the GNOME desktop.\n\n Smuxi is based on the client-server model: The core application (engine) can\n be placed onto a server which is connected to the Internet around-the-clock;\n one or more frontends then connect to the core. This way, the connection to\n IRC can be kept up even when all frontends have been closed. The combination\n of screen and irssi served as example for this architecture.\n\n Smuxi also supports the regular single application mode. This behaves like a\n typical IRC client; it doesn't need separate core management and utilizes a\n local engine that is used by the local frontend client.\n\n This package contains the GNOME frontend of Smuxi, it can run either standalone\n using a local engine or connect to a running remote engine (server).\n scope::application, suite::gnome, uitoolkit::gtk, use::chatting,\n x11::application\n",
+ "installedSize":"1680",
+ "downloadSize":"514788",
+ "homepage":"http:\/\/www.smuxi.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"frozen-bubble",
+ "description":"cool game where you pop out the bubbles!",
+ "details":" Frozen-Bubble is a clone of the popular \"Puzzle Bobble\" game, in which\n you attempt to shoot bubbles into groups of the same color to cause them\n to pop. It features 100 single-player levels, a two-player mode, music\n and striking graphics.\n\n This game is widely rumored to be responsible for delaying the Woody\n release.\n use::gameplaying, x11::application\n",
+ "installedSize":"722",
+ "downloadSize":"193074",
+ "homepage":"http:\/\/www.frozen-bubble.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

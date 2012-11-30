@@ -1,0 +1,8 @@
+{"package":"gnome-photo-printer",
+ "description":"tool for Gnome to print several photos on one page",
+ "details":" Gnome Photo Printer is intended for printing photos in an easy way. Just drag\n your Photos from Nautilus to the Gnome Photo Printer window and drop it. Make\n some selections like Photo or Paper size, hit Preview or Print, and see your\n pictures printed.\n suite::gnome, uitoolkit::gtk, use::printing, works-with::image,\n works-with::image:raster, x11::application\n",
+ "installedSize":"247",
+ "downloadSize":"41526",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

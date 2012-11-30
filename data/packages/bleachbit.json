@@ -1,0 +1,9 @@
+{"package":"bleachbit",
+ "description":"delete unnecessary files from the system",
+ "details":" BleachBit deletes unnecessary files to free valuable disk space, maintain\n privacy, and remove junk. It removes cache, Internet history, temporary files,\n cookies, and broken shortcuts.\n\n It handles cleaning of Adobe Reader, Bash, Beagle, Epiphany, Firefox, Flash,\n GIMP, Google Earth, Java, KDE, OpenOffice.org, Opera, RealPlayer, rpmbuild,\n Second Life Viewer, VIM, XChat, and more.\n\n Beyond simply erasing junk files, BleachBit wipes free disk space (to hide\n previously deleted files for privacy and to improve compression of images),\n vacuums Firefox databases (to improve performance without deleting data), and\n securely shreds arbitrary files.\n scope::application, uitoolkit::gtk, x11::application\n",
+ "installedSize":"1744",
+ "downloadSize":"326192",
+ "homepage":"http:\/\/bleachbit.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

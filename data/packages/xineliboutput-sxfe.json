@@ -1,0 +1,9 @@
+{"package":"xineliboutput-sxfe",
+ "description":"Remote X-Server frontend for vdr-plugin-xineliboutput",
+ "details":" This X\/Xv\/XvMc remote frontend plays back streams provided by\n vdr-plugin-xineliboutput.\n",
+ "installedSize":"439",
+ "downloadSize":"114558",
+ "homepage":"http:\/\/sourceforge.net\/projects\/xineliboutput",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

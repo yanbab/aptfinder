@@ -1,0 +1,9 @@
+{"package":"gtkballs",
+ "description":"A simple logic game",
+ "details":" The goal of this game is to make the highest score by matching a number of\n balls of the same color in a horizontal,  vertical or diagonal line.\n This is  a clone  of well-known DOS game \"Lines\".\n use::gameplaying, x11::application\n",
+ "installedSize":"4256",
+ "downloadSize":"955456",
+ "homepage":"http:\/\/gtkballs.antex.ru\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

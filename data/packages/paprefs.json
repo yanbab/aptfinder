@@ -1,0 +1,9 @@
+{"package":"paprefs",
+ "description":"PulseAudio Preferences",
+ "details":" PulseAudio, previously known as Polypaudio, is a sound server for POSIX and\n WIN32 systems. It is a drop in replacement for the ESD sound server with\n much better latency, mixing\/re-sampling quality and overall architecture.\n\n PulseAudio Preferences (paprefs) is a simple GTK+ based configuration dialog\n for the PulseAudio sound server.\n uitoolkit::gtk, use::configuring, x11::application\n",
+ "installedSize":"549",
+ "downloadSize":"66718",
+ "homepage":"http:\/\/freedesktop.org\/software\/pulseaudio\/paprefs\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

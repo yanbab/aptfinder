@@ -1,0 +1,9 @@
+{"package":"key-mon",
+ "description":"Utility to show live keyboard and mouse status",
+ "details":" key-mon shows on the desktop indicators of current keyboard and mouse status,\n and updates them live when you press keys or mouse buttons. It is very useful\n for teaching, live presentation and screencasts to show the user what\n keys\/buttons you are pressing.\n\n Features include several different themes, scalability to any size, support\n for super key and mouse wheel, support for multiple mouses\/keyboards.\n",
+ "installedSize":"2396",
+ "downloadSize":"188492",
+ "homepage":"https:\/\/code.google.com\/p\/key-mon",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"lbreakout2",
+ "description":"ball-and-paddle game with nice graphics",
+ "details":" lbreakout2 is a game similar to the classics breakout and xboing, featuring\n a number of added graphical enhancements and effects.  You control a paddle\n at the bottom of the playing-field, and must destroy bricks at the top\n by bouncing balls against them.\n\n lbreakout2 is a complete rewrite of the game \"lbreakout\".  Users of\n lbreakout probably want to install this.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"818",
+ "downloadSize":"323178",
+ "homepage":"http:\/\/lgames.sourceforge.net\/index.php?project=LBreakout2",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

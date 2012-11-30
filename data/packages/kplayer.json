@@ -1,0 +1,9 @@
+{"package":"kplayer",
+ "description":"A KDE media player based on MPlayer",
+ "details":" KPlayer is a multimedia player based on the popular MPlayer. It provides\n video, audio and subtitle playback from files, URLs, DVDs, VCDs, audio CDs,\n TV, DVB and KDE I\/O Slaves as well as global and file specific options,\n various controls, playlist, progress and status display, and a message log.\n use::playing, works-with::audio, works-with::video, x11::application\n",
+ "installedSize":"2351",
+ "downloadSize":"802156",
+ "homepage":"http:\/\/kplayer.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

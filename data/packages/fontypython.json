@@ -1,0 +1,9 @@
+{"package":"fontypython",
+ "description":"Find, view and manage font files of all kinds",
+ "details":" You can quickly view and filter arbitrary TTF, TTC, OTF or Type1 font files\n and then gather them together into 'pogs' which can be installed or removed as\n needed. In this way you control which fonts are installed on a per-project\n basis. It is written in Python and WxWidgets.\n uitoolkit::wxwidgets, use::organizing, use::viewing, works-with::font,\n x11::application\n",
+ "installedSize":"733",
+ "downloadSize":"341462",
+ "homepage":"https:\/\/savannah.nongnu.org\/projects\/fontypython",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

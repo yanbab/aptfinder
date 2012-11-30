@@ -1,0 +1,9 @@
+{"package":"emacs23",
+ "description":"The GNU Emacs editor (with GTK+ user interface)",
+ "details":" GNU Emacs is the extensible self-documenting text editor.\n This package contains a version of Emacs with a GTK+ user interface.\n implemented-in::c, implemented-in::lisp, interface::text-mode,\n interface::x11, iso15924::jpan, role::program, scope::application,\n suite::emacs, suite::gnu, uitoolkit::athena, uitoolkit::gtk,\n uitoolkit::ncurses, use::comparing, use::editing,\n works-with-format::html, works-with-format::plaintext,\n works-with-format::xml, works-with::mail, works-with::software:source,\n works-with::text, works-with::vcs, x11::application\n",
+ "installedSize":"9046",
+ "downloadSize":"3153346",
+ "homepage":"http:\/\/www.gnu.org\/software\/emacs\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

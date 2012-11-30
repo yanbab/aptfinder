@@ -1,0 +1,9 @@
+{"package":"liferea",
+ "description":"feed aggregator for GNOME",
+ "details":" Liferea is a simple FeedReader clone for GNOME. It is a reader for\n RSS\/RDF feeds which also supports CDF channels, Atom\/Echo\/PIE feeds and\n OCS directories.\n\n Liferea is an abbreviation for Linux Feed Reader.\n role::program, scope::application, suite::gnome, uitoolkit::gtk,\n use::browsing, use::downloading, web::blog, works-with-format::xml,\n works-with-format::xml:rss, x11::application\n",
+ "installedSize":"561",
+ "downloadSize":"208016",
+ "homepage":"http:\/\/liferea.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

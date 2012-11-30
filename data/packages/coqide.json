@@ -1,0 +1,9 @@
+{"package":"coqide",
+ "description":"proof assistant for higher-order logic (gtk interface)",
+ "details":" Coq is a proof assistant for higher-order logic, which allows the\n development of computer programs consistent with their formal\n specification. It is developed using Objective Caml and Camlp5.\n\n This package provides CoqIde, a graphical user interface for\n developing proofs.\n role::program, scope::application, uitoolkit::gtk, uitoolkit::ncurses,\n use::checking, x11::application\n",
+ "installedSize":"15972",
+ "downloadSize":"5235222",
+ "homepage":"http:\/\/coq.inria.fr\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

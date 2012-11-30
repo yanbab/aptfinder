@@ -1,0 +1,9 @@
+{"package":"pioneers",
+ "description":"Settlers of Catan board game",
+ "details":" Pioneers is a computer implementation of the Settlers of Catan board game.\n It can be played over the internet.\n\n The game includes a server, a client, a computer player, an editor and\n (in a separate package) a meta-server (for locating running servers).\n network::client, network::server, protocol::ip, protocol::tcp,\n protocol::zeroconf, role::program, uitoolkit::gtk, use::editing,\n use::gameplaying, x11::application\n",
+ "installedSize":"920",
+ "downloadSize":"432118",
+ "homepage":"http:\/\/pio.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

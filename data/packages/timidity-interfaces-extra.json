@@ -1,0 +1,9 @@
+{"package":"timidity-interfaces-extra",
+ "description":"TiMidity++ extra user interfaces",
+ "details":" TiMidity++ is a very high quality software-only MIDI sequencer and MOD\n player.\n\n This package provides extra TiMidity++ user interfaces, which have\n limited functionality when compared to those in the main package.\n\n Interfaces in this package: VT100, Tcl\/Tk, S-Lang, XSkin, GTK2\n scope::application, sound::midi, sound::player, uitoolkit::gtk,\n uitoolkit::ncurses, uitoolkit::tk, use::playing, works-with::audio,\n x11::application\n",
+ "installedSize":"246",
+ "downloadSize":"99630",
+ "homepage":"http:\/\/timidity.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

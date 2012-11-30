@@ -1,0 +1,9 @@
+{"package":"filelight",
+ "description":"show where your diskspace is being used",
+ "details":" Filelight allows you to understand your disk usage by graphically\n representing your filesystem as a set of concentric, segmented rings.\n\n It is like a pie-chart, but the segments nest, allowing you to see both\n which directories take up all your space, and which directories\n and files inside those directories are the real culprits.\n suite::kde, uitoolkit::qt, use::scanning, use::viewing,\n x11::application\n",
+ "installedSize":"623",
+ "downloadSize":"337176",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

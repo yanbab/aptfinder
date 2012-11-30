@@ -1,0 +1,9 @@
+{"package":"xfwm4",
+ "description":"window manager of the Xfce project",
+ "details":" This package contains xfwm4 which is the window manager for Xfce4.  It is\n designed to run with the rest of Xfce4 but makes a capable window manager\n for GNOME or KDE.\n\n Install xfwm4 if you want a small, resource saving window manager which\n complies to the standards defined at http:\/\/www.freedesktop.org\/. Without\n xfce4 installed this only gives you a window manager not the full\n environment.\n suite::xfce, uitoolkit::gtk, x11::window-manager\n",
+ "installedSize":"4242",
+ "downloadSize":"1646196",
+ "homepage":"http:\/\/www.xfce.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"hydra-gtk",
+ "description":"Very fast network logon cracker - GTK+ based GUI",
+ "details":" Hydra is a parallized login cracker which supports numerous protocols\n to attack. New modules are easy to add, beside that, it is flexible and\n very fast.\n\n This tool gives researchers and security consultants the possiblity to\n show how easy it would be to gain unauthorized access from remote to a\n system.\n\n Currently this tool supports:\n TELNET, FTP, HTTP, HTTPS, HTTP-PROXY, LDAP, SMB, SMBNT, MS-SQL, MySQL,\n REXEC, SOCKS5, VNC, POP3, IMAP, NNTP, PCNFS, ICQ, Cisco auth,\n Cisco enable, Cisco AAA (incorporated in telnet module).\n\n This package is the GTK+ based GUI for hydra.\n",
+ "installedSize":"132",
+ "downloadSize":"43768",
+ "homepage":"http:\/\/freeworld.thc.org\/thc-hydra\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

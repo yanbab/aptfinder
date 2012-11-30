@@ -1,0 +1,9 @@
+{"package":"yagf",
+ "description":"graphical interface for cuneiform and tesseract",
+ "details":" YAGF is a graphical interface for cuneiform and tesseract text recognition\n tools on the Linux platform. With YAGF you can scan images via XSane, import\n pages from PDF documents, perform images preprocessing and recognize texts\n using cuneiform from a single command centre. YAGF also makes it easy to scan\n and recognize several images sequentially.\n",
+ "installedSize":"758",
+ "downloadSize":"358972",
+ "homepage":"http:\/\/symmetrica.net\/cuneiform-linux\/yagf-en.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

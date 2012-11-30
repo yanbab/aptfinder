@@ -1,0 +1,9 @@
+{"package":"openjdk-6-jre",
+ "description":"OpenJDK Java runtime, using Hotspot JIT",
+ "details":" Full Java runtime environment - needed for executing Java GUI and Webstart\n programs. Using Hotspot JIT.\n The packages are built using the IcedTea build support and patches\n from the IcedTea project.\n",
+ "installedSize":"695",
+ "downloadSize":"236462",
+ "homepage":"http:\/\/openjdk.java.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

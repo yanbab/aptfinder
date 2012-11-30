@@ -1,0 +1,9 @@
+{"package":"diffuse",
+ "description":"graphical tool for merging and comparing text files",
+ "details":" Diffuse is a graphical tool for merging and comparing text files. Diffuse is\n able to compare an arbitrary number of files side-by-side and gives users the\n ability to manually adjust line-matching and directly edit files. Diffuse can\n also retrieve revisions of files from bazaar, CVS, darcs, git, mercurial,\n monotone, Subversion and GNU Revision Control System (RCS) repositories for\n comparison and merging.\n",
+ "installedSize":"1024",
+ "downloadSize":"197982",
+ "homepage":"http:\/\/diffuse.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

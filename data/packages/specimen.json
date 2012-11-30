@@ -1,0 +1,9 @@
+{"package":"specimen",
+ "description":"MIDI controllable audio sampler for GNU\/Linux systems",
+ "details":" A simple but very useful midi controlled sampler for ALSA\/JACK featuring\n 64 notes of polyphony, spread across up to 64 patches;\n fast, high quality pitch scaling, linear ADSR volume envelopes;\n low pass filter with resonance; a variety of direction-independent\n playback modes and zoomable sample editor for loop and play points;\n uitoolkit::gtk, works-with::audio, x11::application\n",
+ "installedSize":"300",
+ "downloadSize":"131816",
+ "homepage":"http:\/\/zhevny.com\/specimen\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

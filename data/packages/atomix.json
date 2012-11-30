@@ -1,0 +1,8 @@
+{"package":"atomix",
+ "description":"puzzle game for building molecules out of separate atoms",
+ "details":" Atomix is an educational game designed for GNOME in which one has to\n build molecules, ranging from simple inorganic ones to some extremely\n complex organic ones, out of separate atoms.\n\n The first levels can be rather easy, but added complexity always comes\n with the next level, so that several minutes (or much longer than that)\n can be spent on each single level.\n suite::gnome, uitoolkit::gtk, use::gameplaying, x11::application\n",
+ "installedSize":"150",
+ "downloadSize":"56908",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

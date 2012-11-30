@@ -1,0 +1,9 @@
+{"package":"kphotoalbum",
+ "description":"tool for indexing, searching and viewing images by keywords for KDE",
+ "details":" KPhotoAlbum lets you index, search, group and view images by keywords, date,\n locations and persons. It provides a quick and elegant way to lookup groups of\n images when you have thousands of pictures on your hard disk.\n\n The information associated with each photo is stored in an XML file. Together\n with its keywords, KPhotoAlbum stores each picture's MD5 sum, so it will\n recognize them even if you move them to another directory. KPhotoAlbum can\n also create HTML galleries with the images you select.\n\n KPhotoAlbum can also make use of the KIPI image handling plugins to extend its\n capabilities. The kipi-plugins package contains many useful extensions. Among\n others, it contains extensions for photo manipulation, importing, exporting\n and batch processing.\n uitoolkit::qt, use::organizing, use::searching, use::viewing,\n works-with::image, x11::application\n",
+ "installedSize":"15936",
+ "downloadSize":"11412016",
+ "homepage":"http:\/\/kphotoalbum.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

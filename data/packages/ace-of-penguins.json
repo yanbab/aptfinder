@@ -1,0 +1,9 @@
+{"package":"ace-of-penguins",
+ "description":"penguin-themed solitaire games",
+ "details":" The Ace of Penguins is a set of solitaire games inspired by the ones\n available for MS Windows, but with a number of enhancements.\n\n The package consists of the games Canfield, Freecell, Golf,\n Mastermind, Merlin, Minesweeper, Pegged, Solitaire, Spider, Taipei\n (with a level editor), and Thornq.\n\n NOTE: If you experience problems with the F1 help key, please\n make sure you have package xfonts-100dpi installed.\n uitoolkit::xlib, use::gameplaying, x11::application\n",
+ "installedSize":"610",
+ "downloadSize":"272662",
+ "homepage":"http:\/\/freshmeat.net\/projects\/theaceofpenguins",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

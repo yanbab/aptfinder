@@ -1,0 +1,9 @@
+{"package":"garden-of-coloured-lights",
+ "description":"abstract vertical shooter with music elements",
+ "details":" The game is basically a vertical shooter with music elements. The\n enemies, in fact, are kind of musical. Linley has added a simple background\n tune, that gets mixed with the diffetent notes played when enemies shoot.\n\n Part of what stands out about Garden of Coloured Lights are its graphics,\n that even though are kept quite simple, are also carefully taken care of.\n Every ship still has moving parts and mechanisms that open and close, and\n every level is different, even though all of them share a common theme.\n\n Your ship comes equipped with 3 options, each with its own unique weapon.\n There are a few pre-designed schemes to play with, or you can create your\n own combination of weapons.\n\n Garden of Coloured Lights was Linley Henzel's entry for the SHMUP-DEV\n Competition 2k7 Round 2.\n uitoolkit::xlib, use::gameplaying, x11::application\n",
+ "installedSize":"420",
+ "downloadSize":"123856",
+ "homepage":"http:\/\/garden.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

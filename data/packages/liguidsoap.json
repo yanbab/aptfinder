@@ -1,0 +1,9 @@
+{"package":"liguidsoap",
+ "description":"control GUI for liquidsoap",
+ "details":" Liguidsoap is a GUI for controlling liquidsoap, using pyGTK.\n\n It allows one to interact in various ways with:\n  * outputs\n  * playlists\n  * queues\n  * mixing table\n\n It can control a running instance of liquidsoap or launch its own instance.\n role::program, scope::application, sound::compression, sound::mixer,\n sound::player, sound::recorder, sound::speech, uitoolkit::gtk,\n use::playing, use::transmission, works-with-format::mp3,\n works-with-format::oggvorbis, works-with-format::wav,\n works-with::audio, x11::application\n",
+ "installedSize":"285",
+ "downloadSize":"102584",
+ "homepage":"http:\/\/savonet.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

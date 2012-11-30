@@ -1,0 +1,9 @@
+{"package":"gworkspace.app",
+ "description":"GNUstep Workspace Manager",
+ "details":" GWorkspace is the official GNUstep workspace manager. It is a clone\n of NeXT's workspace manager. GWorkspace is probably one of the most\n useful and usable workspace managers available on any platform,\n owing to its well-designed interface and the natural, consistent\n design that it inherits from the GNUstep framework.\n uitoolkit::gnustep, use::browsing, x11::applet\n",
+ "installedSize":"7289",
+ "downloadSize":"1415834",
+ "homepage":"http:\/\/www.gnustep.org\/experience\/GWorkspace.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

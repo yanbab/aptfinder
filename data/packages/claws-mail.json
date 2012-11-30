@@ -1,0 +1,9 @@
+{"package":"claws-mail",
+ "description":"Fast, lightweight and user-friendly GTK2 based email client",
+ "details":" Claws Mail is a powerful and full-featured mail client formerly called\n Sylpheed-Claws. It is also extensible using loadable plugins, which can\n provide support for additional features, like other storage formats,\n feed reader, calendar management, mail filtering, etc.\n mail::user-agent, network::client, protocol::imap, protocol::ipv6,\n protocol::ldap, protocol::nntp, protocol::pop3, protocol::smtp,\n protocol::ssl, protocol::tcp, role::program, scope::application,\n uitoolkit::gtk, use::downloading, use::editing, use::viewing,\n works-with-format::html, works-with-format::plaintext,\n works-with::mail, works-with::pim, works-with::text, x11::application\n",
+ "installedSize":"3913",
+ "downloadSize":"1678754",
+ "homepage":"http:\/\/www.claws-mail.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

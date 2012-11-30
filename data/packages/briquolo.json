@@ -1,0 +1,9 @@
+{"package":"briquolo",
+ "description":"Fast paced 3d Breakout",
+ "details":" This is a 3d view breakout with moving stones, fancy levels and a lot of\n special effects put in.\n uitoolkit::glut, use::gameplaying, x11::application\n",
+ "installedSize":"724",
+ "downloadSize":"206486",
+ "homepage":"http:\/\/briquolo.free.fr\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

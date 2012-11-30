@@ -1,0 +1,9 @@
+{"package":"skanlite",
+ "description":"image scanner for KDE 4 based on the KSane backend",
+ "details":" Skanlite is a small and simple scanner application for KDE 4 which allows easy\n scanning of images with an attached scanner. Through the KSane backend, it can\n access a wide variety of different scanner models.\n\n Skanlite can be considered to be the replacement of Kooka.\n scope::application, suite::kde, uitoolkit::qt, use::scanning,\n works-with-format::jpg, works-with-format::png, works-with::image,\n works-with::image:raster, x11::application\n",
+ "installedSize":"3517",
+ "downloadSize":"2736722",
+ "homepage":"http:\/\/www.kde.org\/applications\/graphics\/skanlite\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"xfce4-terminal",
+ "description":"Xfce terminal emulator",
+ "details":" This package contains Terminal, which is a lightweight and easy to use\n terminal emulator for X11. It was created to fit nicely into the Xfce\n desktop environment, but it also fits nice with other environments.\n\n For people who already know GNOME 2 terminal and are searching for a\n lighter but comparable replacement, Terminal might be the answer.\n uitoolkit::gtk, x11::terminal\n",
+ "installedSize":"4182",
+ "downloadSize":"1300872",
+ "homepage":"http:\/\/goodies.xfce.org\/projects\/applications\/terminal",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

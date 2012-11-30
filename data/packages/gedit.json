@@ -1,0 +1,9 @@
+{"package":"gedit",
+ "description":"official text editor of the GNOME desktop environment",
+ "details":" gedit is a text editor which supports most standard editor features,\n extending this basic functionality with other features not usually\n found in simple text editors. gedit is a graphical application which\n supports editing multiple text files in one window (known sometimes as\n tabs or MDI).\n\n gedit fully supports international text through its use of the Unicode\n UTF-8 encoding in edited files. Its core feature set includes syntax\n highlighting of source code, auto indentation and printing and print preview\n support.\n\n gedit is also extensible through its plugin system, which currently\n includes support for spell checking, comparing files, viewing CVS\n ChangeLogs, and adjusting indentation levels.\n uitoolkit::gtk, use::editing, works-with::text, works-with::unicode,\n x11::application\n",
+ "installedSize":"2739",
+ "downloadSize":"1036642",
+ "homepage":"http:\/\/www.gnome.org\/projects\/gedit\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

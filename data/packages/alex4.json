@@ -1,0 +1,9 @@
+{"package":"alex4",
+ "description":"Alex the Allegator 4 - a retro platform game",
+ "details":" Guide Alex the Allegator through the jungle in order to save his\n girlfriend Lola from evil humans who want to make a pair of shoes out\n of her. Plenty of classic platforming in four nice colors guaranteed!\n\n The game includes a built-in editor so you can design and share your\n own maps.\n interface::x11, role::program, uitoolkit::xlib, use::editing,\n use::gameplaying, x11::application\n",
+ "installedSize":"182",
+ "downloadSize":"65898",
+ "homepage":"http:\/\/allegator.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

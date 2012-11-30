@@ -1,0 +1,9 @@
+{"package":"ekiga",
+ "description":"H.323 and SIP compatible VoIP client",
+ "details":" H.323 and SIP compatible videoconferencing and VoIP\/IP-Telephony application\n that allows you to make audio and video calls to remote users with H.323\n hardware or software (such as Microsoft Netmeeting) as well as SIP endpoints.\n\n It supports all modern videoconferencing features, such as contact roster,\n presence status, high-quality audio and video codecs, various video\n resolutions, registering to an LDAP directory, gatekeeper support,\n making multi-user conference calls using an external MCU, using modern\n Quicknet telephony cards, and making PC-To-Phone calls.\n",
+ "installedSize":"17464",
+ "downloadSize":"9238290",
+ "homepage":"http:\/\/www.ekiga.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"lordsawar",
+ "description":"Clone of the popular SSG game Warlords II",
+ "details":" A 2d turn-based strategy game where up to 8 players strive for control\n of as many cities as possible.  Produce new armies in cities to conquer\n nearby cities.  Using the income from those cities, make more armies to\n take more cities.  Send a hero to a temple to get a quest, or maybe search\n a nearby ruin instead.  Game should run well on modest hardware.\n\n Play with others or against the computer. Network play is currently broken.\n use::gameplaying\n",
+ "installedSize":"27406",
+ "downloadSize":"10737112",
+ "homepage":"http:\/\/www.lordsawar.com",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

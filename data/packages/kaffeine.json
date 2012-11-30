@@ -1,0 +1,9 @@
+{"package":"kaffeine",
+ "description":"versatile media player for KDE",
+ "details":" Kaffeine is a media player for KDE. While it supports multiple Phonon\n backends, its default backend is Xine, giving Kaffeine a wide variety of\n supported media types and letting Kaffeine access CDs, DVDs, and\n network streams easily.\n\n Kaffeine can keep track of multiple playlists simultaneously, and supports\n autoloading of subtitle files for use while playing video.\n sound::player, suite::kde, uitoolkit::qt, use::playing,\n works-with::audio, works-with::video, x11::application\n",
+ "installedSize":"2385",
+ "downloadSize":"636060",
+ "homepage":"http:\/\/kaffeine.kde.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

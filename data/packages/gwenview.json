@@ -1,0 +1,9 @@
+{"package":"gwenview",
+ "description":"image viewer",
+ "details":" Gwenview is an image viewer, ideal for browsing and displaying a collection of\n images.  It is capable of showing images in a full-screen slideshow view and\n making simple adjustments, such as rotating or cropping images.\n\n This package is part of the KDE graphics module.\n suite::kde, uitoolkit::qt, use::browsing, use::viewing,\n works-with::image, works-with::image:raster, x11::application\n",
+ "installedSize":"3554",
+ "downloadSize":"2307432",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

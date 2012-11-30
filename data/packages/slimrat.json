@@ -1,0 +1,9 @@
+{"package":"slimrat",
+ "description":"GUI application for automated downloading from file hosters",
+ "details":" Provides a graphical interface for automatically downloading files\n from hosting providers. Slimrat is also capable of captcha solving using\n tesseract for optical character recognition. Support includes, but is\n not limited to the following file hosters:\n\n    * data.hu\n    * www.depositfiles.com\n    * www.easy-share.com\n    * www.fast-load.net\n    * www.fast-share.com\n    * www.hotfile.com\n    * leteckaposta.cz\n    * www.mediafire.com\n    * www.megaupload.com\n    * odsiebie.najlepsze.net\n    * www.rapidshare.com\n    * sharebase.to\n    * uploaded.to\n    * www.youtube.com\n\n This package provides the graphical user interface\n role::program, scope::application, uitoolkit::gtk, use::downloading,\n x11::application\n",
+ "installedSize":"140",
+ "downloadSize":"16638",
+ "homepage":"http:\/\/code.google.com\/p\/slimrat\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

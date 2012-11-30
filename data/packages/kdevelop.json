@@ -1,0 +1,9 @@
+{"package":"kdevelop",
+ "description":"integrated development environment for KDE",
+ "details":" KDevelop is an easy to use integrated development environment for KDE.\n It supports a wide range of programming languages and features project\n management, an advanced editor, a class browser and an integrated debugger.\n\n The application wizard can generate fully functional projects\n for terminal programs and GUI programs using Qt, KDE or GNOME.\n devel::ui-builder, implemented-in::c++, interface::x11, role::program,\n scope::application, suite::kde, uitoolkit::qt,\n works-with::software:source, x11::application\n",
+ "installedSize":"4785",
+ "downloadSize":"1813386",
+ "homepage":"http:\/\/www.kdevelop.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

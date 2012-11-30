@@ -1,0 +1,9 @@
+{"package":"ctsim",
+ "description":"Computed tomography simulator",
+ "details":" CTSim provides an interactive computed tomography simulator. Computed\n tomography is the technique of estimating the interior of an object\n by measuring x-ray absorption through that object.\n\n CTSim has both command-line tools and a graphical user interface.\n CTSim has very educational trace modes for viewing the data\n collection simulation as well as the reconstruction.\n scope::application, uitoolkit::wxwidgets, use::viewing,\n works-with::3dmodel, x11::application\n",
+ "installedSize":"1747",
+ "downloadSize":"604600",
+ "homepage":"http:\/\/www.ctsim.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

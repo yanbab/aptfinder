@@ -1,0 +1,9 @@
+{"package":"x2goclient",
+ "description":"X2Go Client application (Qt4)",
+ "details":" X2Go is a serverbased computing environment with\n    - session resuming\n    - low bandwith support\n    - LDAP support\n    - client side mass storage mounting support\n    - audio support\n    - authentication by smartcard and USB stick\n\n x2goclient is a graphical client (Qt4) for the X2Go system.\n You can use it to connect to running sessions and start new sessions.\n",
+ "installedSize":"1865",
+ "downloadSize":"956896",
+ "homepage":"http:\/\/wiki.x2go.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

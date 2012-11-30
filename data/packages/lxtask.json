@@ -1,0 +1,9 @@
+{"package":"lxtask",
+ "description":"LXDE task manager",
+ "details":" LXTask is a GUI application for the Lightweight X11 Desktop Environment (LXDE).\n\n It allows monitoring and controlling of running processes.\n works-with::software:running, x11::application\n",
+ "installedSize":"599",
+ "downloadSize":"44266",
+ "homepage":"http:\/\/www.lxde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

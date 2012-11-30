@@ -1,0 +1,9 @@
+{"package":"pente",
+ "description":"five in a row game for X and the console",
+ "details":" Pente is the English name for the Asian game ni-nuki, which itself\n is a version of the game go-moku. The game is a variant of the well\n known five in a row. Placing five stones in a row is one way to win,\n the other is to capture five pairs of the opponents stones.\n\n Pente can run in three different modes: X, curses or text. You can\n play against the computer or another human, and there is also support\n for playing over a network.\n interface::x11, role::program, uitoolkit::ncurses, use::gameplaying,\n x11::application\n",
+ "installedSize":"340",
+ "downloadSize":"137624",
+ "homepage":"http:\/\/www.igoweb.org\/~wms\/comp\/pente\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

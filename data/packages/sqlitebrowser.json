@@ -1,0 +1,9 @@
+{"package":"sqlitebrowser",
+ "description":"GUI editor for SQLite databases",
+ "details":" SQLite Database Browser is a visual tool used to create, design and edit\n database files compatible with SQLite. Its interface is based on QT,\n and is meant to be used for users and developers that want to create\n databases, edit and search data using a familiar spreadsheet-like\n interface, without the need to learn complicated SQL commands.\n Controls and wizards are available for users to:\n  - Create and compact database files\n  - Create, define, modify and delete tables\n  - Create, define and delete indexes\n  - Browse, edit, add and delete records\n  - Search records\n  - Import and export records as text\n  - Import and export tables from\/to CSV files\n  - Import and export databases from\/to SQL dump files\n  - Issue SQL queries and inspect the results\n  - Examine a log of all SQL commands issued by the application\n\n SQLite Database Browser is not a visual shell for the sqlite command line\n tool. It does not require familiarity with SQL commands.\n use::organizing, use::viewing, works-with::db, x11::application\n",
+ "installedSize":"477",
+ "downloadSize":"172322",
+ "homepage":"http:\/\/sqlitebrowser.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

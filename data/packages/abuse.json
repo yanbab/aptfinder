@@ -1,0 +1,9 @@
+{"package":"abuse",
+ "description":"classic Abuse action game",
+ "details":" A classic 2D side-scrolling shoot-em-up action game from Crack dot Com.\n Your character is a cyborg escaping from an underground prison where several\n inmates have transformed into mutants after being infected with a substance\n called Abuse.  You move through a building complex fighting enemies and\n defense systems you encounter on the way. Initially, you start off\n having a weak laser rifle with unlimited ammo, but you can find more\n powerful guns later on, such as grenade launchers, flamethrowers or\n lightsabers. There are also power-ups that augment your capabilities,\n allow you to increase your health limit, move faster, turn invisible and\n even fly. If you're one to get easily addicted, stay away!\n network::server, role::program, uitoolkit::sdl, use::gameplaying,\n x11::application\n",
+ "installedSize":"812",
+ "downloadSize":"358318",
+ "homepage":"http:\/\/abuse.zoy.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

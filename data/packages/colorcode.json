@@ -1,0 +1,9 @@
+{"package":"colorcode",
+ "description":"advanced clone of the MasterMind code-breaking game",
+ "details":" ColorCode is an advanced MasterMind code-breaking game clone. The\n program accepts setting the number of slots (from 2 to 5), the number\n of colors (from 2 to 10) and setting if colors might be repeated in\n the secret code (doubles allowed or not).  The game has 5 built-in\n levels, from level 1 (beginner: 2 slots and 2 colors, with doubles\n allowed) to level 5 (hard: 5 slots and 10 colors, with doubles\n allowed). ColorCode can make guesses in place of the user.\n uitoolkit::qt, use::gameplaying, x11::application\n",
+ "installedSize":"764",
+ "downloadSize":"311040",
+ "homepage":"http:\/\/colorcode.laebisch.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"skrooge",
+ "description":"personal finance manager for KDE",
+ "details":" Skrooge allows you to manage your personal finances. It is intended to be used\n by individuals who want to keep track of their incomes, expenses and\n investments. Its philosophy is to stay simple and intuitive.\n\n Here is the list of Skrooge main features:\n  * QIF, CSV, KMyMoney, Skrooge,  import\/export\n  * OFX, QFX, GnuCash, Grisbi, HomeBank import\n  * Advanced Graphical Reports\n  * Several tabs to help you organize your work\n  * Infinite undo\/redo\n  * Instant filtering on operations and reports\n  * Infinite categories levels\n  * Mass update of operations\n  * Scheduled operations\n  * Track refund of your expenses\n  * Automatically process operations based on search conditions\n  * Multi currencies\n  * Dashboard\n role::program, suite::kde, uitoolkit::qt, x11::application\n",
+ "installedSize":"6446",
+ "downloadSize":"2161422",
+ "homepage":"http:\/\/skrooge.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

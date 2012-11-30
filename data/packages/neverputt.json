@@ -1,0 +1,9 @@
+{"package":"neverputt",
+ "description":"3D miniature golf game",
+ "details":" Neverputt is a hot-seat multi-player miniature golf game for 1 to 4 players.\n The 18-hole course takes advantage of all the elements that challenge\n Neverball players, including moving platforms and barriers, teleporters,\n ramps, and drop-offs. A simple putting interface and golf scoring system\n have been added.\n role::program, uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"254",
+ "downloadSize":"117384",
+ "homepage":"http:\/\/neverball.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

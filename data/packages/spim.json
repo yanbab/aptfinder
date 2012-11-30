@@ -1,0 +1,9 @@
+{"package":"spim",
+ "description":"MIPS R2000\/R3000 emulator",
+ "details":" Emulates a MIPS R2000\/R3000 processor in software.\n Useful for students who are taught MIPS R2000\/R3000 assembly.\n\n SPIM S20 is a software simulator that runs assembly language programs for\n the MIPS R2000\/R3000 RISC computers.  SPIM can read and immediately run\n files containing assembly language statements.  SPIM is a self-contained\n system for running these programs and contains a debugger and interface to\n the operating system.\n",
+ "installedSize":"560",
+ "downloadSize":"274428",
+ "homepage":"http:\/\/pages.cs.wisc.edu\/~larus\/spim.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

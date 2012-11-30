@@ -1,0 +1,9 @@
+{"package":"nagstamon",
+ "description":"Nagios status monitor which takes place in systray or on desktop",
+ "details":" Nagstamon is a Nagios status monitor which takes place in systray or\n on desktop (GNOME, KDE), as floating statusbar to inform you in\n realtime about the status of your Nagios monitored network.\n Nagstamon connects to multiple Nagios, Opsview, Icinga, Centreon,\n Op5\/Ninja and Check_MK Multisite monitoring servers.\n network::client, protocol::http, role::program, scope::utility,\n uitoolkit::gtk, use::monitor, x11::applet\n",
+ "installedSize":"1403",
+ "downloadSize":"363746",
+ "homepage":"http:\/\/nagstamon.ifw-dresden.de",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

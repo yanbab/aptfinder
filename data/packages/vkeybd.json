@@ -1,0 +1,9 @@
+{"package":"vkeybd",
+ "description":"Virtual MIDI Keyboard",
+ "details":" This program allows you to use the Linux AWE32 driver, OSS MIDI sequencer,\n or ALSA MIDI sequencer and provides \"virtual\" keyboard (the musical type),\n which can be \"played\" using the keyboard or mouse under X11.\n sound::midi, uitoolkit::tk, x11::application\n",
+ "installedSize":"176",
+ "downloadSize":"34774",
+ "homepage":"http:\/\/www.alsa-project.org\/~tiwai\/alsa.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

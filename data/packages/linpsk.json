@@ -1,0 +1,9 @@
+{"package":"linpsk",
+ "description":"program for operating PSK31\/RTTY modes with X GUI",
+ "details":" linpsk is a program for operating on amateur radio digital modes.\n linpsk currently supports BPSK, QPSK, and RTTY modes,\n and it provides an X user interface.  linpsk's main features are:\n   - simultaneous decoding of up to four channels\n   - different digital modes may be mixed\n   - trigger text can be defined on each channel\n   - each channel can be logged to a file\n   - user-defined macros and two files for larger texts\n   - spectrum and waterfall displays, both scalable in the frequency domain.\n At the Moment RTTY only supports 45 baud and 1.5 stopbits.\n uitoolkit::qt, x11::application\n",
+ "installedSize":"477",
+ "downloadSize":"175084",
+ "homepage":"http:\/\/linpsk.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

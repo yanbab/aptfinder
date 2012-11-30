@@ -1,0 +1,9 @@
+{"package":"ssvnc",
+ "description":"Enhanced TightVNC viewer with SSL\/SSH tunnel helper",
+ "details":" VNC stands for Virtual Network Computing. It is, in essence, a remote\n display system which allows you to view a computing `desktop'\n environment not only on the machine where it is running, but from\n anywhere on the Internet and from a wide variety of machine\n architectures.\n\n SSVNC is two things:\n\n * An enhanced version of the TightVNC client with support for more\n encodings and color modes, support for x11vnc and UltraVNC\n extensions, dynamic screen resizing, an improved popup menu, etc.\n\n * A GUI that helps set up an SSL (using stunnel) or SSH tunnel to\n connect to the VNC server through, as well as forwarding of ports for\n audio (esound\/aRts), SMB, CUPS etc.\n implemented-in::shell, implemented-in::tcl, interface::commandline,\n interface::x11, network::client, protocol::TODO, role::program,\n uitoolkit::tk, use::login, x11::application\n",
+ "installedSize":"1233",
+ "downloadSize":"491106",
+ "homepage":"http:\/\/www.karlrunge.com\/x11vnc\/ssvnc.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"jpilot",
+ "description":"graphical app. to modify the contents of your Palm Pilot's DBs",
+ "details":" J-Pilot is a desktop organizer application for PalmOS devices. It is\n meant to be an alternative to the Palm Desktop provided by Palm.\n\n You have access to the following applications:\n  o Datebook\n  o Address book\n  o ToDo list\n  o Memos\n\n Plug-ins are available in the jpilot-plugins package.\n interface::x11, role::program, scope::application, uitoolkit::gtk,\n use::synchronizing, works-with::pim, x11::application\n",
+ "installedSize":"1876",
+ "downloadSize":"708936",
+ "homepage":"http:\/\/jpilot.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

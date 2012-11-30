@@ -1,0 +1,9 @@
+{"package":"holdingnuts",
+ "description":"poker client",
+ "details":" HoldingNuts is an open source multi-platform poker client and server.\n You can play the popular Texas Hold'em variant with people all over\n the world, meet your friends, run your own games and even setup your\n own poker network.\n\n This package provides the client.\n network::client, protocol::tcp, role::program, uitoolkit::qt,\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"2174",
+ "downloadSize":"1579990",
+ "homepage":"http:\/\/www.holdingnuts.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

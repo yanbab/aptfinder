@@ -1,0 +1,9 @@
+{"package":"smb4k",
+ "description":"Samba (SMB) share advanced browser for KDE",
+ "details":" Smb4K is an advanced network neighborhood browser for KDE. It uses the Samba\n software suite to access the shares of the local network neighborhood.\n Its purpose is to provide a program that's easy to use and has as many\n features as possible.\n role::program, suite::kde, suite::samba, uitoolkit::qt, use::browsing,\n x11::application\n",
+ "installedSize":"6725",
+ "downloadSize":"3275134",
+ "homepage":"http:\/\/smb4k.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

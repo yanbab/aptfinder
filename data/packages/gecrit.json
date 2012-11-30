@@ -1,0 +1,9 @@
+{"package":"gecrit",
+ "description":"simple, easy-to-use Python IDE",
+ "details":" gEcrit is a Python IDE, with a focus on simplicity and ease of use. Some of\n its features include:\n   * Editor geared towards Python, supporting indentation, code folding,\n     syntax highlighting\/checking, auto-completion, and bad brace checking\n   * Integrated Python shell\n   * Source tree browser\n   * Autosaving\n   * Multiple tabs\n   * Printing\n   * Spell-checking\n   * Word searching\/replacement\n   * Pastebin.com integration\n interface::x11, role::program, uitoolkit::gtk, x11::application\n",
+ "installedSize":"737",
+ "downloadSize":"206178",
+ "homepage":"http:\/\/sourceforge.net\/projects\/gecrit\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

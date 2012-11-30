@@ -1,0 +1,9 @@
+{"package":"cbrpager",
+ "description":"viewer for CBR, CBZ and CB7 (comic book archive) files",
+ "details":" cbrPager is a simple to use, small viewer for cbr, cbz and cb7 (comic book\n archive) files. As it is written in C, the executable is small and fast.\n It views jpeg, gif and png images, and you can zoom in and out.\n use::viewing, works-with-format::TODO, works-with-format::gif,\n works-with-format::jpg, works-with-format::png, works-with::archive,\n works-with::image, works-with::image:raster, x11::application\n",
+ "installedSize":"152",
+ "downloadSize":"39264",
+ "homepage":"http:\/\/jcoppens.com\/soft\/cbrpager\/index.en.php",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

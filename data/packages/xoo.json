@@ -1,0 +1,8 @@
+{"package":"xoo",
+ "description":"graphical wrapper around Xnest\/Xephyr",
+ "details":" Xoo is a graphical wrapper around Xnest\/Xephyr, the nested X server. You can\n make Xnest look like a particular device's display and set up buttons on that\n device.  This is useful for embedded developers who want to simulate a target\n device on their desktop machine.\n",
+ "installedSize":"1336",
+ "downloadSize":"1273322",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"xlog",
+ "description":"GTK+ Logging program for Hamradio Operators",
+ "details":" xlog is a logging program for amateur radio operators which can be used\n for daily logging and contest. Logs are stored into a text file.\n\n QSO's are presented in a list. Items in the list can be added, deleted or\n updated. For each contact, dxcc information is displayed and bearings and\n distance is calculated, both short and long path.\n\n When hamlib is enabled through the menu, you can retrieve frequency, mode and\n signal-strength from your rig over the serial port.\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"532",
+ "downloadSize":"185952",
+ "homepage":"http:\/\/download.savannah.gnu.org\/releases\/xlog",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

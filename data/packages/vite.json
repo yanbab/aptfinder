@@ -1,0 +1,9 @@
+{"package":"vite",
+ "description":"Efficient visual trace explorer",
+ "details":" ViTE is a powerful portable and open source profiling tool to visualize\n the behaviour of parallel applications. Thanks to its scalable design,\n ViTE helps programmers to efficiently analyze the performance of\n potentially large applications.\n\n ViTE currently enables the visualisation of traces using the Paj\u00e9 format\n (open format, see http:\/\/www-id.imag.fr\/Logiciels\/paje\/) and has various\n functionalities such as exporting a view in a svg format to integrate\n the results easily in a report, or viewing statistics.\n",
+ "installedSize":"3892",
+ "downloadSize":"2614520",
+ "homepage":"http:\/\/vite.gforge.inria.fr\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

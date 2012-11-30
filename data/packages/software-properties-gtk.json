@@ -1,0 +1,8 @@
+{"package":"software-properties-gtk",
+ "description":"manage the repositories that you install software from (gtk)",
+ "details":" This software provides an abstraction of the used apt repositories.\n It allows you to easily manage your distribution and independent software\n vendor software sources.\n\n This package contains a GTK+ based graphical interface.\n interface::x11, role::program, scope::application, uitoolkit::gtk,\n use::configuring, x11::application\n",
+ "installedSize":"221",
+ "downloadSize":"58120",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"bless",
+ "description":"A full featured hexadecimal editor",
+ "details":" Bless is a binary (hex) editor, a program that enables you to edit files\n as a sequence of bytes written for the GNOME Desktop. Main features are:\n\n   * Efficient editing of large data files.\n   * Multilevel undo - redo operations.\n   * Customizable data views.\n   * Fast data rendering on screen.\n   * Multiple Tabs.\n   * Fast Find and Replace operations.\n   * Conversion Table.\n   * Advanced Copy\/Paste capabilities.\n   * Multi-threaded search and save operations.\n   * Export to text and html (others with plugins).\n   * Extensibility with Plugins.\n",
+ "installedSize":"991",
+ "downloadSize":"527408",
+ "homepage":"http:\/\/home.gna.org\/bless\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

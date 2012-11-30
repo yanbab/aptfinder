@@ -1,0 +1,9 @@
+{"package":"avahi-ui-utils",
+ "description":"Avahi GTK+ utilities",
+ "details":" Avahi is a fully LGPL framework for Multicast DNS Service Discovery.\n It allows programs to publish and discover services and hosts\n running on a local network with no specific configuration. For\n example you can plug into a network and instantly find printers to\n print to, files to look at and people to talk to.\n\n This package contains some small GTK+ utilities to discover ssh and vnc\n servers.\n",
+ "installedSize":"93",
+ "downloadSize":"39864",
+ "homepage":"http:\/\/avahi.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

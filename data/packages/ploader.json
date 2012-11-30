@@ -1,0 +1,9 @@
+{"package":"ploader",
+ "description":"Application to upload your pictures to your Piwigo gallery",
+ "details":" Piwigo is an opensource web application to manage and share a pictures\n collection.\n With pLoader, you can easily upload pictures to your Piwigo gallery, and do\n some management tasks, without having to use the web interface.\n\n Features:\n  - easy editing of pictures properties (title, description, privacy, tags)\n  - ability to specify pictures upload size and orientation.\n  - large picture preview.\n  - drag-and-drop support from other applications.\n  - create categories\n  - watermarking\n",
+ "installedSize":"695",
+ "downloadSize":"148940",
+ "homepage":"http:\/\/piwigo.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

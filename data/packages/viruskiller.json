@@ -1,0 +1,9 @@
+{"package":"viruskiller",
+ "description":"Game about viruses invading your computer",
+ "details":" Your computer has been invaded! Dozens of little viruses are pouring in via\n security holes in Microsoft Internet Explorer, Microsoft Outlook, Microsoft\n MSN Messenger and Microsoft Recycle Bin! Using your trusty mouse you must\n shoot the buggers before they can destroy your files! Some will steal them\n from their home directories and take them back to their security hole. Others\n will just eat them right there on the spot! See how long you and your computer\n can survive the onslaught!\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"2636",
+ "downloadSize":"2409248",
+ "homepage":"http:\/\/www.parallelrealities.co.uk\/projects\/virusKiller.php",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

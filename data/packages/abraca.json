@@ -1,0 +1,9 @@
+{"package":"abraca",
+ "description":"Simple and powerful graphical client for XMMS2",
+ "details":" Abraca is a client for the XMMS2 music player. It is designed with\n collections in mind, which makes managing your music a breeze.\n\n It is written in Vala and uses GTK+.\n uitoolkit::gtk, use::playing, works-with::audio, x11::application\n",
+ "installedSize":"634",
+ "downloadSize":"207470",
+ "homepage":"http:\/\/abraca.github.com\/Abraca\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"bauble",
+ "description":"biodiversity collection manager software application",
+ "details":" Bauble is a software application to help you manage a collection of\n botanical specimens. It is intended to be used by botanic gardens,\n herbaria, arboreta, etc. to manage their collection information.\n It is a open, free, cross-platform alternative to BG-Base and\n similar software.\n uitoolkit::gtk, use::organizing, x11::application\n",
+ "installedSize":"3404",
+ "downloadSize":"780988",
+ "homepage":"http:\/\/bauble.belizebotanic.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

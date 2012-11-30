@@ -1,0 +1,9 @@
+{"package":"kwalletmanager",
+ "description":"secure password wallet manager",
+ "details":" The KDE Wallet system provides a secure way to store passwords and other\n secret information, allowing the user to remember only a single KDE Wallet\n password instead of numerous different passwords and credentials.\n\n KWallet Manager is a utility for viewing and editing information stored in\n the KDE Wallet.\n\n This package is part of the KDE SC utilities module.\n security::cryptography, suite::kde, uitoolkit::qt, x11::application\n",
+ "installedSize":"743",
+ "downloadSize":"334330",
+ "homepage":"http:\/\/www.kde.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

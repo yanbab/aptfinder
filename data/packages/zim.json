@@ -1,0 +1,9 @@
+{"package":"zim",
+ "description":"graphical text editor based on wiki technologies",
+ "details":" Zim is a graphical text editor used to maintain a collection of wiki pages.\n\n Each page can contain links to other pages, simple formatting and inline\n images. Pages are stored in a folder structure, like in an outliner, and can\n have attachments. Creating a new page is as easy as linking to a nonexistent\n page.\n\n All data is stored in plain text files with wiki formatting. Various\n plugins provide additional functionality, like a task list manager, an\n equation editor, a tray icon, and support for version control.\n\n Zim can be used to:\n  * Keep an archive of notes\n  * Take notes during meetings or lectures\n  * Organize task lists\n  * Draft blog entries and emails\n  * Do brainstorming\n use::editing, use::organizing, works-with::text, x11::application\n",
+ "installedSize":"3881",
+ "downloadSize":"1240508",
+ "homepage":"http:\/\/zim-wiki.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

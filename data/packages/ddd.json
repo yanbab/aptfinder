@@ -1,0 +1,9 @@
+{"package":"ddd",
+ "description":"The Data Display Debugger, a graphical debugger frontend",
+ "details":" The Data Display Debugger (DDD) is a popular graphical user interface to\n UNIX debuggers such as GDB, DBX, XDB, JDB and others. Besides typical\n front-end features such as viewing source texts and breakpoints, DDD\n provides an interactive graphical data display, where data structures are\n displayed as graphs. Using DDD, you can reason about your application by\n watching its data, not just by viewing it execute lines of source code.\n\n Other DDD features include: debugging of programs written in Ada, Bash, C,\n C++, Chill, Fortran, Java, Modula, Pascal, Perl and Python; machine-level\n debugging; hypertext source navigation and lookup; breakpoint, backtrace,\n and history editors; preferences and settings editors; program execution\n in terminal emulator window; debugging on remote host; on-line manual;\n interactive help on the Motif user interface; GDB\/DBX\/XDB command-line\n interface with full editing, history, and completion capabilities.\n\n This version is linked against Lesstif, an LGPL-ed implementation of Motif.\n devel::lang:fortran, devel::lang:java, devel::lang:pascal,\n devel::lang:perl, devel::lang:python, interface::x11, role::program,\n suite::gnu, uitoolkit::athena, uitoolkit::motif, uitoolkit::ncurses,\n use::checking, x11::application\n",
+ "installedSize":"3637",
+ "downloadSize":"1419170",
+ "homepage":"http:\/\/www.gnu.org\/software\/ddd\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

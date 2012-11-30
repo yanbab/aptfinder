@@ -1,0 +1,8 @@
+{"package":"gupnp-tools",
+ "description":"tools for testing UPnP devices and control points",
+ "details":" GUPnP is an object-oriented open source framework for creating UPnP devices\n and control points, written in C using GObject and libsoup. The GUPnP API is\n intended to be easy to use, efficient and flexible.\n\n GUPnP Tools are free replacements of Intel UPnP tools that use GUPnP. They\n provides the following client and server side tools which enable one to easily\n test and debug one's UPnP devices and control points:\n  * Universal Control Point: a tool that enables one to discover UPnP devices\n    and services, retrieve information about them, subscribe to events and\n    invoke actions.\n  * Network Light: a virtual light bulb that allows control points to switch\n    it on and off, change its dimming level and query its current status.\n  * AV Control Point: a simple media player UI that enables one to discover and\n    play multimedia content available on the network.\n  * MediaServer upload: upload files to MediaServers\n  * Upload: a simple commandline utility that uploads files to known\n    MediaServers. Use Universal Control Point for discovering the MediaServers.\n",
+ "installedSize":"474",
+ "downloadSize":"272332",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"vino",
+ "description":"VNC server for GNOME",
+ "details":" VNC is a protocol that allows remote display of a user's desktop. This\n package provides a VNC server that integrates with GNOME, allowing you\n to export your running desktop to another computer for remote use or\n diagnosis.\n uitoolkit::gtk, use::viewing\n",
+ "installedSize":"2728",
+ "downloadSize":"392196",
+ "homepage":"http:\/\/live.gnome.org\/Vino",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

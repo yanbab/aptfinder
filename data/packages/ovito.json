@@ -1,0 +1,9 @@
+{"package":"ovito",
+ "description":"visualization and analysis tool for atomistic simulation data",
+ "details":" OVITO is a visualization and analysis software for atomistic\n simulation data. Being a single integrated application it covers both\n the analysis and the visualization of large-scale atomistic datasets\n produced by molecular dynamics\/statics and Monte-Carlo simulation\n codes. Its name is an acronym for Open Visualization Tool,\n emphasizing that the software has been designed with flexibility and\n extensibility in mind.\n",
+ "installedSize":"11284",
+ "downloadSize":"4332872",
+ "homepage":"http:\/\/www.ovito.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"altos",
+ "description":"Altus Metrum firmware and utilities",
+ "details":" Firmware and utilities needed to support high power model rocketry products\n from Altus Metrum, including TeleMetrum, TeleMini, and TeleDongle.\n\n See http:\/\/altusmetrum.org\/ for more information.\n",
+ "installedSize":"13585",
+ "downloadSize":"6363008",
+ "homepage":"http:\/\/altusmetrum.org\/AltOS",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

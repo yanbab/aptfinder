@@ -1,0 +1,9 @@
+{"package":"notification-daemon",
+ "description":"daemon for displaying passive pop-up notifications",
+ "details":" notification-daemon displays passive pop-up notifications, as per\n the Desktop Notifications Specification.\n\n The Desktop Notifications Specification provides a standard way of\n doing passive pop-up notifications on the Linux desktop. These are\n designed to notify the user of something without interrupting their\n work with a dialog box that they must close.  Passive popups can\n automatically disappear after a short period of time.\n uitoolkit::gtk, use::monitor, x11::applet, x11::application\n",
+ "installedSize":"716",
+ "downloadSize":"51494",
+ "homepage":"http:\/\/www.galago-project.org\/specs\/notification\/index.php",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

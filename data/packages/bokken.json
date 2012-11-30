@@ -1,0 +1,9 @@
+{"package":"bokken",
+ "description":"reverse code engineering GUI for pyew and radare",
+ "details":" Bokken is a GUI for pyew, the malware analysis tool, and radare2, the reverse\n engineering framework.  Bokken is also the RCE tool for the Inguma project.\n\n Actually Bokken supports the following formats:\n  - PE\n  - ELF\n  - Java (.class)\n  - Web\n  - PDF\n\n Most of this functionality comes from either pyew or radare2, so it offers\n almost all the features that pyew has and some of radare's.  It's intended to\n be used as a basic disassembler, mainly, to analyze malware and\n vulnerabilities.\n\n Currently Bokken is neither an hexadecimal editor nor a full featured\n disassembler YET, so it should not be used for deep code analysis or to try to\n modify files with it.\n",
+ "installedSize":"1971",
+ "downloadSize":"962640",
+ "homepage":"http:\/\/bokken.inguma.eu",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

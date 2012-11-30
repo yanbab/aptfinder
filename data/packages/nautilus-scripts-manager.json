@@ -1,0 +1,9 @@
+{"package":"nautilus-scripts-manager",
+ "description":"simple tool for nautilus scripts management",
+ "details":" nautilus-scripts-manager is a small and easy to use application which allows\n any user to activate, deactivate or just see Nautilus scripts installed in the\n system.\n\n Nautilus scripts are just ordinary scripts which, once activated, can be ran\n directly from the right-click menu in the popular GNOME files manager.\n\n This program can be used through its intuitive graphical interface or with a\n set of command line options. In particular, it can transparently replace the\n command line utility nautilus-script-manager (notice the missing \"s\").\n\n Once installed, it will appear among the user settings utilities (usually in\n the \"Preferences\" menu).\n",
+ "installedSize":"262",
+ "downloadSize":"27648",
+ "homepage":"http:\/\/www.pietrobattiston.it\/nautilus-scripts-manager",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

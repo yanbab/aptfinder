@@ -1,0 +1,9 @@
+{"package":"sakura",
+ "description":"simple but powerful libvte-based terminal emulator",
+ "details":" Sakura is a terminal emulator based on GTK+ and VTE. It's a\n terminal emulator with few dependencies, so you don't need a\n full GNOME desktop installed to have a decent terminal emulator.\n uitoolkit::gtk, x11::application, x11::terminal\n",
+ "installedSize":"334",
+ "downloadSize":"60952",
+ "homepage":"http:\/\/www.pleyades.net\/david\/projects\/sakura",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

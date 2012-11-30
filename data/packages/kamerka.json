@@ -1,0 +1,9 @@
+{"package":"kamerka",
+ "description":"shiny photo taking application",
+ "details":" Kamerka is a KDE application which uses Video4Linux to get image from\n webcam, with ability to save photos. It features easy to use, animated\n and well-integrated user interface.\n",
+ "installedSize":"380",
+ "downloadSize":"108080",
+ "homepage":"http:\/\/dos1.github.com\/kamerka\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

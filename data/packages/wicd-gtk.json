@@ -1,0 +1,9 @@
+{"package":"wicd-gtk",
+ "description":"wired and wireless network manager - GTK+ client",
+ "details":" Wicd is a general-purpose network configuration server which aims\n to provide a simple but flexible interface for connecting to networks.\n Its features include:\n  * wide variety of settings;\n  * ability to connect to (and maintain profiles for) both wired and\n    wireless networks;\n  * support for many encryption schemes, including WEP, WPA, WPA2 and\n    custom schemes;\n  * wireless-tools compatibility.\n\n This package provides the GTK+ client, which has no GNOME dependencies,\n making it easy to use in Xfce, Fluxbox, Openbox, Enlightenment, ...\n It also supports a tray icon showing network activity and signal\n strength.\n role::program, scope::application, uitoolkit::gtk, x11::application\n",
+ "installedSize":"552",
+ "downloadSize":"118526",
+ "homepage":"http:\/\/wicd.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

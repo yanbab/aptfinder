@@ -1,0 +1,9 @@
+{"package":"zapping",
+ "description":"television viewer for the GNOME environment",
+ "details":" It is based on plugins. This will make it easy to add functionality to the\n program, without making it hard to maintain, such as saving video as\n AVI\/MPEG, viewing mirrored TV (scanning from right to left) or whatever you\n can imagine (and program).\n suite::gnome, uitoolkit::gtk, use::viewing, works-with::video,\n x11::application\n",
+ "installedSize":"3650",
+ "downloadSize":"1468650",
+ "homepage":"http:\/\/zapping.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"gcrystal",
+ "description":"lightweight crystal structures visualizer",
+ "details":" GNOME Crystal is a light model visualizer for crystal-structures. It\n is based on the GNOME Chemistry Utils and should display models of all\n sorts of crystal microscopic structures using OpenGL.\n x11::application\n",
+ "installedSize":"978",
+ "downloadSize":"538024",
+ "homepage":"http:\/\/www.nongnu.org\/gchemutils\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

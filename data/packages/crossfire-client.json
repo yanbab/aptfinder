@@ -1,0 +1,9 @@
+{"package":"crossfire-client",
+ "description":"Client for the multiplayer roguelike Crossfire",
+ "details":" Crossfire is a multiplayer graphical arcade and adventure game made for\n the X environment.\n\n It has certain flavours from other games, especially Gauntlet (TM)\n and Nethack\/Moria.\n\n Any number of players can move around in their own window, finding\n and using items and battle monsters.  They can choose to cooperate\n or compete in the same 'world'.\n\n To play the game you'll need to have access to a local or remote\n server.\n network::client, role::program, scope::application, uitoolkit::gtk,\n use::gameplaying, x11::application\n",
+ "installedSize":"2483",
+ "downloadSize":"375976",
+ "homepage":"http:\/\/crossfire.real-time.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

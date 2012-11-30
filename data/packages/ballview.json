@@ -1,0 +1,9 @@
+{"package":"ballview",
+ "description":"free molecular modeling and molecular graphics tool",
+ "details":" BALLView provides fast OpenGL-based visualization of molecular structures,\n molecular mechanics methods (minimization, MD simulation using the\n AMBER, CHARMM, and MMFF94 force fields), calculation and visualization\n of electrostatic properties (FDPB) and molecular editing features.\n\n BALLView can be considered a graphical user interface on the basis of\n BALL (Biochemical Algorithms Library) with a focus on the most common\n demands of protein chemists and biophysicists in particular.  It is\n developed in the groups of Hans-Peter Lenhof (Saarland University,\n Saarbruecken, Germany) and Oliver Kohlbacher (University of Tuebingen,\n Germany). BALL is an application framework in C++ that has been\n specifically designed for rapid software development in Molecular\n Modeling and Computational Molecular Biology.  It provides an extensive\n set of data structures as well as classes for Molecular Mechanics,\n advanced solvation methods, comparison and analysis of protein\n structures, file import\/export, and visualization.\n",
+ "installedSize":"2880",
+ "downloadSize":"2568632",
+ "homepage":"http:\/\/www.ballview.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

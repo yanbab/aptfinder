@@ -1,0 +1,9 @@
+{"package":"hexalate",
+ "description":"Color matching puzzle",
+ "details":" Hexalate is a color matching game. The goal of the game is to rotate and\n position the circles so that each touching line matches in color. You rotate\n circles by right clicking, and you move circles by dragging them. The game\n stores the positions and rotations of the circles across runs.\n uitoolkit::qt, use::gameplaying, x11::application\n",
+ "installedSize":"184",
+ "downloadSize":"43566",
+ "homepage":"http:\/\/gottcode.org\/hexalate\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"pykaraoke",
+ "description":"free CDG\/MIDI\/MPEG karaoke player",
+ "details":" PyKaraoke is a free karaoke player. You can use this program to play your\n collection of CDG, MIDI and MPEG karaoke songs.\n\n pykaraoke is a frontend for the pycdg and pympg karaoke players. It provides\n a search engine to find your songs, a file\/folder browser to pick songs from\n disk, as well as a playlist.\n\n Features:\n    * CDG (MP3+G, OGG+G) playback - Play standard CDG karaoke files\n    * MIDI (.MID\/.KAR) playback - Play MIDI format karaoke files\n    * MPEG playback - Play karaoke songs and movies in MPEG format\n    * Playlist - Queue up songs, sit back and enjoy\n    * Searchable song database - Easily find your songs from the main screen\n    * Search inside ZIP files - Play MP3+G\/MIDI files wrapped in ZIP files\n    * Cross-platform - Runs on Windows and Linux\n\n MIDI\/KAR support on Linux, requires the following:\n    * Timidity++\n    * Sounds\/patches for Timidity++ (e.g. freepats or eawpatches)\n",
+ "installedSize":"147",
+ "downloadSize":"78516",
+ "homepage":"http:\/\/www.kibosh.org\/pykaraoke\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

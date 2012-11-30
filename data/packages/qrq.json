@@ -1,0 +1,9 @@
+{"package":"qrq",
+ "description":"high speed morse trainer, similar to DL4MM's Rufz",
+ "details":" qrq is an open source morse telegraphy trainer for Linux and Unix operating\n systems, similar to the classic DOS version of Rufz by DL4MM.\n\n It is not intended for learning telegraphy, but to improve the ability\n to copy callsigns at high speeds, as needed for example for Contesting.\n",
+ "installedSize":"307",
+ "downloadSize":"121148",
+ "homepage":"http:\/\/fkurz.net\/ham\/qrq.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

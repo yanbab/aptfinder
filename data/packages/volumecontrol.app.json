@@ -1,0 +1,8 @@
+{"package":"volumecontrol.app",
+ "description":"Audio mixer for GNUstep",
+ "details":" VolumeControl is a GNUstep program for adjusting the audio mixer\n on systems that use the OSS API. It allows the sound level,\n left\/right speakers, muting for master, PCM, bass, and treble\n levels to be controlled.\n\n  Homepage: http:\/\/www.linuks.mine.nu\/volumecontrol\/\n suite::gnustep, uitoolkit::gnustep, use::configuring, x11::applet\n",
+ "installedSize":"138",
+ "downloadSize":"20596",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

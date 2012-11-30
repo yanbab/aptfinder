@@ -1,0 +1,9 @@
+{"package":"mahjongg",
+ "description":"classic Eastern tile game for GNOME",
+ "details":" This is a solitaire (one player) version of the classic Eastern tile\n game, Mahjongg.\n\n You start with five levels of tiles which are stacked so some are\n covered up by the tiles on top. The object of Mahjongg is to remove all\n the tiles from the game, by finding matching pairs which look alike.\n role::program, uitoolkit::gtk, use::gameplaying, x11::application\n",
+ "installedSize":"3842",
+ "downloadSize":"2585666",
+ "homepage":"http:\/\/live.gnome.org\/GnomeGames",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

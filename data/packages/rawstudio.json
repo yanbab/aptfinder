@@ -1,0 +1,9 @@
+{"package":"rawstudio",
+ "description":"RAW image converter",
+ "details":" To get the best quality out of your digital camera, it is often\n recommended that you record your pictures in RAW format. This format\n is mostly specific to a camera and cannot be read by most image\n editing applications.\n\n Rawstudio will convert your RAW files into JPEG, PNG or TIF images.\n It has a graphical user interface, so you can simply open a RAW file\n and experiment with the controls to see how they effect the image.\n\n The normal workflow would be that you first convert your RAW files\n and then use an image editing application to further work on your\n images. Rawstudio itself is a highly specialized application for\n processing RAW images, not a fully featured image editing\n application.\n works-with::image\n",
+ "installedSize":"2681",
+ "downloadSize":"969326",
+ "homepage":"http:\/\/www.rawstudio.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

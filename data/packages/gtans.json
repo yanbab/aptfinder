@@ -1,0 +1,9 @@
+{"package":"gtans",
+ "description":"Tangram (puzzle) game using GTK+",
+ "details":" The Tangram is a Chinese puzzle where the player has to arrange a set of\n pieces to match a given shape. All the pieces must be used and should not\n be laid on top of one another. The pieces are five triangles, a square and\n a parallelogram. gtans contains more than 380 figures to play with. It uses\n the mouse to control pieces. gtans is highly customizable using the\n interface.\n uitoolkit::gtk, use::gameplaying, x11::application\n",
+ "installedSize":"702",
+ "downloadSize":"194192",
+ "homepage":"http:\/\/gtans.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

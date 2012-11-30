@@ -1,0 +1,9 @@
+{"package":"petri-foo",
+ "description":"MIDI controllable audio sampler - successor of specimen",
+ "details":" A simple but very useful midi controlled sampler for ALSA\/JACK featuring:\n  * 64 notes of polyphony, spread across up to 64 patches.\n  * fast, high quality pitch scaling, linear ADSR volume envelopes.\n  * low pass filter with resonance; a variety of direction-independent.\n  * playback modes and zoomable sample editor for loop and play points.\n\n Petri-Foo is a fork of the Specimen Sampler project.\n",
+ "installedSize":"467",
+ "downloadSize":"233962",
+ "homepage":"http:\/\/petri-foo.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

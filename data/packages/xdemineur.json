@@ -1,0 +1,8 @@
+{"package":"xdemineur",
+ "description":"Yet another minesweeper for X",
+ "details":" The object of this game is to find the location of the mines\n hidden in the minefield and to mark their location by placing a\n warning flag.\n\n There are many minesweeper clones. This one is the most similar to the\n Windows one in terms of look and feel.\n use::gameplaying, x11::application\n",
+ "installedSize":"88",
+ "downloadSize":"21228",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"gnomine",
+ "description":"popular minesweeper puzzle game for GNOME",
+ "details":" Mines is a puzzle game where you locate mines floating in an ocean\n using only your brain and a little bit of luck.\n uitoolkit::gtk, use::gameplaying, x11::application\n",
+ "installedSize":"3523",
+ "downloadSize":"2306166",
+ "homepage":"http:\/\/live.gnome.org\/GnomeGames",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

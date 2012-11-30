@@ -1,0 +1,9 @@
+{"package":"eiciel",
+ "description":"graphical editor for POSIX ACLs and extended user attributes",
+ "details":" A graphical tool to manipulate POSIX ACLs and extended user attributes for\n the GNOME environment. It integrates nicely into the Nautilus file manager\n but also features a standalone application.\n role::program, scope::utility, suite::gnome, uitoolkit::gtk,\n works-with::file\n",
+ "installedSize":"920",
+ "downloadSize":"474486",
+ "homepage":"http:\/\/rofi.pinchito.com\/eiciel\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,8 @@
+{"package":"wsjt",
+ "description":"weak-signal amateur radio communications",
+ "details":" WSJT is designed to facilitate Amateur Radio communication under extreme\n weak-signal conditions.  Three very different coding and modulation\n methods are provided: one for communication by \"meteor scatter\"\n techniques on the VHF bands; one for meteor and ionospheric scatter,\n primarily on the 6 meter band; and one for the very challenging\n EME (Earth-Moon-Earth) path.\n",
+ "installedSize":"1868",
+ "downloadSize":"1034518",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,8 @@
+{"package":"monodoc-browser",
+ "description":"MonoDoc GTK+ based viewer",
+ "details":" The MonoDoc Project is the documentation framework of the Mono project which\n provides detailed API documentation for all Mono components and the Mono CLI\n implementation.\n\n This package contains the GTK+ based viewer of the Mono documentation.\n uitoolkit::gtk\n",
+ "installedSize":"266",
+ "downloadSize":"94518",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

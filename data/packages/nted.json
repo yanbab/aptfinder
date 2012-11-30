@@ -1,0 +1,9 @@
+{"package":"nted",
+ "description":"Musical score editor",
+ "details":" NtEd is a GTK+ score editor. It intends to be really WYSIWYG: what you\n see on the screen is exactly what you get on printer output. It supports\n up to 4 voices per staff, drum notes, 5 lyrics lines, N-Tuplets, context\n changes, repeats with alternatives, configurable music instruments per\n staff, MIDI \/ MusicXML import, PS \/ PDF \/ SVG \/ PNG \/ Lilypond \/ MIDI\n export. Scores can be played through the ALSA sequencer.\n works-with::music-notation, x11::application\n",
+ "installedSize":"1578",
+ "downloadSize":"614254",
+ "homepage":"http:\/\/vsr.informatik.tu-chemnitz.de\/staff\/jan\/nted\/nted.xhtml",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

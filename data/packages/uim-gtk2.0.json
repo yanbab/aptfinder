@@ -1,0 +1,9 @@
+{"package":"uim-gtk2.0",
+ "description":"Universal Input Method - GTK+2.x front end",
+ "details":" Uim is an input method module library which supports various scripts and can\n act as a front end for a range of input methods, including Anthy, Canna,\n PRIME, or SKK (for Japanese), Pinyin (for Chinese), Byeoru (for Korean), and\n M17n (for many other languages). Most of its functions are implemented in\n Scheme, so it's very simple and flexible.\n\n This package contains an IM-module to support the use of uim on GTK+2.0\n applications.\n role::program, uitoolkit::gtk, x11::application\n",
+ "installedSize":"428",
+ "downloadSize":"149258",
+ "homepage":"http:\/\/code.google.com\/p\/uim\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

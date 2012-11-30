@@ -1,0 +1,8 @@
+{"package":"gtkterm",
+ "description":"A simple GTK+ serial port terminal",
+ "details":" gtkterm is a simple GTK+ terminal used to communicate with the serial port.\n\n Its features :\n\n  * Serial port terminal window\n  * Serial port setup (speed, parity, bits, stopbits, flow control)\n  * Using the termios API\n  * Possible to send a file (only RAW data, no protocol)\n  * End of line delay while sending a file\n  * Special character wait before next line while sending a file\n  * Possible to toggle control lines manually (DTR, CTS)\n  * Also reads the state of control lines (RTS, CD, DSR, RI)\n\n  Author:   Julien Schmitt <julien@jls-info.com>\n  Homepage: http:\/\/www.jls-info.com\/julien\/linux\/\n uitoolkit::gtk, uitoolkit::ncurses, use::configuring,\n use::transmission, x11::application\n",
+ "installedSize":"195",
+ "downloadSize":"56096",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

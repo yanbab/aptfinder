@@ -1,0 +1,9 @@
+{"package":"gkrellm",
+ "description":"GNU Krell Monitors",
+ "details":" With a single process, gkrellm manages multiple stacked monitors and supports\n applying themes to match the monitors appearance to your window manager, Gtk,\n or any other theme.\n suite::gkrellm, uitoolkit::gtk, use::monitor, x11::application\n",
+ "installedSize":"2224",
+ "downloadSize":"825794",
+ "homepage":"http:\/\/gkrellm.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

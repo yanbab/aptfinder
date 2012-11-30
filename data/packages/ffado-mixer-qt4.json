@@ -1,0 +1,9 @@
+{"package":"ffado-mixer-qt4",
+ "description":"FFADO D-Bus mixer applets (QT4)",
+ "details":" FFADO is a Linux driver for FireWire (IEEE1394) audio devices.\n\n The FFADO library permits discovering and configuring such\n devices and provides an API for streaming clients.\n\n This package holds the mixer and control applications that\n communicate with ffado-dbus-server. (Qt4 version)\n",
+ "installedSize":"1709",
+ "downloadSize":"113062",
+ "homepage":"http:\/\/www.ffado.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

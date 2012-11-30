@@ -1,0 +1,9 @@
+{"package":"kdepim-wizards",
+ "description":"KDE server configuration wizards",
+ "details":" This package contains KDE-based wizards for configuring KDE PIM applications\n to access eGroupware, Kolab 2, Scalix and SLOX (SuSE Linux Openexchange\n Server) and Novell GroupWise groupware servers.\n\n This package is part of KDE, and a component of the KDE PIM module.\n scope::utility, suite::kde, uitoolkit::qt, use::configuring,\n works-with::pim, x11::application\n",
+ "installedSize":"1185",
+ "downloadSize":"139228",
+ "homepage":"http:\/\/pim.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

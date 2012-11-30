@@ -1,0 +1,9 @@
+{"package":"dlume",
+ "description":"simple and easy to use addressbook (GTK+)",
+ "details":" Dlume is a simple, gtk2-based addressbook. You can easily add, edit\n and delete records to\/from an XML-format database. The Quick-search\n feature allows you find required entry in comfortable way. Export to\n CSV and HTML formats is also available. Interface design was borrowed\n and improved from Paddress <http:\/\/paddress.sourceforge.net>.\n uitoolkit::gtk, use::editing, use::organizing, use::searching,\n works-with-format::xml, works-with::pim, x11::application\n",
+ "installedSize":"420",
+ "downloadSize":"143290",
+ "homepage":"http:\/\/freshmeat.net\/projects\/dlume",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

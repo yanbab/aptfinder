@@ -1,0 +1,9 @@
+{"package":"pdfchain",
+ "description":"graphical user interface for the PDF Tool Kit",
+ "details":" The package includes features designed to handle PDF files in a easy\n way. Basically it can merge, split, add backgrounds or stamps and add\n attachments. There are some tools for extended needs, too.\n\n The GUI is written in GTKmm, a C++ library for GTK+.\n scope::utility, security::cryptography, uitoolkit::gtk,\n use::converting, works-with-format::pdf, x11::application\n",
+ "installedSize":"569",
+ "downloadSize":"169870",
+ "homepage":"http:\/\/pdfchain.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

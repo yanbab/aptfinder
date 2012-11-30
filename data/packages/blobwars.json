@@ -1,0 +1,9 @@
+{"package":"blobwars",
+ "description":"platform shooting game",
+ "details":" Blob Wars: Metal Blob Solid is a 2D platform game. It is the first in the Blob\n Wars series.\n\n Since their world was invaded by an alien race, the Blobs have faced a\n lifetime of war. But now they have a chance to win the war once and for\n all.\n\n In Blob Wars: Metal Blob Solid, you take on the role of a fearless Blob\n agent, Bob. Bob's mission is to infiltrate the various enemy bases around\n the Blobs' homeworld and rescue as many MIAs as possible. But standing in\n his way are many vicious aliens, other Blobs who have been assimilated and\n the evil alien leader, Galdov.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"380",
+ "downloadSize":"145570",
+ "homepage":"http:\/\/blobwars.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"burgerspace",
+ "description":"Avoid evil foodstuffs and make burgers",
+ "details":" This is a clone of the classic game \"BurgerTime\".  In it, you play the\n part of a chef who must create burgers by stepping repeatedly on the\n ingredients until they fall into place.  And to make things more\n complicated, you also must avoid evil animate food items while performing\n this task, with nothing but your trusty pepper shaker to protect you.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"629",
+ "downloadSize":"230300",
+ "homepage":"http:\/\/sarrazip.com\/dev\/burgerspace.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

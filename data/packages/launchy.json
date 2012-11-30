@@ -1,0 +1,9 @@
+{"package":"launchy",
+ "description":"smart search launcher for installed programs or files",
+ "details":" Launchy is the most efficient way to open files, folders, websites,\n and programs on your computer. Instead of having to browse the menus\n to find an application, Launchy is a smart search program which tries\n to guess which program or file you are looking for and will launch\n it when you hit the enter key. It runs in background and appears when\n the configured key combination is pressed (Ctrl+Space by default) or\n the tray icon is clicked.\n",
+ "installedSize":"749",
+ "downloadSize":"413382",
+ "homepage":"http:\/\/www.launchy.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

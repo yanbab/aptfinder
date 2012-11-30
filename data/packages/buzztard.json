@@ -1,0 +1,9 @@
+{"package":"buzztard",
+ "description":"Modular music composer",
+ "details":" The Buzztard project aims to provide a modular, free, open source music\n studio that is conceptually based on the proprietary Windows software\n called Buzz. The Buzztard project itself has no direct link to Buzz\n apart from its concepts that we build upon and is no 1:1 Buzz copy.\n To allow migration for Buzz users, Buzztard provides song-file import\n and buzz-machine reuse.\n use::editing, works-with::audio, x11::application\n",
+ "installedSize":"696",
+ "downloadSize":"320342",
+ "homepage":"http:\/\/www.buzztard.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

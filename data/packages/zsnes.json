@@ -1,0 +1,9 @@
+{"package":"zsnes",
+ "description":"Emulator of the Super Nintendo Entertainment System",
+ "details":" ZSNES allows you to play classic games written for the Super Nintendo (SNES)\n game console on a GNU\/Linux system.\n\n Please note that many separately-available games playable under this\n emulator are non-free. See \/usr\/share\/doc\/zsnes\/README.Debian for more\n information.\n use::gameplaying, works-with::software:running, x11::application\n",
+ "installedSize":"3895",
+ "downloadSize":"930574",
+ "homepage":"http:\/\/www.zsnes.com",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

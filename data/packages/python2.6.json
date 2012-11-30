@@ -1,0 +1,8 @@
+{"package":"python2.6",
+ "description":"An interactive high-level object-oriented language (version 2.6)",
+ "details":" Version 2.6 of the high-level, interactive object oriented language,\n includes an extensive class library with lots of goodies for\n network programming, system administration, sounds and graphics.\n implemented-in::c, implemented-in::python, interface::text-mode,\n role::program, role::shared-lib, uitoolkit::ncurses\n",
+ "installedSize":"8028",
+ "downloadSize":"2474360",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

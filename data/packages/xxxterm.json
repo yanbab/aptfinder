@@ -1,0 +1,9 @@
+{"package":"xxxterm",
+ "description":"Minimalist's web browser",
+ "details":" XXXTerm is a minimalists web browser.  It strives to be vi-like for\n heavy keyboard users while maintaining traditional web browser behavior.\n\n Major features include:\n  * Tabbed browsing\n  * Cookie support\n  * Cookie white list\n  * JavaScript white list\n  * JavaScript runtime toggle\n  * History\n  * Download manager\n  * vim keybindings\n  * Text based config file\n  * Search engine entry box\n  * Search on page\n  * Basic MIME support\n  * Favorites\n  * Print, including to pdf\n  * Mouse-less browsing\n web::browser, x11::application\n",
+ "installedSize":"421",
+ "downloadSize":"179388",
+ "homepage":"http:\/\/opensource.conformal.com\/wiki\/XXXTerm",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

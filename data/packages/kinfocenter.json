@@ -1,0 +1,9 @@
+{"package":"kinfocenter",
+ "description":"system information viewer",
+ "details":" KInfoCenter provides you with a graphical overview of various aspects of your\n system, such as memory usage, storage capacity, and attached devices.\n\n This package is part of the KDE base workspace module.\n uitoolkit::qt, x11::application\n",
+ "installedSize":"1605",
+ "downloadSize":"488768",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

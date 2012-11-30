@@ -1,0 +1,9 @@
+{"package":"pithos",
+ "description":"Pandora Radio client for the GNOME desktop",
+ "details":" Pithos is a cross-platform desktop client for the personalized web\n radio Pandora, supporting all important features the official Flash\u2122\n client has.\n\n Pithos was based on pianobar, a console client for Pandora. In addition\n to sporting a GTK+ GUI, Pithos has feature-parity with pianobar.\n\n Out of concern for the longevity of Pandora Media Inc., the\n software authors would recommend subscribing to Pandora One.\n\n You need an account in order to use this player, so please consider\n create one for free before using pianobar at http:\/\/pandora.com.\n works-with::audio\n",
+ "installedSize":"549",
+ "downloadSize":"146264",
+ "homepage":"http:\/\/kevinmehall.net\/p\/pithos\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"xfce4-power-manager",
+ "description":"power manager for Xfce desktop",
+ "details":" This power manager for the Xfce desktop enables laptop users to set up\n a power profile for two different modes \"on battery power\" and \"on ac\n power\" while still allowing desktop users to at least change the DPMS\n settings and CPU frequency using the settings dialogue..\n\n It features:\n   * battery monitoring\n   * cpu frequency settings\n   * monitor DPMS settings\n   * suspend\/Hibernate\n   * LCD brightness control\n   * Lid, sleep and power switches control\n implemented-in::c, interface::x11, role::program, suite::xfce,\n uitoolkit::gtk\n",
+ "installedSize":"387",
+ "downloadSize":"122256",
+ "homepage":"http:\/\/goodies.xfce.org\/projects\/applications\/xfce4-power-manager",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

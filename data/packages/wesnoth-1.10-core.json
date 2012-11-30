@@ -1,0 +1,9 @@
+{"package":"wesnoth-1.10-core",
+ "description":"fantasy turn-based strategy game (branch 1.10)",
+ "details":" This package contains the main program for wesnoth. It can be used to play\n multiplayer games.  If you want to play campaigns you will have to install\n them individually, but if you prefer to have all the official campaigns\n installed please be advised to install the wesnoth-1.10 package which depends\n on all of them.\n\n Battle for control of villages, using variety of units which have advantages\n and disadvantages in different types of terrains and against different types\n of attacks.  Units gain experience and advance levels, and are carried over\n from one scenario to the next in a campaign.\n",
+ "installedSize":"14282",
+ "downloadSize":"5030910",
+ "homepage":"http:\/\/wesnoth.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

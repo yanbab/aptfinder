@@ -1,0 +1,9 @@
+{"package":"tanglet",
+ "description":"single player word finding game based on Boggle",
+ "details":" The Object of the game is to list as many words as you can before\n the time runs out. Every time you find a new word, you are given\n more time. Each word must be at least three letters long.\n",
+ "installedSize":"3108",
+ "downloadSize":"2683046",
+ "homepage":"http:\/\/gottcode.org\/tanglet\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

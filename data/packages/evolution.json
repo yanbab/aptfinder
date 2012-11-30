@@ -1,0 +1,9 @@
+{"package":"evolution",
+ "description":"groupware suite with mail client and organizer",
+ "details":" Evolution is a groupware suite which integrates mail, calendar,\n address book, to-do list and memo tools.\n\n Additional features include integration with Exchange\n servers, newsgroup client, LDAP support and web calendars\n\n Evolution is a graphical application that is part of GNOME, and\n is distributed by Novell, Inc.\n\n See http:\/\/projects.gnome.org\/evolution\/ for more information.\n\n The following plugins belonging to the \"base\" set are included.\n  - calendar-file\n  - calendar-http\n  - itip-formatter\n  - default-source\n  - addressbook-file\n  - mark-all-read\n  - publish-calendar\n  - caldav\n  - imap-features\n  - google-account-setup\n  - webdav-account-setup\n  - calendar-weather\n  - sa-junk-plugin\n  - bogo-junk-plugin\n mail::user-agent, network::client, protocol::imap, protocol::nntp,\n protocol::pop3, protocol::smtp, protocol::ssl, role::program,\n scope::application, suite::gnome, uitoolkit::gtk, use::TODO,\n use::browsing, works-with::mail, x11::application\n",
+ "installedSize":"5531",
+ "downloadSize":"1512580",
+ "homepage":"http:\/\/projects.gnome.org\/evolution\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

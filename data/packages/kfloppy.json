@@ -1,0 +1,9 @@
+{"package":"kfloppy",
+ "description":"floppy formatter",
+ "details":" Kfloppy is a utility for formatting floppy disks.\n\n This package is part of the KDE SC utilities module.\n interface::x11, role::program, scope::utility, suite::kde,\n uitoolkit::qt, x11::application\n",
+ "installedSize":"250",
+ "downloadSize":"75710",
+ "homepage":"http:\/\/www.kde.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"xmotd",
+ "description":"a message of the day browser for X",
+ "details":" Xmotd is a message-of-the-day browser for X11 (with additional\n sysvnews-like support for dumb terminals).  It displays a customizable\n message box which displays each message-of-the-day until the user has\n read them all, and then creates a stamp-file.\n interface::x11, role::program, scope::utility, uitoolkit::athena,\n use::monitor, use::viewing, works-with::text, x11::application\n",
+ "installedSize":"144",
+ "downloadSize":"27966",
+ "homepage":"http:\/\/www.ee.ryerson.ca\/~elf\/xmotd\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

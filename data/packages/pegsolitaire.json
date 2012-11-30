@@ -1,0 +1,9 @@
+{"package":"pegsolitaire",
+ "description":"An education game similar to Hi-Q",
+ "details":" The object is to jump pegs until a single peg is left in the\n centre of the game board.\n",
+ "installedSize":"260",
+ "downloadSize":"35284",
+ "homepage":"http:\/\/www.asselstine.com\/pegsolitaire\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

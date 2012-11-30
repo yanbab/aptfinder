@@ -1,0 +1,9 @@
+{"package":"aumix-gtk",
+ "description":"Simple mixer control program with GUI and text interfaces",
+ "details":" aumix is a small, easy-to-use program to control the mixer of your sound\n card. It runs in text mode using the ncurses library, or from the command\n line (non-interactively). It can read default settings from a file, and it\n can also automatically save and restore the mixer settings at shutdown and\n boot.\n\n Additionally this version can be run as a GTK+ app, i.e. with a graphical\n interface.  It can also still run in text-only mode, though.\n sound::mixer, uitoolkit::gtk, uitoolkit::ncurses, works-with::audio,\n x11::application\n",
+ "installedSize":"420",
+ "downloadSize":"79536",
+ "homepage":"http:\/\/www.jpj.net\/~trevor\/aumix.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

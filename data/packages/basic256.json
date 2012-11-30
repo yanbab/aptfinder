@@ -1,0 +1,9 @@
+{"package":"basic256",
+ "description":"educational BASIC programming environment for children",
+ "details":" BASIC-256 is an easy to use version of BASIC designed to teach young\n children the basics of computer programming. It uses traditional\n control structures like gosub, for\/next, and goto, which helps kids\n easily see how program flow-control works. It has a built-in graphics\n mode which lets them draw pictures on screen in minutes, and a set\n of detailed, easy-to-follow tutorials that introduce programming\n concepts through fun exercises.\n",
+ "installedSize":"1010",
+ "downloadSize":"472556",
+ "homepage":"http:\/\/www.basic256.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

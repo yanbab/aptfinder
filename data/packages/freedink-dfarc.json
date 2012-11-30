@@ -1,0 +1,9 @@
+{"package":"freedink-dfarc",
+ "description":"frontend and .dmod installer for GNU FreeDink",
+ "details":" DFArc2 makes it easy to play and manage the Dink Smallwood game and\n its numerous Dink Modules (or D-Mods).\n role::program, uitoolkit::wxwidgets, use::gameplaying, x11::application\n",
+ "installedSize":"591",
+ "downloadSize":"151124",
+ "homepage":"http:\/\/www.gnu.org\/software\/freedink\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

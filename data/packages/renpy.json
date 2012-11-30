@@ -1,0 +1,9 @@
+{"package":"renpy",
+ "description":"framework for developing visual-novel type games",
+ "details":" Ren'Py is a programming language and runtime, intended to ease the creation\n of visual-novel type games. It contains features that make it easy to\n display thoughts, dialogue, and menus; to display images to the user; to\n write game logic; and to support the saving and loading of games.\n\n Ren'Py tries to be like an executable script, allowing you to get a working\n game without much more effort than is required to type the game script into\n the computer.\n\n Ren'Py is implemented on top of Python, and that Python heritage shows\n through in many places. Many Ren'Py statements allow Python expressions\n to be used, and there are also Ren'Py statements that allow for the\n execution of arbitrary Python code. Many of the less-used features of\n Ren'Py are exposed to the user by way of Python. By only requiring use of\n the simplest features of Python, it's hoped that Ren'Py will be usable by\n all game authors.\n role::program, use::gameplaying\n",
+ "installedSize":"3087",
+ "downloadSize":"927906",
+ "homepage":"http:\/\/www.renpy.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"tea",
+ "description":"text editor with syntax highlighting & UTF support",
+ "details":" TEA provides you hundreds of functions. Want some tea?\n\n TEA features are:\n  * Spell checker (using aspell and hunspell)\n  * Tabbed layout engine\n  * Support for multiple encodings\n  * Syntax highlighting\n  * Code snippets and templates support\n  * Wikipedia, DocBook, LaTeX, and Lout editing support\n  * Reading of OpenDocument Text, SWX (old OpenOffice.org format),\n    KWord, AbiWord, DOCX, Scribus, RTF, FB2\n  * Hotkeys customizations\n  * \"Open at cursor\"-function for HTML-files and images\n  * Miscalleneous HTML tools\n  * Preview in external browsers\n  * String-handling functions such as sorting, reverse, format killing,\n    trimming, filtering, conversions etc.\n  * Bookmarks\n  * Drag'n'drop support (with text files and pictures)\n  * Built-in image viewer (PNG, JPEG, GIF, WBMP, BMP, SVG)\n use::editing, use::viewing, works-with::image, works-with::text,\n x11::application\n",
+ "installedSize":"1250",
+ "downloadSize":"555662",
+ "homepage":"http:\/\/tea-editor.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"emma",
+ "description":"extendable MySQL managing assistant",
+ "details":" emma is a graphical toolkit for MySQL database developers and administrators,\n it is the successor of yamysqlfront.\n\n Its main features are:\n   * Dialogs to create\/modify MySQL databases, tables and associated indexes\n   * Result sets grouped in tabs\n   * SQL editor:\n     + Tabs\n     + Built-in syntax highlighting\n     + Table and field name tab-completion\n     + Automatic SQL statement formatting\n   * Export to CSV files\n   * Multiple simultaneously opened MySQL connections\n use::editing, use::viewing, works-with::db, x11::application\n",
+ "installedSize":"588",
+ "downloadSize":"66634",
+ "homepage":"http:\/\/www.fastflo.de\/projects\/emma",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

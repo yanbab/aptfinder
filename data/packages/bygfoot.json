@@ -1,0 +1,9 @@
+{"package":"bygfoot",
+ "description":"football (a.k.a soccer) management game",
+ "details":" Bygfoot allows you to manage a team by training the players, buying and\n selling them, contracting loans, maintaining the stadium, etc. You can be\n promoted or relegated, even become a champion if you're a skillful manager.\n You can customise Bygfoot by writting your own country definition files or\n by creating your own team definition files.\n use::gameplaying, x11::application\n",
+ "installedSize":"812",
+ "downloadSize":"299100",
+ "homepage":"http:\/\/bygfoot.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

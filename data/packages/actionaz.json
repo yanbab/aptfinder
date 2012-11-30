@@ -1,0 +1,9 @@
+{"package":"actionaz",
+ "description":"emulate human activity through a powerful GUI and JavaScript",
+ "details":" Actionaz is an application that allows you to execute many actions on your\n computer such as emulating mouse clicks, key presses, showing message boxes,\n editing text files, etc. Tasks can be created using a simple editor or using\n the EcmaScript (JavaScript) programming language for more customization.\n Actionaz is cross-platform.\n role::program, uitoolkit::qt, x11::application\n",
+ "installedSize":"5253",
+ "downloadSize":"2104642",
+ "homepage":"http:\/\/actionaz.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

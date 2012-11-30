@@ -1,0 +1,9 @@
+{"package":"blueman",
+ "description":"Graphical bluetooth manager",
+ "details":" Blueman is a GTK+ bluetooth management utility for GNOME using bluez D-Bus\n backend.\n",
+ "installedSize":"2575",
+ "downloadSize":"584870",
+ "homepage":"http:\/\/blueman-project.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

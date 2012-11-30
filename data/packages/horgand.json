@@ -1,0 +1,9 @@
+{"package":"horgand",
+ "description":"JACK capable organ softsynth",
+ "details":" Horgand is a JACK capable organ client with presets and some effects\n incorporated. It generates the sound in real time like a FM\n synthesizer. Due this, you can change the frecuency of all the drawars\n and add some special effects. It features auto-accompaniment, looped\n drums, and a bass line in a wave table way.\n sound::TODO, uitoolkit::fltk, works-with::audio, x11::application\n",
+ "installedSize":"368",
+ "downloadSize":"98274",
+ "homepage":"http:\/\/horgand.berlios.de\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

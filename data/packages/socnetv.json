@@ -1,0 +1,9 @@
+{"package":"socnetv",
+ "description":"social network analysis and visualisation application",
+ "details":" SocNetV is a graphical application designed to be an easy tool for Social\n Networks Analysis and Visualisation (not to be confused with social\n networking, as in online communities). With it, one can load and visualise\n networks of various formats (GraphViz, Adjacency, Pajek, etc), and\/or visually\n create and modify a network in a point and click fashion.\n\n The program can also compute network statistics and properties (such as\n distances, centralities, diameter) and apply some layout algorithms for more\n meaningful visualisation of your networks. Furthermore, socnetv can create\n simple random networks (lattice, same degree, etc).\n use::viewing\n",
+ "installedSize":"1384",
+ "downloadSize":"569828",
+ "homepage":"http:\/\/socnetv.sf.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

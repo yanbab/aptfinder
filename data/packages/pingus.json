@@ -1,0 +1,9 @@
+{"package":"pingus",
+ "description":"Free Lemmings(TM) clone",
+ "details":" Pingus is a free clone of the popular Lemmings game.\n\n Your goal is to guide a horde of penguins through a world full of obstacles\n and penguin traps to safety. Although penguins (unlike lemmings) are rather\n smart, they sometimes lack the necessary overview and now rely on you to\n save them.\n\n This package contains the main program.\n use::gameplaying, x11::application\n",
+ "installedSize":"1825",
+ "downloadSize":"738698",
+ "homepage":"http:\/\/pingus.seul.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

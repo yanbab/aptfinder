@@ -1,0 +1,9 @@
+{"package":"almanah",
+ "description":"Application to ease management of a personal diary",
+ "details":" Almanah is a small application to ease management of a personal diary.\n It has basic editing and linking abilities like:\n\n  - adding links to other content to diary entries\n  - database encryption\n  - search and printing support\n suite::gnome, uitoolkit::gtk, use::organizing, x11::application\n",
+ "installedSize":"957",
+ "downloadSize":"217060",
+ "homepage":"http:\/\/live.gnome.org\/Almanah_Diary",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

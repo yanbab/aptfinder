@@ -1,0 +1,9 @@
+{"package":"koules",
+ "description":"abstract space action game",
+ "details":" Koules is a fast action arcade-style game. This version is compiled for X11.\n It has cool 256 color graphics, a multiplayer mode for up to 5 players, full\n sound and, of course, network support. Koules is an original idea. The first\n version of Koules was developed from scratch by Jan Hubicka in July 1995.\n\n It supports multiplayer deathmatch and cooperative play.\n uitoolkit::xlib, use::gameplaying, x11::application\n",
+ "installedSize":"410",
+ "downloadSize":"223256",
+ "homepage":"http:\/\/www.ucw.cz\/~hubicka\/koules\/English\/koules.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

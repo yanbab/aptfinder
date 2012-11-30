@@ -1,0 +1,8 @@
+{"package":"gnuserv",
+ "description":"Allows you to attach to an already running Emacs",
+ "details":" gnuserv allows you to attach to an already running Emacs. This\n allows external programs to make use of Emacs' editing\n capabilities. It is similar to GNU Emacs' emacsclient, but\n has a slightly different feature set.\n\n You do not need this package if you use XEmacs; it already\n includes gnuserv and gnuclient. If you want to use gnuserv with\n both GNU Emacs and XEmacs, you will only be able to use the\n alternative \/usr\/bin\/gnuclient with one flavor of emacs; you will\n have to use either gnuclient.xemacs or gnuclient.emacs for the\n other flavor.\n role::plugin, role::program, suite::emacs, suite::gnu, use::editing\n",
+ "installedSize":"236",
+ "downloadSize":"49206",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

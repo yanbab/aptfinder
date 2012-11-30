@@ -1,0 +1,9 @@
+{"package":"tkgate",
+ "description":"Event driven digital circuit simulator with Tcl\/Tk",
+ "details":" TkGate is a event driven digital circuit simulator with a Tcl\/Tk-based\n graphical editor. TkGate supports a wide range of primitive circuit\n elements as well as user-defined modules for hierarchical design. The\n distribution comes with a number of tutorial and example circuits which\n can be loaded through the \"Help\" menu. The example circuits include a\n simple CPU, programmed to run the Animals game.\n interface::x11, role::program, scope::application, uitoolkit::tk,\n x11::application\n",
+ "installedSize":"671",
+ "downloadSize":"265728",
+ "homepage":"http:\/\/www.tkgate.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

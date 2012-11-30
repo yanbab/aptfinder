@@ -1,0 +1,9 @@
+{"package":"kstars",
+ "description":"desktop planetarium for KDE",
+ "details":" KStars is a desktop planetarium for KDE, depicting an accurate graphical\n simulation of the night sky, from any location on Earth, at any date and time.\n The display includes 130,000 stars, 13,000 deep-sky objects, all 8 planets,\n the Sun and Moon, and thousands of comets and asteroids.  It includes tools\n for astronomical calculations and can control telescopes and cameras.\n\n This package is part of the KDE education module.\n suite::kde, uitoolkit::qt, use::learning, x11::application\n",
+ "installedSize":"3295",
+ "downloadSize":"1164546",
+ "homepage":"http:\/\/edu.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

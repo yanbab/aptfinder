@@ -1,0 +1,9 @@
+{"package":"qliss3d",
+ "description":"demonstration tool for Lissajous figures",
+ "details":" Qliss3d is a tool that generates various Lissajous figures. It is\n possible to rotate the figures and zoom into them. Also changing the\n frequency and replay of the sinus sounds by the same frequency rate\n are implemented.\n\n In mathematics, a Lissajous curve (Lissajous figure or Bowditch curve)\n is the graph of the system of parametric equations which describes\n complex harmonic motion. This family of curves was investigated by\n Nathaniel Bowditch in 1815, and later in more detail by\n Jules Antoine Lissajous.\n Lissajous curves can be traced mechanically by means of a harmonograph.\n",
+ "installedSize":"164",
+ "downloadSize":"33702",
+ "homepage":"http:\/\/qliss3d.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

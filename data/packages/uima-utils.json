@@ -1,0 +1,9 @@
+{"package":"uima-utils",
+ "description":"UIMA tools",
+ "details":" Apache UIMA is an implementation of the OASIS-UIMA specifications.\n\n OASIS UIMA Committee: <http:\/\/www.oasis-open.org\/committees\/uima\/>.\n\n Unstructured Information Management applications are software systems\n that analyze large volumes of unstructured information in order to\n discover knowledge that is relevant to an end user.\n\n An example UIM application might ingest plain text and identify\n entities, such as persons, places, organizations; or relations,\n such as works-for or located-at.\n\n This package provides the UIMA tools : annotationViewer, cpeGui,\n documentAnalyzer, jcasgen, runAE, runCPE, runPearInstaller, runPearMerger,\n runPearPackager\n science::calculation\n",
+ "installedSize":"125",
+ "downloadSize":"31800",
+ "homepage":"http:\/\/uima.apache.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

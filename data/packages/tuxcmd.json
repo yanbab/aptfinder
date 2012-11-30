@@ -1,0 +1,9 @@
+{"package":"tuxcmd",
+ "description":"twin-panel (commander-style) file manager using GTK+ 2",
+ "details":" Tux Commander is a windowed file manager with 2 panels side\n by side similar to popular Total Commander or Midnight\n Commander file managers.\n\n General features:\n  * Two directory panels side by side (vertical)\n  * Tabbed interface, buttons for quick access to favorite\n    places\n  * Configurable mounter bar for quick access to removable\n    media and network shares\n  * Multilingual user interface\n  * Extendable via plugin system\n  * Extension-based file type actions (associations)\n role::program, scope::application, scope::utility, uitoolkit::gtk,\n use::browsing, use::organizing, works-with::archive, works-with::file,\n x11::application\n",
+ "installedSize":"1928",
+ "downloadSize":"708806",
+ "homepage":"http:\/\/tuxcmd.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

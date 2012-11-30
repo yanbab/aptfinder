@@ -1,0 +1,9 @@
+{"package":"vprerex",
+ "description":"Qt interface to prerex, a course prerequisite chart editor",
+ "details":" vprerex provides a Qt interface to prerex by integrating the prerex editor\n with a PDF viewer. This allows conveying coordinates of course boxes, arrows\n and background points back to prerex through the use of the clipboard.\n\n prerex is an editor for creating esthetically pleasing course prerequisite\n charts using the TikZ LaTeX package.\n\n Course prerequisite charts allow students to easily determine which\n prerequisites, corequisites and recommended prerequisites they need for a\n given course and their time slots. Course prerequisite charts also highlight\n the courses required by a degree.\n\n prerex is used by departments in several universities, including Queen's\n University and Suffolk University.\n",
+ "installedSize":"141",
+ "downloadSize":"41132",
+ "homepage":"http:\/\/www.ctan.org\/tex-archive\/graphics\/prerex",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

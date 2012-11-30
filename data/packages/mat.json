@@ -1,0 +1,9 @@
+{"package":"mat",
+ "description":"Metadata anonymisation toolkit",
+ "details":" Metadata consist of information that characterizes data. Metadata are\n used to provide documentation for data products. In essence, metadata\n answer who, what, when, where, why, and how about every facet of the\n data that are being documented.\n\n Metadata within a file can tell a lot about you. Cameras record data\n about when a picture was taken and what camera was used. Office\n documents like PDF or Office automatically adds author and company\n information to documents and spreadsheets.\n\n Maybe you don't want to disclose those information on the web.\n\n Mat only removes metadata from your files, it does not anonymise their\n content, nor can it handle watermarking, steganography, or any too\n custom metadata field\/system.\n\n If you really want to be anonym, use format that does not contain any\n metadata, or better: use plain-text.\n\n Formats supported to some extent are:\n    - Portable Network Graphics (PNG)\n    - JPEG (.jpeg, .jpg, ...)\n    - Open Document (.odt, .odx, .ods, ...)\n    - Office Openxml (.docx, .pptx, .xlsx, ...)\n    - Portable Document Fileformat (.pdf)\n    - Tape ARchive (.tar, .tar.bz2, .tar.gz)\n    - ZIP (.zip)\n    - MPEG Audio (.mp3, .mp2, .mp1, .mpa)\n    - Ogg Vorbis (.ogg)\n    - Free Lossless Audio Codec (.flac)\n    - Torrent (.torrent)\n",
+ "installedSize":"227",
+ "downloadSize":"87614",
+ "homepage":"https:\/\/mat.boum.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"kchmviewer",
+ "description":"CHM viewer for KDE",
+ "details":" KchmViewer is a chm (MS HTML help file format) viewer, written in C++.\n Unlike most existing CHM viewers for Unix, it uses Trolltech Qt widget\n library, and does not depend on KDE or GNOME. However, it may be compiled\n with full KDE support, including KDE widgets and KIO\/KHTML.\n\n The main advantage of KchmViewer is non-English language support. Unlike\n others, KchmViewer in most cases correctly detects help file encoding,\n correctly shows tables of context of Russian, Korean, Chinese and Japanese\n help files, and correctly searches in non-English help files (search for\n MBCS languages - ja\/ko\/ch is still in progress).\n\n Completely safe and harmless. Does not support JavaScript in any way,\n optionally warns you before opening an external web page, or switching to\n another help file. Shows an appropriate image for every TOC entry.\n\n KchmViewer Has complete chm index support, including multiple index entries,\n cross-links and parent\/child entries in index as well as Persistent bookmarks\n support. Correctly detects and shows encoding of any valid chm file.\n uitoolkit::qt, use::viewing, works-with-format::chm, works-with::text,\n x11::application\n",
+ "installedSize":"828",
+ "downloadSize":"253964",
+ "homepage":"http:\/\/www.kchmviewer.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

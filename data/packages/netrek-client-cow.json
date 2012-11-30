@@ -1,0 +1,9 @@
+{"package":"netrek-client-cow",
+ "description":"client for netrek online game",
+ "details":" This is a client for the multi-player game of Netrek.\n\n Netrek is probably the first video game which can accurately be\n described as a \"sport\".  It has more in common with basketball than\n with arcade games or Quake.  Its vast and expanding array of tactics\n and strategies allows for many different play styles; the best\n players are the ones who think fastest, not necessarily the ones who\n twitch most effectively.  It can be enjoyed as a twitch game, since\n the dogfighting system is extremely robust, but the things that\n really set Netrek apart from other video games are the team and\n strategic aspects.  Team play is dynamic and varied, with roles\n constantly changing as the game state changes.  Strategic play is\n explored in organized league games; after 6+ years of league play,\n strategies are still being invented and refined.\n\n The game was created in 1988, and still has players, including some\n people who have been playing for nearly as long as the game has\n existed.\n",
+ "installedSize":"2720",
+ "downloadSize":"1420126",
+ "homepage":"http:\/\/www.netrek.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

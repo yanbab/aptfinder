@@ -1,0 +1,9 @@
+{"package":"winpdb",
+ "description":"Platform independent Python debugger",
+ "details":" Winpdb supports debugging of threads- and curses based applications,\n namespace modification and embedded debugging. As a remote debugger,\n it uses (encrypted) network connections to connect to the debuggee\n (which is running on the same machine, usually).\n\n Winpdb is the graphical, wx-based frontend to rpdb2, which is also\n included in this package. rpdb2 is text based and able to use screen\n sessions if there is no x-terminal-emulator available.\n\n Winpdb is up to 20 times faster than pdb.\n interface::text-mode, interface::x11, role::program,\n uitoolkit::wxwidgets, x11::application\n",
+ "installedSize":"714",
+ "downloadSize":"153770",
+ "homepage":"http:\/\/www.winpdb.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

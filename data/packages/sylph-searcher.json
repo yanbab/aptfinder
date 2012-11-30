@@ -1,0 +1,9 @@
+{"package":"sylph-searcher",
+ "description":"Full-text search program for Sylpheed or MH folders",
+ "details":" Sylph-Searcher is a Full-text search program for messages stored in the\n mailboxes of Sylpheed, or generic MH folders.\n",
+ "installedSize":"204",
+ "downloadSize":"64522",
+ "homepage":"http:\/\/sylpheed.sraoss.jp\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

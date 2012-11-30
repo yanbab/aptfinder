@@ -1,0 +1,9 @@
+{"package":"devede",
+ "description":"simple application to create Video DVDs",
+ "details":" DeVeDe is a program to create video DVDs, suitables for home players, from\n any number of video files, in any of the formats supported by Mplayer.\n\n It allows user to create subtitles and even menus.\n",
+ "installedSize":"3894",
+ "downloadSize":"2217766",
+ "homepage":"http:\/\/www.rastersoft.com\/programas\/devede.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

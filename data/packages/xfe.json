@@ -1,0 +1,9 @@
+{"package":"xfe",
+ "description":"lightweight file manager for X11",
+ "details":" Xfe is based on the popular but discontinued X Win Commander. It is\n desktop independent and is written using the C++ Fox Toolkit. Its\n appearance is similar to the Windows file-manager Total Commander\n or Windows Explorer. It is very fast and simple.\n\n The main features are: file associations, mount\/umount devices,\n directory tree for quick cd, change file attributes, auto save\n registry, compressed archives view\/creation\/extraction, compatibility\n with GNOME\/KDE\/Xfce, and much more.\n\n Containing a simple text viewer (Xfview), text editor (Xfwrite),\n image viewer (Xfimage) and package manager (Xfpack).\n uitoolkit::TODO, use::browsing, use::organizing, works-with::file,\n x11::application\n",
+ "installedSize":"3782",
+ "downloadSize":"1574582",
+ "homepage":"http:\/\/roland65.free.fr\/xfe\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

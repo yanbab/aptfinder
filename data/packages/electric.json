@@ -1,0 +1,9 @@
+{"package":"electric",
+ "description":"electrical CAD system",
+ "details":" Electric is a sophisticated electrical CAD system that can handle many forms\n of circuit design, including custom IC layout (ASICs), schematic drawing,\n hardware description language specifications, and electro-mechanical hybrid\n layout.\n suite::gnu, uitoolkit::motif, use::editing, x11::application\n",
+ "installedSize":"11860",
+ "downloadSize":"11235316",
+ "homepage":"http:\/\/www.staticfreesoft.com\/productsFree.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

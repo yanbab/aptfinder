@@ -1,0 +1,9 @@
+{"package":"rygel",
+ "description":"GNOME UPnP\/DLNA services",
+ "details":" Rygel is a collection of DLNA (UPnP AV) services (devices in UPnP speak),\n implemented through a plug-in mechanism. Important facts and features:\n   * APIs to ease the implementation of AV devices (currently only\n     MediaServer V 2.0 specification).\n   * Audio and Video Transcoding: source format could be anything\n     GStreamer's decodebin2 can handle but output formats are currently\n     limited to: mp3, PCM and MPEG TS. Fortunately the transcoding\n     framework is flexible enough to easily add more transcoding targets.\n   * Specifically designed for GNOME (Mobile).\n   * Based on GUPnP.\n   * Written (mostly) in Vala language.\n\n This package contains the core of Rygel and following plugins:\n   * media-export: Recursively exports folders and files specified in the\n     user configuration. This plugin supports all types of URIs that\n     gio\/gvfs and GStreamer can handle.\n   * external: A MediaServer plugin that exports media hierarchies\n     provided by external applications.\n   * mpris: Export of media players that implement MPRIS2 D-Bus interface,\n     as MediaRenderer devices.\n uitoolkit::gtk, works-with::audio\n",
+ "installedSize":"2557",
+ "downloadSize":"926490",
+ "homepage":"http:\/\/live.gnome.org\/Rygel",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

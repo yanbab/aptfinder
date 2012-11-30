@@ -1,0 +1,9 @@
+{"package":"psychopy",
+ "description":"environment for creating psychology stimuli in Python",
+ "details":" PsychoPy provides an environment for creating psychology stimuli\n using Python scripting language.  It combines the graphical\n strengths of OpenGL with easy Python syntax to give psychophysics\n a free and simple stimulus presentation and control package.\n\n The goal is to provide, for the busy scientist, tools to control\n timing and windowing and a simple set of pre-packaged stimuli and\n methods.  PsychoPy features\n\n  - IDE GUI for coding in a powerful scripting language (Python)\n  - Builder GUI for rapid development of stimulation sequences\n  - Use of hardware-accelerated graphics (OpenGL)\n  - Integration with Spectrascan PR650 for easy monitor calibration\n  - Simple routines for staircase and constant stimuli experimental\n    methods as well as curve-fitting and bootstrapping\n  - Simple (or complex) GUIs via wxPython\n  - Easy interfaces to joysticks, mice, sound cards etc. via PyGame\n  - Video playback (MPG, DivX, AVI, QuickTime, etc.) as stimuli\n",
+ "installedSize":"4463",
+ "downloadSize":"2688526",
+ "homepage":"http:\/\/www.psychopy.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

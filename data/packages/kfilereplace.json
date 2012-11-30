@@ -1,0 +1,9 @@
+{"package":"kfilereplace",
+ "description":"batch search-and-replace component",
+ "details":" KFileReplace is an embedded component for KDE that acts as a batch\n search-and-replace tool. It allows you to replace one expression with\n another in many files at once.\n\n This package is part of KDE web development module.\n uitoolkit::qt, works-with::text, x11::application\n",
+ "installedSize":"865",
+ "downloadSize":"475374",
+ "homepage":"http:\/\/kdewebdev.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

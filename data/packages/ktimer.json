@@ -1,0 +1,9 @@
+{"package":"ktimer",
+ "description":"countdown timer",
+ "details":" KTimer is a countdown timer for running commands after a delay.\n The countdown can be paused or set to loop continuously.\n\n This package is part of the KDE SC utilities module.\n suite::kde, uitoolkit::qt, use::timekeeping, x11::application\n",
+ "installedSize":"323",
+ "downloadSize":"194236",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

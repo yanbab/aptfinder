@@ -1,0 +1,9 @@
+{"package":"thunar",
+ "description":"File Manager for Xfce",
+ "details":" Thunar is the file manager designed to be the default file manager of Xfce 4.6\n It has been designed to be fast and easy to use.\n\n An Xfce plugin can manages the trash, if xfce4-panel is installed as well.\n Please read README.Debian for volume management stuff.\n suite::xfce, uitoolkit::gtk, use::organizing, use::searching,\n works-with::file, x11::application\n",
+ "installedSize":"914",
+ "downloadSize":"322340",
+ "homepage":"http:\/\/thunar.xfce.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

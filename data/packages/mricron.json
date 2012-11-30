@@ -1,0 +1,9 @@
+{"package":"mricron",
+ "description":"magnetic resonance image conversion, viewing and analysis",
+ "details":" This is a GUI-based visualization and analysis tool for (functional) magnetic\n resonance imaging. MRIcron can be used to create 2D or 3D renderings of\n statistical overlay maps on brain anatomy images. Moreover, it aids drawing\n anatomical regions-of-interest (ROI), or lesion mapping, as well as basic\n analysis of functional timeseries (e.g. creating plots of peristimulus\n signal-change).\n\n In addition to 'mricron', this package also provides 'dcm2nii' that supports\n converting DICOM and PAR\/REC images into the NIfTI format, and 'npm' for\n non-parametric data analysis.\n",
+ "installedSize":"15061",
+ "downloadSize":"5788402",
+ "homepage":"http:\/\/www.cabiatl.com\/mricro\/mricron\/index.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

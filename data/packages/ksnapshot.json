@@ -1,0 +1,9 @@
+{"package":"ksnapshot",
+ "description":"screen capture tool",
+ "details":" KSnapshot captures images of the screen.  It can capture the whole screen,\n a specified region, an individual window, or only part of a window.\n\n This package is part of the KDE graphics module.\n suite::kde, uitoolkit::qt, use::TODO, works-with::image,\n works-with::image:raster, x11::applet, x11::application\n",
+ "installedSize":"608",
+ "downloadSize":"338166",
+ "homepage":"http:\/\/www.kde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

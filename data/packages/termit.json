@@ -1,0 +1,9 @@
+{"package":"termit",
+ "description":"Simple terminal emulator based on vte library, embedded lua",
+ "details":" Support features like multiple tabs, switching encodings, sessions,\n configurable keybindings, embedded Lua language and xterm-like dynamic\n window title\n x11::application, x11::terminal\n",
+ "installedSize":"243",
+ "downloadSize":"56568",
+ "homepage":"https:\/\/github.com\/nonstop\/termit\/wiki",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"jd",
+ "description":"simple browser for \"2ch-style\" web forum sites",
+ "details":" JD offers a comfortable browsing experience on 2ch-style bulletin board\n systems. Its features include:\n\n  - automated login,\n  - message viewing\/posting,\n  - image viewing,\n  - mouse gestures,\n  - ignore lists,\n  - \"play-by-play\" mode.\n\n It can also significantly reduce the load on servers by bypassing CGI programs\n and directly retrieving thread data files to your local hard drives.\n\n \"2ch-style\" web forum sites have their origins in 2channel, which is a very\n popular Internet forum in Japan. Such sites are often available only in the\n Japanese language. For example:\n\n  - 2channel http:\/\/www.2ch.net\n  - Shitaraba http:\/\/rentalbbs.livedoor.com\/jbbs\/\n  - Machi-BBS http:\/\/www.machi.to\/\n role::program, uitoolkit::gtk, x11::application\n",
+ "installedSize":"6227",
+ "downloadSize":"2053408",
+ "homepage":"http:\/\/jd4linux.sourceforge.jp\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

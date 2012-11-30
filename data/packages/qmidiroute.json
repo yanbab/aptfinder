@@ -1,0 +1,9 @@
+{"package":"qmidiroute",
+ "description":"a MIDI event router and filter",
+ "details":" MIDI note, control change,program change and pitch bend events\n are logged, and can be filtered, redirected and transformed\n into other events according to MIDI maps defined as tabs\n in the main control surface.\n\n You can copy midi MAPS into new tabs using the 'Clone MIDI map' button.\n All MIDI maps can be saved in a .qma text file.\n",
+ "installedSize":"252",
+ "downloadSize":"66422",
+ "homepage":"http:\/\/alsamodular.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

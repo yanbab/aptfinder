@@ -1,0 +1,9 @@
+{"package":"wmitime",
+ "description":"clock dock app showing time and internet time",
+ "details":" WMitime is clock dock app, which shows standard time,\n date. The unique feature is that it can also show Internet time\n with notation @TIME. See <http:\/\/www.swatch.com\/> for more about\n Internet time.\n uitoolkit::xlib, use::timekeeping, x11::applet\n",
+ "installedSize":"97",
+ "downloadSize":"21532",
+ "homepage":"http:\/\/www.freshports.org\/x11-clocks\/wmitime",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

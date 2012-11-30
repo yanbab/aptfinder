@@ -1,0 +1,9 @@
+{"package":"kanyremote",
+ "description":"KDE frontend for anyRemote",
+ "details":" kAnyRemote package is KDE GUI frontend for anyRemote.\n (http:\/\/anyremote.sourceforge.net\/). The overall goal of this project is to\n provide remote control service on Linux through Bluetooth, InfraRed, Wi-Fi\n or TCP\/IP connection.\n",
+ "installedSize":"501",
+ "downloadSize":"88906",
+ "homepage":"http:\/\/anyremote.sourceforge.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

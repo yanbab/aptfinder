@@ -1,0 +1,9 @@
+{"package":"krusader",
+ "description":"twin-panel (commander-style) file manager",
+ "details":" Krusader is a simple, easy, powerful, twin-panel (commander-style) file\n manager, similar to Midnight Commander (C) or Total Commander (C).\n\n It provides all the file management features you could possibly want.\n\n Plus: extensive archive handling, mounted filesystem support, FTP,\n advanced search module, viewer\/editor, directory synchronisation,\n file content comparisons, powerful batch renaming and much more.\n\n It supports archive formats: ace, arj, bzip2, deb, iso, lha, rar, rpm, tar,\n zip and 7-zip.\n\n It handles KIOSlaves such as smb:\/\/ or fish:\/\/.\n\n Almost completely customizable, Krusader is very user friendly, fast and looks\n great on your desktop.\n suite::kde, uitoolkit::qt, use::browsing, use::organizing,\n works-with::file, x11::application\n",
+ "installedSize":"9820",
+ "downloadSize":"4477858",
+ "homepage":"http:\/\/www.krusader.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

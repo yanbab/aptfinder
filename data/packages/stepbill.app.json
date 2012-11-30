@@ -1,0 +1,9 @@
+{"package":"stepbill.app",
+ "description":"Get rid of those nasty Wingdows viruses",
+ "details":" This is a port of the MacBill, which is based on xbill, source to GNUstep.\n\n Ever get the feeling that nothing is going right?  You're a sysadmin, and\n someone's trying to destroy your computers.  The little people running\n around the screen are trying to infect your computers with Wingdows [TM],\n a virus cleverly designed to resemble a popular operating system.  Your\n objective is to click the mouse on them, ending their potential threat.\n If one of the people reaches a computer, it will attempt to replace your\n operating system with the virus it carries. It will then attempt to run off\n the screen with your vital software.\n role::program, suite::gnustep, uitoolkit::gnustep, use::gameplaying,\n x11::applet\n",
+ "installedSize":"984",
+ "downloadSize":"92166",
+ "homepage":"http:\/\/www.linuks.mine.nu\/stepbill\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"alarm-clock-applet",
+ "description":"Alarm Clock applet",
+ "details":" Alarm Clock is a fully-featured alarm clock which resides in the notification\n area. It is easy to use yet powerful with support for multiple and repeatable\n alarms, as well as snoozing and a flexible notification system.\n\n Two types of alarms are supported: Alarm Clocks and Timers.\n Notification is done by either playing a sound or launching an\n application.\n use::timekeeping, x11::applet\n",
+ "installedSize":"985",
+ "downloadSize":"205386",
+ "homepage":"http:\/\/alarm-clock.pseudoberries.com\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

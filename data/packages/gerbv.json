@@ -1,0 +1,9 @@
+{"package":"gerbv",
+ "description":"Gerber file viewer for PCB design",
+ "details":" gerbv is a utility for viewing Gerber RS-274X files, Excellon drill files,\n and CSV pick-and-place files. Gerber files are used for communicating\n printed circuit board (PCB) designs to PCB manufacturers.\n uitoolkit::gtk, use::viewing, x11::application\n",
+ "installedSize":"4593",
+ "downloadSize":"1213590",
+ "homepage":"http:\/\/gerbv.gpleda.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

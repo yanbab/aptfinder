@@ -1,0 +1,9 @@
+{"package":"netpanzer",
+ "description":"online multiplayer tactical warfare game",
+ "details":" netPanzer is an isometric view real-time tactical game designed for\n play across the Internet and over LAN systems. One on one games are\n possible via direct connect or modem.\n\n netPanzer is designed for FAST ACTION combat -- it is not another resource\n management clone. In fact, there aren't any resources at all. Each player\n will have many units of different types at their disposal. Players can fight\n until their units are destroyed -- then respawn and keep on going.\n\n The game is real-time, but it's based on quick tactical action and unit\n management. Battles progress quickly and constantly; in fact, they never\n let up. There is no stop in the action because there is no waiting for\n resources to be collected and converted into weaponry. Players can join\n or leave  multiplayer games at any time.\n use::gameplaying, x11::application\n",
+ "installedSize":"997",
+ "downloadSize":"439902",
+ "homepage":"http:\/\/netpanzer.berlios.de",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

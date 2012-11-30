@@ -1,0 +1,9 @@
+{"package":"gnome-split",
+ "description":"GNOME Split - File splitter for GNOME desktop",
+ "details":" Tool that allows you to split files and merge them back. It is written in Java\n and uses a GTK+ user interface (thanks to the java-gnome project). The goal is\n to offer a native implementation of similar projects which can handle multiple\n file formats (e.g. Xtremsplit).\n",
+ "installedSize":"512",
+ "downloadSize":"202038",
+ "homepage":"http:\/\/gnome-split.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

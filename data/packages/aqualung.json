@@ -1,0 +1,9 @@
+{"package":"aqualung",
+ "description":"Gapless Gtk-based audio player",
+ "details":" Aqualung is a music player for the GNU\/Linux operating system. It plays\n audio files from your filesystem and has the feature of inserting no gaps\n between adjacent tracks. It also supports high quality sample rate\n conversion between the file and the output device, when necessary.\n\n Almost all sample-based, uncompressed formats (e.g. WAV, AIFF, AU etc.) are\n supported. Files encoded with FLAC (the Free Lossless Audio Codec), Ogg\n Vorbis, Ogg Speex, MPEG Audio (including the infamous MP3 format) and MOD\n audio formats (MOD, S3M, XM, IT, etc.), Musepack are also supported.\n\n The program can play the music through OSS, ALSA or using the JACK Audio\n Connection Kit.\n\n Aqualung supports the LADSPA 1.1 plugin standard. You can use any suitable\n plugin to enhance the music you are listening to.\n scope::application, sound::player, uitoolkit::gtk, use::playing,\n works-with-format::TODO, works-with-format::mp3,\n works-with-format::oggvorbis, works-with-format::wav,\n works-with::audio, x11::application\n",
+ "installedSize":"2097",
+ "downloadSize":"1014546",
+ "homepage":"http:\/\/aqualung.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

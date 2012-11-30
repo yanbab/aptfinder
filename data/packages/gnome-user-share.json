@@ -1,0 +1,8 @@
+{"package":"gnome-user-share",
+ "description":"User level public file sharing via WebDAV or ObexFTP",
+ "details":" gnome-user-share is a small package that allows easy user-level file sharing\n via WebDAV or ObexFTP. The shared files are announced on the network\n by Avahi.\n suite::gnome, uitoolkit::gtk\n",
+ "installedSize":"2452",
+ "downloadSize":"879754",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

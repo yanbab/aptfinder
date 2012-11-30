@@ -1,0 +1,9 @@
+{"package":"linphone",
+ "description":"SIP softphone - graphical client",
+ "details":" Linphone is an audio and video internet phone using the SIP protocol. It\n has a GTK+ and console interface, includes a large variety of audio and video\n codecs, and provides IM features.\n\n The main features of linphone are:\n   - a nice graphical interface;\n   - it includes a large variety of codecs with different quality \/ bandwidths;\n   - it uses the well-known and standardised SIP protocol.\n",
+ "installedSize":"248",
+ "downloadSize":"93944",
+ "homepage":"http:\/\/www.linphone.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"gnustep-dl2",
+ "description":"Objective-C Classes needed for Database Access",
+ "details":" GNUstep Database Library Version 2 is needed by GNUstep applications that\n communicate with databases.  It's an implementation of Apple's\n Enterprise Objects Framework (EOF) v 3.0 (from NeXT), and Apple's\n WebObjects 4.5 interface.\n role::devel-lib, suite::gnustep, uitoolkit::gnustep, works-with::db,\n x11::application\n",
+ "installedSize":"1186",
+ "downloadSize":"574584",
+ "homepage":"http:\/\/www.gnustep.org\/experience\/GDL2.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

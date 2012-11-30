@@ -1,0 +1,9 @@
+{"package":"itksnap",
+ "description":"semi-automatic segmentation of structures in 3D images",
+ "details":" SNAP provides semi-automatic segmentation of structures in medical\n images (e.g.  magnetic resonance images of the brain) using active\n contour methods, as well as manual delineation and image navigation.\n Noteworthy features are:\n\n  * Linked cursor for seamless 3D navigation\n  * Manual segmentation in three orthogonal planes at once\n  * Support for many different 3D image formats, including NIfTI\n  * Support for concurrent, linked viewing and segmentation of multiple images\n  * Limited support for color images (e.g., diffusion tensor maps)\n  * 3D cut-plane tool for fast post-processing of segmentation results\n",
+ "installedSize":"12208",
+ "downloadSize":"4648362",
+ "homepage":"http:\/\/www.itksnap.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

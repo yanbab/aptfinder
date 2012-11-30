@@ -1,0 +1,9 @@
+{"package":"aeskulap",
+ "description":"medical image viewer and DICOM network client",
+ "details":" Aeskulap is able to load a series of special images stored in the DICOM\n format for review. Additionally it is able to query and fetch DICOM\n images from archive nodes (also called PACS) over the network.  Aeskulap\n tries to achieve a full open source replacement for  commercially\n available DICOM viewers.\n implemented-in::c++, interface::x11, network::client, role::program,\n scope::application, uitoolkit::gtk, use::viewing, works-with::image,\n x11::application\n",
+ "installedSize":"1658",
+ "downloadSize":"521044",
+ "homepage":"http:\/\/aeskulap.nongnu.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,9 @@
+{"package":"bareftp",
+ "description":"FTP client for GNOME",
+ "details":" bareFTP is a simple ftp client for the GNOME desktop. It supports the FTP,\n FTPS and SSH (SFTP) protocols. It also supports: resume and append, active\n and passive mode, browse during file transfers, boomarks and drag and drop.\n protocol::sftp, protocol::ssh, protocol::ssl, role::program,\n uitoolkit::gtk, use::downloading, works-with::file, x11::application\n",
+ "installedSize":"960",
+ "downloadSize":"218814",
+ "homepage":"http:\/\/www.bareftp.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

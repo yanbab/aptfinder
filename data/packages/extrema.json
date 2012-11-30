@@ -1,0 +1,9 @@
+{"package":"extrema",
+ "description":"powerful visualization and data analysis tool",
+ "details":" Extrema is a mature and robust data analysis application, originally\n developed at the TRIUMF particle physics laboratory. It is designed to\n be of great practical use to researchers and aims to be both powerful\n and easy to use.\n\n Extrema features a rich graphical user interface, as well as an\n intuitive command language. It provides well-documented tools for both\n 2D and 3D graphing, data reduction and analysis, and data input\/output.\n role::program, uitoolkit::gtk, uitoolkit::wxwidgets, use::analysing,\n use::viewing, works-with::image:raster, x11::application\n",
+ "installedSize":"6762",
+ "downloadSize":"3306286",
+ "homepage":"http:\/\/exsitewebware.com\/extrema\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

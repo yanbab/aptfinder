@@ -1,0 +1,9 @@
+{"package":"griffith",
+ "description":"film collection manager",
+ "details":" Adding items to the movie collection is as quick and easy as typing the film\n title and selecting a supported source. Griffith will then try to fetch all\n the related information from the Web.\n role::program, scope::application, uitoolkit::gtk, use::organizing,\n works-with::db, x11::application\n",
+ "installedSize":"3348",
+ "downloadSize":"832152",
+ "homepage":"http:\/\/www.griffith.cc\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

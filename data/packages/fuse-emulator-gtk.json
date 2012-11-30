@@ -1,0 +1,9 @@
+{"package":"fuse-emulator-gtk",
+ "description":"The Free Unix Spectrum Emulator (GTK+ version)",
+ "details":" Fuse is a Sinclair ZX Spectrum emulator. It supports several models\n (including 16K\/48K\/128K\/+2\/+2A\/+3 and some clones), with quite\n faithful emulation of the display and sound.\n\n Its features include:\n  * Accurate Spectrum 16K\/48K\/128K\/+2\/+2A\/+3 emulation.\n  * Working Spectrum +3e and SE, Timex TC2048, TC2068 and TS2068,\n    Pentagon 128, \"512\" (Pentagon 128 with extra memory) and 1024 and\n    Scorpion ZS 256 emulation.\n  * Runs at true Speccy speed on any computer you're likely to try it\n    on.\n  * It can load Z80, SZX and SNA snapshots, TAP and TZX virtual-tape\n    files (including accelerated loading), MDR microdrive images and\n    DSK floppy disk images, among many others.\n  * Sound.\n  * Emulation of most of the common joysticks used on the Spectrum\n    (including Kempston, Sinclair and Cursor joysticks).\n  * Emulation of some of the printers you could attach to a Spectrum.\n  * Support for the RZX input recording file format, including\n    rollback and 'competition mode'.\n  * Emulation of the DivIDE, Interface I, Kempston mouse, Spectrum\n    +3e, ZXATASP, ZXCF, Beta 128, Opus Discovery and +D interfaces.\n\n This package provides binaries for the GTK+ version of Fuse.\n",
+ "installedSize":"1030",
+ "downloadSize":"338282",
+ "homepage":"http:\/\/fuse-emulator.sourceforge.net\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

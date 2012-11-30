@@ -1,0 +1,9 @@
+{"package":"choqok",
+ "description":"KDE micro-blogging client",
+ "details":" Choqok is a fast, efficient and simple to use micro-blogging client for KDE.\n It currently supports the twitter.com and identi.ca microblogging services.\n\n Other notable features include:\n    * Support for user + friends time-lines.\n    * Support for @Reply time-lines.\n    * Support for sending and receiving direct messages.\n    * Twitpic.com integration.\n    * The ability to use multiple accounts simultaneously.\n    * Support for search APIs for all services.\n    * KWallet integration.\n    * Support for automatic shortening urls with more than 30 characters.\n    * Support for configuring status lists appearance.\n uitoolkit::qt, web::microblog, x11::application\n",
+ "installedSize":"3716",
+ "downloadSize":"1586308",
+ "homepage":"http:\/\/choqok.gnufolks.org",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

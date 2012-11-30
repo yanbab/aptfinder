@@ -1,0 +1,9 @@
+{"package":"kvkbd",
+ "description":"Virtual keyboard for KDE",
+ "details":" Virtual keyboard for KDE for use with accessibility. The application contains\n a systray widget as well as a dockwidget.\n role::program, suite::kde, uitoolkit::qt, x11::application\n",
+ "installedSize":"272",
+ "downloadSize":"87998",
+ "homepage":"http:\/\/www.kde-apps.org\/content\/show.php\/Kvkbd+-+KDE4?content=94374",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

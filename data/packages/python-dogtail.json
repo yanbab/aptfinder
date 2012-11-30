@@ -1,0 +1,8 @@
+{"package":"python-dogtail",
+ "description":"GUI test tool and automation framework",
+ "details":" dogtail is a GUI test tool and automation framework written in Python.\n It uses Accessibility (a11y) technologies to communicate with desktop\n applications. dogtail scripts are written in Python.\n\n Homepage: http:\/\/people.redhat.com\/zcerza\/dogtail\/\n interface::x11, role::program, x11::application\n",
+ "installedSize":"656",
+ "downloadSize":"102298",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

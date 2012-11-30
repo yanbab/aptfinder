@@ -1,0 +1,9 @@
+{"package":"minirok",
+ "description":"a small music player written in Python and inspired by Amarok",
+ "details":" Minirok is a small music player written in Python for the K Desktop\n Environment. As its name hints, it's modelled after Amarok, but with a\n reduced set of features. In particular, it is designed to cover all the\n needs and wishes of the author, leaving everything else out. The look\n and feel is almost identical to Amarok's, though.\n\n The main interface is a *tree view of the filesystem*, with a playlist\n that can only be populated via drag and drop. There is no collection\n built from tags, so it's targeted at people whose collection is\n structured in a tree already at the filesystem level. Searches can be\n performed both in the tree view and the playlist.\n\n Other features include:\n\n  * DBus interface for controlling the player and retrieving the\n    currently played track, among other things\n\n  * alter the playing order in the playlist by queueing tracks;\n    stop after a certain track; repeat track or playlist; random mode;\n    undo and redo\n\n  * reading of tags when adding to the playlist can be disabled by\n    specifying a regular expression to extract them from the filename\n\n  * submission of played songs to Last.fm\n\n  * global shortcuts\n\n Minirok is written using the PyKDE bindings and the GStreamer media\n framework.\n",
+ "installedSize":"496",
+ "downloadSize":"74524",
+ "homepage":"http:\/\/chistera.yi.org\/~adeodato\/code\/minirok",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

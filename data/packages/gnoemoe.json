@@ -1,0 +1,8 @@
+{"package":"gnoemoe",
+ "description":"A GNOME MOO Client",
+ "details":" GnoeMoe is a GNOME\/GTK+ MOO client. It's stable and feature rich. Some of the\n features include ANSI, MCP (the MOO Client Protocol), multiple tabbed worlds,\n internal editor with syntax checker, external editors, limited ruby scripting\n and triggers. GnoeMoe aims to integrate in the GNOME desktop environment as\n well as possible.\n role::program, suite::gnome, uitoolkit::gtk, uitoolkit::ncurses,\n use::gameplaying, x11::application\n",
+ "installedSize":"1288",
+ "downloadSize":"268580",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

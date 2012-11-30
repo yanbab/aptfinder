@@ -1,0 +1,9 @@
+{"package":"rlvm",
+ "description":"RealLive virtual machine clone",
+ "details":" rlvm is a Free Software reimplementation of VisualArt's KK's RealLive\n interpreter. RealLive is a game engine used to write visual novels, used in\n the games Kanon, Air, CLANNAD, Planetarian, Tomoyo After and Little Busters,\n among many others.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"1976",
+ "downloadSize":"819906",
+ "homepage":"http:\/\/www.elliotglaysher.org\/rlvm\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

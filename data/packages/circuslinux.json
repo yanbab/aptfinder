@@ -1,0 +1,9 @@
+{"package":"circuslinux",
+ "description":"Clowns are trying to pop balloons to score points!",
+ "details":" \"Circus Linux!\" is based on the Atari 2600 game \"Circus Atari\" by Atari,\n released in 1980. Gameplay is similar to \"Breakout\" and \"Arkanoid\" - you\n slide a device left and right to bounce objects into the air which destroy\n a wall.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"149",
+ "downloadSize":"46638",
+ "homepage":"http:\/\/www.newbreedsoftware.com\/circus-linux\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

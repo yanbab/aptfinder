@@ -1,0 +1,9 @@
+{"package":"gnome-color-manager",
+ "description":"Color management integration for the GNOME desktop environment",
+ "details":" GNOME Color Manager is a set of graphical utilities for color\n management to be used in the GNOME desktop.  With the help of\n ArgyllCMS, it can create and apply display ICC color profiles.\n",
+ "installedSize":"4081",
+ "downloadSize":"1912284",
+ "homepage":"http:\/\/projects.gnome.org\/gnome-color-manager\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

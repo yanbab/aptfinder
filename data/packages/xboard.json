@@ -1,0 +1,9 @@
+{"package":"xboard",
+ "description":"X Window System Chess Board",
+ "details":" XBoard is a graphical chessboard that can serve as a user interface\n for chess programs, for the Internet Chess Server, or for electronic\n mail correspondence chess. It supports all major forms of chess,\n such as international chess, xiangqi and shogi. XBoard can also be\n used by itself as viewer for stored chess games.\n\n XBoard uses the Helvetica font (located in the xfonts-75dpi and\n xfonts-100dpi packages) by default.  However, other fonts can be\n specified via a command line option or an X resource.\n role::program, uitoolkit::athena, use::gameplaying, x11::application\n",
+ "installedSize":"4472",
+ "downloadSize":"1281596",
+ "homepage":"http:\/\/savannah.gnu.org\/projects\/xboard\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

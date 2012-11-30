@@ -1,0 +1,9 @@
+{"package":"gpicview",
+ "description":"lightweight image viewer",
+ "details":" GPicView is a lightweight GTK+ 2.x based image viewer with following features:\n\n  * Extremely lightweight and fast with low memory usage\n  * Very suitable for default image viewer of desktop system\n  * Simple and intuitive interface\n  * Minimal lib dependency: Only pure GTK+ is used\n  * Desktop independent: Doesn't require any specific desktop environment\n use::viewing, works-with::image, x11::application\n",
+ "installedSize":"799",
+ "downloadSize":"97366",
+ "homepage":"http:\/\/www.lxde.org\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

@@ -1,0 +1,8 @@
+{"package":"goplay",
+ "description":"games (and more) package browser using DebTags",
+ "details":" GoPlay! is a Graphical User Interface (GUI) that uses DebTags for\n easily finding games in the package archive. The program uses FLTK\n for handling the widgets, and libept as the backend for retrieving\n the data.\n\n GoPlay! is also a generic yet simple to use DebTags-based package browser.\n Prepackaged browsers GoLearn!, GoAdmin!, GoNet!, GoOffice!, GoSafe!, GoWeb!\n and GoScience! show applications (and for some of them also documentation)\n packages related to education, administration, network, office, safety, web\n and science.  You can also roll your own custom browsers using commandline\n options.\n suite::debian, uitoolkit::fltk, use::gameplaying, use::searching,\n works-with::software:package, x11::application\n",
+ "installedSize":"630",
+ "downloadSize":"265984",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

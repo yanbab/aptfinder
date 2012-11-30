@@ -1,0 +1,9 @@
+{"package":"gtranslator",
+ "description":"PO-file editor for the GNOME Desktop",
+ "details":" GTranslator is a po file editor which makes translating gettext applications\n as easy as possible, even for people with no translation experience.\n\n It supports the usage of translation memories, syntax highlighting, spell\n checking, undoing of insertions and deletions, and general integration with\n the GNOME Desktop.\n suite::gnome, uitoolkit::gtk, use::converting, works-with-format::po,\n works-with::dictionary, x11::application\n",
+ "installedSize":"11506",
+ "downloadSize":"4861846",
+ "homepage":"http:\/\/projects.gnome.org\/gtranslator\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

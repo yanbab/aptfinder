@@ -1,0 +1,9 @@
+{"package":"amphetamine",
+ "description":"jump'n run game with unique visual effects",
+ "details":" Amphetamine is an exciting jump'n run game that offers some unique visual\n effects like colored lighting, fogging and coronas. You must fight eleven\n evil monsters with your magic weapons.\n uitoolkit::sdl, use::gameplaying, x11::application\n",
+ "installedSize":"264",
+ "downloadSize":"100476",
+ "homepage":"http:\/\/homepage.hispeed.ch\/loehrer\/amph\/amph.html",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

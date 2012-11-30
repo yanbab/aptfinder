@@ -1,0 +1,9 @@
+{"package":"txtreader",
+ "description":"text viewer, mainly used for reading novels",
+ "details":" Txt Reader is a general text viewer, especially suited for reading novels.\n\n Features:\n  * Automatically remember the place before you closed\n  * Support fullscreen mode\n  * Support hiding reader to tray with Esc\n  * Support page-scrolling with arrow keys\n  * Support bookmark\n  * Support encoding selection\n",
+ "installedSize":"252",
+ "downloadSize":"78958",
+ "homepage":"http:\/\/code.google.com\/p\/txtreader4linux\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

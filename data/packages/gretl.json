@@ -1,0 +1,8 @@
+{"package":"gretl",
+ "description":"GNU Regression, Econometric & Time-Series Library",
+ "details":" The GNU Regression, Econometric and Time-Series Library (gretl) is a\n software package for econometric analysis.  The package comprises a\n shared library, a command-line client program, and a graphical client\n built using GTK+.\n\n This package provides the GTK+ client and the command-line client.\n interface::x11, role::program, scope::utility, suite::gnu,\n uitoolkit::gtk, x11::application\n",
+ "installedSize":"7150",
+ "downloadSize":"3017694",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

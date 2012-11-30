@@ -1,0 +1,9 @@
+{"package":"ntfs-config",
+ "description":"Enable\/disable write support for any NTFS devices",
+ "details":" This program allow you to easily configure all of your NTFS devices\n to allow write support via a friendly gui.\n For that use, it will configure them to use the open source ntfs-3g\n driver. You'll also be able to easily disable this feature.\n\n It just so happens that this program is a newer and improved version,\n but very few people know about it. It's better to install the\n disk-manager.\n role::program, scope::utility, use::configuring\n",
+ "installedSize":"793",
+ "downloadSize":"104380",
+ "homepage":"http:\/\/flomertens.free.fr\/ntfs-config\/",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

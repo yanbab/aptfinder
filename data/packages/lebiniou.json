@@ -1,0 +1,9 @@
+{"package":"lebiniou",
+ "description":"displays images that evolve with sound",
+ "details":" Le Biniou works with music, voice, ambient sounds, whatever acoustic\n source you choose.\n\n When you run Le Biniou it gives an evolutionary rendering of the\n sound you are playing.\n\n You are given two options to run Le Biniou: You can manage entirely\n the sequences and choose your own series of pictures from the default\n library, your colour scales, the kind of alteration you want to apply\n or you can let Le Biniou's artificial intelligence run on its own.\n\n Forget the old visualizations you are familiar with, discover a new\n multidimensional \u2013 spatial and chromatic \u2013 way of comprehending music\n and sounds for either artistic, recreational or didactic purposes.\n",
+ "installedSize":"1730",
+ "downloadSize":"380398",
+ "homepage":"http:\/\/biniou.net",
+ "bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}

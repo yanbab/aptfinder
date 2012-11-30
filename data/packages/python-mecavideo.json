@@ -1,0 +1,8 @@
+{"package":"python-mecavideo",
+ "description":"pedagogic tool to analyze video records for mechanics",
+ "details":" You can track the movement of one or many points in video frames and export\n the position measurements to standard analysis tools.\n interface::x11, role::app-data, role::examples, role::program,\n science::calculation, science::data-acquisition, science::modelling,\n science::plotting, science::visualisation, scope::application,\n uitoolkit::qt, use::analysing, use::calculating, use::converting,\n use::learning, use::viewing, works-with-format::oggtheora,\n works-with::spreadsheet, works-with::video, x11::application\n",
+ "installedSize":"2477",
+ "downloadSize":"1815326",
+ "homepage":null,"bugs":null,"screenshots":["http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90",
+ "http:\/\/placehold.it\/120x90"]}
