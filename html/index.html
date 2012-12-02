@@ -139,22 +139,27 @@
     <h3 id="myModalLabel">Help</h3>
   </div>
   <div class="modal-body">  
-    <table class="table">
-        <thead>
-            <tr>
-                <th colspan="2">Keyboard shortcuts</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr><td><strong>?</strong></td><td>Help</td></tr>
-            <tr><td><strong><br>1</strong></td><td><br> Small view</td></tr>
-            <tr><td><strong>2</strong></td><td>Normal view</td></tr>
-            <tr><td><strong>3</strong></td><td>Large view</td></tr>
-        </tbody>
-     </table>
+    {{help}}
   </div>
   <div class="modal-footer">
     <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+  </div>
+</div>
+
+<!-- app info modal -->
+
+<div class="modal hide " id="info">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" >×</button>
+    <h3 id="myModalLabel">{{package}}</h3> <small>{{description}}</small>
+  </div>
+  <div class="modal-body">  
+  <a target="_blank" href="http://screenshots.debian.net/screenshot/{{package}}"><img width="160"  src="http://screenshots.debian.net/thumbnail/{{package}}" class="pull-left" style="margin-right:15px;margin-bottom:10px;"></a>
+       <div class="details">{{details}}</div>
+       
+  </div>
+  <div class="modal-footer">
+    <button class="btn" data-dismiss="modal" aria-hidden="true"><i class="icon-download-alt"></i> <strong>Install</strong></button>
   </div>
 </div>
 

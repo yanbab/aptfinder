@@ -87,19 +87,15 @@ var Apps = {
     
         // Click list item
         
-        ich.addTemplate('info', $("#tpl-info").html());
+        ich.addTemplate('info', $("#info").html());
         
         $("body").on("click", "#list > li", function() {
-            var pkg = $(this).find(".package").text();
-            var $this = $(this);	
-            $(this).addClass('loading');
-            // remove previous panel
-            $("#list > li .panel").remove();
+        
             // load panel
-            $.getJSON("../data/packages/" + pkg + ".json" , function(json) {
+            $.getJSON("../data/packages/" + $(this).find(".package").html() + ".json" , function(json) {
                 var html = ich.info(json);
-                $this.append(html);
-                $this.removeClass('loading');
+                $("#info ").html(html);
+                $("#info").show();
             });
         });    
 	    
