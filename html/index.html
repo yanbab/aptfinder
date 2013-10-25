@@ -12,7 +12,7 @@
     <link href="assets/css/apps.css" rel="stylesheet">
 
 </head>
-<body id="app-list" class="ambiance">
+<body id="app-list" class="">
 
 <!-- Toolbar -->
 <style>
@@ -66,23 +66,31 @@
     margin-top:9px;
     margin-right:0px;
 }
-
+.modal-backdrop, .modal-backdrop.fade.in {
+opacity: 0.5;
+}
+.btn-inverse {
+    background:#444;
+    border-radius:0;
+}
 </style>
 
 <div class="toolbar ">
 	<div class="pull-right">
-	    <a class="pill active" href="#all"><u>A</u>ll</a>
-	    <a class="pill" href="#featured"><u>F</u>eatured</a>
-	    <a class="pill" href="#installed"><u>I</u>nstalled</a>
+	    <a class="pill active" href="#all">All</a>
+	    <a class="pill" href="#featured">Featured</a>
+	    <a class="pill" href="#installed">Installed</a>
 	    
         <span class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-align-justify"></i></a>
             <ul class="dropdown-menu pull-right">
-                <li class="nav-header">View as</li>
-                <li><a class="view-as" href="#icons-view">Icons</a></li>
-                <li><a class="view-as" href="#list-view">List</a></li>
-                <li><a  class="view-as" href="#grid-view">Grid</a></li>
+                <li><a class="view-as" href="#icons-view">View as icons</a></li>
+                <li><a class="view-as" href="#list-view">View as list</a></li>
                 <li class="divider"></li>
+                <li><a href="#help"  data-toggle="modal">Software sources</a></li>
+                <li><a href="#help"  data-toggle="modal">Software updates</a></li>
+                
+             <li class="divider"></li>
                 <li><a href="#help"  data-toggle="modal">Help</a></li>
             </ul>
         </span>
@@ -90,7 +98,7 @@
 	<form>
 		<i class="icon-zoom-in"></i>
 		<input class="search" id="search" placeholder="SEARCH">
-        <ul class="pages"></ul>  	
+        <ul class="pages" style="text-align:center"></ul>  	
 	</form>
 </div>
 
@@ -101,7 +109,7 @@
 <aside class="">
     <ul class="nav nav-list">
         <li class="nav-header">Category</li>
-        <li class="active"><a href="#all"><i class="icon-folder-open"></i> All<span class="badge  badge-inverse pull-right">212</span></a></li>
+        <li class="active"><a href="#all"><i class="icon-folder-open"></i> All</a></li>
         <li><a href="#audiovideo"><i class="icon-film"></i> Audio & Video</a></li>
         <li><a href="#development"><i class="icon-filter"></i> Development</a></li>
         <li><a href="#education"><i class="icon-fire"></i> Education</a></li>
@@ -159,7 +167,7 @@
        
   </div>
   <div class="modal-footer">
-    <button class="btn" data-dismiss="modal" aria-hidden="true"><i class="icon-download-alt"></i> <strong>Install</strong></button>
+    <a href="apt://{{package}}" class="btn btn-inverse" data-dismiss="modal" aria-hidden="true"><i class="icon-download-alt icon-white"></i> <strong>Install</strong></a>
   </div>
 </div>
 

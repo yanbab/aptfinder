@@ -16,7 +16,7 @@ var Apps = {
     options: {
         item: '<li><div class="image"><img src="assets/img/pixel.gif" class="lazy"></div><div class="text"><div class="name"></div><div class="comment"></div><div class="icon hide"></div><div class="package hide"></div></div></li>',
         item1: '<li><div class="image"><img src="assets/img/pixel.gif" class="lazy"></div><div class="text"><div class="name"></div><div class="package hide"></div><div class="icon "></div></div></li>',
-        page: 3000,
+        page: 500,
         valueNames: [ 'name', 'package' ],
         plugins: [
             [ 'fuzzySearch', {
@@ -26,13 +26,13 @@ var Apps = {
                 threshold: 0.4,
                 multiSearch: true
             }],
- /*           [ 'paging', {
+            [ 'paging', {
 	            pagingClass: "pages",
 	            innerWindow: 1,
         	    left: 2,
         	    right: 3
         	}]
- */       ]
+        ]
     },
     
     init: function() {
@@ -80,7 +80,6 @@ var Apps = {
 	        $(this).closest("li").find("img").data("original",src);
         });
 	    $("img.lazy").lazyload({ 
-            effect : "fadeIn",
             threshold : 300
         });
         $("#loading").hide();        
@@ -94,8 +93,8 @@ var Apps = {
             // load panel
             $.getJSON("../data/packages/" + $(this).find(".package").html() + ".json" , function(json) {
                 var html = ich.info(json);
-                $("#info ").html(html);
-                $("#info").show();
+                $("#info").html(html);
+                $("#info").modal();
             });
         });    
 	    
@@ -131,10 +130,10 @@ var Apps = {
             }
        
         });
-        $("img.lazy").lazyload({ 
-            //effect : "fadeIn",
-            threshold : 300
-        });
+        // $("img.lazy").lazyload({ 
+        //     //effect : "fadeIn",
+        //     threshold : 300
+        // });
     },
     
 

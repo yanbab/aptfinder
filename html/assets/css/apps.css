@@ -106,11 +106,11 @@ body {
  .thumbnail {
     background : white;
  }
+
+.modal, .dropdown-menu { border-radius : 0;}
+.btn {border-radius:2px}
 /* Navbar */
 
-.btn-toolbar, .navbar-form {
-    margin: 0px 6px;
-}
 /** Themes **/
 
 /* Default (adwaita) */
