@@ -1,7 +1,6 @@
 AppFinder
 =========
-An easy to use package manager for Ubuntu and Debian.
 
-web site : http://appfinder.yanbab.net
+An experiment to create an easy to use and faster application manager for Ubuntu and Debian.
 
-
+![ScreenShot](/site/img/shot1.png)
