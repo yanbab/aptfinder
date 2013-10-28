@@ -1,8 +1,0 @@
-#!/bin/sh
-echo "Minimizing libs in lib.min.js : ";
-echo ">  jquery"; yui-compressor --line-break 80 ../html/assets/js/jquery.js          >> ../html/assets/js/lib.min.js
-echo ">  jquery.lazyload"; yui-compressor --line-break 80 ../html/assets/js/jquery.lazyload.js >> ../html/assets/js/lib.min.js
-echo ">  bootstrap"; yui-compressor --line-break 80 ../html/assets/js/bootstrap.js       >> ../html/assets/js/lib.min.js
-echo ">  list"; yui-compressor --line-break 80 ../html/assets/js/list.js            >> ../html/assets/js/lib.min.js
-echo ">  icanhaz"; yui-compressor --line-break 80 ../html/assets/js/icanhaz.js         >> ../html/assets/js/lib.min.js
-echo "Done.";
