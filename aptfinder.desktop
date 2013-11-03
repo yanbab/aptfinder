@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Apt:Finder
+Exec=./gtk/apps.js
+Icon=aptfinder.png
+Type=Application
+Categories=GTK;GNOME;Utility;

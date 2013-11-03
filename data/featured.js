@@ -14,7 +14,7 @@ var featured = [
     "evolution",
     "empathy",
     "pidgin",
-    "flashplugin-nonfree"
+    "flashplugin-nonfree",
     /*Audio Video*/
     "audacity",
     "pitivi",
