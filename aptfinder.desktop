@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Apt:Finder
 Exec=./gtk/apps.js
-Icon=aptfinder.png
+Icon=aptdaemon-update-cache
 Type=Application
 Categories=GTK;GNOME;Utility;

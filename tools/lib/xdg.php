@@ -62,15 +62,13 @@ class Xdg {
     
     static public function parse_icon($icon, $path= '../data/icons/') {
         
-          //  return "applications-other.png";
-        
-       
+        //  return "applications-other.png";
         if(file_exists("$path$icon.png")) return "$icon.png";
         if(file_exists("$path$icon.svg")) return "$icon.svg";
         if(file_exists("$path$icon.gif")) return "$icon.gif";
-	if(file_exists("$path$icon.jpg")) return "$icon.jpg";
+        if(file_exists("$path$icon.jpg")) return "$icon.jpg";
         if(file_exists("$path$icon")) return "$icon";
-        return "applications-system.png";
+        return "applications-other.png";
     }
 
     static private function parse_desktop_categories($categories) {

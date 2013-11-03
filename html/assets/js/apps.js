@@ -4,7 +4,7 @@
  *
  *
  */
- 
+
 var Apps = {
 
     filters : {
@@ -14,8 +14,8 @@ var Apps = {
     },
     
     options: {
-        item: '<li><div class="image"><img src="assets/img/pixel.gif" class="lazy"></div><div class="text"><div class="name"></div><div class="comment"></div><div class="icon hide"></div><div class="package hide"></div></div></li>',
-        item1: '<li><div class="image"><img src="assets/img/pixel.gif" class="lazy"></div><div class="text"><div class="name"></div><div class="package hide"></div><div class="icon "></div></div></li>',
+        item: '<li><div class="image"><img src="../data/icons/applications-system.png" width="32" height="32" class="lazy"></div><div class="text"><div class="name"></div><div class="comment"></div><div class="icon hide"></div><div class="package hide"></div></div></li>',
+        //item: '<li><div class="image"><img src="assets/img/pixel.gif" class="lazy"></div><div class="text"><div class="name"></div><div class="package hide"></div><div class="icon "></div></div></li>',
         page: 500,
         valueNames: [ 'name', 'package' ],
         plugins: [
@@ -72,15 +72,14 @@ var Apps = {
     },
     
     load: function(json) {
-  
         Apps.appList = new List('app-list', Apps.options, json);
-        // Icon lazy loading
+       // Icon lazy loading
         $("#list li .icon").each(function(index){
             var src = "../data/icons/" + $(this).text();
 	        $(this).closest("li").find("img").data("original",src);
+           // $(this).closest("li").find("img").src=src;
         });
-	    $("img.lazy").lazyload({ 
-            threshold : 300
+	    $("img.lazy").lazyload({         
         });
         $("#loading").hide();        
     
@@ -101,7 +100,7 @@ var Apps = {
     },
     
     filter: function() {
-
+    
         Apps.appList.filter(function(item){
 	
             if(item.values().category == Apps.filters.category || Apps.filters.category == 'all') {
