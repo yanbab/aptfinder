@@ -1,6 +1,7 @@
-AppFinder
+apt:Finder
 =========
 
-An experiment to create an easy to use and faster application manager for Ubuntu and Debian.
+An experiment to create an easy to use and fast application manager for Ubuntu and Debian.
 
-![ScreenShot](/site/img/shot1.png)
+Web Site : http://www.yanbab.net/projects/aptfinder/site
+Demo : http://www.yanbab.net/projects/aptfinder/html
