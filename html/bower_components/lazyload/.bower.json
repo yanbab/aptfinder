@@ -1,0 +1,25 @@
+{
+  "name": "lazyload",
+  "description": "Image lazy loading",
+  "version": "2.0.5",
+  "main": "lazyload.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "test"
+  ],
+  "dependencies": {
+    "in-viewport": "~0.2.6"
+  },
+  "homepage": "https://github.com/vvo/lazyload",
+  "_release": "2.0.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.0.5",
+    "commit": "e5139a836826ed89ef75bf7de577bf5dac301997"
+  },
+  "_source": "git://github.com/vvo/lazyload.git",
+  "_target": "*",
+  "_originalSource": "lazyload"
+}

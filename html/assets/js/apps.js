@@ -81,14 +81,12 @@ var Apps = {
         });
 	    $("img.lazy").lazyload({         
         });
-        $("#loading").hide();        
     
         // Click list item
         
         ich.addTemplate('info', $("#info").html());
         
         $("body").on("click", "#list > li", function() {
-        
             // load panel
             $.getJSON("../data/packages/" + $(this).find(".package").html() + ".json" , function(json) {
                 var html = ich.info(json);
@@ -96,6 +94,8 @@ var Apps = {
                 $("#info").modal();
             });
         });    
+
+        $("#loading").hide();        
 	    
     },
     

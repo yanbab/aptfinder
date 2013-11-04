@@ -1,0 +1,21 @@
+{
+  "name": "apt:finder",
+  "license": "MIT",
+  "authors": [
+    "yanbab"
+  ],
+  "dependencies": {
+    "angular": "latest",
+    "bootstrap-css": "latest",
+    "lazyload": "latest"
+  },
+  "version": "0.1",
+  "homepage": "https://github.com/yanbab/aptfinder",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

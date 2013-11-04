@@ -20,7 +20,6 @@ var featured = [
     "pitivi",
     "openshot",
     "rhythmbox",
-    
     "libreoffice",
     "abiword",
     "gnumeric",
